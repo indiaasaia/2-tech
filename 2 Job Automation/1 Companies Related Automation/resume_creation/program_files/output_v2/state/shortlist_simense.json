@@ -1,0 +1,811 @@
+{
+  "generated_at_utc": "2026-09-22T22:37:34+00:00",
+  "policy": "rank verified resumes by honest-fit score; apply strong-first",
+  "counts": {
+    "verified": 48,
+    "strong": 4,
+    "good": 10,
+    "weak": 12,
+    "poor": 22
+  },
+  "recommendation": "apply to the 4 strong-fit job(s) first; 34 job(s) fall below the 50-point effort line",
+  "jobs": [
+    {
+      "title": "Schlosser (w/m/d) Schweißbau",
+      "company": "Siemens Mobility GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/460314",
+      "score": 93.0,
+      "tier": "strong",
+      "required_coverage": 1.0,
+      "preferred_coverage": 1.0,
+      "top_gaps": [],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schlosser-Schweißbau-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schlosser-Schweißbau-2.docx"
+    },
+    {
+      "title": "Schlosser (w/m/d)",
+      "company": "Siemens Mobility GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/507028",
+      "score": 86.0,
+      "tier": "strong",
+      "required_coverage": 0.8,
+      "preferred_coverage": 1.0,
+      "top_gaps": [
+        "Schichtarbeit"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schlosser-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schlosser-2.docx"
+    },
+    {
+      "title": "Schlosser (w/m/d) Schweißbau",
+      "company": "Siemens Mobility GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/483533",
+      "score": 83.0,
+      "tier": "strong",
+      "required_coverage": 0.75,
+      "preferred_coverage": 1.0,
+      "top_gaps": [
+        "Bereitschaft zur Schichtarbeit"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schlosser-Schweißbau-4.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schlosser-Schweißbau-4.docx"
+    },
+    {
+      "title": "Werkstudent (w/m/d) Softwareentwicklung",
+      "company": "Siemens Mobility GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522286",
+      "score": 82.9,
+      "tier": "strong",
+      "required_coverage": 1.0,
+      "preferred_coverage": 0.5,
+      "top_gaps": [
+        "Embedded-Softwareentwicklung",
+        "GitLab",
+        "Scrum-Teams",
+        "neue Tools"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-Softwareentwicklung.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-Softwareentwicklung.docx"
+    },
+    {
+      "title": "Elektroniker / Mechatroniker (w/m/d)",
+      "company": "Siemens Mobility GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/492141",
+      "score": 77.9,
+      "tier": "good",
+      "required_coverage": 1.0,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "Signalmechaniker Ausbildung"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Elektroniker-Mechatroniker.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Elektroniker-Mechatroniker.docx"
+    },
+    {
+      "title": "Werkstudent (w/m/d) Testaufbauten und Prüfsysteme",
+      "company": "Siemens AG",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522557",
+      "score": 75.5,
+      "tier": "good",
+      "required_coverage": 1.0,
+      "preferred_coverage": 0.25,
+      "top_gaps": [
+        "Ausbildung als Elektroniker",
+        "Erste Erfahrungen Schaltpläne",
+        "Interesse an Elektrotechnik",
+        "praktische Aufgaben"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-Testaufbauten-und-Prüfsysteme.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-Testaufbauten-und-Prüfsysteme.docx"
+    },
+    {
+      "title": "Thesis (Master) - Sidelink-based radio resource allocation for Cooperative Robotics",
+      "company": "Siemens AG",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/521553",
+      "score": 70.4,
+      "tier": "good",
+      "required_coverage": 0.75,
+      "preferred_coverage": 0.375,
+      "top_gaps": [
+        "advanced programming skills",
+        "independent work",
+        "analytical mindset",
+        "neuromorphic computing"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Thesis-Master---Sidelink-based-radio-resource-allocation-for-Cooperative-Robotic.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Thesis-Master---Sidelink-based-radio-resource-allocation-for-Cooperative-Robotic.docx"
+    },
+    {
+      "title": "Schweißer (w/m/d)",
+      "company": "Siemens Mobility GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/482203",
+      "score": 69.7,
+      "tier": "good",
+      "required_coverage": 0.8,
+      "preferred_coverage": 0.286,
+      "top_gaps": [
+        "Schichtarbeit (3 Schicht)",
+        "Deutschkenntnisse",
+        "Wannenlage",
+        "horizontale Position"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schweißer.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schweißer.docx"
+    },
+    {
+      "title": "Working Student (f/m/d) - Procedural World Generation & 3D Assets",
+      "company": "Siemens AG",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/517257",
+      "score": 68.6,
+      "tier": "good",
+      "required_coverage": 0.833,
+      "preferred_coverage": 0.125,
+      "top_gaps": [
+        "UV unwrapping",
+        "animated materials",
+        "shader-driven effects",
+        "noise functions"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Working-Student---Procedural-World-Generation-3D-Assets.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Working-Student---Procedural-World-Generation-3D-Assets.docx"
+    },
+    {
+      "title": "Schweißer (w/m/d) Schienenfahrzeugbau",
+      "company": "Siemens Mobility GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/507032",
+      "score": 68.0,
+      "tier": "good",
+      "required_coverage": 0.75,
+      "preferred_coverage": 0.25,
+      "top_gaps": [
+        "Bereitschaft Schichtarbeit",
+        "Deutschkenntnisse",
+        "unlegierter Baustahl",
+        "Schweißpositionen Wannenlage"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schweißer-Schienenfahrzeugbau.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schweißer-Schienenfahrzeugbau.docx"
+    },
+    {
+      "title": "Working Student (f/m/d) eMobility Software",
+      "company": "Siemens AG",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/519321",
+      "score": 67.9,
+      "tier": "good",
+      "required_coverage": 0.667,
+      "preferred_coverage": 0.5,
+      "top_gaps": [
+        "strong interpersonal skills",
+        "innovative eMobility",
+        "team collaboration"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Working-Student-eMobility-Software.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Working-Student-eMobility-Software.docx"
+    },
+    {
+      "title": "Working Student (f/m/d) Cybersecurity Project Execution",
+      "company": "Siemens AG",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/521338",
+      "score": 67.2,
+      "tier": "good",
+      "required_coverage": 0.5,
+      "preferred_coverage": 0.833,
+      "top_gaps": [
+        "data analysis and visualization",
+        "creating dashboards",
+        "project management processes",
+        "key performance indicators"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Working-Student-Cybersecurity-Project-Execution.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Working-Student-Cybersecurity-Project-Execution.docx"
+    },
+    {
+      "title": "Maler / Lackierer / Oberflächenbearbeiter (w/m/d)",
+      "company": "Siemens Mobility GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/517844",
+      "score": 66.0,
+      "tier": "good",
+      "required_coverage": 0.8,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "Abdecken",
+        "Deutschkenntnisse",
+        "Industrieerfahrung",
+        "Handwerkliches Geschick"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Maler-Lackierer-Oberflächenbearbeiter.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Maler-Lackierer-Oberflächenbearbeiter.docx"
+    },
+    {
+      "title": "Werkstudent (w/m/d) Finance für Digital Services",
+      "company": "Siemens Mobility GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522579",
+      "score": 65.5,
+      "tier": "good",
+      "required_coverage": 0.5,
+      "preferred_coverage": 0.75,
+      "top_gaps": [
+        "Praktikant (w/m/d)",
+        "Berufsausbildung",
+        "KI-gestützten Lösungen"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-Finance-für-Digital-Services.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-Finance-für-Digital-Services.docx"
+    },
+    {
+      "title": "Cybersecurity Auditor (m/f/d)",
+      "company": "Siemens AG",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/513880",
+      "score": 62.0,
+      "tier": "weak",
+      "required_coverage": 0.8,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "Project management skills",
+        "CISSP certification",
+        "CISA certification",
+        "CISM certification"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Cybersecurity-Auditor.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Cybersecurity-Auditor.docx"
+    },
+    {
+      "title": "Doktorand*in (w/m/d) Project Quantification of Positronium Lifetime as a Novel Imaging Biomarker",
+      "company": "Siemens Healthineers AG",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/520374",
+      "score": 59.7,
+      "tier": "weak",
+      "required_coverage": 0.5,
+      "preferred_coverage": 0.333,
+      "top_gaps": [
+        "sehr gute Englischkenntnisse",
+        "medizinische Bildgebung",
+        "Deutsch",
+        "Kommunikationsfähigkeiten"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Doktorandin-Project-Quantification-of-Positronium-Lifetime-as-a-Novel-Imaging-Bi.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Doktorandin-Project-Quantification-of-Positronium-Lifetime-as-a-Novel-Imaging-Bi.docx"
+    },
+    {
+      "title": "Working Student (f/m/d) – Digital Sales Channel – Governance and Commercial Excellence",
+      "company": "Siemens AG",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522745",
+      "score": 59.7,
+      "tier": "weak",
+      "required_coverage": 0.6,
+      "preferred_coverage": 0.286,
+      "top_gaps": [
+        "process flows",
+        "business process analysis",
+        "German is an advantage",
+        "Commercial Enablement Sessions"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Working-Student-Digital-Sales-Channel-Governance-and-Commercial-Excellence.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Working-Student-Digital-Sales-Channel-Governance-and-Commercial-Excellence.docx"
+    },
+    {
+      "title": "Schweißer (w/m/d)",
+      "company": "Siemens Mobility GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/483540",
+      "score": 58.5,
+      "tier": "weak",
+      "required_coverage": 0.5,
+      "preferred_coverage": 0.4,
+      "top_gaps": [
+        "Lesen technischer Zeichnungen",
+        "Bereitschaft Schichtarbeit",
+        "Schweißposition Wannenlage",
+        "Schweißposition horizontal"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schweißer-5.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schweißer-5.docx"
+    },
+    {
+      "title": "Thesis (Master): Industrial Virtual Switch to Support vPLC Deployment in Cloud/Edge Environments",
+      "company": "Siemens AG",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/472011",
+      "score": 58.5,
+      "tier": "weak",
+      "required_coverage": 0.6,
+      "preferred_coverage": 0.125,
+      "top_gaps": [
+        "Proficient C programming",
+        "Industrial automation principles",
+        "Virtualization technologies",
+        "Analytical problem solving"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Thesis-Master-Industrial-Virtual-Switch-to-Support-vPLC-Deployment-in-CloudEdge-.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Thesis-Master-Industrial-Virtual-Switch-to-Support-vPLC-Deployment-in-CloudEdge-.docx"
+    },
+    {
+      "title": "Schlosser / Metallbauer (w/m/d) – Zusammenbau von Schweißbaugruppen",
+      "company": "Siemens Mobility GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/499316",
+      "score": 56.8,
+      "tier": "weak",
+      "required_coverage": 0.5,
+      "preferred_coverage": 0.25,
+      "top_gaps": [
+        "Konstruktionsmechaniker",
+        "Industriemechaniker",
+        "Berufserfahrung Stahlbau",
+        "Arbeit im 3-Schicht-System"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schlosser-Metallbauer-Zusammenbau-von-Schweißbaugruppen.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schlosser-Metallbauer-Zusammenbau-von-Schweißbaugruppen.docx"
+    },
+    {
+      "title": "Schlosser (w/m/d) Schweißbau",
+      "company": "Siemens Mobility GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/483531",
+      "score": 55.5,
+      "tier": "weak",
+      "required_coverage": 0.625,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "Konstruktionsmechaniker",
+        "Metallbauer",
+        "Industriemechaniker",
+        "Deutschkenntnisse"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schlosser-Schweißbau-3.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schlosser-Schweißbau-3.docx"
+    },
+    {
+      "title": "Masterthesis Wettbewerbsanalyse und Zukunftskonzepte für UX bei Feldgeräten und Analysatoren",
+      "company": "Siemens AG",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/518892",
+      "score": 54.2,
+      "tier": "weak",
+      "required_coverage": 0.5,
+      "preferred_coverage": 0.143,
+      "top_gaps": [
+        "Human Factors",
+        "Fließende Deutsch- und Englischkenntnisse",
+        "UX/UI-Design",
+        "Prozessautomatisierung"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Masterthesis-Wettbewerbsanalyse-und-Zukunftskonzepte-für-UX-bei-Feldgeräten-und-.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Masterthesis-Wettbewerbsanalyse-und-Zukunftskonzepte-für-UX-bei-Feldgeräten-und-.docx"
+    },
+    {
+      "title": "Schlosser (w/m/d) Schweißbau",
+      "company": "Siemens Mobility GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/483529",
+      "score": 54.0,
+      "tier": "weak",
+      "required_coverage": 0.6,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "Schweißbaugruppen zusammenbauen",
+        "Berufserfahrung Stahlbau",
+        "Deutschkenntnisse"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schlosser-Schweißbau-5.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schlosser-Schweißbau-5.docx"
+    },
+    {
+      "title": "Red Teamer/ Pentester Cybersecurity Audit (m/f/d)",
+      "company": "Siemens AG",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/513871",
+      "score": 53.8,
+      "tier": "weak",
+      "required_coverage": 0.5,
+      "preferred_coverage": 0.125,
+      "top_gaps": [
+        "2+ years",
+        "red teaming",
+        "Fluent English",
+        "GIAC GPEN"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Red-Teamer-Pentester-Cybersecurity-Audit.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Red-Teamer-Pentester-Cybersecurity-Audit.docx"
+    },
+    {
+      "title": "Masterarbeit: Entwicklung eines Materialversorgungskonzepts für die THT-Elektronikfertigung",
+      "company": "Siemens AG",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/519411",
+      "score": 52.1,
+      "tier": "weak",
+      "required_coverage": 0.286,
+      "preferred_coverage": 0.5,
+      "top_gaps": [
+        "Wirtschaftsingenieurwesen",
+        "Maschinenbau",
+        "Wirtschaftsinformatik",
+        "THT-Prozessen"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Masterarbeit-Entwicklung-eines-Materialversorgungskonzepts-für-die-THT-Elektroni.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Masterarbeit-Entwicklung-eines-Materialversorgungskonzepts-für-die-THT-Elektroni.docx"
+    },
+    {
+      "title": "Schlosser (w/m/d)",
+      "company": "Siemens Mobility GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/507029",
+      "score": 52.0,
+      "tier": "weak",
+      "required_coverage": 0.6,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "Berufserfahrung Stahlbau",
+        "Technische Zeichnungen lesen",
+        "Deutschkenntnisse"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schlosser.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schlosser.docx"
+    },
+    {
+      "title": "Werkstudent (w/m/d) Materiallogistik",
+      "company": "Siemens Mobility GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/511845",
+      "score": 48.3,
+      "tier": "poor",
+      "required_coverage": 0.286,
+      "preferred_coverage": 0.375,
+      "top_gaps": [
+        "Betriebswirtschaft",
+        "Supply Chain Management",
+        "Produktionsplanung",
+        "20 Stunden pro Woche"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-Materiallogistik.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-Materiallogistik.docx"
+    },
+    {
+      "title": "Schlosser (w/m/d) Schweißbau",
+      "company": "Siemens Mobility GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/460322",
+      "score": 48.0,
+      "tier": "poor",
+      "required_coverage": 0.5,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "technische Zeichnungen lesen",
+        "Schichtarbeit Bereitschaft",
+        "Deutschkenntnisse"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schlosser-Schweißbau.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schlosser-Schweißbau.docx"
+    },
+    {
+      "title": "Elektroniker / Mechatroniker (w/m/d)",
+      "company": "Siemens Mobility GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/512651",
+      "score": 47.0,
+      "tier": "poor",
+      "required_coverage": 0.4,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "abgeschlossene Berufsausbildung",
+        "Führerschein Klasse B",
+        "Dienstreisen Deutschland",
+        "Deutsch kommunizieren"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Elektroniker-Mechatroniker-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Elektroniker-Mechatroniker-2.docx"
+    },
+    {
+      "title": "Werkstudent (w/m/d) in Fertigungsplanung/Logistik",
+      "company": "Siemens AG",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/523274",
+      "score": 46.6,
+      "tier": "poor",
+      "required_coverage": 0.2,
+      "preferred_coverage": 0.429,
+      "top_gaps": [
+        "Wirtschaftswissenschaften",
+        "Wirtschaftsingenieurwesen",
+        "Deutschkenntnisse",
+        "Grundkenntnisse Logistik"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-in-FertigungsplanungLogistik.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-in-FertigungsplanungLogistik.docx"
+    },
+    {
+      "title": "Werkstudent (w/m/d) Power BI/Frontends",
+      "company": "Siemens AG",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522593",
+      "score": 46.0,
+      "tier": "poor",
+      "required_coverage": 0.222,
+      "preferred_coverage": 0.4,
+      "top_gaps": [
+        "Wirtschaftsinformatik",
+        "Betriebswirtschaftslehre",
+        "Wirtschaftsingenieurwesen",
+        "Deutschkenntnisse"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-Power-BIFrontends.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-Power-BIFrontends.docx"
+    },
+    {
+      "title": "Werkstudent (w/m/d) Typprüfung R&D",
+      "company": "Siemens AG",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522435",
+      "score": 45.1,
+      "tier": "poor",
+      "required_coverage": 0.286,
+      "preferred_coverage": 0.143,
+      "top_gaps": [
+        "sehr gute Excel-Kenntnisse",
+        "Grundkenntnisse in Datenbanken",
+        "sehr gute Deutschkenntnisse",
+        "Ingenieurwissenschaften"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-Typprüfung-RD.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-Typprüfung-RD.docx"
+    },
+    {
+      "title": "Schweißer (w/m/d)",
+      "company": "Siemens Mobility GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/483534",
+      "score": 42.3,
+      "tier": "poor",
+      "required_coverage": 0.286,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "technische Zeichnungen",
+        "Schichtarbeit",
+        "Wannenlage",
+        "horizontale Position"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schweißer-6.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schweißer-6.docx"
+    },
+    {
+      "title": "Schweißer (w/m/d)",
+      "company": "Siemens Mobility GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/460331",
+      "score": 41.3,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.667,
+      "top_gaps": [
+        "technische Berufsausbildung",
+        "Erfahrung als Schweißer",
+        "Technische Zeichnungen lesen",
+        "Bereitschaft zur Schichtarbeit"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schweißer-3.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schweißer-3.docx"
+    },
+    {
+      "title": "Schweißer (w/m/d)",
+      "company": "Siemens Mobility GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/483537",
+      "score": 41.3,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.667,
+      "top_gaps": [
+        "technische Berufsausbildung",
+        "Erfahrung als Schweißer",
+        "Lesen technischer Zeichnungen",
+        "Bereitschaft zur Schichtarbeit"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schweißer-4.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schweißer-4.docx"
+    },
+    {
+      "title": "Werkstudent (w/m/d) Smart Buildings (Engineering)",
+      "company": "Siemens AG",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522925",
+      "score": 41.2,
+      "tier": "poor",
+      "required_coverage": 0.333,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "relevant study field",
+        "high IT affinity",
+        "network basics",
+        "virtualization basics"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-Smart-Buildings-Engineering.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-Smart-Buildings-Engineering.docx"
+    },
+    {
+      "title": "Schweißer (w/m/d)",
+      "company": "Siemens Mobility GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/460337",
+      "score": 38.0,
+      "tier": "poor",
+      "required_coverage": 0.25,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "Erfahrung als Schweißer",
+        "Lesen technischer Zeichnungen",
+        "Bereitschaft zur Schichtarbeit",
+        "Deutschkenntnisse"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schweißer-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schweißer-2.docx"
+    },
+    {
+      "title": "Werkstudent*in (w/m/d) Datenmanagement im Informatik-Umfeld",
+      "company": "Siemens Healthineers AG",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/508328",
+      "score": 38.0,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.5,
+      "top_gaps": [
+        "Informatics study",
+        "Database development",
+        "Views",
+        "Stored Procedures"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Datenmanagement-im-Informatik-Umfeld.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Datenmanagement-im-Informatik-Umfeld.docx"
+    },
+    {
+      "title": "Werkstudent (w/m/d) Produktionsmanagement Oberflächenbearbeitung",
+      "company": "Siemens Mobility GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/520367",
+      "score": 36.4,
+      "tier": "poor",
+      "required_coverage": 0.167,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "Produktionstechnik",
+        "Maschinenbau",
+        "Fahrzeugtechnik",
+        "Deutsch Sprache"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-Produktionsmanagement-Oberflächenbearbeitung.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-Produktionsmanagement-Oberflächenbearbeitung.docx"
+    },
+    {
+      "title": "Schweißer (w/m/d)",
+      "company": "Siemens Mobility GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/507052",
+      "score": 34.7,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.333,
+      "top_gaps": [
+        "technische Berufsausbildung",
+        "Berufserfahrung als Schweißer",
+        "Stahlbau",
+        "technischen Zeichnungen"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schweißer-7.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schweißer-7.docx"
+    },
+    {
+      "title": "Patentanwaltsfachangestellte*r für Inventions & Filings (w/m/d)",
+      "company": "Siemens Healthineers AG",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/512115",
+      "score": 34.6,
+      "tier": "poor",
+      "required_coverage": 0.167,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "abgeschlossene Ausbildung Patentanwaltsfachangestellte*r",
+        "mehrjährige Erfahrung gewerblicher Rechtsschutz",
+        "sehr sicheren Umgang",
+        "Deutsch"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Patentanwaltsfachangestellter-für-Inventions-Filings.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Patentanwaltsfachangestellter-für-Inventions-Filings.docx"
+    },
+    {
+      "title": "Werkstudent (w/m/d) im Supply Chain Management",
+      "company": "Siemens AG",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/516956",
+      "score": 33.0,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.25,
+      "top_gaps": [
+        "Sehr gute Deutschkenntnisse",
+        "Gute Englischkenntnisse",
+        "Erste praktische Erfahrung",
+        "Logistik oder Disposition"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-im-Supply-Chain-Management.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-im-Supply-Chain-Management.docx"
+    },
+    {
+      "title": "NSL Disponent (w/m/d) Notruf- und Serviceleitstelle",
+      "company": "Siemens AG",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522338",
+      "score": 32.4,
+      "tier": "poor",
+      "required_coverage": 0.111,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "erfolgreich abgeschlossene Ausbildung",
+        "technische Berufsausbildung",
+        "kaufmännische Berufsausbildung",
+        "erste Berufserfahrung"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\NSL-Disponent-Notruf--und-Serviceleitstelle.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\NSL-Disponent-Notruf--und-Serviceleitstelle.docx"
+    },
+    {
+      "title": "Werkstudent (w/m/d) Performance Controlling & Reporting",
+      "company": "Siemens Mobility GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/513782",
+      "score": 30.9,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.143,
+      "top_gaps": [
+        "Schwerpunkt Accounting",
+        "Schwerpunkt Controlling",
+        "erste relevante Erfahrung",
+        "Deutsch und Englisch"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-Performance-Controlling-Reporting.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-Performance-Controlling-Reporting.docx"
+    },
+    {
+      "title": "Presales Consultant (w/m/d) für Factory Automation",
+      "company": "Siemens AG",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/515855",
+      "score": 30.5,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.125,
+      "top_gaps": [
+        "Erste Erfahrung in",
+        "Deutsch- und Englischkenntnisse",
+        "Bereitschaft zur Mobilität",
+        "Präsentationen"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Presales-Consultant-für-Factory-Automation.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Presales-Consultant-für-Factory-Automation.docx"
+    },
+    {
+      "title": "Produktionsmitarbeiter (w/m/d) Epoxidharz-Gießerei",
+      "company": "Siemens AG",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/481291",
+      "score": 28.0,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "Bedienung von Produktionsanlagen",
+        "Gute Deutschkenntnisse",
+        "3-Schichtbetrieb",
+        "Bedienen von Formschließmaschinen"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Produktionsmitarbeiter-Epoxidharz-Gießerei.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Produktionsmitarbeiter-Epoxidharz-Gießerei.docx"
+    },
+    {
+      "title": "Project Manager Workplace and Interior Design (w/m/d) (befristet auf 24 Monate)",
+      "company": "Siemens Healthcare GmbH",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/511271",
+      "score": 28.0,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "erste Berufserfahrung Projektmanagement",
+        "Deutsch- und Englischkenntnisse",
+        "Projektabhängige Dienstreisen",
+        "nachhaltige Projekt Erfahrung"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Project-Manager-Workplace-and-Interior-Design-befristet-auf-24-Monate.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Project-Manager-Workplace-and-Interior-Design-befristet-auf-24-Monate.docx"
+    },
+    {
+      "title": "Industrielackierer/Pulverbeschichter (w/m/d)",
+      "company": "Siemens AG",
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/504495",
+      "score": 27.9,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "3‑jährige fachspezifische Berufsausbildung",
+        "gute Deutschkenntnisse",
+        "gute PC‑Grundkenntnisse",
+        "3‑Schichtbetrieb"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\IndustrielackiererPulverbeschichter.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\IndustrielackiererPulverbeschichter.docx"
+    }
+  ]
+}

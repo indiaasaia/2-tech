@@ -1,0 +1,21 @@
+# secrets — never commit
+.env
+*keys*.json
+api_key
+*.pem
+
+# virtualenvs, caches, local tooling
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.freebuff/
+*.log
+
+# large binaries & archives (GitHub 100MB limit)
+*.zip
+*.exe
+
+# already synced separately as martin-oscar12/job-automation
+2 Job Automation/Regular/

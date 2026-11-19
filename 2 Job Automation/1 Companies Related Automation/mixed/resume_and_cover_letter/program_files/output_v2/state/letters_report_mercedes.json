@@ -1,0 +1,101 @@
+{
+  "generated_at_utc": "2026-10-14T10:40:47+00:00",
+  "engine": "v2",
+  "total_jobs": 1,
+  "results": [
+    {
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-im-bereich-testbenches-und-telematikentwicklung-m-w-d-x--238227-J000238227",
+      "title": "Werkstudent im Bereich Testbenches und Telematikentwicklung (m/w/d/x)",
+      "company": "Mercedes-Benz Tech Innovation GmbH",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "de",
+        "subject": "Werkstudent im Bereich Testbenches und Telematikentwicklung (m/w/d/x)",
+        "salutation": "Sehr geehrte Damen und Herren,",
+        "opening": "Hiermit bewerbe ich mich um die ausgeschriebene Position bei Mercedes-Benz Tech Innovation GmbH, da die Schwerpunkte in Python direkt an mein Profil anknüpfen. Mein Masterstudium der Künstlichen Intelligenz und mein Bachelorabschluss in Computer Engineering bilden dafür den fachlichen Hintergrund.",
+        "fit": "Bei Soham Infotech entwickelte ich Funktionen und quantitative Modelle für finanzielle Entscheidungsprozesse und baute Backend-Komponenten sowie Echtzeit-Algorithmen zur Unterstützung des Handels. Ergänzend entwickelte ich ein automatisiertes System auf Basis strukturierter Datensätze und Open-Source-Sprachmodelle, das Inhalte für KI-, Backend- und Datenrollen aufbereitet.",
+        "motivation": "Mich begeistert die Verbindung von Software-Entwicklung mit KI-Agenten zur Automatisierung strukturierter Code- und Text-Transformationen. Besonders reizt mich die Entwicklung wiederverwendbarer UI-Komponenten und moderner Design-Systeme auf Basis offener Webstandards. Ich möchte meine belegten Kenntnisse in Python in die im Stellenprofil beschriebenen Aufgaben einbringen. Zugleich reizt mich die Möglichkeit, diese Erfahrungen in einem neuen fachlichen Umfeld weiterzuentwickeln.",
+        "closing": "Über die Gelegenheit, meine Bewerbung in einem Gespräch zu erläutern, freue ich mich. Vielen Dank für die Berücksichtigung meiner Unterlagen.",
+        "signoff": "Mit freundlichen Grüßen",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Mercedes-Benz Tech Innovation GmbH",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "Mercedes-Benz Tech Innovation GmbH",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-interest-ai-01",
+            "mot-interest-frontend-01",
+            "mot-dir-web-ai-01"
+          ],
+          "motivation_evidence_ids": [
+            "resume_gen",
+            "vehicle_sharing"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "resume_gen"
+          ],
+          "owned_skills_matched": [
+            "Python"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Deutsch- und Englischkenntnissen",
+            "immatrikulierter Student",
+            "vollständige Bewerbungsunterlagen",
+            "Erste Erfahrungen Software-Entwicklung",
+            "Standort in Ulm",
+            "Erfahrung mit Hardware",
+            "Erfahrung mit Testbenches"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Mercedes-Benz-Tech-Innovation-GmbH_Werkstudent-im-Bereich-Testbenches-und-T.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Mercedes-Benz-Tech-Innovation-GmbH_Werkstudent-im-Bereich-Testbenches-und-T.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Mercedes-Benz-Tech-Innovation-GmbH_Werkstudent-im-Bereich-Testbenches-und-T.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Mercedes-Benz-Tech-Innovation-GmbH_Werkstudent-im-Bereich-Testbenches-und-T.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Werkstudent-im-Bereich-Testbenches-und-Telematikentwicklung.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Werkstudent-im-Bereich-Testbenches-und-Telematikentwicklung.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Mercedes-Benz-Tech-Innovation-GmbH_Werkstudent-im-Bereich-Testbenches-und-T"
+    }
+  ]
+}

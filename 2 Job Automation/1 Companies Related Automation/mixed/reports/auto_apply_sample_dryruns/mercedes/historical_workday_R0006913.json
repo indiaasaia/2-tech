@@ -1,0 +1,22 @@
+{
+  "requisitionId": "R0006913",
+  "jobUrl": "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/MBTI_JOBPORTAL/job/Ulm/Werkstudent-im-Bereich-Testbenches-und-Telematikentwicklung--m-w-d-x-_R0006913",
+  "status": "DRY_RUN",
+  "dryRun": true,
+  "startedAt": "2026-09-30T08:37:28.632327+00:00",
+  "finishedAt": "2026-09-30T08:39:12.895948+00:00",
+  "durationSeconds": 104.3,
+  "stagesReached": ["job_page", "apply_dialog", "autofill_with_resume", "resume_uploaded", "my_information", "my_experience", "application_questions", "voluntary_disclosures", "review"],
+  "fields": {
+    "verified": {
+      "resume": "Werkstudent-im-Bereich-Testbenches-und-Telematikentwicklung.pdf",
+      "experience": {"documentsShown": "Werkstudent-im-Bereich-Testbenches-und-Telematikentwicklung.pdf", "modified": false},
+      "applicationQuestions": {"disability": "No", "work_permit": "Yes, I have a work and residence permit for Germany, but I am not an EU/EEA/Swiss citizen", "data_transfer": "Yes"},
+      "voluntaryDisclosures": {"gender": "Male", "dateOfBirth": "2002-02-28", "nationality": "India", "pronoun": "He/Him/His", "termsChecked": true},
+      "problems": []
+    }
+  },
+  "errors": [],
+  "notes": ["Historical evidence snapshot. Original verified result JSON and screenshots are retained outside this report; historical run stopped before the final Submit click."],
+  "reviewScreenshot": "../../20261015T110133Z/mercedes_workday/portal_artifacts/R0006913-08-review-before-submit.png"
+}

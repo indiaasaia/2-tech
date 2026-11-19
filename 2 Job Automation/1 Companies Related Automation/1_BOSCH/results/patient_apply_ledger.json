@@ -1,0 +1,342 @@
+{
+  "https://jobs.smartrecruiters.com/BoschGroup/744000147895909-praktikum-softwareentwicklung-und-datenanalyse?oga=true": {
+    "history": [
+      {
+        "round": 1,
+        "status": "TIMEOUT",
+        "at": "2026-09-24 12:57:30"
+      },
+      {
+        "round": 1,
+        "status": "TIMEOUT",
+        "at": "2026-09-24 13:10:00"
+      },
+      {
+        "round": 1,
+        "status": "TIMEOUT",
+        "at": "2026-09-24 13:57:35"
+      },
+      {
+        "round": 1,
+        "status": "FAILED",
+        "at": "2026-09-30 09:17:40"
+      },
+      {
+        "round": 1,
+        "status": "FAILED",
+        "at": "2026-09-30 14:19:05"
+      },
+      {
+        "round": 2,
+        "status": "FAILED",
+        "at": "2026-09-30 15:00:24"
+      }
+    ],
+    "status": "FAILED"
+  },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000141846890-werkstudent-in-der-digitalen-bildung-webbasierte-trainings-w-m-div-?oga=true": {
+    "history": [
+      {
+        "round": 1,
+        "status": "TIMEOUT",
+        "at": "2026-09-24 13:00:03"
+      },
+      {
+        "round": 1,
+        "status": "TIMEOUT",
+        "at": "2026-09-24 13:13:23"
+      },
+      {
+        "round": 1,
+        "status": "CAPTCHA_DETECTED",
+        "at": "2026-09-30 14:29:34"
+      },
+      {
+        "round": 2,
+        "status": "CAPTCHA_DETECTED",
+        "at": "2026-09-30 15:10:52"
+      }
+    ],
+    "status": "CAPTCHA_DETECTED"
+  },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000136441454-werkstudent-im-bereich-software-quality-engineering-software-testing-w-m-div-?oga=true": {
+    "history": [
+      {
+        "round": 1,
+        "status": "TIMEOUT",
+        "at": "2026-09-24 13:02:36"
+      },
+      {
+        "round": 1,
+        "status": "FAILED",
+        "at": "2026-09-30 14:30:23"
+      },
+      {
+        "round": 2,
+        "status": "FAILED",
+        "at": "2026-09-30 15:12:04"
+      }
+    ],
+    "status": "FAILED"
+  },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000149868802-mandatory-internship-model-based-systems-engineering-?oga=true": {
+    "history": [
+      {
+        "round": 1,
+        "status": "CAPTCHA_DETECTED",
+        "at": "2026-09-30 09:11:51"
+      },
+      {
+        "round": 1,
+        "status": "FAILED",
+        "at": "2026-09-30 13:35:14"
+      },
+      {
+        "round": 1,
+        "status": "FAILED",
+        "at": "2026-09-30 13:49:42"
+      },
+      {
+        "round": 1,
+        "status": "FAILED",
+        "at": "2026-09-30 14:07:41"
+      },
+      {
+        "round": 2,
+        "status": "FAILED",
+        "at": "2026-09-30 14:59:25"
+      }
+    ],
+    "status": "FAILED"
+  },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000149861229-pflichtpraktikum-data-engineering-data-analytics-im-akustik-testing?oga=true": {
+    "history": [
+      {
+        "round": 1,
+        "status": "FAILED",
+        "at": "2026-09-30 09:15:43"
+      },
+      {
+        "round": 1,
+        "status": "FAILED",
+        "at": "2026-09-30 14:18:14"
+      },
+      {
+        "round": 2,
+        "status": "FAILED",
+        "at": "2026-09-30 14:59:54"
+      }
+    ],
+    "status": "FAILED"
+  },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000151829278-praktikum-fertigungsplanung-automatisierte-optische-prufung-?oga=true": {
+    "history": [
+      {
+        "round": 1,
+        "status": "FAILED",
+        "at": "2026-09-30 14:30:46"
+      },
+      {
+        "round": 2,
+        "status": "FAILED",
+        "at": "2026-09-30 15:13:13"
+      }
+    ],
+    "status": "FAILED"
+  },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000151816009-praktikum-im-bereich-sales-performance-management?oga=true": {
+    "history": [
+      {
+        "round": 1,
+        "status": "FAILED",
+        "at": "2026-09-30 14:31:35"
+      },
+      {
+        "round": 2,
+        "status": "FAILED",
+        "at": "2026-09-30 15:13:56"
+      }
+    ],
+    "status": "FAILED"
+  },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000151810599-abschlussarbeit-kreislaufwirtschaft?oga=true": {
+    "history": [
+      {
+        "round": 1,
+        "status": "FAILED",
+        "at": "2026-09-30 14:32:04"
+      },
+      {
+        "round": 2,
+        "status": "FAILED",
+        "at": "2026-09-30 15:24:24"
+      }
+    ],
+    "status": "FAILED"
+  },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000151791635-pflichtpraktikum-sap-prozessablaufe-in-s-4?oga=true": {
+    "history": [
+      {
+        "round": 1,
+        "status": "CAPTCHA_DETECTED",
+        "at": "2026-09-30 14:42:32"
+      },
+      {
+        "round": 2,
+        "status": "FAILED",
+        "at": "2026-09-30 15:25:33"
+      }
+    ],
+    "status": "FAILED"
+  },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000151774684-premaster-programm-technologie-und-innovationsmanagement?oga=true": {
+    "history": [
+      {
+        "round": 1,
+        "status": "FAILED",
+        "at": "2026-09-30 14:43:22"
+      },
+      {
+        "round": 2,
+        "status": "FAILED",
+        "at": "2026-09-30 15:26:16"
+      }
+    ],
+    "status": "FAILED"
+  },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000151766620-pflichtpraktikum-in-der-fertigungsplanung-komponenten?oga=true": {
+    "history": [
+      {
+        "round": 1,
+        "status": "FAILED",
+        "at": "2026-09-30 14:43:45"
+      },
+      {
+        "round": 2,
+        "status": "FAILED",
+        "at": "2026-09-30 15:26:59"
+      }
+    ],
+    "status": "FAILED"
+  },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000151766019-pflichtpraktikum-wertstrom-und-materialflussplanung-in-der-komponentenfertigung?oga=true": {
+    "history": [
+      {
+        "round": 1,
+        "status": "FAILED",
+        "at": "2026-09-30 14:44:14"
+      },
+      {
+        "round": 2,
+        "status": "FAILED",
+        "at": "2026-09-30 15:27:42"
+      }
+    ],
+    "status": "FAILED"
+  },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000151760339-praktikum-defektdichte-technologie?oga=true": {
+    "history": [
+      {
+        "round": 1,
+        "status": "FAILED",
+        "at": "2026-09-30 14:44:42"
+      },
+      {
+        "round": 2,
+        "status": "FAILED",
+        "at": "2026-09-30 15:38:10"
+      }
+    ],
+    "status": "FAILED"
+  },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000151610609-praktikum-in-der-logistikplanung?oga=true": {
+    "history": [
+      {
+        "round": 1,
+        "status": "FAILED",
+        "at": "2026-09-30 14:45:11"
+      },
+      {
+        "round": 2,
+        "status": "FAILED",
+        "at": "2026-09-30 15:48:39"
+      }
+    ],
+    "status": "FAILED"
+  },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000151601899-praktikum-im-bereich-human-resources-bei-bosch-smart-home?oga=true": {
+    "history": [
+      {
+        "round": 1,
+        "status": "FAILED",
+        "at": "2026-09-30 14:46:01"
+      },
+      {
+        "round": 2,
+        "status": "FAILED",
+        "at": "2026-09-30 15:59:08"
+      }
+    ],
+    "status": "FAILED"
+  },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000151563196-praktikum-im-bereich-international-sales-bei-bosch-ebike-systems?oga=true": {
+    "history": [
+      {
+        "round": 1,
+        "status": "FAILED",
+        "at": "2026-09-30 14:46:29"
+      },
+      {
+        "round": 2,
+        "status": "FAILED",
+        "at": "2026-09-30 15:59:51"
+      }
+    ],
+    "status": "FAILED"
+  },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000151544369-pflichtpraktikum-im-vertrieb-customer-team-bmw-automotive-w-m-div-?oga=true": {
+    "history": [
+      {
+        "round": 1,
+        "status": "FAILED",
+        "at": "2026-09-30 14:47:18"
+      },
+      {
+        "round": 2,
+        "status": "FAILED",
+        "at": "2026-09-30 16:00:33"
+      }
+    ],
+    "status": "FAILED"
+  },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000149827009-praktikum-im-bereich-machine-learning-fur-pradiktive-zuverlassigkeitsanalytik-warmepumpen-w-m-div-?oga=true": {
+    "history": [
+      {
+        "round": 1,
+        "status": "CAPTCHA_DETECTED",
+        "at": "2026-09-30 14:57:46"
+      },
+      {
+        "round": 2,
+        "status": "CAPTCHA_DETECTED",
+        "at": "2026-09-30 16:11:01"
+      }
+    ],
+    "status": "CAPTCHA_DETECTED"
+  },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000149826650-internship-machine-learning-for-predictive-reliability-analytics-heat-pumps?oga=true": {
+    "history": [
+      {
+        "round": 1,
+        "status": "FAILED",
+        "at": "2026-09-30 14:58:35"
+      },
+      {
+        "round": 2,
+        "status": "FAILED",
+        "at": "2026-09-30 16:21:45"
+      }
+    ],
+    "status": "FAILED"
+  }
+}

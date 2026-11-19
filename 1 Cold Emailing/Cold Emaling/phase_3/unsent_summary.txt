@@ -1,0 +1,283 @@
+=== SUMMARY ===
+1. Active Valid Dispatch Queue (contacts_to_send.csv): 176 unsent emails across 12 companies
+2. Clean Deliverable Pool (all discovered passing MX & blacklists): 230 unsent emails across 22 companies
+3. All Raw Discovered Database (contact_discovery_results.csv): 291 unsent emails across 32 companies
+
+=== 1. ACTIVE QUEUE EMAILS (176) ===
+
+[Akkodis Germany Tech Experts GmbH] - 19 emails
+  • frankfurt.tech.de@akkodis.com | Frankfurt Office
+  • koeln.tech.de@akkodis.com | Cologne Office
+  • karlsruhe.tech.de@akkodis.com | Karlsruhe Office
+  • bremen.tech.de@akkodis.com | Bremen Office
+  • dortmund.tech.de@akkodis.com | Dortmund Office
+  • hannover.tech.de@akkodis.com | Hannover Office
+  • leipzig.tech.de@akkodis.com | Leipzig Office
+  • dresden.tech.de@akkodis.com | Dresden Office
+  • erlangen.tech.de@akkodis.com | Erlangen Office
+  • duesseldorf.tech.de@akkodis.com | Düsseldorf Office
+  • ulm.tech.de@akkodis.com | Ulm Office
+  • mannheim.tech.de@akkodis.com | Mannheim Office
+  • wolfsburg.tech.de@akkodis.com | Wolfsburg Office
+  • ingolstadt.tech.de@akkodis.com | Ingolstadt Office
+  • nuernberg.tech.de@akkodis.com | Nuremberg Office
+  • augsburg.tech.de@akkodis.com | Augsburg Office
+  • kassel.tech.de@akkodis.com | Kassel Office
+  • regensburg.tech.de@akkodis.com | Regensburg Office
+  • braunschweig.tech.de@akkodis.com | Braunschweig Office
+
+[Amoria Bond GmbH] - 1 emails
+  • dallas@amoriabond.com | Dallas Office
+
+[Austin Fraser GmbH] - 5 emails
+  • berlin@austinfraser.de | Berlin Office
+  • reading@austinfraser.com | Reading Office
+  • denver@austinfraser.com | Denver Office
+  • austin@austinfraser.com | Austin Office
+  • dallas@austinfraser.com | Dallas Office
+
+[Brunel GmbH] - 42 emails
+  • muenchen@brunel.net | Munich Office & Recruiting
+  • frankfurt@brunel.net | Frankfurt Office & Recruiting
+  • stuttgart@brunel.net | Stuttgart Office & Recruiting
+  • duesseldorf@brunel.net | Düsseldorf Office & Recruiting
+  • koln@brunel.net | Cologne Office & Recruiting
+  • dortmund@brunel.net | Dortmund Office & Recruiting
+  • hannover@brunel.net | Hannover Office & Recruiting
+  • nuernberg@brunel.net | Nuremberg Office & Recruiting
+  • leipzig@brunel.net | Leipzig Office & Recruiting
+  • dresden@brunel.net | Dresden Office & Recruiting
+  • karlsruhe@brunel.net | Karlsruhe Office & Recruiting
+  • mannheim@brunel.net | Mannheim Office & Recruiting
+  • aachen@brunel.net | Aachen Office & Recruiting
+  • augsburg@brunel.net | Augsburg Office & Recruiting
+  • bielefeld@brunel.net | Bielefeld Office & Recruiting
+  • braunschweig@brunel.net | Braunschweig Office & Recruiting
+  • essen@brunel.net | Essen Office & Recruiting
+  • freiburg@brunel.net | Freiburg Office & Recruiting
+  • ingolstadt@brunel.net | Ingolstadt Office & Recruiting
+  • kassel@brunel.net | Kassel Office & Recruiting
+  • muenster@brunel.net | Münster Office & Recruiting
+  • regensburg@brunel.net | Regensburg Office & Recruiting
+  • ulm@brunel.net | Ulm Office & Recruiting
+  • chemnitz@brunel.net | Chemnitz Office & Recruiting
+  • darmstadt@brunel.net | Darmstadt Office & Recruiting
+  • erfurt@brunel.net | Erfurt Office & Recruiting
+  • friedrichshafen@brunel.net | Friedrichshafen Office & Recruiting
+  • heilbronn@brunel.net | Heilbronn Office & Recruiting
+  • kiel@brunel.net | Kiel Office & Recruiting
+  • koblenz@brunel.net | Koblenz Office & Recruiting
+  • lingen@brunel.net | Lingen Office & Recruiting
+  • magdeburg@brunel.net | Magdeburg Office & Recruiting
+  • mainz@brunel.net | Mainz Office & Recruiting
+  • oldenburg@brunel.net | Oldenburg Office & Recruiting
+  • osnabrueck@brunel.net | Osnabrück Office & Recruiting
+  • rostock@brunel.net | Rostock Office & Recruiting
+  • saarbruecken@brunel.net | Saarbrücken Office & Recruiting
+  • schweinfurt@brunel.net | Schweinfurt Office & Recruiting
+  • siegen@brunel.net | Siegen Office & Recruiting
+  • suhl@brunel.net | Suhl Office & Recruiting
+  • wolfsburg@brunel.net | Wolfsburg Office & Recruiting
+  • wuerzburg@brunel.net | Würzburg Office & Recruiting
+
+[Computer Futures (SThree GmbH)] - 3 emails
+  • stuttgart@computerfutures.com | Stuttgart Office
+  • duesseldorf@computerfutures.com | Düsseldorf Office
+  • berlin@computerfutures.com | Berlin Office
+
+[FERCHAU GmbH] - 88 emails
+  • muenchen@ferchau.com | Munich Branch Inbox
+  • hamburg@ferchau.com | Hamburg Branch Inbox
+  • hamburg.it@ferchau.com | Hamburg IT Branch Inbox
+  • stuttgart@ferchau.com | Stuttgart Branch Inbox
+  • frankfurt@ferchau.com | Frankfurt Branch Inbox
+  • frankfurt.it@ferchau.com | Frankfurt IT Branch Inbox
+  • koeln@ferchau.com | Cologne Branch Inbox
+  • duesseldorf@ferchau.com | Düsseldorf Branch Inbox
+  • dortmund@ferchau.com | Dortmund Branch Inbox
+  • hannover@ferchau.com | Hannover Branch Inbox
+  • nuernberg@ferchau.com | Nuremberg Branch Inbox
+  • karlsruhe@ferchau.com | Karlsruhe Branch Inbox
+  • dresden@ferchau.com | Dresden Branch Inbox
+  • leipzig@ferchau.com | Leipzig Branch Inbox
+  • aachen@ferchau.com | Aachen Branch Inbox
+  • ulm@ferchau.com | Ulm Branch Inbox
+  • augsburg@ferchau.com | Augsburg Branch Inbox
+  • mannheim@ferchau.com | Mannheim Branch Inbox
+  • bremen@ferchau.com | Bremen Branch Inbox
+  • essen@ferchau.com | Essen Branch Inbox
+  • essen.it@ferchau.com | Essen IT Branch Inbox
+  • wolfsburg@ferchau.com | Wolfsburg Branch Inbox
+  • friedrichshafen@ferchau.com | Friedrichshafen Branch Inbox
+  • ingolstadt@ferchau.com | Ingolstadt Branch Inbox
+  • regensburg@ferchau.com | Regensburg Branch Inbox
+  • bielefeld@ferchau.com | Bielefeld Branch Inbox
+  • braunschweig@ferchau.com | Braunschweig Branch Inbox
+  • darmstadt@ferchau.com | Darmstadt Branch Inbox
+  • heilbronn@ferchau.com | Heilbronn Branch Inbox
+  • koblenz@ferchau.com | Koblenz Branch Inbox
+  • kiel@ferchau.com | Kiel Branch Inbox
+  • rostock@ferchau.com | Rostock Branch Inbox
+  • osnabrueck@ferchau.com | Osnabrück Branch Inbox
+  • muenster@ferchau.com | Münster Branch Inbox
+  • kassel@ferchau.com | Kassel Branch Inbox
+  • magdeburg@ferchau.com | Magdeburg Branch Inbox
+  • saarbruecken@ferchau.com | Saarbrücken Branch Inbox
+  • mainz@ferchau.com | Mainz Branch Inbox
+  • wuerzburg@ferchau.com | Würzburg Branch Inbox
+  • erfurt@ferchau.com | Erfurt Branch Inbox
+  • chemnitz@ferchau.com | Chemnitz Branch Inbox
+  • bonn@ferchau.com | Bonn Branch Inbox
+  • siegen@ferchau.com | Siegen Branch Inbox
+  • fulda@ferchau.com | Fulda Branch Inbox
+  • giessen@ferchau.com | Gießen Branch Inbox
+  • oldenburg@ferchau.com | Oldenburg Branch Inbox
+  • paderborn@ferchau.com | Paderborn Branch Inbox
+  • schweinfurt@ferchau.com | Schweinfurt Branch Inbox
+  • stuttgart.it@ferchau.com | Stuttgart IT Branch Inbox
+  • karlsruhe.it@ferchau.com | Karlsruhe IT Branch Inbox
+  • ulm.it@ferchau.com | Ulm IT Branch Inbox
+  • wien@ferchau.com | Vienna Branch Inbox
+  • graz@ferchau.com | Graz Branch Inbox
+  • linz@ferchau.com | Linz Branch Inbox
+  • madrid@ferchau.com | Madrid Branch Inbox
+  • barcelona@ferchau.com | Barcelona Branch Inbox
+  • paris@ferchau.com | Paris Branch Inbox
+  • gdansk@ferchau.com | Gdańsk Branch Inbox
+  • freiburg@ferchau.com | Freiburg Branch Inbox
+  • erlangen@ferchau.com | Erlangen Branch Inbox
+  • jena@ferchau.com | Jena Branch Inbox
+  • potsdam@ferchau.com | Potsdam Branch Inbox
+  • luebeck@ferchau.com | Lübeck Branch Inbox
+  • flensburg@ferchau.com | Flensburg Branch Inbox
+  • rheine@ferchau.com | Rheine Branch Inbox
+  • kaiserslautern@ferchau.com | Kaiserslautern Branch Inbox
+  • duisburg@ferchau.com | Duisburg Branch Inbox
+  • krefeld@ferchau.com | Krefeld Branch Inbox
+  • moenchengladbach@ferchau.com | Mönchengladbach Branch Inbox
+  • bochum@ferchau.com | Bochum Branch Inbox
+  • hagen@ferchau.com | Hagen Branch Inbox
+  • stade@ferchau.com | Stade Branch Inbox
+  • goettingen@ferchau.com | Göttingen Branch Inbox
+  • koeln.it@ferchau.com | Cologne IT Branch Inbox
+  • duesseldorf.it@ferchau.com | Düsseldorf IT Branch Inbox
+  • hannover.it@ferchau.com | Hannover IT Branch Inbox
+  • dortmund.it@ferchau.com | Dortmund IT Branch Inbox
+  • nuernberg.it@ferchau.com | Nuremberg IT Branch Inbox
+  • leipzig.it@ferchau.com | Leipzig IT Branch Inbox
+  • dresden.it@ferchau.com | Dresden IT Branch Inbox
+  • bremen.it@ferchau.com | Bremen IT Branch Inbox
+  • mannheim.it@ferchau.com | Mannheim IT Branch Inbox
+  • augsburg.it@ferchau.com | Augsburg IT Branch Inbox
+  • braunschweig.it@ferchau.com | Braunschweig IT Branch Inbox
+  • wroclaw@ferchau.com | Wrocław Branch Inbox
+  • warszawa@ferchau.com | Warsaw Branch Inbox
+  • sevilla@ferchau.com | Seville Branch Inbox
+  • toulouse@ferchau.com | Toulouse Branch Inbox
+
+[GULP Information Services GmbH] - 1 emails
+  • partner@gulp.de | Partner Management
+
+[Hays AG] - 1 emails
+  • service@hays.de | Candidate & Customer Service
+
+[Page Personnel Germany] - 1 emails
+  • koeln@pagepersonnel.de | Cologne Branch
+
+[Venturi Recruitment GmbH] - 2 emails
+  • dusseldorf@venturi-group.com | Düsseldorf Office
+  • munich@venturi-group.com | Munich Office
+
+[YoungCapital Deutschland GmbH] - 7 emails
+  • berlin@youngcapital.de | Berlin Branch Inbox
+  • duesseldorf@youngcapital.de | Düsseldorf Branch Inbox
+  • hamburg@youngcapital.de | Hamburg Branch Inbox
+  • muenchen@youngcapital.de | München Branch Inbox
+  • frankfurt@youngcapital.de | Frankfurt Branch Inbox
+  • stuttgart@youngcapital.de | Stuttgart Branch Inbox
+  • dortmund@youngcapital.de | Dortmund Branch Inbox
+
+[univativ GmbH] - 6 emails
+  • stuttgart@univativ.de | Stuttgart Office
+  • hamburg@univativ.de | Hamburg Office
+  • koeln@univativ.de | Cologne Office
+  • duesseldorf@univativ.de | Düsseldorf Office
+  • darmstadt@univativ.de | Darmstadt Office
+  • karlsruhe@univativ.de | Karlsruhe Office
+
+
+=== 2. NEW CLEAN DELIVERABLE DISCOVERED CONTACTS (54 new, 230 total) ===
+
+[Aleph Alpha GmbH] - 3 emails
+  • jobs@aleph-alpha.com | Aleph Alpha Recruiting
+  • info@aleph-alpha.com | Aleph Alpha Contact
+  • jonas.andrulis@aleph-alpha.com | Jonas Andrulis
+
+[Celus GmbH] - 8 emails
+  • jobs@celus.io | Recruiting Team
+  • careers@celus.io | Careers Team
+  • people@celus.io | HR Team
+  • t.bechtold@celus.io | Tobias Bechtold
+  • a.frankenberg@celus.io | Alexander von Frankenberg
+  • info@celus.io | General Support Team
+  • a.genz@celus.io | Alexander Genz
+  • a.evdokimov@celus.io | Andrej Evdokimov
+
+[Cognigy GmbH] - 5 emails
+  • jobs@cognigy.com | Careers Team
+  • careers@cognigy.com | Recruiting Team
+  • info@cognigy.com | General Contact Team
+  • partners@cognigy.com | Partner Management Team
+  • academy@cognigy.com | Cognigy Academy Team
+
+[DeepL SE] - 2 emails
+  • jaroslaw.kutylowski@deepl.com | Jaroslaw Kutylowski
+  • jobs@deepl.com | Recruiting Team
+
+[Jina AI GmbH] - 13 emails
+  • han.xiao@jina.ai | Han Xiao
+  • nan.wang@jina.ai | Nan Wang
+  • careers@jina.ai | Careers Team
+  • dev-team@jina.ai | Dev Team
+  • hello@jina.ai | Jina AI Team
+  • michael.guenther@jina.ai | Michael Günther
+  • florian.hoenicke@jina.ai | Florian Hönicke
+  • jackmin.ong@jina.ai | Jackmin Ong
+  • isabelle.mohr@jina.ai | Isabelle Mohr
+  • joan.fontanals@jina.ai | Joan Fontanals
+  • alex.cg@jina.ai | Alex Cureton-Griffiths
+  • bing.he@jina.ai | Bing He
+  • sami.mohamed@jina.ai | Sami Mohamed
+
+[ParcelLab GmbH] - 5 emails
+  • careers@parcellab.com | Careers Team
+  • jobs@parcellab.com | Jobs Team
+  • contact@parcellab.com | Contact Team
+  • info@parcellab.com | Info Team
+  • hello@parcellab.com | Hello Team
+
+[Rasa Technologies GmbH] - 6 emails
+  • alex@rasa.com | Alex Weidauer
+  • alan@rasa.com | Alan Nichol
+  • tom@rasa.com | Tom Bocklisch
+  • joey@rasa.com | Joey Faulkner
+  • nick@rasa.com | Nick Pawlowski
+  • tanja@rasa.com | Tanja Bunk
+
+[Taktile GmbH] - 2 emails
+  • jobs@taktile.com | Recruiting Team
+  • contact@taktile.com | General Contact Team
+
+[Xayn AG] - 5 emails
+  • jobs@xayn.com | Careers Team
+  • info@xayn.com | General Team
+  • leif@xayn.com | Leif-Nissen Lundbæk
+  • michael@xayn.com | Michael Huth
+  • felix@xayn.com | Felix Hahmann
+
+[nyris GmbH] - 5 emails
+  • jobs@nyris.io | Recruiting Team
+  • info@nyris.io | General Inquiry Team
+  • hello@nyris.io | Contact Team
+  • markus@nyris.io | Markus Lukasmeyer
+  • anna@nyris.io | Anna Oberhettinger

@@ -1,0 +1,2187 @@
+{
+  "generated_at_utc": "2026-10-14T11:51:39+00:00",
+  "engine": "v2",
+  "total_jobs": 28,
+  "results": [
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152629140/executive-gm-canberra/",
+      "title": "Executive GM — Canberra",
+      "company": "SAP",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\tex\\Executive-GM-Canberra.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Executive-GM-Canberra.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Executive-GM-Canberra.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 50.5,
+      "score_breakdown": {
+        "required_coverage": 17.8,
+        "preferred_coverage": 2.5,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 2.2,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.444,
+      "preferred_coverage": 0.125,
+      "gap_report": {
+        "missing_required": [
+          "public sector technology sales",
+          "Australian Federal Government market",
+          "operating at Secretary level",
+          "technology partner ecosystem",
+          "enterprise technology modernisation"
+        ],
+        "missing_preferred": [
+          "AUKUS-related Defence programmes",
+          "APS reform priorities",
+          "GROW with SAP",
+          "budget cycle mechanics",
+          "defence procurement environment",
+          "partner co-investment",
+          "customer success outcomes"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Executive-GM-Canberra.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Executive-GM-Canberra.docx"
+      },
+      "parse": {
+        "word_count": 572,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "SAP",
+          "RISE with SAP"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 6,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+      },
+      "file_stem": "Executive-GM-Canberra"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152628469/senior-account-executive/",
+      "title": "Senior Account Executive",
+      "company": "SAP",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\tex\\Senior-Account-Executive.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Senior-Account-Executive.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Senior-Account-Executive.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 53.5,
+      "score_breakdown": {
+        "required_coverage": 22.2,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 3.3,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.556,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "10+ years account management",
+          "5+ years cloud sales",
+          "5+ years customer relationship",
+          "cloud sales platforms"
+        ],
+        "missing_preferred": [
+          "AI Value Selling",
+          "Data-Driven Stakeholder Engagement",
+          "Context Engineering",
+          "Negotiation",
+          "Overcoming Objections",
+          "Cloud Strategy",
+          "Competitive Positioning",
+          "Complex Sales"
+        ],
+        "ineligible_criteria": [
+          "Bachelor's degree"
+        ],
+        "language_gaps": [],
+        "languages_required": [],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Senior-Account-Executive.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Senior-Account-Executive.docx"
+      },
+      "parse": {
+        "word_count": 570,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 6,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+      },
+      "file_stem": "Senior-Account-Executive"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152612169/internship-ai-automation-developer-fm/",
+      "title": "Internship: AI Automation Developer F/M",
+      "company": "SAP",
+      "status": "parked",
+      "tex": "",
+      "pdf": "",
+      "docx": "",
+      "build_error": "gates failed after regeneration: G2: tech token 'agile' is not in the claimable set",
+      "gates": {
+        "G1": true,
+        "G2": false,
+        "G3": true
+      },
+      "gate_findings_prebuild": [
+        "G2: tech token 'agile' is not in the claimable set"
+      ],
+      "gate_findings_postbuild": [],
+      "score": null,
+      "score_breakdown": null,
+      "required_coverage": null,
+      "preferred_coverage": null,
+      "gap_report": null,
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "",
+        "resume_docx": ""
+      },
+      "file_stem": "Internship-AI-Automation-Developer-FM"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152611519/sap-ixp-intern-it-end-user-support-specialist-deal-support-coe-l2c-euas/",
+      "title": "SAP iXp Intern - IT End User Support Specialist, Deal Support CoE L2C EU/AS",
+      "company": "SAP",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\tex\\SAP-iXp-Intern---IT-End-User-Support-Specialist-Deal-Support-CoE-L2C-EUAS.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\SAP-iXp-Intern---IT-End-User-Support-Specialist-Deal-Support-CoE-L2C-EUAS.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\SAP-iXp-Intern---IT-End-User-Support-Specialist-Deal-Support-CoE-L2C-EUAS.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 73.7,
+      "score_breakdown": {
+        "required_coverage": 34.3,
+        "preferred_coverage": 8.6,
+        "parse_fidelity": 14.9,
+        "format_checks": 10.0,
+        "experience_relevance": 2.9,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.857,
+      "preferred_coverage": 0.429,
+      "gap_report": {
+        "missing_required": [
+          "equivalent work experience"
+        ],
+        "missing_preferred": [
+          "virtual collaboration",
+          "testing new features",
+          "process-related projects",
+          "learning networking activities"
+        ],
+        "ineligible_criteria": [
+          "strong English communication",
+          "bachelor´s degree"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\SAP-iXp-Intern---IT-End-User-Support-Specialist-Deal-Support-CoE-L2C-EUAS.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\SAP-iXp-Intern---IT-End-User-Support-Specialist-Deal-Support-CoE-L2C-EUAS.docx"
+      },
+      "parse": {
+        "word_count": 558,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "chat",
+          "call-out"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 4,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=4 repicked=False"
+      },
+      "file_stem": "SAP-iXp-Intern---IT-End-User-Support-Specialist-Deal-Support-CoE-L2C-EUAS"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152603549/senior-account-executive/",
+      "title": "Senior Account Executive",
+      "company": "SAP",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\tex\\Senior-Account-Executive-2.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Senior-Account-Executive-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Senior-Account-Executive-2.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 41.7,
+      "score_breakdown": {
+        "required_coverage": 5.7,
+        "preferred_coverage": 6.7,
+        "parse_fidelity": 14.9,
+        "format_checks": 10.0,
+        "experience_relevance": 1.4,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.143,
+      "preferred_coverage": 0.333,
+      "gap_report": {
+        "missing_required": [
+          "10+ years experience",
+          "team-selling environment",
+          "large transactions",
+          "business application sales",
+          "Business level English",
+          "Local language Fluent"
+        ],
+        "missing_preferred": [
+          "pipeline planning",
+          "cross sell",
+          "up sell",
+          "SAP promotions"
+        ],
+        "ineligible_criteria": [
+          "Bachelor equivalent"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English (Fluent)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Senior-Account-Executive-2.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Senior-Account-Executive-2.docx"
+      },
+      "parse": {
+        "word_count": 526,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 7,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=7 repicked=False"
+      },
+      "file_stem": "Senior-Account-Executive-2"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152600039/general-administration-persons-with-disabilities-%E4%B8%80%E8%88%AC%E4%BA%8B%E5%8B%99%E8%81%B7-%E9%9A%9C%E3%81%8C%E3%81%84%E8%80%85%E6%8E%A1%E7%94%A8/",
+      "title": "General Administration - Persons with Disabilities（一般事務職／障がい者採用）",
+      "company": "SAP",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\tex\\General-Administration---Persons-with-Disabilities一般事務職障がい者採用.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\General-Administration---Persons-with-Disabilities一般事務職障がい者採用.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\General-Administration---Persons-with-Disabilities一般事務職障がい者採用.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 70.4,
+      "score_breakdown": {
+        "required_coverage": 30.0,
+        "preferred_coverage": 10.0,
+        "parse_fidelity": 14.9,
+        "format_checks": 10.0,
+        "experience_relevance": 2.5,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.75,
+      "preferred_coverage": 0.5,
+      "gap_report": {
+        "missing_required": [
+          "willingness to learn"
+        ],
+        "missing_preferred": [
+          "Scheduling tools",
+          "Document management",
+          "AI-assisted automation"
+        ],
+        "ineligible_criteria": [
+          "proactive approach"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\General-Administration---Persons-with-Disabilities一般事務職障がい者採用.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\General-Administration---Persons-with-Disabilities一般事務職障がい者採用.docx"
+      },
+      "parse": {
+        "word_count": 556,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "Outlook",
+          "PowerPoint"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 4,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=4 repicked=False"
+      },
+      "file_stem": "General-Administration---Persons-with-Disabilities一般事務職障がい者採用"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152597699/technology-associate-consultant-six-months-limited-contract/",
+      "title": "Technology Associate Consultant (Six Months Limited Contract)",
+      "company": "SAP",
+      "status": "parked",
+      "tex": "",
+      "pdf": "",
+      "docx": "",
+      "build_error": "gates failed after regeneration: G2: tech token 'sap' is not in the claimable set; G2: tech token 'sap' is not in the claimable set; G2: tech token 'sap' is not in the claimable set",
+      "gates": {
+        "G1": true,
+        "G2": false,
+        "G3": true
+      },
+      "gate_findings_prebuild": [
+        "G2: tech token 'sap' is not in the claimable set",
+        "G2: tech token 'sap' is not in the claimable set",
+        "G2: tech token 'sap' is not in the claimable set"
+      ],
+      "gate_findings_postbuild": [],
+      "score": null,
+      "score_breakdown": null,
+      "required_coverage": null,
+      "preferred_coverage": null,
+      "gap_report": null,
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "",
+        "resume_docx": ""
+      },
+      "file_stem": "Technology-Associate-Consultant-Six-Months-Limited-Contract"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152592370/business-process-consultant-sf/",
+      "title": "Business Process Consultant - SF",
+      "company": "SAP",
+      "status": "parked",
+      "tex": "",
+      "pdf": "",
+      "docx": "",
+      "build_error": "gates failed after regeneration: G2: tech token 'SAP' is not in the claimable set",
+      "gates": {
+        "G1": true,
+        "G2": false,
+        "G3": true
+      },
+      "gate_findings_prebuild": [
+        "G2: tech token 'SAP' is not in the claimable set"
+      ],
+      "gate_findings_postbuild": [],
+      "score": null,
+      "score_breakdown": null,
+      "required_coverage": null,
+      "preferred_coverage": null,
+      "gap_report": null,
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "",
+        "resume_docx": ""
+      },
+      "file_stem": "Business-Process-Consultant---SF"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152592429/technical-quality-manager-services-south-korea/",
+      "title": "Technical Quality Manager-Services, South Korea",
+      "company": "SAP",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\tex\\Technical-Quality-Manager-Services-South-Korea.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Technical-Quality-Manager-Services-South-Korea.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Technical-Quality-Manager-Services-South-Korea.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 64.7,
+      "score_breakdown": {
+        "required_coverage": 31.1,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 5.6,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.778,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "project management",
+          "service level agreements"
+        ],
+        "missing_preferred": [
+          "Korean fluency",
+          "English fluency",
+          "service-based industries",
+          "consulting",
+          "technology services",
+          "professional services",
+          "mentoring junior members",
+          "leading junior members"
+        ],
+        "ineligible_criteria": [
+          "strong communication skills"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English",
+          "other"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Technical-Quality-Manager-Services-South-Korea.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Technical-Quality-Manager-Services-South-Korea.docx"
+      },
+      "parse": {
+        "word_count": 560,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 7,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=7 repicked=False"
+      },
+      "file_stem": "Technical-Quality-Manager-Services-South-Korea"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152541819/digital-solution-advisor-baip-specialist-for-sap-digital-hub-sap-next-gen/",
+      "title": "Digital Solution Advisor, BAIP Specialist for SAP Digital Hub – SAP Next Gen",
+      "company": "SAP",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\tex\\Digital-Solution-Advisor-BAIP-Specialist-for-SAP-Digital-Hub-SAP-Next-Gen.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Digital-Solution-Advisor-BAIP-Specialist-for-SAP-Digital-Hub-SAP-Next-Gen.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Digital-Solution-Advisor-BAIP-Specialist-for-SAP-Digital-Hub-SAP-Next-Gen.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 65.5,
+      "score_breakdown": {
+        "required_coverage": 26.7,
+        "preferred_coverage": 7.5,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 3.3,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.667,
+      "preferred_coverage": 0.375,
+      "gap_report": {
+        "missing_required": [
+          "0-2 years experience"
+        ],
+        "missing_preferred": [
+          "Data visualization",
+          "Data Engineering background",
+          "Information Systems background",
+          "Statistics background",
+          "Storytelling"
+        ],
+        "ineligible_criteria": [
+          "Bachelor's degree"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Digital-Solution-Advisor-BAIP-Specialist-for-SAP-Digital-Hub-SAP-Next-Gen.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Digital-Solution-Advisor-BAIP-Specialist-for-SAP-Digital-Hub-SAP-Next-Gen.docx"
+      },
+      "parse": {
+        "word_count": 538,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 7,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=7 repicked=False"
+      },
+      "file_stem": "Digital-Solution-Advisor-BAIP-Specialist-for-SAP-Digital-Hub-SAP-Next-Gen"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152531389/services-account-executive-oil-gas/",
+      "title": "Services Account Executive (Oil & Gas)",
+      "company": "SAP",
+      "status": "parked",
+      "tex": "",
+      "pdf": "",
+      "docx": "",
+      "build_error": "gates failed after regeneration: G2: tech token 'sap' is not in the claimable set",
+      "gates": {
+        "G1": true,
+        "G2": false,
+        "G3": true
+      },
+      "gate_findings_prebuild": [
+        "G2: tech token 'sap' is not in the claimable set"
+      ],
+      "gate_findings_postbuild": [],
+      "score": null,
+      "score_breakdown": null,
+      "required_coverage": null,
+      "preferred_coverage": null,
+      "gap_report": null,
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "",
+        "resume_docx": ""
+      },
+      "file_stem": "Services-Account-Executive-Oil-Gas"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152531179/services-account-executive-oil-gas/",
+      "title": "Services Account Executive (Oil & Gas)",
+      "company": "SAP",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\tex\\Services-Account-Executive-Oil-Gas-2.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Services-Account-Executive-Oil-Gas-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Services-Account-Executive-Oil-Gas-2.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 40.4,
+      "score_breakdown": {
+        "required_coverage": 8.0,
+        "preferred_coverage": 2.5,
+        "parse_fidelity": 14.9,
+        "format_checks": 10.0,
+        "experience_relevance": 2.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.2,
+      "preferred_coverage": 0.125,
+      "gap_report": {
+        "missing_required": [
+          "Customer Value Journey Alignment",
+          "Customer Value Proposition",
+          "Cloud Strategy",
+          "Customer Engagement",
+          "Relationship Building",
+          "Customer Relationship Management",
+          "Negotiation",
+          "Sales Territory Management"
+        ],
+        "missing_preferred": [
+          "Competitive Positioning",
+          "AI Value Selling",
+          "Strategic AI Synthesis",
+          "Data-Driven Stakeholder Engagement",
+          "Context Engineering",
+          "AI Output Quality Assurance",
+          "Agentic AI Day-to-Day Practice"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Services-Account-Executive-Oil-Gas-2.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Services-Account-Executive-Oil-Gas-2.docx"
+      },
+      "parse": {
+        "word_count": 547,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [
+          "hft",
+          "resume_gen"
+        ],
+        "gate_findings": [],
+        "rows_reordered": 1,
+        "skills_recased": 3,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=1 recased=3 repicked=True"
+      },
+      "file_stem": "Services-Account-Executive-Oil-Gas-2"
+    },
+    {
+      "job_url": "https://jobs.sap.com/job/Walldorf-Working-Student-%28fmd%29-HR-Learning-&-Development-69190/1437947533/",
+      "title": "Working Student (f/m/d) - HR Learning & Development",
+      "company": "SAP",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\tex\\Working-Student---HR-Learning-Development.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---HR-Learning-Development.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---HR-Learning-Development.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 72.0,
+      "score_breakdown": {
+        "required_coverage": 40.0,
+        "preferred_coverage": 4.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 1.0,
+      "preferred_coverage": 0.2,
+      "gap_report": {
+        "missing_required": [],
+        "missing_preferred": [
+          "picture/video editing",
+          "German language",
+          "high commitment",
+          "corporate HR experience"
+        ],
+        "ineligible_criteria": [
+          "office work required",
+          "MS Office proficiency"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---HR-Learning-Development.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---HR-Learning-Development.docx"
+      },
+      "parse": {
+        "word_count": 562,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "Excel",
+          "AI tools"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 4,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=4 repicked=False"
+      },
+      "file_stem": "Working-Student---HR-Learning-Development"
+    },
+    {
+      "job_url": "https://jobs.sap.com/job/St_-Leon-Rot-Working-Student-%28fmd%29-Machine-TranslationNatural-Language-Processing-68789/1437176333/",
+      "title": "Working Student (f/m/d) - Machine Translation/Natural Language Processing",
+      "company": "SAP",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\tex\\Working-Student---Machine-TranslationNatural-Language-Processing.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---Machine-TranslationNatural-Language-Processing.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---Machine-TranslationNatural-Language-Processing.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 95.5,
+      "score_breakdown": {
+        "required_coverage": 40.0,
+        "preferred_coverage": 17.5,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 10.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 1.0,
+      "preferred_coverage": 0.875,
+      "gap_report": {
+        "missing_required": [],
+        "missing_preferred": [
+          "Stanford CoreNLP"
+        ],
+        "ineligible_criteria": [
+          "currently enrolled student",
+          "communication skills in English"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---Machine-TranslationNatural-Language-Processing.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---Machine-TranslationNatural-Language-Processing.docx"
+      },
+      "parse": {
+        "word_count": 577,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "shell scripting",
+          "OpenAI APIs"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [
+          "project:Machine Learning",
+          "project:Transformers"
+        ],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 3,
+        "skills_recased": 5,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=2 labels=0 reorder=3 recased=5 repicked=False"
+      },
+      "file_stem": "Working-Student---Machine-TranslationNatural-Language-Processing"
+    },
+    {
+      "job_url": "https://jobs.sap.com/job/Walldorf-Working-Student-%28fmd%29-IT-Portfolio-69190/1435713633/",
+      "title": "Working Student (f/m/d) - IT Portfolio",
+      "company": "SAP",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\tex\\Working-Student---IT-Portfolio.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---IT-Portfolio.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---IT-Portfolio.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 78.0,
+      "score_breakdown": {
+        "required_coverage": 40.0,
+        "preferred_coverage": 10.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 1.0,
+      "preferred_coverage": 0.5,
+      "gap_report": {
+        "missing_required": [],
+        "missing_preferred": [
+          "Agile ways of working",
+          "Experience creating executive-level reporting"
+        ],
+        "ineligible_criteria": [
+          "Fluent in English",
+          "Willingness to work onsite",
+          "Strong communication and negotiation",
+          "Currently pursuing a Master’s"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English (fluent)",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---IT-Portfolio.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---IT-Portfolio.docx"
+      },
+      "parse": {
+        "word_count": 553,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 4,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=4 repicked=False"
+      },
+      "file_stem": "Working-Student---IT-Portfolio"
+    },
+    {
+      "job_url": "https://jobs.sap.com/job/Garching-bei-M%C3%BCnchen-%28Munich%29-Working-Student-%28fmd%29-SAI-native-Software-Development-85748/1437848533/",
+      "title": "Working Student (f/m/d) - SAI-native Software Development",
+      "company": "SAP",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\tex\\Working-Student---SAI-native-Software-Development.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---SAI-native-Software-Development.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---SAI-native-Software-Development.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 85.5,
+      "score_breakdown": {
+        "required_coverage": 40.0,
+        "preferred_coverage": 12.5,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 5.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 1.0,
+      "preferred_coverage": 0.625,
+      "gap_report": {
+        "missing_required": [],
+        "missing_preferred": [
+          "React framework",
+          "Node.js framework",
+          "Java language"
+        ],
+        "ineligible_criteria": [
+          "Munich office required"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---SAI-native-Software-Development.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---SAI-native-Software-Development.docx"
+      },
+      "parse": {
+        "word_count": 547,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {
+          "project_1": [
+            "React"
+          ]
+        },
+        "desc_insertions": [
+          "experience:Python"
+        ],
+        "area_labels": {},
+        "project_repick": [
+          "vehicle_sharing",
+          "hft"
+        ],
+        "gate_findings": [],
+        "rows_reordered": 1,
+        "skills_recased": 5,
+        "summary": "mirror=0 dormant_added=1 desc_insertions=1 labels=0 reorder=1 recased=5 repicked=True"
+      },
+      "file_stem": "Working-Student---SAI-native-Software-Development"
+    },
+    {
+      "job_url": "https://jobs.sap.com/job/Garching-bei-M%C3%BCnchen-%28Munich%29-Working-Student-%28fmd%29-AI-Software-Engineer-85748/1437976633/",
+      "title": "Working Student (f/m/d) - AI Software Engineer",
+      "company": "SAP",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\tex\\Working-Student---AI-Software-Engineer.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---AI-Software-Engineer.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---AI-Software-Engineer.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 51.8,
+      "score_breakdown": {
+        "required_coverage": 10.0,
+        "preferred_coverage": 10.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 3.8,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.25,
+      "preferred_coverage": 0.5,
+      "gap_report": {
+        "missing_required": [
+          "AI concepts",
+          "MCP",
+          "A2A",
+          "prompt techniques",
+          "context-injection",
+          "GitHub Actions"
+        ],
+        "missing_preferred": [
+          "CrewAI",
+          "automation testing",
+          "releases",
+          "adapt quickly"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---AI-Software-Engineer.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---AI-Software-Engineer.docx"
+      },
+      "parse": {
+        "word_count": 554,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "LangGraph",
+          "LangFuse"
+        ],
+        "dormant_added": {
+          "skills_area_1": [
+            "automation"
+          ]
+        },
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 1,
+        "skills_recased": 4,
+        "summary": "mirror=2 dormant_added=1 desc_insertions=0 labels=0 reorder=1 recased=4 repicked=False"
+      },
+      "file_stem": "Working-Student---AI-Software-Engineer"
+    },
+    {
+      "job_url": "https://jobs.sap.com/job/Walldorf-Working-Student-%28fmd%29-for-Agentic-AI-and-Robot-Learning-Research-in-Cooperation-with-KIT-69190/1439977333/",
+      "title": "Working Student (f/m/d) for Agentic AI and Robot Learning Research in Cooperation with KIT",
+      "company": "SAP",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\tex\\Working-Student-for-Agentic-AI-and-Robot-Learning-Research-in-Cooperation-with-K.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student-for-Agentic-AI-and-Robot-Learning-Research-in-Cooperation-with-K.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student-for-Agentic-AI-and-Robot-Learning-Research-in-Cooperation-with-K.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 73.8,
+      "score_breakdown": {
+        "required_coverage": 40.0,
+        "preferred_coverage": 3.3,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 2.5,
+        "naturalness": 3.0
+      },
+      "required_coverage": 1.0,
+      "preferred_coverage": 0.167,
+      "gap_report": {
+        "missing_required": [],
+        "missing_preferred": [
+          "German language",
+          "MuJoCo simulation",
+          "LeRobot framework",
+          "project experience robotics",
+          "Git version control"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "English (fluent)",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student-for-Agentic-AI-and-Robot-Learning-Research-in-Cooperation-with-K.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student-for-Agentic-AI-and-Robot-Learning-Research-in-Cooperation-with-K.docx"
+      },
+      "parse": {
+        "word_count": 575,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "OpenVLA",
+          "Git"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [
+          "experience:Python",
+          "project:Python"
+        ],
+        "area_labels": {
+          "area_1": "AI Modeling -> Python"
+        },
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 5,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=2 labels=1 reorder=0 recased=5 repicked=False"
+      },
+      "file_stem": "Working-Student-for-Agentic-AI-and-Robot-Learning-Research-in-Cooperation-with-K"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155471839/it-business-services-consultant/",
+      "title": "IT Business Services Consultant",
+      "company": "SAP SE",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\tex\\IT-Business-Services-Consultant.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\IT-Business-Services-Consultant.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\IT-Business-Services-Consultant.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 28.0,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "SAP NetWeaver Administration",
+          "operation of systems installations",
+          "coordinate operational tasks",
+          "critical decisions",
+          "9-13+ years experience"
+        ],
+        "missing_preferred": [
+          "German language skills",
+          "cross‑dependencies integration",
+          "whole technology stack",
+          "process improvements",
+          "high pressure environment",
+          "release management alignment",
+          "productization of services"
+        ],
+        "ineligible_criteria": [
+          "Bachelor’s degree",
+          "team player",
+          "weekends/off hours",
+          "Fluent in English"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English (fluent)",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\IT-Business-Services-Consultant.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\IT-Business-Services-Consultant.docx"
+      },
+      "parse": {
+        "word_count": 581,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 18,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=18 repicked=False"
+      },
+      "file_stem": "IT-Business-Services-Consultant"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155471239/diploma-student-intern-business-transformation-intern/",
+      "title": "Diploma Student / Intern - Business Transformation Intern",
+      "company": "SAP SE",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\tex\\Diploma-Student-Intern---Business-Transformation-Intern.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Diploma-Student-Intern---Business-Transformation-Intern.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Diploma-Student-Intern---Business-Transformation-Intern.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 68.0,
+      "score_breakdown": {
+        "required_coverage": 30.0,
+        "preferred_coverage": 7.5,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 2.5,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.75,
+      "preferred_coverage": 0.375,
+      "gap_report": {
+        "missing_required": [
+          "Translate analysis presentations"
+        ],
+        "missing_preferred": [
+          "Data analysis exposure",
+          "Project work exposure",
+          "Process mapping awareness",
+          "Project management awareness",
+          "Dashboarding awareness"
+        ],
+        "ineligible_criteria": [
+          "Bachelor's degree",
+          "Full-time 6-month internship",
+          "English communication skills"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Diploma-Student-Intern---Business-Transformation-Intern.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Diploma-Student-Intern---Business-Transformation-Intern.docx"
+      },
+      "parse": {
+        "word_count": 572,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 22,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=22 repicked=False"
+      },
+      "file_stem": "Diploma-Student-Intern---Business-Transformation-Intern"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155442599/business-process-consultant-sf/",
+      "title": "Business Process Consultant - SF",
+      "company": "SAP SE",
+      "status": "parked",
+      "tex": "",
+      "pdf": "",
+      "docx": "",
+      "build_error": "gates failed after regeneration: G2: tech token 'SAP' is not in the claimable set",
+      "gates": {
+        "G1": true,
+        "G2": false,
+        "G3": true
+      },
+      "gate_findings_prebuild": [
+        "G2: tech token 'SAP' is not in the claimable set"
+      ],
+      "gate_findings_postbuild": [],
+      "score": null,
+      "score_breakdown": null,
+      "required_coverage": null,
+      "preferred_coverage": null,
+      "gap_report": null,
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "",
+        "resume_docx": ""
+      },
+      "file_stem": "Business-Process-Consultant---SF-2"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155414659/diploma-student-intern/",
+      "title": "Diploma Student / Intern",
+      "company": "SAP SE",
+      "status": "parked",
+      "tex": "",
+      "pdf": "",
+      "docx": "",
+      "build_error": "gates failed after regeneration: G2: tech token 'SAP' is not in the claimable set",
+      "gates": {
+        "G1": true,
+        "G2": false,
+        "G3": true
+      },
+      "gate_findings_prebuild": [
+        "G2: tech token 'SAP' is not in the claimable set"
+      ],
+      "gate_findings_postbuild": [],
+      "score": null,
+      "score_breakdown": null,
+      "required_coverage": null,
+      "preferred_coverage": null,
+      "gap_report": null,
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "",
+        "resume_docx": ""
+      },
+      "file_stem": "Diploma-Student-Intern"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155408689/diploma-student-intern/",
+      "title": "Diploma Student / Intern",
+      "company": "SAP SE",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\tex\\Diploma-Student-Intern-2.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Diploma-Student-Intern-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Diploma-Student-Intern-2.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 28.0,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "Current university students",
+          "graduating in 2027/2028",
+          "spoken and written English",
+          "at least 3 days"
+        ],
+        "missing_preferred": [
+          "eager to learn"
+        ],
+        "ineligible_criteria": [
+          "Strong communication skills",
+          "6‑month internship"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Diploma-Student-Intern-2.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Diploma-Student-Intern-2.docx"
+      },
+      "parse": {
+        "word_count": 573,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 15,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=15 repicked=False"
+      },
+      "file_stem": "Diploma-Student-Intern-2"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155404290/sap-hana-cloud-database-developer/",
+      "title": "SAP HANA - Cloud Database Developer",
+      "company": "SAP SE",
+      "status": "parked",
+      "tex": "",
+      "pdf": "",
+      "docx": "",
+      "build_error": "gates failed after regeneration: G2: tech token 'SAP' is not in the claimable set",
+      "gates": {
+        "G1": true,
+        "G2": false,
+        "G3": true
+      },
+      "gate_findings_prebuild": [
+        "G2: tech token 'SAP' is not in the claimable set"
+      ],
+      "gate_findings_postbuild": [],
+      "score": null,
+      "score_breakdown": null,
+      "required_coverage": null,
+      "preferred_coverage": null,
+      "gap_report": null,
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "",
+        "resume_docx": ""
+      },
+      "file_stem": "SAP-HANA---Cloud-Database-Developer"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155364630/copy-of-sap-ixp-intern-technical-quality-manager-services-engagement/",
+      "title": "Copy of SAP iXp Intern - Technical Quality Manager | Services Engagement",
+      "company": "SAP SE",
+      "status": "parked",
+      "tex": "",
+      "pdf": "",
+      "docx": "",
+      "build_error": "gates failed after regeneration: G2: tech token 'SAP' is not in the claimable set",
+      "gates": {
+        "G1": true,
+        "G2": false,
+        "G3": true
+      },
+      "gate_findings_prebuild": [
+        "G2: tech token 'SAP' is not in the claimable set"
+      ],
+      "gate_findings_postbuild": [],
+      "score": null,
+      "score_breakdown": null,
+      "required_coverage": null,
+      "preferred_coverage": null,
+      "gap_report": null,
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "",
+        "resume_docx": ""
+      },
+      "file_stem": "Copy-of-SAP-iXp-Intern---Technical-Quality-Manager-Services-Engagement"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155365399/sap-ixp-intern-technical-quality-manager-services-engagement/",
+      "title": "SAP iXp Intern - Technical Quality Manager | Services Engagement",
+      "company": "SAP SE",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\tex\\SAP-iXp-Intern---Technical-Quality-Manager-Services-Engagement.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\SAP-iXp-Intern---Technical-Quality-Manager-Services-Engagement.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\SAP-iXp-Intern---Technical-Quality-Manager-Services-Engagement.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 42.4,
+      "score_breakdown": {
+        "required_coverage": 13.3,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 1.1,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.333,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "university student",
+          "business administration",
+          "accounting",
+          "industrial engineering",
+          "English fluency",
+          "Portuguese fluency"
+        ],
+        "missing_preferred": [
+          "ownership attitude",
+          "project leadership",
+          "budget tracking",
+          "forecast preparation",
+          "workshop facilitation"
+        ],
+        "ineligible_criteria": [
+          "communication skills"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English",
+          "other"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\SAP-iXp-Intern---Technical-Quality-Manager-Services-Engagement.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\SAP-iXp-Intern---Technical-Quality-Manager-Services-Engagement.docx"
+      },
+      "parse": {
+        "word_count": 580,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "PowerPoint"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 19,
+        "summary": "mirror=1 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=19 repicked=False"
+      },
+      "file_stem": "SAP-iXp-Intern---Technical-Quality-Manager-Services-Engagement"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155320950/temporary-less-6-month-fixed-salary/",
+      "title": "Temporary less 6 month fixed salary",
+      "company": "SAP SE",
+      "status": "parked",
+      "tex": "",
+      "pdf": "",
+      "docx": "",
+      "build_error": "analyst failed: no JSON object in analyst reply",
+      "gates": {
+        "G1": true,
+        "G2": false,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": null,
+      "score_breakdown": null,
+      "required_coverage": null,
+      "preferred_coverage": null,
+      "gap_report": null,
+      "llm_calls": null,
+      "artifacts": {
+        "resume_pdf": "",
+        "resume_docx": ""
+      },
+      "file_stem": "Temporary-less-6-month-fixed-salary"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155306107/ui-developer/",
+      "title": "UI Developer",
+      "company": "SAP SE",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\tex\\UI-Developer.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\UI-Developer.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\UI-Developer.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 55.5,
+      "score_breakdown": {
+        "required_coverage": 20.0,
+        "preferred_coverage": 2.5,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 5.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.5,
+      "preferred_coverage": 0.125,
+      "gap_report": {
+        "missing_required": [
+          "professional software development",
+          "enterprise UI component library",
+          "AI/LLM workflows",
+          "observability"
+        ],
+        "missing_preferred": [
+          "SAP Design System",
+          "SAP Fiori",
+          "SAP Horizon theme",
+          "Storybook",
+          "RTK Query",
+          "accessibility audits",
+          "Cypress"
+        ],
+        "ineligible_criteria": [
+          "Bachelor's degree"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\UI-Developer.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\UI-Developer.docx"
+      },
+      "parse": {
+        "word_count": 558,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "GitHub Actions",
+          "Playwright"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [
+          "experience:Git",
+          "project:Git"
+        ],
+        "area_labels": {
+          "area_1": "Frontend Development -> TypeScript",
+          "area_2": "Backend & AI Engineering -> API Integration & Git"
+        },
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 4,
+        "skills_recased": 20,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=2 labels=2 reorder=4 recased=20 repicked=False"
+      },
+      "file_stem": "UI-Developer"
+    }
+  ]
+}

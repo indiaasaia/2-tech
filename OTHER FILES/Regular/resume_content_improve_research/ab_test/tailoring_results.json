@@ -1,0 +1,96 @@
+{
+  "v1": {
+    "career_objective": {
+      "unique_ratio": 1.0,
+      "mean_pairwise_similarity": 65.4,
+      "jd_term_density": 0.405
+    },
+    "experience_1_desc": {
+      "unique_ratio": 1.0,
+      "mean_pairwise_similarity": 75.2,
+      "jd_term_density": 0.008
+    },
+    "experience_2_desc": {
+      "unique_ratio": 1.0,
+      "mean_pairwise_similarity": 72.7,
+      "jd_term_density": 0.016
+    },
+    "project_1_desc": {
+      "unique_ratio": 1.0,
+      "mean_pairwise_similarity": 48.8,
+      "jd_term_density": 0.262
+    },
+    "project_2_desc": {
+      "unique_ratio": 1.0,
+      "mean_pairwise_similarity": 49.3,
+      "jd_term_density": 0.166
+    },
+    "skills_all": {
+      "unique_ratio": 1.0,
+      "mean_pairwise_similarity": 63.6,
+      "jd_term_density": 0.523
+    },
+    "skills_area_labels": {
+      "unique_ratio": 1.0,
+      "mean_pairwise_similarity": 47.4,
+      "jd_term_density": 0.021
+    },
+    "exp1_skills": {
+      "unique_ratio": 1.0,
+      "mean_pairwise_similarity": 88.7,
+      "jd_term_density": 0.004
+    },
+    "proj1_skills": {
+      "unique_ratio": 1.0,
+      "mean_pairwise_similarity": 46.2,
+      "jd_term_density": 0.296
+    }
+  },
+  "v2": {
+    "career_objective": {
+      "unique_ratio": 1.0,
+      "mean_pairwise_similarity": 56.0,
+      "jd_term_density": 0.483
+    },
+    "experience_1_desc": {
+      "unique_ratio": 1.0,
+      "mean_pairwise_similarity": 81.9,
+      "jd_term_density": 0.012
+    },
+    "experience_2_desc": {
+      "unique_ratio": 0.81,
+      "mean_pairwise_similarity": 90.7,
+      "jd_term_density": 0.003
+    },
+    "project_1_desc": {
+      "unique_ratio": 1.0,
+      "mean_pairwise_similarity": 55.9,
+      "jd_term_density": 0.019
+    },
+    "project_2_desc": {
+      "unique_ratio": 1.0,
+      "mean_pairwise_similarity": 54.1,
+      "jd_term_density": 0.031
+    },
+    "skills_all": {
+      "unique_ratio": 1.0,
+      "mean_pairwise_similarity": 94.6,
+      "jd_term_density": 0.027
+    },
+    "skills_area_labels": {
+      "unique_ratio": 0.667,
+      "mean_pairwise_similarity": 65.0,
+      "jd_term_density": 0.017
+    },
+    "exp1_skills": {
+      "unique_ratio": 0.81,
+      "mean_pairwise_similarity": 86.1,
+      "jd_term_density": 0.018
+    },
+    "proj1_skills": {
+      "unique_ratio": 0.714,
+      "mean_pairwise_similarity": 71.6,
+      "jd_term_density": 0.014
+    }
+  }
+}

@@ -1,0 +1,22 @@
+Meetkumar Riteshkumar Raval
+03046 Cottbus, Germany
++49 15567018163 | ravalmeett@gmail.com
+https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/
+
+Siemens AG
+Berlin, Germany
+
+Cottbus, 29.10.2026
+
+Application for Working Student AI & Python Engineer
+
+Dear Hiring Team,
+
+I am applying for the Working Student AI & Python Engineer position at Siemens AG. I am currently pursuing an MSc in Artificial Intelligence and have built AI-driven Python solutions as a Software Engineer at Soham Infotech.
+At Pantechelearning I implemented automated data extraction and preprocessing pipelines in Python, which I can extend to robust ML pipelines for Siemens. In my Automated Resume Generation project I designed workflows that leveraged open-source large language models and Transformers to analyze and transform text, preparing me to evaluate LLMs effectively. My toolkit also includes Docker and PyTorch.
+The focus on AI and Python aligns with my academic and professional trajectory. I look forward to contributing to cutting-edge machine-learning solutions within Siemens AG.
+I am enrolled in the MSc Artificial Intelligence at BTU Cottbus-Senftenberg until October 2027 and available immediately: 20 hours per week during lecture periods and up to 40 hours per week in semester breaks or for an internship, with no fixed end date. My student residence permit is valid until December 2028. I would be glad to discuss my application in a personal or video interview.
+
+Kind regards
+
+Meetkumar Riteshkumar Raval

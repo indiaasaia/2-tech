@@ -1,0 +1,33 @@
+{
+ "status": "NEEDS_ATTENTION",
+ "job_id": "563808972143015",
+ "job_url": "https://jobs.infineon.com/careers/job/563808972143015",
+ "resume": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume_infineon\\pdf\\Working-Student---Sales-Marketing-Strategy-and-Operations-fmdiv.pdf",
+ "mode": "dry-run",
+ "timestamp": "2026-10-15T10:54:12+00:00",
+ "screenshots": {
+  "01-application-loaded": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\infineon\\results\\01-application-loaded-563808972143015.png",
+  "02-resume-uploaded": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\infineon\\results\\02-resume-uploaded-563808972143015.png",
+  "03-resume-processing-complete": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\infineon\\results\\03-resume-processing-complete-563808972143015.png",
+  "error": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\infineon\\results\\error-563808972143015.png"
+ },
+ "contact_information": {
+  "first_name": "",
+  "last_name": "",
+  "email": "",
+  "phone": "",
+  "phone_country_code": ""
+ },
+ "errors": [
+  "autofill left required contact fields empty: ['first_name', 'last_name', 'email', 'phone'] (observed: {'first_name': '', 'last_name': '', 'email': '', 'phone': '', 'phone_country_code': ''})"
+ ],
+ "confirmation": "",
+ "cookie_banner": true,
+ "resume_confirm_clicked": true,
+ "resume_processing": {
+  "chip_seen": false,
+  "autofill_window_waited": false
+ },
+ "popup": "not-present",
+ "error": "autofill left required contact fields empty: ['first_name', 'last_name', 'email', 'phone'] (observed: {'first_name': '', 'last_name': '', 'email': '', 'phone': '', 'phone_country_code': ''})"
+}

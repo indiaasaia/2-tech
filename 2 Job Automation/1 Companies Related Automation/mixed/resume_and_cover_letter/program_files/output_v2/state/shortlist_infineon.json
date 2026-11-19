@@ -1,0 +1,431 @@
+{
+  "generated_at_utc": "2026-10-14T11:54:48+00:00",
+  "policy": "rank verified resumes by honest-fit score; apply strong-first",
+  "counts": {
+    "verified": 25,
+    "strong": 3,
+    "good": 6,
+    "weak": 7,
+    "poor": 9
+  },
+  "recommendation": "apply to the 3 strong-fit job(s) first; 16 job(s) fall below the 50-point effort line",
+  "jobs": [
+    {
+      "title": "Internship - Legal Compliance in the area of ESH&E (f/m/div)",
+      "company": "Unknown",
+      "job_url": "https://jobs.infineon.com/careers/job/563808971793447",
+      "score": 89.4,
+      "tier": "strong",
+      "required_coverage": 0.857,
+      "preferred_coverage": 1.0,
+      "top_gaps": [
+        "Economics"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Internship---Legal-Compliance-in-the-area-of-ESHE-fmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Internship---Legal-Compliance-in-the-area-of-ESHE-fmdiv.docx"
+    },
+    {
+      "title": "Internship - Project Management Support (f/m/div)",
+      "company": "Unknown",
+      "job_url": "https://jobs.infineon.com/careers/job/563808971906944",
+      "score": 85.1,
+      "tier": "strong",
+      "required_coverage": 0.875,
+      "preferred_coverage": 0.667,
+      "top_gaps": [
+        "Precise",
+        "Related tools experience"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Internship---Project-Management-Support-fmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Internship---Project-Management-Support-fmdiv.docx"
+    },
+    {
+      "title": "Internships, working student position and theses at the Warstein site",
+      "company": "Unknown",
+      "job_url": "https://jobs.infineon.com/careers/job/563808959893172",
+      "score": 82.9,
+      "tier": "strong",
+      "required_coverage": 0.75,
+      "preferred_coverage": 1.0,
+      "top_gaps": [
+        "technical affinity",
+        "independent way of working"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Internships-working-student-position-and-theses-at-the-Warstein-site.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Internships-working-student-position-and-theses-at-the-Warstein-site.docx"
+    },
+    {
+      "title": "Internship - Lab Verification Engineer in the AMS Lab of the Development Center Villach (f/m/div)",
+      "company": "Unknown",
+      "job_url": "https://jobs.infineon.com/careers/job/563808971620732",
+      "score": 79.0,
+      "tier": "good",
+      "required_coverage": 1.0,
+      "preferred_coverage": 0.25,
+      "top_gaps": [
+        "Board assembly",
+        "Soldering",
+        "Debugging skills",
+        "Data automation"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Internship---Lab-Verification-Engineer-in-the-AMS-Lab-of-the-Development-Center-.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Internship---Lab-Verification-Engineer-in-the-AMS-Lab-of-the-Development-Center-.docx"
+    },
+    {
+      "title": "Working Student - Sales & Marketing Strategy and Operations (f/m/div)",
+      "company": "Infineon Technologies AG",
+      "job_url": "https://jobs.infineon.com/careers/job/563808972143015",
+      "score": 77.3,
+      "tier": "good",
+      "required_coverage": 0.8,
+      "preferred_coverage": 0.667,
+      "top_gaps": [
+        "no completed exams",
+        "collaboration tools",
+        "additional languages"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---Sales-Marketing-Strategy-and-Operations-fmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---Sales-Marketing-Strategy-and-Operations-fmdiv.docx"
+    },
+    {
+      "title": "Werkstudent - Wafer Sorting und Wafer Packing (w/m/div)",
+      "company": "Unknown",
+      "job_url": "https://jobs.infineon.com/careers/job/563808971959592",
+      "score": 76.0,
+      "tier": "good",
+      "required_coverage": 1.0,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "grundlegendes Datenbankwissen",
+        "Büro und Reinraum",
+        "Abwechslung im Arbeitsalltag",
+        "nahe am Einsatzort"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Werkstudent---Wafer-Sorting-und-Wafer-Packing-wmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Werkstudent---Wafer-Sorting-und-Wafer-Packing-wmdiv.docx"
+    },
+    {
+      "title": "Working Student - Global Product Marketing & Management for Pressure Sensing (f/m/div)",
+      "company": "Infineon Technologies AG",
+      "job_url": "https://jobs.infineon.com/careers/job/563808972115278",
+      "score": 71.3,
+      "tier": "good",
+      "required_coverage": 1.0,
+      "preferred_coverage": 0.167,
+      "top_gaps": [
+        "German language skills",
+        "stakeholder management",
+        "product forecasts",
+        "pricing strategies"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---Global-Product-Marketing-Management-for-Pressure-Sensing-fmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---Global-Product-Marketing-Management-for-Pressure-Sensing-fmdiv.docx"
+    },
+    {
+      "title": "Working Student - AI-Assisted Embedded Software Development (f/m/div)",
+      "company": "Unknown",
+      "job_url": "https://jobs.infineon.com/careers/job/563808972009600",
+      "score": 70.5,
+      "tier": "good",
+      "required_coverage": 0.875,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "AI coding assistants",
+        "experimenting with new tech",
+        "teamwork",
+        "prototype scripts"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---AI-Assisted-Embedded-Software-Development-fmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---AI-Assisted-Embedded-Software-Development-fmdiv.docx"
+    },
+    {
+      "title": "Internship - High Speed and RF LAB Validation Engineer in Development Center Villach (f/m/div)",
+      "company": "Unknown",
+      "job_url": "https://jobs.infineon.com/careers/job/563808971118853",
+      "score": 65.9,
+      "tier": "good",
+      "required_coverage": 0.75,
+      "preferred_coverage": 0.143,
+      "top_gaps": [
+        "Mathematical concepts",
+        "circuit analysis",
+        "Mixed-Signal High-Speed",
+        "Radar applications"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Internship---High-Speed-and-RF-LAB-Validation-Engineer-in-Development-Center-Vil.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Internship---High-Speed-and-RF-LAB-Validation-Engineer-in-Development-Center-Vil.docx"
+    },
+    {
+      "title": "Working Student - Automotive Project Office (f/m/div)",
+      "company": "Unknown",
+      "job_url": "https://jobs.infineon.com/careers/job/563808972041838",
+      "score": 63.7,
+      "tier": "weak",
+      "required_coverage": 0.667,
+      "preferred_coverage": 0.2,
+      "top_gaps": [
+        "Fluency in English",
+        "not completed exams",
+        "German language plus",
+        "generative AI interest"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---Automotive-Project-Office-fmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---Automotive-Project-Office-fmdiv.docx"
+    },
+    {
+      "title": "Working Student - Supplier Sustainability (f/m/div)",
+      "company": "Unknown",
+      "job_url": "https://jobs.infineon.com/careers/job/563808971879852",
+      "score": 63.4,
+      "tier": "weak",
+      "required_coverage": 0.5,
+      "preferred_coverage": 0.4,
+      "top_gaps": [
+        "Fluency in English",
+        "Study field sustainability",
+        "German would be a plus",
+        "practical experience sustainability"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---Supplier-Sustainability-fmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---Supplier-Sustainability-fmdiv.docx"
+    },
+    {
+      "title": "Working Student - Project Management Office (f/m/div)",
+      "company": "Infineon Technologies AG",
+      "job_url": "https://jobs.infineon.com/careers/job/563808972167411",
+      "score": 62.9,
+      "tier": "weak",
+      "required_coverage": 0.5,
+      "preferred_coverage": 0.5,
+      "top_gaps": [
+        "data analytics activities",
+        "project documentation",
+        "administrative support",
+        "AI solutions experience"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---Project-Management-Office-fmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---Project-Management-Office-fmdiv.docx"
+    },
+    {
+      "title": "Werkstudent – Human Resources - Early Career Talent Acquisition & Hochschulmarketing (w/m/div)",
+      "company": "Unknown",
+      "job_url": "https://jobs.infineon.com/careers/job/563808972088501",
+      "score": 59.2,
+      "tier": "weak",
+      "required_coverage": 0.625,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "Sehr gute Deutschkenntnisse",
+        "Sehr gute Englischkenntnisse",
+        "Mindestens 16 Stunden",
+        "erste Recruiting Erfahrung"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Werkstudent-Human-Resources---Early-Career-Talent-Acquisition-Hochschulmarketing.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Werkstudent-Human-Resources---Early-Career-Talent-Acquisition-Hochschulmarketing.docx"
+    },
+    {
+      "title": "Working Student - RF Test for Sensors RF Immunity (f/m/div)",
+      "company": "Infineon Technologies AG",
+      "job_url": "https://jobs.infineon.com/careers/job/563808972121554",
+      "score": 54.7,
+      "tier": "weak",
+      "required_coverage": 0.4,
+      "preferred_coverage": 0.333,
+      "top_gaps": [
+        "Electronic Engineering",
+        "Computer Science",
+        "Physics",
+        "layout design"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---RF-Test-for-Sensors-RF-Immunity-fmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---RF-Test-for-Sensors-RF-Immunity-fmdiv.docx"
+    },
+    {
+      "title": "Working Student - Foundry Supplier Market Intelligence & Data Management (f/m/div)",
+      "company": "Unknown",
+      "job_url": "https://jobs.infineon.com/careers/job/563808971794202",
+      "score": 52.4,
+      "tier": "weak",
+      "required_coverage": 0.2,
+      "preferred_coverage": 0.625,
+      "top_gaps": [
+        "analytical and research capabilities",
+        "attention to detail",
+        "proper students",
+        "not completed all exams"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---Foundry-Supplier-Market-Intelligence-Data-Management-fmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---Foundry-Supplier-Market-Intelligence-Data-Management-fmdiv.docx"
+    },
+    {
+      "title": "Working Student - Performance Marketing (f/m/div)",
+      "company": "Infineon Technologies AG",
+      "job_url": "https://jobs.infineon.com/careers/job/563808972013606",
+      "score": 50.9,
+      "tier": "weak",
+      "required_coverage": 0.429,
+      "preferred_coverage": 0.143,
+      "top_gaps": [
+        "initial lead management experience",
+        "project coordination experience",
+        "stakeholder coordination",
+        "data‑driven decision making"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---Performance-Marketing-fmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---Performance-Marketing-fmdiv.docx"
+    },
+    {
+      "title": "Werkstudent - Technisches Gebäudemanagement (w/m/div)",
+      "company": "Unknown",
+      "job_url": "https://jobs.infineon.com/careers/job/563808971880480",
+      "score": 47.9,
+      "tier": "poor",
+      "required_coverage": 0.429,
+      "preferred_coverage": 0.143,
+      "top_gaps": [
+        "maximal 20 Stunden",
+        "sehr gute Deutschkenntnisse",
+        "Umwelttechnik",
+        "selbstständige, strukturierte Arbeitsweise"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Werkstudent---Technisches-Gebäudemanagement-wmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Werkstudent---Technisches-Gebäudemanagement-wmdiv.docx"
+    },
+    {
+      "title": "Working Student - Application Engineering (f/m/div)",
+      "company": "Infineon Technologies AG",
+      "job_url": "https://jobs.infineon.com/careers/job/563808972073549",
+      "score": 46.3,
+      "tier": "poor",
+      "required_coverage": 0.333,
+      "preferred_coverage": 0.25,
+      "top_gaps": [
+        "electrical engineering",
+        "computer science",
+        "microcontrollers",
+        "model based design"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---Application-Engineering-fmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---Application-Engineering-fmdiv.docx"
+    },
+    {
+      "title": "Werkstudent - Business Continuity (w/m/div)",
+      "company": "Unknown",
+      "job_url": "https://jobs.infineon.com/careers/job/563808971904127",
+      "score": 39.2,
+      "tier": "poor",
+      "required_coverage": 0.125,
+      "preferred_coverage": 0.25,
+      "top_gaps": [
+        "Wirtschaftsingenieurwesen",
+        "artverwandten Studiengang",
+        "Organisationstalent",
+        "strukturierte Arbeitsweise"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Werkstudent---Business-Continuity-wmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Werkstudent---Business-Continuity-wmdiv.docx"
+    },
+    {
+      "title": "Werkstudent - Technisches Marketing (w/m/div)",
+      "company": "Unknown",
+      "job_url": "https://jobs.infineon.com/careers/job/563808971831069",
+      "score": 35.5,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.375,
+      "top_gaps": [
+        "Elektrotechnik",
+        "Informationstechnik",
+        "erste Erfahrung Softwareentwicklung",
+        "fließend Deutsch"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Werkstudent---Technisches-Marketing-wmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Werkstudent---Technisches-Marketing-wmdiv.docx"
+    },
+    {
+      "title": "Werkstudent - Facility Management in Automatisierungstechnik / Elektrotechnik (w/m/div)",
+      "company": "Unknown",
+      "job_url": "https://jobs.infineon.com/careers/job/563808971792696",
+      "score": 34.7,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.333,
+      "top_gaps": [
+        "gute Deutschkenntnisse",
+        "erweiterte Kenntnisse PCS7",
+        "interesse technische Infrastruktur",
+        "Teamfähigkeit"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Werkstudent---Facility-Management-in-Automatisierungstechnik-Elektrotechnik-wmdi.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Werkstudent---Facility-Management-in-Automatisierungstechnik-Elektrotechnik-wmdi.docx"
+    },
+    {
+      "title": "Pool Position - Praktika, Werkstudententätigkeiten und Abschlussarbeiten bei MOTEON GmbH in Ilmenau",
+      "company": "Unknown",
+      "job_url": "https://jobs.infineon.com/careers/job/563808971991308",
+      "score": 33.6,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.286,
+      "top_gaps": [
+        "Technischer Studiengang",
+        "Deutschkenntnisse",
+        "Englischkenntnisse",
+        "Technische Affinität"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Pool-Position---Praktika-Werkstudententätigkeiten-und-Abschlussarbeiten-bei-MOTE.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Pool-Position---Praktika-Werkstudententätigkeiten-und-Abschlussarbeiten-bei-MOTE.docx"
+    },
+    {
+      "title": "Werkstudent - Labormessungen an neuartigem Synchron-Induktionsmotor (w/m/div)",
+      "company": "Unknown",
+      "job_url": "https://jobs.infineon.com/careers/job/563808972055420",
+      "score": 32.6,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.143,
+      "top_gaps": [
+        "vergleichbarer Studiengang",
+        "mindestens 3 Monate",
+        "sehr gute Deutschkenntnisse",
+        "selbstständige Arbeitsweise"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Werkstudent---Labormessungen-an-neuartigem-Synchron-Induktionsmotor-wmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Werkstudent---Labormessungen-an-neuartigem-Synchron-Induktionsmotor-wmdiv.docx"
+    },
+    {
+      "title": "Werkstudent - Logistik / Supply Chain (w/m/div)",
+      "company": "Unknown",
+      "job_url": "https://jobs.infineon.com/careers/job/563808971922747",
+      "score": 28.0,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "Wirtschaftswissenschaften",
+        "Betriebswirtschaftslehre",
+        "Wirtschaftsinformatik",
+        "gute Deutsch- und Englischkenntnisse"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Werkstudent---Logistik-Supply-Chain-wmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Werkstudent---Logistik-Supply-Chain-wmdiv.docx"
+    },
+    {
+      "title": "Werkstudent - Qualitätsmanagement im Zuverlässigkeitslabor (w/m/div)",
+      "company": "Unknown",
+      "job_url": "https://jobs.infineon.com/careers/job/563808972052110",
+      "score": 28.0,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "technischen Studiengang",
+        "analytische Fähigkeiten",
+        "Teamarbeit",
+        "Deutsch (C1)"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Werkstudent---Qualitätsmanagement-im-Zuverlässigkeitslabor-wmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Werkstudent---Qualitätsmanagement-im-Zuverlässigkeitslabor-wmdiv.docx"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+% Compact, single-column, parser-friendly one-page resume template.
+\documentclass[a4paper,10pt]{article}
+
+\usepackage[left=0.75cm,right=0.75cm,top=0.35cm,bottom=0.35cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{cfr-lm}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{textcomp}
+
+\pagestyle{empty}
+\raggedright
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\spaceskip}{0.34em plus 0.08em minus 0.02em}
+\setlength{\xspaceskip}{0.34em plus 0.08em minus 0.02em}
+\linespread{0.9}
+\setlist[itemize]{leftmargin=1.2em,nosep,topsep=0pt,itemsep=0pt,parsep=0pt,partopsep=0pt}
+\titleformat{\section}{\bfseries\normalsize}{}{0pt}{}
+\titlespacing*{\section}{0pt}{1pt}{0pt}
+
+\begin{document}
+
+\begin{center}
+  {\large\bfseries RAVAL MEETKUMAR RITESHKUMAR}\\[-1pt]
+  {\small +49 15565 468731 \;|\; \href{mailto:ravalmeett@gmail.com}{ravalmeett@gmail.com} \;|\; \href{https://www.linkedin.com/in/meetraval/}{linkedin.com/in/meetraval} \;|\; \href{https://github.com/ravalmeet}{github.com/ravalmeet}}
+\end{center}
+\vspace{-6pt}
+
+\section*{Career Objective}
+@@CAREER_OBJECTIVE@@\par
+
+\section*{Experience}
+\textbf{@@ROLE_1@@ — @@COMPANY_1@@} \hfill @@DATES_1@@\par
+@@LOCATION_1@@\par
+\begin{itemize}
+  \item @@DESCRIPTION_1@@
+  \item \textbf{Skills:} @@SKILLS_1@@
+\end{itemize}
+\textbf{@@ROLE_2@@ — @@COMPANY_2@@} \hfill @@DATES_2@@\par
+@@LOCATION_2@@\par
+\begin{itemize}
+  \item @@DESCRIPTION_2@@
+  \item \textbf{Skills:} @@SKILLS_2@@
+\end{itemize}
+
+\section*{Education}
+@@EDUCATION@@
+
+\section*{Main Projects}
+\textbf{@@PROJECT_TITLE_1@@}
+\begin{itemize}
+  \item @@PROJECT_DESC_1@@
+  \item \textbf{Skills:} @@PROJECT_SKILLS_1@@
+\end{itemize}
+\textbf{@@PROJECT_TITLE_2@@}
+\begin{itemize}
+  \item @@PROJECT_DESC_2@@
+  \item \textbf{Skills:} @@PROJECT_SKILLS_2@@
+\end{itemize}
+
+\section*{Research and Publications}
+\begin{itemize}
+@@RESEARCH@@
+\end{itemize}
+
+\section*{Achievements}
+\begin{itemize}
+@@ACHIEVEMENTS@@
+\end{itemize}
+
+\section*{Skills}
+\begin{itemize}
+  \item \textbf{Programming Languages:} @@LANGUAGES@@
+  \item \textbf{Specialized Areas:} @@SPECIALIZED_AREAS@@
+  \item \textbf{@@SKILLS_AREA_1_LABEL@@:} @@SKILLS_AREA_1@@
+  \item \textbf{@@SKILLS_AREA_2_LABEL@@:} @@SKILLS_AREA_2@@
+\end{itemize}
+
+\section*{Certifications}
+\begin{itemize}
+@@CERTIFICATIONS@@
+\end{itemize}
+
+\section*{Additional Projects}
+\begin{itemize}
+@@ADDITIONAL_PROJECTS@@
+\end{itemize}
+
+\section*{Languages}
+\begin{itemize}
+@@SPOKEN_LANGUAGES@@
+\end{itemize}
+
+\end{document}

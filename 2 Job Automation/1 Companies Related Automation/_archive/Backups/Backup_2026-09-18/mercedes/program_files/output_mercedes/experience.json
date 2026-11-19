@@ -1,0 +1,577 @@
+{
+  "generated_at_utc": "2026-09-17T11:03:43+00:00",
+  "model": "gpt-oss:120b",
+  "total_jobs": 16,
+  "experiences": [
+    {
+      "source": "mercedes",
+      "title": "Werkstudentent*in Qualitätsmanagement Research Development",
+      "company": "Mercedes-Benz AG",
+      "location": "Sindelfingen",
+      "posted_time": "2026-09-15",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudentent-in-qualit-tsmanagement-research-development-238198-MER00047VS",
+      "job_description": "[Tasks] Die Mercedes-Benz Group AG ist eines der erfolgreichsten Automobilunternehmen der Welt. Mit der Mercedes-Benz AG gehört der Fahrzeughersteller zu den größten Anbietern von Premium- und Luxus-Pkw und Vans. In der Konzernforschung & Mercedes-Benz Cars Entwicklung (RD) gestalten wir die Automobilgenerationen der Zukunft. Wir arbeiten schon heute an Fahrzeugen, die die Technologieführerschaft von Mercedes-Benz auch zukünftig sichern werden. Unser Team Q@RD (Quality Research & Development) begleitet und gestaltet mit hoher Motivation RD-interne und ressortübergreifende Prozesse mit unseren Stakeholderbereichen in MBC (Mercedes-Benz Cars) und unterstützt bei deren Implementierung. Diese Herausforderungen kommen u. a. auf Dich zu: Mitwirkung im Bereich Qualitätsmanagement / Prüfmittelmanagement • Mitarbeit bei der Weiterentwicklung von Qualitätsmethoden im Labor- und Prüfmittelmanagement • Aufbau und Verwaltung von Datenbanken sowie Social-Intranet-Inhalten • Weiterentwicklung eines bestehenden Projektes zur automatisierten Auswertung von Kalibrierscheinen • Analyse und Bewertung von Kalibrierdaten, sowie Ableitung von Trends und Auffälligkeiten mithilfe von Python • Mitarbeit im kontinuierlichen Verbesserungsprozess (KVP) • Die Tätigkeit kann ab Oktober 2026 beginnen.\n\n[Qualifications] Studiengang im Bereich Ingenieur- oder Wirtschaftswissenschaften oder ein vergleichbarer Studiengang • Sichere Deutsch- (C1) und Englischkenntnisse in Wort und Schrift • Sicherer Umgang mit MS-Office • Kenntnisse in Datenanalyse/Programmierung von Vorteil (Python) • Hohes Maß an Engagement, Teamfähigkeit und eigenverantwortlichem Arbeiten • Analytische Denkweise sowie strukturierte und strategische Arbeitsweise • Zusätzliche Informationen: Wir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Bitte vergiss nicht im Online-Formular Deine Dokumente als \"relevant für diese Bewerbung\" zu markieren und beachte die maximale Dateigröße von 5 MB. Weiterführende Informationen zu den Einstellkriterien findest Du hier . Schwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung (sbv-sindelfingen@mercedes-benz.com) unterstützt Dich gerne im Bewerbungsprozess. People Solutions hilft Dir bei Fragen zum Bewerbungsprozess gerne weiter. Du erreichst uns per E-Mail über myhrservice@mercedes-benz.com oder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).",
+      "experience_1": {
+        "role": "System Integration Engineer",
+        "description": "Integrated backend systems and managed databases, reducing latency and enhancing performance while supporting cross-functional engineering teams",
+        "skills": [
+          "system integration",
+          "database management",
+          "performance optimization",
+          "data management",
+          "latency improvement",
+          "cross-functional collaboration"
+        ]
+      },
+      "experience_2": {
+        "role": "Database Management Intern",
+        "description": "Designed MySQL database schemas and implemented backend data services with Django and Flask to support machine-learning workflows and web application data storage",
+        "skills": [
+          "Python",
+          "MySQL",
+          "database management",
+          "data storage",
+          "backend development",
+          "Django",
+          "Flask"
+        ]
+      },
+      "experience_error": ""
+    },
+    {
+      "source": "mercedes",
+      "title": "Werkstudent*in Sekretariats- und Organisationsmanagement",
+      "company": "Mercedes-Benz AG",
+      "location": "Sindelfingen",
+      "posted_time": "2026-09-09",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-sekretariats--und-organisationsmanagement-237612-MER000487Y",
+      "job_description": "[Tasks] RD/MEF (Kraftstoff & SCR Module & Systeme) verantwortet die Entwicklung, Integration und Serienbetreuung von Kraftstoff- sowie SCR-Systemen für die Diesel-Abgasnachbehandlung im globalen Fahrzeugportfolio von Mercedes-Benz Cars und Vans. RD/MES (Exterieur Signatur Module & Systeme) verantwortet die Entwicklung, Integration und Serienbetreuung der Signature-Bauteile im Exterieur für das globale Fahrzeugportfolio von Mercedes-Benz Cars. Zur Unterstützung unseres Teams suchen wir eine engagierte und zuverlässige Persönlichkeit für eine Werkstudententätigkeit im Sekretariats- und Organisationsmanagement. In dieser Funktion unterstützt Du die Teams RD/MEF und RD/MES bei organisatorischen, administrativen und koordinativen Aufgaben im Tagesgeschäft. Dazu gehören die Planung und Koordination von Terminen und Besprechungen, die Vor- und Nachbereitung von Meetings, die Erstellung und Pflege von Unterlagen sowie die Unterstützung bei der internen und externen Kommunikation. Darüber hinaus wirkst Du bei der Organisation von Workshops, Veranstaltungen und Dienstreisen mit, pflegst Übersichten und Auswertungen und unterstützt bei der Dokumentation sowie der Verwaltung von bereichsrelevanten Informationen. Durch die enge Zusammenarbeit mit verschiedenen Fachbereichen erhältst Du spannende Einblicke in die Entwicklungs- und Projektarbeit rund um Kraftstoff- und SCR-Systeme. Ziel der Tätigkeit ist es, die organisatorischen Abläufe in den Teams effizient zu unterstützen und damit einen wichtigen Beitrag zum reibungslosen Ablauf der täglichen Arbeit in den Bereichen RD/MEF und RD/MES zu leisten. Diese Herausforderungen kommen auf Dich zu: Erstellung und Bearbeitung von Korrespondenz, Berichten, Protokollen und sonstigen Geschäftsdokumenten • Organisation und Koordination administrativer Abläufe im Sekretariats- und Assistenzbereich • Terminmanagement sowie Vor- und Nachbereitung von Besprechungen und Veranstaltungen • Bearbeitung und Steuerung des Postein- und -ausgangs • Pflege, Verwaltung und Archivierung von Dokumenten, Akten und Datenbeständen • Telefonische und schriftliche Kommunikation mit internen und externen Ansprechpersonen • Erstellung von Auswertungen, Statistiken, Präsentationen und organisatorischen Übersichten • Unterstützung der Führungskraft und des Teams bei organisatorischen, administrativen und projektbezogenen Aufgaben • Die Tätigkeit kann ab November 2026 beginnen.\n\n[Qualifications] Studiengang im Bereich Management, Business Administration, Betriebswirtschaftslehre, Wirtschaftspsychologie oder einem vergleichbaren Studiengang • Vorzugsweise abgeschlossene kaufmännische Berufsausbildung • Verhandlungssichere Deutschkenntnisse und Grundkenntnisse in Englisch • Ausgeprägte Kommunikationsfähigkeit und Freude am Umgang mit Kolleg*innen • Hohes Organisations- und Koordinationsvermögen • Eigeninitiative, Teamfähigkeit und Zuverlässigkeit • Diskretion und Loyalität • Zusätzliche Informationen: Wir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Bitte vergiss nicht im Online-Formular Deine Dokumente als \"relevant für diese Bewerbung\" zu markieren und beachte die maximale Dateigröße von 5 MB. Weiterführende Informationen zu den Einstellkriterien findest Du hier . Schwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung ( sbv-sindelfingen@mercedes-benz.com ) unterstützt Dich gerne im Bewerbungsprozess. People Solutions hilft Dir bei Fragen zum Bewerbungsprozess gerne weiter. Du erreichst uns per E-Mail über myhrservice@mercedes-benz.com oder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).",
+      "experience_1": {
+        "role": "System Integration Engineer",
+        "description": "Integrated backend servers and databases within cross-functional team, optimizing data management, latency and overall system performance",
+        "skills": [
+          "system integration",
+          "data management",
+          "performance optimization",
+          "backend systems",
+          "cross-functional collaboration",
+          "server-side systems"
+        ]
+      },
+      "experience_2": {
+        "role": "Database Management Intern",
+        "description": "Managed MySQL databases to store and organize data supporting machine-learning workflows and web-application back-ends",
+        "skills": [
+          "MySQL",
+          "Data management",
+          "Data storage",
+          "Backend development",
+          "Django",
+          "Flask",
+          "Machine-learning workflow support"
+        ]
+      },
+      "experience_error": ""
+    },
+    {
+      "source": "mercedes",
+      "title": "Werkstudent*in Planung Rohbau Werkskoordination Projekt xA",
+      "company": "Mercedes-Benz AG",
+      "location": "Düsseldorf",
+      "posted_time": "2026-09-10",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-planung-rohbau-werkskoordination-projekt-xa-237670-MER000475F",
+      "job_description": "[Tasks] Mercedes-Benz Vans hat den Führungsanspruch bei Elektro- und Verbrennungsmobilität fest in seiner Strategie verankert. Mit dem VAN.xA setzt Mercedes-Benz Vans die nächste Stufe seiner Strategie um: ab 2026 werden alle mittelgroßen und großen Vans auf einer neuen und modularen Architektur basieren. Dies gilt sowohl für gewerblich genutzte Premium-Allrounder als auch für privat genutzte Vans im Luxussegment. Unabhängig davon, wie die VAN.xA Fahrzeuge eingesetzt werden: im Fokus stehen der Mehrwert für die Kunden und deren individuellen Anforderungen. Als Projektleitungsteam für Operations sind wir das Bindeglied zwischen der Entwicklungsmannschaft und den Produktions-Centern weltweit. Wir gestalten aktiv die Einführung der VAN.xA Produkte in den Markt und suchen eine*n motivierte*n Werkstudent*in zur Unterstützung in unserem Team. Diese Herausforderungen kommen u. a. auf Dich zu: Mitwirkung bei der Projekt-, Produkt- und Termingestaltung in der Projektleitung in VAN Operations am Standort Düsseldorf • Mithilfe bei der Steuerung von übergeordneten strategischen Projekten und Prüfaufträgen für den VAN.xA im Rahmen der Werkskoordination • Mitwirkung bei der Gremiensteuerung und Sicherstellung des Informationsaustauschs zwischen der Leitung Operations, der Projektleitung, Gewerkeplanung, Produktion und dem strategischen Projekt • Wir bieten Dir: Einblick in ein Großprojekt und in die internationale Projektleitung • Praktische Erfahrungen in einem dynamischen und innovativen Bereich • Eigenverantwortliches Arbeiten und Umsetzung eigener Ideen werden gefördert • Chance sowohl die batterieelektrische als auch verbrennungsmotorische Zukunft mitzugestalten • Ein motiviertes und engagiertes Team, das Dich unterstützt und fördet • Die Tätigkeit kann ab Oktober 2026 beginnen.\n\n[Qualifications] Studiengang im technischen oder betriebswirtschaftlichen Bereich • Sichere Deutsch- und Englischkenntnisse in Wort und Schrift • Sicherer Umgang mit MS-Office • Engagement • Teamfähigkeit • Analytische Denkweise und strategische Arbeitsweise • Interesse an Produktionsplanung und -prozessen • Zusätzliche Informationen: Wir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Bitte vergiss nicht im Online-Formular Deine Dokumente als \"relevant für diese Bewerbung\" zu markieren und beachte die maximale Dateigröße von 5 MB. Weiterführende Informationen zu den Einstellkriterien findest Du hier . Schwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung (sbv-duesseldorf@mercedes-benz.com) unterstützt Dich gerne im Bewerbungsprozess. People Solutions hilft Dir bei Fragen zum Bewerbungsprozess gerne weiter. Du erreichst uns per E-Mail über myhrservice@mercedes-benz.com oder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).",
+      "experience_1": {
+        "role": "Technical Project Assistant",
+        "description": "Integrated backend systems and databases, optimizing data flow and latency to enable seamless information exchange across cross-functional engineering and operations teams",
+        "skills": [
+          "system integration",
+          "data management",
+          "backend systems",
+          "performance optimization",
+          "latency improvement",
+          "cross-functional collaboration"
+        ]
+      },
+      "experience_2": {
+        "role": "Technical Project Data Intern",
+        "description": "Developed backend infrastructure and managed MySQL databases to support data handling for machine learning workflows, ensuring reliable information storage",
+        "skills": [
+          "MySQL",
+          "Database Management",
+          "Backend Development",
+          "Django",
+          "Flask",
+          "Data Storage",
+          "Machine Learning Workflow Support"
+        ]
+      },
+      "experience_error": ""
+    },
+    {
+      "source": "mercedes",
+      "title": "Werkstudent*in Schwerpunkt Learning Technical Skills",
+      "company": "Mercedes-Benz AG",
+      "location": "Sindelfingen",
+      "posted_time": "2026-09-09",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-schwerpunkt-learning-technical-skills-237582-MER0004882",
+      "job_description": "[Tasks] Du begeisterst Dich für Lernen, Zukunftstechnologien, Digitalisierung, Künstliche Intelligenz und technische Innovationen? Dann bist Du bei uns genau richtig! Der Bereich Talent Management & Learning gestaltet die Qualifizierung der Zukunft bei Mercedes-Benz. Im Team Learning Technical Skills unterstützen wir Mitarbeitende weltweit dabei, die Kompetenzen aufzubauen, die für die Transformation der Automobilindustrie erforderlich sind – von Fahrzeug- und Produktionstechnologien über Software, Data & AI bis hin zu neuen Arbeits- und Lernformen. Dabei entwickeln wir moderne Lernangebote, steuern Qualifizierungsportfolios und arbeiten eng mit internen Expert*innen sowie externen Partnern zusammen. Als Werkstudent*in erhältst Du spannende Einblicke in die strategische und operative Weiterentwicklung technischer Qualifizierungsangebote bei Mercedes-Benz und kannst eigene Ideen aktiv einbringen. Wir arbeiten mobil und flexibel. Gleichzeitig sind uns regelmäßiger persönlicher Austausch und Zusammenarbeit wichtig. Deine Aufgaben: Learning Portfolio & Skill Management Unterstützung bei der Weiterentwicklung unseres weltweiten Technical-Skills-Portfolios • Analyse und Aufbereitung aktueller Trends in den Bereichen Technologie, Software, Data & AI, Produktion und technische Qualifizierung • Durchführung von Recherchen zu Zukunftskompetenzen und Qualifizierungsbedarfen • Learning Operations & Projektmanagement Unterstützung bei der Planung, Organisation sowie Vor- und Nachbereitung von Trainings, Lernformaten und Qualifizierungsinitiativen • Mitarbeit bei der Steuerung von Trainingsanbietern und internen Stakeholdern • Unterstützung bei Terminmanagement, Dokumentation und Qualitätssicherung • Data & Reporting Erstellung von Auswertungen, Reports und Management-Präsentationen • Analyse von Teilnehmerzahlen, Feedbacks und Lernkennzahlen • Unterstützung bei der Aufbereitung von Entscheidungsgrundlagen für das Portfolio-Management • Content Creation & Kommunikation Erstellung und Überarbeitung von Präsentationen, Lernunterlagen und Kommunikationsmaterialien • Unterstützung bei der Gestaltung digitaler Lernpfade und Lernangebote • Vorbereitung von Beiträgen für Communities, Intranet und interne Kommunikationskanäle • Innovation & Digitalisierung Unterstützung bei Projekten rund um digitale Lernformate, Lernplattformen und KI-gestütztes Lernen • Mitarbeit bei der Entwicklung neuer Lern- und Qualifizierungskonzepte • Einbringen eigener Ideen zur Weiterentwicklung moderner Lernangebote • Die Tätigkeit kann ab November 2026 beginnen.\n\n[Qualifications] Studiengang im Bereich Wirtschaftswissenschaften, Wirtschaftsingenieurwesen, Sozialwissenschaften, Psychologie, Bildungswissenschaften, Kommunikationswissenschaften, Informatik oder Wirtschaftsinformatik oder ein vergleichbarer Studiengang • Sichere Deutsch- und Englischkenntnisse in Wort und Schrift • Sicherer Umgang mit MS Office • Erfahrung im Erstellen und Überarbeiten von Präsentationen • Erste Erfahrungen mit digitalen Lernplattformen, KI-Tools oder in der Datenanalyse sind von Vorteil • Strukturierte und selbstständige Arbeitsweise • Analytisches Denkvermögen und schnelle Auffassungsgabe • Kommunikationsstärke und Teamfähigkeit • Eigeninitiative, Kreativität und Spaß daran, Neues auszuprobieren • Interesse an technischen Themen und Zukunftstechnologien • Zusätzliche Informationen: Wir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Bitte vergiss nicht im Online-Formular Deine Dokumente als \"relevant für diese Bewerbung\" zu markieren und beachte die maximale Dateigröße von 5 MB. Weiterführende Informationen zu den Einstellkriterien findest Du hier . Schwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung ( sbv-sindelfingen@mercedes-benz.com ) unterstützt Dich gerne im Bewerbungsprozess. People Solutions hilft Dir bei Fragen zum Bewerbungsprozess gerne weiter. Du erreichst uns per E-Mail über myhrservice@mercedes-benz.com oder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).",
+      "experience_1": {
+        "role": "Systems Integration Engineer",
+        "description": "Integrated backend systems and databases, optimized latency and performance, managed data pipelines, and collaborated cross-functional teams to deliver robust server-side solutions",
+        "skills": [
+          "system integration",
+          "data management",
+          "performance optimization",
+          "backend engineering",
+          "cross-functional collaboration",
+          "database integration"
+        ]
+      },
+      "experience_2": {
+        "role": "Software Development Intern",
+        "description": "Developed MySQL database structures and Django/Flask backend services to enable efficient data storage for machine-learning workflows",
+        "skills": [
+          "Data management",
+          "Database management",
+          "Machine learning workflow support",
+          "Backend development",
+          "Django",
+          "Flask",
+          "MySQL",
+          "Web application development"
+        ]
+      },
+      "experience_error": ""
+    },
+    {
+      "source": "mercedes",
+      "title": "Werkstudent für Android Entwicklung \"in car\" (m/w/d/x)",
+      "company": "Mercedes-Benz Tech Innovation GmbH",
+      "location": "Stuttgart",
+      "posted_time": "2026-09-10",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-f-r-android-entwicklung-in-car-m-w-d-x--237757-J000237757",
+      "job_description": "[Tasks] Welche Aufgaben erwarten dich? Als Werkstudent für Android Entwicklung „in car“ (m/w/d/x) unterstützt du das Team bei der Entwicklung moderner In-Car-Apps für Android und erhältst dabei Einblicke in hochmoderne Software-Architekturen. • Du wirkst aktiv an der professionellen Softwareentwicklung von Infotainment-Applikationen mit und bringst deine Kenntnisse in die Entwicklung ein. • Du gestaltest das digitale Fahrzeug der Zukunft aktiv mit und unterstützt bei der Weiterentwicklung innovativer In-Car-Lösungen. • Du arbeitest in einem internationalen Scrum-Team und erhältst spannende Einblicke in agile Entwicklungsprozesse und die Zusammenarbeit verschiedener Fachbereiche. • Darüber hinaus arbeitest du eng mit erfahrenen Kolleginnen und Kollegen zusammen und kannst dich fachlich sowie persönlich weiterentwickeln. •\n\n[Qualifications] Wie passt du in unser Team? Bereit, durchzustarten? Wenn du uns mit nachweislich hervorragenden Deutsch- und Englischkenntnissen überzeugst und deine vollständigen Bewerbungsunterlagen (Anschreiben, Lebenslauf, Notenübersicht, Immatrikulationsbescheinigung sowie ggf. Aufenthaltsgenehmigung/Arbeitserlaubnis) vorliegen, bist du nur noch einen Klick von deiner Chance entfernt. Kleiner Tipp: Bei der Flut an Top-Bewerbungen, die wir bekommen, ist eine lückenlose Bewerbung dein einziges Ticket ins Spiel. Ohne das komplette Paket geht's für dich leider nicht weiter – no exceptions! Du studierst im Bereich IT, Informatik, Software Engineering oder einen vergleichbaren Studiengang. • Du bringst erste Erfahrungen mit Programmiersprachen wie Java und Kotlin sowie mit der Entwicklung von Android-Anwendungen mit. • Du begeisterst dich für Softwareentwicklung und interessierst dich insbesondere für Mobile- und Android-Entwicklung. • Du arbeitest sorgfältig und diszipliniert, bist wissbegierig und hast Freude daran, Neues zu lernen und dich fachlich weiterzuentwickeln. • Du bist ein echter Teamplayer und hast Freude an der Zusammenarbeit in einem internationalen und agilen Umfeld. •",
+      "experience_1": {
+        "role": "Software Engineer",
+        "description": "Integrated backend services and databases, reducing latency and improving performance within cross-functional software team",
+        "skills": [
+          "software development",
+          "system integration",
+          "backend development",
+          "database management",
+          "performance optimization",
+          "latency reduction",
+          "cross-functional collaboration"
+        ]
+      },
+      "experience_2": {
+        "role": "Backend Development Intern",
+        "description": "Developed backend infrastructure for web applications using Django and Flask, managing MySQL databases to support data storage and machine-learning workflows",
+        "skills": [
+          "MySQL",
+          "Django",
+          "Flask",
+          "backend development",
+          "data management",
+          "software development",
+          "web application backend",
+          "machine learning workflow support"
+        ]
+      },
+      "experience_error": ""
+    },
+    {
+      "source": "mercedes",
+      "title": "Werkstudent*in Preissteuerung & Marketingprogramme Pkw",
+      "company": "Mercedes-Benz AG",
+      "location": "Berlin",
+      "posted_time": "2026-09-04",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-preissteuerung-marketingprogramme-pkw-237239-MER00047JK",
+      "job_description": "[Tasks] Die Mercedes-Benz Group AG ist eines der erfolgreichsten Automobilunternehmen der Welt. Mit der Mercedes-Benz AG gehört der Fahrzeughersteller zu den größten Anbietern von Premium- und Luxus-Pkw und Vans. In der deutschen Vertriebszentrale, kurz MBD, im Herzen von Berlin steuern wir den Vertrieb und Service und entwickeln die Strategien und Prozesse um unsere Fahrzeuge auf die Straßen zu bringen. Im Bereich Verkaufssteuerung & Analysen MB Cars Deutschland steuern wir das deutsche Mercedes-Benz Agentennetz und sind maßgeblich für den Neufahrzeug-Vertriebserfolg von Mercedes-Benz Deutschland verantwortlich. Im Team Preissteuerung & Marketingprogramme Pkw erwarten Dich spannende Aufgaben rund um das Thema Neufahrzeug-Konditionierung. Zudem wirst Du direkt in das operative Tagesgeschäft einsteigen. Diese Herausforderungen kommen u. a. auf Dich zu: Plattformmanagement: Pflege und Aktualisierung der Inhalte der Kommunikationsplattform mit dem deutschen Agentennetz • Händlersupport: Beantwortung von Händleranfragen zu Preisregelungen und Konditionen • Konditionsmanagement: Pflege sowie Administration automatisierter Konditionsumstellungen im internen Konditionssteuerungssystem P.EN • KAM-Statusprüfung: Bewertung von Anträgen KAM-Kunden-Status basierend auf Fuhrpark- & Potenzial-KPIs • Dokumentenpflege und -weiterentwicklung: Betreuung der Konditionsblätter (Konditionsblattdruck) und Konditionskontrolle • Die Tätigkeit kann ab Oktober 2026 beginnen. Bitte beachte, dass wir nur Kandidatinnen und Kandidaten berücksichtigen, die planen mindestens ein Jahr die Werkstudententätigkeit auszuüben.\n\n[Qualifications] Studiengang Betriebswirtschaftslehre oder einen vergleichbaren Studiengang • Sichere Deutsch- und Englischkenntnisse in Wort und Schrift • Sicherer Umgang mit MS-Office • Engagement und Teamfähigkeit • Analytische Denkweise und strategische Arbeitsweise • Zusätzliche Informationen: Wir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Bitte vergiss nicht im Online-Formular Deine Dokumente als \"relevant für diese Bewerbung\" zu markieren und beachte die maximale Dateigröße von 5 MB. Weiterführende Informationen zu den Einstellkriterien findest Du hier . Schwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung (sbv-mbvd@mercedes-benz.com) unterstützt Dich gerne im Bewerbungsprozess. People Solutions hilft Dir bei Fragen zum Bewerbungsprozess gerne weiter. Du erreichst uns per E-Mail über myhrservice@mercedes-benz.com oder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).",
+      "experience_1": {
+        "role": "System Integration Engineer",
+        "description": "Integrated backend systems and databases to support platform data flow, optimizing latency and performance for internal condition management",
+        "skills": [
+          "system integration",
+          "database management",
+          "data management",
+          "performance optimization",
+          "latency improvement",
+          "backend engineering",
+          "cross-functional collaboration"
+        ]
+      },
+      "experience_2": {
+        "role": "Data Management & Backend Intern",
+        "description": "Developed backend infrastructure and managed MySQL databases to support data storage and processing for internal applications",
+        "skills": [
+          "MySQL",
+          "Database Management",
+          "Backend Development",
+          "Data Management",
+          "Django",
+          "Flask",
+          "Machine Learning Workflow Support"
+        ]
+      },
+      "experience_error": ""
+    },
+    {
+      "source": "mercedes",
+      "title": "Werkstudent*in Strategic Retail Development im Customer Service",
+      "company": "Mercedes-Benz AG",
+      "location": "Berlin",
+      "posted_time": "2026-09-07",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-strategic-retail-development-im-customer-service-237411-MER000485X",
+      "job_description": "[Tasks] Die Mercedes-Benz Group AG ist eines der erfolgreichsten Automobilunternehmen der Welt. Mit der Mercedes-Benz AG gehört der Fahrzeughersteller zu den größten Anbietern von Premium- und Luxus-Pkw und Vans. Der Geschäftsbereich GCSP – Global Customer Service & Parts Mercedes-Benz Cars bündelt die globalen Aktivitäten des Aftersales-Geschäfts. Unser Team Strategic Retail Development arbeitet im Herzen Berlins an der Schnittstelle zwischen Strategie, Retail, Customer Care und internationalen Projekten. Gemeinsam mit unseren Märkten entwickeln wir globale Konzepte, treiben Innovationen voran und begleiten deren Umsetzung in unserem weltweiten Retail-Netzwerk. In unserem Team kannst Du die Zukunft des Aftersales-Geschäfts von Mercedes-Benz aktiv mitgestalten. Aktuell arbeiten wir unter anderem an: strategischen Fragestellungen rund um Retail-Performance und Kundenzufriedenheit • dem internationalen Rollout zweier Award-Programme • der Weiterentwicklung von Customer Care-Initiativen und Retail-Programmen • einem internationalen Fachkräfteprogramm • umfassenden Markt-, Wettbewerbs- und Zukunftsanalysen • dem Einsatz von KI und digitalen Tools zur Prozessverbesserung und Effizienzsteigerung • Als Werkstudent*in übernimmst Du von Beginn an Verantwortung und unterstützt das Team bei strategischen, analytischen und organisatorischen Aufgaben in einem internationalen Umfeld. So erhältst Du die Möglichkeit, hinter die Kulissen des tiefgreifenden Wandels in der Automobilindustrie zu blicken und gemeinsam mit erfahrenen Kolleg*innen neue Lösungsansätze für die Herausforderungen von heute und morgen zu entwickeln. Es erwartet Dich ein vielfältiges und anspruchsvolles Aufgabenfeld, in dem Du vernetztes Denken, Pioniergeist, Kreativität und Teamfähigkeit unter Beweis stellen kannst. Deine Aufgaben im Einzelnen: Strategie & Analysen: Unterstützung bei der Entwicklung strategischer Konzepte und Initiativen • Durchführung von Markt-, Wettbewerbs- und Best-Practice-Analysen • Analyse von Daten und Ableitung relevanter Erkenntnisse für das Management • Erstellung von Präsentationen, Entscheidungsvorlagen und Handlungsempfehlungen • Projektmanagement & Umsetzung: Unterstützung bei der Steuerung internationaler Projekte und Rollouts • Nachverfolgung von Projektfortschritten sowie Aufbereitung von Statusberichten • Unterstützung bei der Koordination interner und externer Stakeholder • Veranstaltungen & Kommunikation: Planung, Organisation, Durchführung und Nachbereitung von Workshops, Webinaren, Meetings und internationalen Austauschformaten • Vorbereitung von Unterlagen für Managementgremien • Unterstützung bei der Kommunikation mit Märkten, Retail-Partnern und internen Fachbereichen sowie beim Verfassen von News-Artikeln im Intranet und Retail-Netz • Digitalisierung & KI: Entwicklung von KI-gestützten Automatisierungslösungen mithilfe von Prompts, Templates, Workflows und Agents für Microsoft Copilot, Power Automate und weitere digitale Tools • Identifikation von Effizienzpotenzialen in bestehenden Prozessen • Operative Unterstützung: Terminorganisation, Datenverwaltung und Dokumentation • Pflege von Projektunterlagen und Wissensdatenbanken • Unterstützung des Teams bei vielfältigen organisatorischen und administrativen Aufgaben • Die Tätigkeit kann ab November 2026 beginnen. Was wir bieten: Ein modernes Arbeitsumfeld an der East Side Gallery im Herzen Berlin • Flexible Arbeitszeiten • Eigenverantwortliche Mitarbeit an strategisch relevanten Themen • Direkte Zusammenarbeit mit internationalen Märkten und Retail-Partnern • Einblicke in Managementprozesse und die strategische Steuerung des globalen Aftersales-Geschäfts • Die Möglichkeit, eigene Ideen einzubringen und umzusetzen • Praktische Erfahrungen im Umgang mit modernen KI-Tools und digitalen Arbeitsmethoden •\n\n[Qualifications] Fachliche Kompetenzen: Du bist in einem Studiengang der Betriebswirtschaftslehre, des Wirtschaftsingenieurwesens, des Marketings, der Kommunikation oder in einem vergleichbaren Studiengang immatrikuliert • Du verfügst über sichere Deutsch- und Englischkenntnisse in Wort und Schrift • Du bist sicher im Umgang mit Microsoft 365, insbesondere mit Outlook, Excel, PowerPoint und Microsoft Teams. Erste Erfahrungen mit Microsoft Planner, OneNote, Copilot Studio und Power BI sind von Vorteil • Du hast Dich bereits eigenständig mit KI-Applikationen vertraut gemacht und konntest erste Erfahrungen im Prompting sammeln Erste Erfahrungen mit der Erstellung von KI-Agenten, der Prozessautomatisierung und dem Projektmanagement sind wünschenswert • • Persönliche Kompetenzen: Du kannst Dich für moderne Mobilitätskonzepte, Innovationen, Digitalisierung und Strategiearbeit begeistern • Du bist bereit, Dich tief in neue Fachgebiete einzuarbeiten und diese kritisch zu hinterfragen • Du arbeitest gern im Team, suchst aber ebenso eigenständig nach Lösungen für komplexe Aufgabenstellungen • Du verfügst über eine schnelle Auffassungsgabe, analytisches Denkvermögen und Organisationstalent • Zusätzliche Informationen: Wir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Bitte vergiss nicht im Online-Formular Deine Dokumente als \"relevant für diese Bewerbung\" zu markieren und beachte die maximale Dateigröße von 5 MB. Weiterführende Informationen zu den Einstellkriterien findest Du hier . Schwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung ( sbv-mbvd@mercedes-benz.com ) unterstützt Dich gerne im Bewerbungsprozess. People Solutions hilft Dir bei Fragen zum Bewerbungsprozess gerne weiter. Du erreichst uns per E-Mail über myhrservice@mercedes-benz.com oder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).",
+      "experience_1": {
+        "role": "System Integration Engineer",
+        "description": "Integrated backend systems and databases, reducing latency and enhancing performance while collaborating cross-functional to improve data management and overall system efficiency",
+        "skills": [
+          "system integration",
+          "backend systems",
+          "database management",
+          "performance optimization",
+          "latency reduction",
+          "cross-functional collaboration",
+          "data management"
+        ]
+      },
+      "experience_2": {
+        "role": "Data Management Intern",
+        "description": "Developed MySQL databases and backend services with Django/Flask to store and manage data supporting machine learning workflows for web applications",
+        "skills": [
+          "database management",
+          "data management",
+          "data storage",
+          "backend development",
+          "machine learning workflow support",
+          "Django",
+          "Flask",
+          "MySQL"
+        ]
+      },
+      "experience_error": ""
+    },
+    {
+      "source": "mercedes",
+      "title": "Werkstudent*in Projektmanagement Logistics Engineering",
+      "company": "Mercedes-Benz AG",
+      "location": "Sindelfingen",
+      "posted_time": "2026-09-04",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-projektmanagement-logistics-engineering-237269-MER0004841",
+      "job_description": "[Tasks] Teil von Mercedes-Benz zu werden bedeutet den Aufgabenbereich zu finden, in dem Du Deine Talente individuell entfalten kannst. Es bedeutet in einem globalen Automobilunternehmen, das das Ziel hat die begehrenswertesten Autos der Welt zu bauen, sein Bestes zu geben. Dabei wirst Du von visionären Kolleginnen und Kollegen unterstützt, die ihren Pioniergeist teilen. Together for excellence. Du möchtest die Supply-Chain-Prozesse für Mercedes-Benz Fahrzeuge der Zukunft mitgestalten? Du suchst nach neuen Herausforderungen, möchtest Deine Soft-Skills verfeinern sowie einen Einblick in das tägliche Geschäft eines der erfolgreichsten Automobilunternehmen der Welt erhalten? Dann lies weiter! Wir im Center MO/EL planen die Supply Chain unseres globalen Produktionsnetzwerks. Unsere Planungsverantwortung reicht dabei von der Produktbeeinflussung in der Entwicklung, über die Inbound- & Intralogistikplanung in den Produktionshallen, bis hin zur Umsetzung optimaler Logistikprozesse. Am Standort Sindelfingen agiert unser Stabs-Team als strategischer Partner des Centerleiters und gestaltet aktiv die Zukunft unseres Bereichs. Wir bereiten fundierte Entscheidungen vor, steuern zentrale Projekte und optimieren kontinuierlich Prozesse, um nachhaltigen Erfolg und eine exzellente Zusammenarbeit zu gewährleisten. Diese Herausforderungen kommen u. a. auf Dich zu: Mitwirkung im Projektmanagement in einem internationalen Arbeitsumfeld • Moderation inkl. Vor- & Nachbereitung von Besprechungen/ Workshops • Erstellung von Präsentationen & Unterlagen für das Top-Management • Erstellen und automatisieren von Auswertungen durch Einsatz von KI & KPIs • Mitarbeit beim Aufgabentracking im Team unter Einhaltung der Deadlines • Die Tätigkeit kann ab Oktober 2026 beginnen.\n\n[Qualifications] Betriebswirtschaftlicher oder technischer Studiengang, idealerweise mit Vertiefung in Logistik/ Supply Chain Management • Sichere Deutsch- und Englischkenntnisse in Wort und Schrift • Sicherer Umgang mit MS-Office (Excel inkl. VBA, PowerPoint inkl. ThinkCell) • Erste Praxiserfahrung über Freiwillige- /Pflichtpraktika im Supply-Chain Umfeld wünschenswert • Erfahrung im Projektmanagement sowie Erfahrung in KI-Anwendungen • Analytische Denkweise, Motivation, Flexibilität und souveränes Auftreten • Zielorientiertes und strukturiertes Arbeiten • Kommunikationstalent und Konfliktfähigkeit • Zusätzliche Informationen: Wir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Bitte vergiss nicht im Online-Formular Deine Dokumente als \"relevant für diese Bewerbung\" zu markieren und beachte die maximale Dateigröße von 5 MB. Weiterführende Informationen zu den Einstellkriterien findest Du hier . Schwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung (sbv-sindelfingen@mercedes-benz.com) unterstützt Dich gerne im Bewerbungsprozess. People Solutions hilft Dir bei Fragen zum Bewerbungsprozess gerne weiter. Du erreichst uns per E-Mail über myhrservice@mercedes-benz.com oder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).",
+      "experience_1": {
+        "role": "System Integration Engineer",
+        "description": "Integrated backend services and databases, optimizing latency and performance while collaborating cross-functional to support data-driven system improvements",
+        "skills": [
+          "system integration",
+          "backend engineering",
+          "data management",
+          "performance optimization",
+          "cross-functional collaboration",
+          "latency reduction"
+        ]
+      },
+      "experience_2": {
+        "role": "Backend & Data Management Intern",
+        "description": "Developed backend services with Django/Flask and designed MySQL schemas to efficiently store and retrieve data supporting machine learning workflows",
+        "skills": [
+          "MySQL",
+          "database management",
+          "data storage",
+          "backend development",
+          "Django",
+          "Flask",
+          "machine learning workflow support"
+        ]
+      },
+      "experience_error": ""
+    },
+    {
+      "source": "mercedes",
+      "title": "Werkstudent*in Anlauffabrik – Weiterentwicklung Cubing",
+      "company": "Mercedes-Benz AG",
+      "location": "Sindelfingen",
+      "posted_time": "2026-09-10",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-anlauffabrik-weiterentwicklung-cubing-237716-MER000488L",
+      "job_description": "[Tasks] Teil von Mercedes-Benz zu werden bedeutet den Aufgabenbereich zu finden, in dem Du Deine Talente individuell entfalten kannst. Es bedeutet in einem globalen Automobilunternehmen, das das Ziel hat die begehrenswertesten Autos der Welt zu bauen, sein Bestes zu geben. Dabei wirst Du von visionären Kolleginnen und Kollegen unterstützt, die ihren Pioniergeist teilen. Together for excellence. Was machen wir? Jeder spricht von Digitalisierung, für uns ist sie längst gelebter Alltag. In der Abteilung Digital Engineering der Mercedes-Benz Anlauffabrik sichern wir die Baubarkeit aller neuen Mercedes-Benz Fahrzeuge bereits in der digitalen Phase ab. Dabei steigen wir früh in den Entwicklungsprozess ein und unterstützen die Konzeptentwicklung auf Basis der Erfahrungen aus Vorgängerbaureihen sowie definierter Konzeptstandards, und das lange bevor die erste Hardware entsteht. Das Team Digital Mock-Up begleitet und unterstützt den Aufbau von Prototypen mit Fokus auf die digitalen Entwicklungsphasen. Darüber hinaus verantwortet das Team die Optimierung und Weiterentwicklung von Prozessen und Methoden sowie die Einführung und Umsetzung neuester digitaler Technologien in der Anlauffabrik. Du begeisterst Dich für digitale Themen und möchtest möglichst nah an unseren faszinierenden Fahrzeugen arbeiten? Vielschichtige Herausforderungen nimmst Du gerne an und behältst auch in virtuellen Umgebungen einen kühlen Kopf? Dann finde heraus, was sich hinter dieser spannenden Aufgabe verbirgt! Diese Herausforderungen kommen unter anderem auf Dich zu: Recherche zum Stand der Technik hinsichtlich aktueller Lehr- und Schulungskonzepte • Unterstützung bei der Umstellung von Hardware-Lehren-Tätigkeiten auf digitale Konzepte • Analyse des Einflusses digitaler Konzepte auf die Kommunikation und Informationsbasis relevanter Stakeholder im Projekt (Ziel: frühzeitige Transparenz und Unterstützung bei Entscheidungen, beispielsweise im Lieferantenmanagement oder beim Fahrzeugaufbau) • Erstellung von Anwendungsbeispielen in der Zeiss-Software • Gestaltung und Weiterentwicklung von Kommunikationsunterlagen sowie Kommunikationsprozessen • Task-Tracking für Digitalisierungsinitiativen und Arbeitsgruppen • Die Tätigkeit kann ab November 2026 beginnen.\n\n[Qualifications] Das bringst Du mit: Studiengang im Bereich Ingenieurwesen, Wirtschaftsingenieurwesen, Maschinenbau, Informatik oder einem vergleichbaren Studiengang • Interesse an Themen rund um „IT for Production“ und Digitalisierung in der Produktion • Kenntnisse im Bereich Messtechnik, idealerweise mit der Zeiss INSPECT Software • Sichere Deutsch- und Englischkenntnisse in Wort und Schrift • Analytische Denkweise sowie eine strukturierte und strategische Arbeitsweise • Engagement, Eigeninitiative und Teamfähigkeit • Programmierkenntnisse sind von Vorteil • Zusätzliche Informationen: Wir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Bitte vergiss nicht im Online-Formular Deine Dokumente als \"relevant für diese Bewerbung\" zu markieren und beachte die maximale Dateigröße von 5 MB. Weiterführende Informationen zu den Einstellkriterien findest Du hier . Schwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung ( sbv-sindelfingen@mercedes-benz.com ) unterstützt Dich gerne im Bewerbungsprozess. People Solutions hilft Dir bei Fragen zum Bewerbungsprozess gerne weiter. Du erreichst uns per E-Mail über myhrservice@mercedes-benz.com oder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).",
+      "experience_1": {
+        "role": "System Integration Engineer",
+        "description": "Integrated backend systems and databases, reducing latency and enhancing performance while collaborating cross-functionally to improve data management and system reliability",
+        "skills": [
+          "system integration",
+          "backend systems",
+          "database management",
+          "performance optimization",
+          "cross-functional collaboration",
+          "data management"
+        ]
+      },
+      "experience_2": {
+        "role": "Digital Production Backend Intern",
+        "description": "Developed backend infrastructure with Django/Flask and optimized MySQL data management to support machine-learning workflows for digital production processes",
+        "skills": [
+          "backend development",
+          "database management",
+          "MySQL",
+          "Django",
+          "Flask",
+          "digitalization",
+          "machine learning workflow support"
+        ]
+      },
+      "experience_error": ""
+    },
+    {
+      "source": "mercedes",
+      "title": "Werkstudent*in Marketing-Kommunikation Own Retail",
+      "company": "Mercedes-Benz AG",
+      "location": "Berlin",
+      "posted_time": "2026-09-04",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-marketing-kommunikation-own-retail-237181-MER000479T",
+      "job_description": "[Tasks] Wir bringen Mercedes-Benz Cars und Vans auf die Straße - mit Begeisterung und Herzblut! Mercedes-Benz Retail (SC/RDP) steuert über alle Geschäftsfelder die Identifizierung und Durchführung von Maßnahmen zur Erreichung der Absatz-, Qualitäts-, Kosten- und Ergebnisziele der konzerneigenen Retailbetriebe. Im Team „Marketing Business Development Own Retail“ verantworten wir spartenübergreifend die enge Zusammenarbeit und Vernetzung aller deutschen Niederlassungen im Thema Marketing und begleiten den Verkauf der Betriebe. Ihre Aufgaben im Einzelnen: Konzeption und Umsetzung diverser Marketing-Kampagnen im Sales- und After Sales-Bereich • Analyse und Aufbereitung relevanter betriebswirtschaftlicher Kennzahlen und Erstellung von Sonderauswertungen • Erstellung von Entscheidungs- bzw. Diskussionsvorlagen • Identifikation von Best-Practice Ansätzen • Mitwirkung im operativen Tagesgeschäft und Bearbeitung von ad-hoc Anfragen • Die Tätigkeit kann ab Januar 2027 beginnen.\n\n[Qualifications] Studiengang im Bereich Betriebswirtschaftslehre, Wirtschaftsingenieurwesen, International Business, Wirtschaftswissenschaften oder ein vergleichbarer Studiengang • Sichere Deutsch- und Englischkenntnisse in Wort und Schrift • Sicherer Umgang mit MS-Office • Teamfähig, zuverlässig, kommunikativ, aufgeschlossen, motiviert, zielgerichtet, gewissenhaft, kunden- und dienstleistungsorientiert • Vorzugsweise Erfahrung in einem Autohausbetrieb • Zusätzliche Informationen: Wir freuen uns auf Ihre Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Bitte vergessen Sie nicht im Online-Formular Ihre Dokumente als \"relevant für diese Bewerbung\" zu markieren und beachten Sie die maximale Dateigröße von 5 MB. Weiterführende Informationen zu den Einstellkriterien finden Sie hier . Schwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung (sbv-mbvd@mercedes-benz.com) unterstützt Sie gerne im Bewerbungsprozess. People Solutions hilft Ihnen bei Fragen zum Bewerbungsprozess gerne weiter. Sie erreichen uns per E-Mail über myhrservice@mercedes-benz.com oder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).",
+      "experience_1": {
+        "role": "System Integration Engineer",
+        "description": "Integrated backend systems, managed databases, and optimized performance, delivering data-driven insights for cross-functional teams",
+        "skills": [
+          "system integration",
+          "data management",
+          "performance optimization",
+          "cross-functional collaboration",
+          "backend engineering",
+          "database management"
+        ]
+      },
+      "experience_2": {
+        "role": "Marketing Data Management Intern",
+        "description": "Managed MySQL databases and built Django/Flask backend services to enable efficient data handling for web-based marketing tools",
+        "skills": [
+          "MySQL",
+          "database management",
+          "data management",
+          "backend development",
+          "Django",
+          "Flask",
+          "web application development"
+        ]
+      },
+      "experience_error": ""
+    },
+    {
+      "source": "mercedes",
+      "title": "Werkstudent*in Charging & HV-System",
+      "company": "Mercedes-Benz AG",
+      "location": "Sindelfingen",
+      "posted_time": "2026-09-07",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-charging-hv-system-237370-MER0004849",
+      "job_description": "[Tasks] Die Mercedes-Benz AG ist aktiv an der Gestaltung der zukünftigen Mobilität beteiligt. Unsere Abteilung \"Charging Services & Functions\" des RD-Bereichs (Forschung und Entwicklung) ist verantwortlich für die Entwicklung von innovativen Ladefunktionen für unsere Elektrofahrzeuge mit einem starken Fokus auf die beste Customer Experience. Dafür stellt unser Projektteam relevante Informationen über Kundenbedürfnisse maßgeschneidert zur Verfügung. In diesem Kontext bieten wir derzeit eine Werkstudierendentätigkeit mit Backend-Fokus im Themenumfeld Customer Research, Software-Entwicklung, Machine Learning und Data Science an. Diese Herausforderungen kommen u. a. auf Dich zu: Weiterentwicklung von LLM-Pipelines eines bestehenden Customer Research Systems mit Kundenfeedbackdaten • Analyse und Kombination mehrerer Datenquellen zur Ableitung von Customer Insights • Backend-Entwicklung (u.a. Azure, Docker, SQL) zur Integration der Ergebnisse in das bestehende Customer Research System • Einsatz von Agentic AI bei der Weiterentwicklung des Customer Research Systems • Die Tätigkeit kann ab November 2026 beginnen.\n\n[Qualifications] Studiengang im Bereich Informatik, Ingenieurwissenschaften oder einem vergleichbaren Studiengang • Programmiererfahrungen in Go oder Python, NLP-/ML-relevanten Tools bzw. Bibliotheken sowie Softwareentwicklungsmethoden • Sichere Deutsch- und Englischkenntnisse in Wort und Schrift • Kreativität, innovatives Mindset und analytisches Denkvermögen • Kommunikations- und Teamfähigkeit • Zusätzliche Informationen: Wir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Bitte vergiss nicht im Online-Formular Deine Dokumente als \"relevant für diese Bewerbung\" zu markieren und beachte die maximale Dateigröße von 5 MB. Weiterführende Informationen zu den Einstellkriterien findest Du hier . Schwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung ( sbv-sindelfingen@mercedes-benz.com ) unterstützt Dich gerne im Bewerbungsprozess. People Solutions hilft Dir bei Fragen zum Bewerbungsprozess gerne weiter. Du erreichst uns per E-Mail über myhrservice@mercedes-benz.com oder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).",
+      "experience_1": {
+        "role": "Backend Engineer",
+        "description": "Integrated backend systems and databases, decreasing latency and enhancing performance while collaborating with cross-functional engineering teams",
+        "skills": [
+          "backend development",
+          "system integration",
+          "database management",
+          "performance optimization",
+          "data management",
+          "cross-functional engineering"
+        ]
+      },
+      "experience_2": {
+        "role": "Backend Data Engineer Intern",
+        "description": "Built MySQL database schemas and optimized data storage; created Django and Flask backend services to support machine-learning workflow integration",
+        "skills": [
+          "backend development",
+          "SQL",
+          "MySQL",
+          "Django",
+          "Flask",
+          "data management",
+          "machine learning workflow support",
+          "web application development"
+        ]
+      },
+      "experience_error": ""
+    },
+    {
+      "source": "mercedes",
+      "title": "Werkstudent*in EE-Integration Gesamtfahrzeug",
+      "company": "Mercedes-Benz AG",
+      "location": "Sindelfingen",
+      "posted_time": "2026-09-07",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-ee-integration-gesamtfahrzeug-237356-MER0004852",
+      "job_description": "[Tasks] Die Mercedes-Benz Group AG ist eines der erfolgreichsten Automobilunternehmen der Welt. Mit der Mercedes-Benz AG gehört der Fahrzeughersteller zu den größten Anbietern von Premium- und Luxus-Pkw und Vans. Teil von Mercedes-Benz zu werden bedeutet, den Aufgabenbereich zu finden, in dem Du Deine Talente individuell entfalten kannst. Es bedeutet, in einem globalen Automobilunternehmen, das das Ziel hat, die begehrenswertesten Autos der Welt zu bauen, sein Bestes zu geben. Dabei wirst Du von visionären Kolleginnen und Kollegen unterstützt, die ihren Pioniergeist teilen. Together for excellence. In der Konzernforschung & Mercedes-Benz Cars Entwicklung (RD) gestalten wir die Automobilgenerationen der Zukunft. Wir entwickeln innovative Produkte mit höchster Qualität und bauen auf effiziente Entwicklungsprozesse. Schon heute arbeiten wir an Fahrzeugen, die die Technologieführerschaft der Mercedes-Benz AG auch zukünftig sichern werden. In bereichsübergreifend vernetzten Teams werden alle Software- und E/E-Systeme (Elektrik/Elektronik) der MB.OS-Plattform und deren Funktionen des Gesamtfahrzeugs abgesichert und in Serie gebracht. Innerhalb der Abteilung E/E Gesamtfahrzeug-Integration führen wir alle Systeme der MB.OS-Plattform zusammen und integrieren sie im Gesamtfahrzeug. Wenn Du wissen willst, wie Software im Auto wirklich funktioniert und nicht nur theoretisch, dann bist Du bei uns genau richtig! Bei Mercedes-Benz arbeitest Du an der nächsten Generation unseres Betriebssystems MB.OS mit, direkt am Gesamtfahrzeug. Diese Herausforderungen kommen u. a. auf Dich zu: Unterstützung des E/E-Integrationsteams in der E/E-Systemintegration auf Gesamtfahrzeugebene • Unterstützung bei der Vorbereitung und Abnahme von Fahrzeugen und den dazugehörigen Komponenten und Messeinrichtungen vor und während einer Klausur • Eigenständiges Testen von statischen Funktionen im Gesamtfahrzeug mit vorhandenem Testkatalog • Überarbeitung von Testfällen zum Gesamtfahrzeug bezüglich der neuen Fahrzeuggenerationen • Unterstützung im Fehlertracking des Gesamtfahrzeugs zur Sicherstellung der Datenqualität und eines schnellen Fehlerabstellprozesses • Erstellung von Ergebnispräsentationen und Berichten • Mitarbeit an aktuellen Projekten und Unterstützung bei operativen Aufgaben • Die Tätigkeit kann ab Mitte Oktober 2026 beginnen.\n\n[Qualifications] Studiengang Mechatronik, Fahrzeugsysteme, Fahrzeugtechnik, Informatik, oder ein vergleichbarer Studiengang • Begeisterung für das Gesamtfahrzeug • Engagement und Teamfähigkeit • Sichere Deutsch- und Englischkenntnisse in Wort und Schrift • Sicherer Umgang mit MS-Office • Analytische Denkweise und strategische Arbeitsweise • Zusätzliche Informationen: Wir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Bitte vergiss nicht im Online-Formular Deine Dokumente als \"relevant für diese Bewerbung\" zu markieren und beachte die maximale Dateigröße von 5 MB. Weiterführende Informationen zu den Einstellkriterien findest Du hier . Schwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung ( sbv-sindelfingen@mercedes-benz.com ) unterstützt Dich gerne im Bewerbungsprozess. People Solutions hilft Dir bei Fragen zum Bewerbungsprozess gerne weiter. Du erreichst uns per E-Mail über myhrservice@mercedes-benz.com oder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).",
+      "experience_1": {
+        "role": "System Integration Engineer",
+        "description": "Integrated backend services and databases across cross-functional teams, optimizing system latency and data management to enhance overall performance and reliability",
+        "skills": [
+          "system integration",
+          "data management",
+          "performance optimization",
+          "latency improvement",
+          "backend systems",
+          "cross-functional engineering",
+          "software engineering"
+        ]
+      },
+      "experience_2": {
+        "role": "Software Integration Intern",
+        "description": "Implemented MySQL data management and built Django/Flask backend services supporting machine-learning workflows, ensuring reliable data storage and system integration",
+        "skills": [
+          "data management",
+          "database management",
+          "backend development",
+          "MySQL",
+          "Django",
+          "Flask",
+          "software integration"
+        ]
+      },
+      "experience_error": ""
+    },
+    {
+      "source": "mercedes",
+      "title": "Werkstudent*in Produktionsplanung Rohbau",
+      "company": "Mercedes-Benz AG",
+      "location": "Düsseldorf",
+      "posted_time": "2026-09-11",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-produktionsplanung-rohbau-237830-MER000487S",
+      "job_description": "[Tasks] Die Mercedes-Benz Group AG ist eines der erfolgreichsten Automobilunternehmen der Welt. Mit der Mercedes-Benz AG gehört der Fahrzeughersteller zu den größten Anbietern von Premium- und Luxus-Pkw und Vans. Unsere Abteilung VAN/OED (Produktionsplanung Rohbau) verantwortet die ganzheitliche Planung von Produktionsprozessen. Dazu zählen die Konzepterstellung und Planung von Fertigungsabläufen, Anlagen und Einrichtungen, Betriebsmitteln sowie Materialflüssen und Materialbereitstellung. Darüber hinaus umfasst unser Aufgabengebiet die Mitarbeit im Qualitätsmanagement, die kontinuierliche Verbesserung von Prozessen sowie die Unterstützung der Fahrzeugentwicklung bei Neuprodukten und Produktänderungen. Ein weiterer Schwerpunkt liegt im standortübergreifenden Know-how-Transfer zwischen den Van-Produktionsstandorten weltweit. Aktuelle Projekte umfassen unter anderem Automatisierungsvorhaben, Konzepte zur Qualitätsabsicherung, Produktänderungsprojekte sowie verschiedene Maßnahmen zur Prozessoptimierung. Unser Team besteht aus zwölf engagierten und kollegialen Mitarbeitenden, die sich auf Deine Unterstützung freuen. Wir arbeiten vertrauensvoll, wertschätzend und auf Augenhöhe zusammen. Eine offene Kommunikation, regelmäßiger Austausch sowie ein konstruktives und ehrliches Miteinander bilden die Grundlage unserer Zusammenarbeit. Darüber hinaus stehen wir in engem Austausch mit Kolleg*innen an internationalen Standorten und nehmen regelmäßig an internen und externen Fachveranstaltungen teil. Im Rahmen der Produktionsplanung werden unterschiedliche Projekte umgesetzt. Ziel ist es, die Inhalte und Anforderungen so aufzubereiten, dass eine erfolgreiche Ausschreibung und Umsetzung gewährleistet werden kann. Dabei unterstützt Du bei der Informationsbeschaffung, der Analyse technischer und wirtschaftlicher Fragestellungen sowie bei der Vorbereitung von Entscheidungen. Zudem begleitest Du die zuständigen Planer*innen in ausgewählten Themenfeldern und übernimmst eigenständig Querschnittsaufgaben. Diese Herausforderungen kommen u. a. auf Dich zu: Vorbereitung und Mitwirkung bei der Erstellung von Unterlagen im Rahmen der Projektkoordination • Dokumentation und Berichterstattung zu Teilprojektumfängen • Detaillierung von Planungsumfängen • Erstellung von Entscheidungsvorlagen, Terminplänen und weiteren Unterlagen für Projektmeetings und Gremien • Erstellung von Präsentationen und Dokumentationen zu unterschiedlichen Themenstellungen • Zusammenführung, Abstimmung und Kommunikation von Konzepten aus verschiedenen Fachbereichen • Erfassung und Nachverfolgung von Terminen, Projektverläufen und Projektständen • Planung, Abstimmung und Kommunikation von Wochenendaktivitäten • Durchführung und Begleitung von Erprobungen • Vorbereitung, Organisation und Nachbereitung von Besprechungen sowie Erstellung von Protokollen • Vorbereitung von Anlagenabnahmen sowie Erstellung und Nachverfolgung von Mängellisten • Erstellung von Arbeitsanweisungen und Ablaufbeschreibungen • Weiterentwicklung von Methoden und Verfahren • Kommunikation und Abstimmung mit relevanten Ansprechpartner*innen • Die Tätigkeit kann ab November 2026 beginnen.\n\n[Qualifications] Studiengang im Bereich Maschinenbau, Elektrotechnik, Wirtschaftsingenieurwesen oder ein vergleichbarer Studiengang • Sichere Deutsch- und Englischkenntnisse in Wort und Schrift • Sicherer Umgang mit MS Office; Access- und Datenbankkenntnisse sowie Kenntnisse in der VBA-Programmierung sind von Vorteil • Engagement und Teamfähigkeit • Kommunikationsstärke sowie eine selbstständige Arbeitsweise • Analytische Denkweise und strukturierte Arbeitsweise • Zusätzliche Informationen: Wir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Bitte vergiss nicht im Online-Formular Deine Dokumente als \"relevant für diese Bewerbung\" zu markieren und beachte die maximale Dateigröße von 5 MB. Weiterführende Informationen zu den Einstellkriterien findest Du hier . Schwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung ( sbv-duesseldorf@mercedes-benz.com ) unterstützt Dich gerne im Bewerbungsprozess. People Solutions hilft Dir bei Fragen zum Bewerbungsprozess gerne weiter. Du erreichst uns per E-Mail über myhrservice@mercedes-benz.com oder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).",
+      "experience_1": {
+        "role": "Backend System Integration Engineer",
+        "description": "Integrated backend services and databases, optimized latency and performance, performed data management, and documented system changes within cross-functional engineering team",
+        "skills": [
+          "system integration",
+          "backend engineering",
+          "database management",
+          "performance optimization",
+          "data management",
+          "cross-functional collaboration",
+          "process documentation"
+        ]
+      },
+      "experience_2": {
+        "role": "Data Management Intern",
+        "description": "Designed MySQL schemas and implemented Django/Flask backend services to streamline data storage and support machine-learning pipelines",
+        "skills": [
+          "MySQL",
+          "database management",
+          "data management",
+          "data storage",
+          "backend development",
+          "Django",
+          "Flask"
+        ]
+      },
+      "experience_error": ""
+    },
+    {
+      "source": "mercedes",
+      "title": "Werkstudent*in Drive Systems Software & Calibration Engineering – Development Process Steering",
+      "company": "Mercedes-Benz AG",
+      "location": "Sindelfingen",
+      "posted_time": "2026-09-11",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-drive-systems-software-calibration-engineering-development-process-steering-237812-MER00047SZ",
+      "job_description": "[Tasks] In der Abteilung „Antriebssystem Software & Applikation – Antriebsapplikation“ bündeln wir die Entwicklungsverantwortung für Funktionssoftware und Kalibrierung in den Bereichen Fahrbarkeit, Betriebsstrategie und Getriebe für alle teil- und vollelektrifizierten Fahrzeuggenerationen von heute und morgen. Damit gestalten wir maßgeblich die Antriebsfunktionalitäten und das Fahrgefühl aller Antriebsvarianten der Marken Mercedes-Benz, Mercedes-Maybach, Mercedes-AMG und Mercedes-Benz Vans. Wir begleiten die Entwicklung unserer Antriebe von der ersten Inbetriebnahme bis zur Freigabe. Dabei stehen wir in engem Austausch mit allen an der Fahrzeugentwicklung beteiligten Fachbereichen und steuern die Entwicklungsprozesse markenübergreifend. Diese Herausforderungen kommen u. a. auf Dich zu: Eigenverantwortliche Übernahme und aktive Umsetzung von Teilprojekten • Spannende Einblicke in die Antriebsentwicklung von der Konzeptphase bis zur Erprobung sowie aktive Mitwirkung an der Weiterentwicklung unseres Antriebsportfolios • Mitwirkung bei Workshops zu spannenden entwicklungsseitigen Herausforderungen in einem internationalen Umfeld • Mitwirkung bei der konzeptionellen und visuellen Aufbereitung von Managementunterlagen sowie Teilnahme an Gremiensitzungen • Enge Zusammenarbeit mit dem Stab der Abteilungsleitung bei strategischen und organisatorischen Themen • Die Tätigkeit kann ab November 2026 beginnen.\n\n[Qualifications] Studiengang im Bereich Fahrzeugtechnik, Elektrotechnik, Informatik, Maschinenbau, Wirtschaftsingenieurwesen oder ein vergleichbarer Studiengang • Sichere Deutsch- und Englischkenntnisse in Wort und Schrift • Sicherer Umgang mit MS Office, insbesondere PowerPoint, Excel und Outlook • Grundlegende Kenntnisse in gängigen Programmiersprachen sind von Vorteil • Grundlegende Kenntnisse gängiger Antriebskonzepte sind von Vorteil • Führerschein der Klasse B • Persönliche Kompetenzen Eigenständige, strukturierte und zielorientierte Arbeitsweise • Interesse an bereichsübergreifender Prozesssteuerung und Schnittstellenarbeit • Ausgeprägte Kommunikations- und Teamfähigkeit • Hohe konzeptionelle Fähigkeiten • Zusätzliche Informationen: Wir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Bitte vergiss nicht im Online-Formular Deine Dokumente als \"relevant für diese Bewerbung\" zu markieren und beachte die maximale Dateigröße von 5 MB. Weiterführende Informationen zu den Einstellkriterien findest Du hier . Schwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung ( sbv-sindelfingen@mercedes-benz.com ) unterstützt Dich gerne im Bewerbungsprozess. People Solutions hilft Dir bei Fragen zum Bewerbungsprozess gerne weiter. Du erreichst uns per E-Mail über myhrservice@mercedes-benz.com oder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).",
+      "experience_1": {
+        "role": "Backend Software Engineer",
+        "description": "Integrated backend systems and databases, optimizing server latency and data management while collaborating with cross-functional team to enhance overall performance",
+        "skills": [
+          "backend engineering",
+          "system integration",
+          "data management",
+          "performance improvement",
+          "cross-functional collaboration",
+          "software engineering"
+        ]
+      },
+      "experience_2": {
+        "role": "Software Engineering Intern",
+        "description": "Developed backend infrastructure for web applications using Django and Flask, and designed MySQL databases to efficiently store and manage data for machine-learning workflows",
+        "skills": [
+          "Software development",
+          "Backend development",
+          "Database management",
+          "MySQL",
+          "Django",
+          "Flask",
+          "Data management"
+        ]
+      },
+      "experience_error": ""
+    },
+    {
+      "source": "mercedes",
+      "title": "Werkstudent*in KI-gestützte Automatisierung und Prozessoptimierung in der Steuergeräteentwicklung",
+      "company": "Mercedes-Benz AG",
+      "location": "Sindelfingen",
+      "posted_time": "2026-09-14",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-ki-gest-tzte-automatisierung-und-prozessoptimierung-in-der-steuerger-teentwicklung-238103-MER00048BV",
+      "job_description": "[Tasks] In der Mercedes-Benz Cars Entwicklung (RD) gestalten wir die Automobilgenerationen der Zukunft. Damit meinen wir innovative Produkte mit höchster Qualität und effiziente Entwicklungsprozesse. Im Rahmen der Steuergeräteentwicklung für Bremssysteme entwickeln wir uns stetig unter Einsatz von Künstlicher Intelligenz (KI) weiter. Zur Unterstützung unseres Teams suchen wir einen Werkstudenten/ eine Werkstudentin, der moderne KI-Technologien nutzt, um Entwicklungsprozesse zu analysieren, zu automatisieren und nachhaltig zu optimieren. Diese Herausforderungen kommen u. a. auf Dich zu: Analyse bestehender Entwicklungsprozesse im Umfeld der Systementwicklung für Bremssysteme • Identifikation von Automatisierungspotenzialen durch den Einsatz von KI-Technologien • Weiterentwicklung und Implementierung von KI-gestützten Automatisierungslösungen • Erstellung von Prototypen und Proof-of-Concepts für neue KI-Anwendungsfälle • Zusammenarbeit mit Entwicklern des Fachbereichs zur Integration neuer Lösungen in den Entwicklungsalltag • Dokumentation und Präsentation der entwickelten Lösungen gegenüber Fach- und Führungskräften • Die Tätigkeit kann ab November 2026 beginnen.\n\n[Qualifications] Interesse an und erste Erfahrungen mit KI-Technologien, Automatisierung und Softwareentwicklung • Erste praktische Erfahrungen mit Python, JavaScript oder vergleichbaren Programmiersprachen • Kenntnisse im Bereich Large Language Models (LLM), Generative AI, Machine Learning oder Prompt Engineering von Vorteil • Idealerweise erste Erfahrungen mit Microsoft Copilot, Power Automate, Power Apps oder Visual Studio Code • Analytische und strukturierte Arbeitsweise • Selbstständigkeit, Eigeninitiative und Freude am Lösen technischer Herausforderungen • Gute Deutsch- und Englischkenntnisse • Zusätzliche Informationen: Wir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Bitte vergiss nicht im Online-Formular Deine Dokumente als \"relevant für diese Bewerbung\" zu markieren und beachte die maximale Dateigröße von 5 MB. Weiterführende Informationen zu den Einstellkriterien findest Du hier . Schwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung (sbv-sindelfingen@mercedes-benz.com) unterstützt Dich gerne im Bewerbungsprozess. People Solutions hilft Dir bei Fragen zum Bewerbungsprozess gerne weiter. Du erreichst uns per E-Mail über myhrservice@mercedes-benz.com oder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).",
+      "experience_1": {
+        "role": "Backend Integration Engineer",
+        "description": "Integrated backend systems and databases, optimizing latency and performance while managing data across cross-functional teams",
+        "skills": [
+          "system integration",
+          "backend engineering",
+          "performance optimization",
+          "data management",
+          "cross-functional collaboration",
+          "software engineering"
+        ]
+      },
+      "experience_2": {
+        "role": "AI-Enabled Backend Development Intern",
+        "description": "Built Python-based backend services with Django and Flask, managing MySQL data stores to support machine-learning workflows for web applications",
+        "skills": [
+          "AI integration",
+          "Python",
+          "Django",
+          "Flask",
+          "MySQL",
+          "backend development",
+          "machine learning workflow support"
+        ]
+      },
+      "experience_error": ""
+    },
+    {
+      "source": "mercedes",
+      "title": "Werkstudent*in Auftragsmanagement Kundencenter Sindelfingen",
+      "company": "Mercedes-Benz AG",
+      "location": "Sindelfingen",
+      "posted_time": "2026-09-14",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-auftragsmanagement-kundencenter-sindelfingen-238095-MER00048BX",
+      "job_description": "[Tasks] Die Deutschen Kundencenter liefern im Jahr über 100.000 Fahrzeuge an Kunden aus. Ein Team von über 200 Mitarbeitern sorgt an fünf Standorten für einen reibungslosen Ablauf und schafft täglich herausragende Kundenerlebnisse. Werde Teil dieses Teams! Du unterstützt das Auftragsmanagement des Kundencenters – vor Ort im Kundencenter Sindelfingen – bei den täglich anfallenden, abwechslungsreichen und herausfordernden Aufgaben. Die Aufgaben sind u.a.: Entgegennehmen und Bearbeiten von schriftlichen/telefonischen Terminanfragen, Terminänderungswünschen etc. • Bearbeitung der Anfrage in internen Buchungssystemen • Beratung unserer Händler, ggf. Endkunden, beim Hinzubuchen von Leistungspaketen für die Fahrzeugauslieferung • Vorbereitung von Tätigkeiten durch Selektion in den internen IT-Systemen, Auswertung von Excel-Files • In Einzelfällen Kommunikation (schriftlich/mündlich) mit Endkunden. Kundenorientierte Lösung bzw. sachgerechte Weiterleitung der Anfrage • Auswertung, Erfassung und Darstellung von Kennzahlen mit Hilfe von IT-Systemen, MS-Excel • Vorbereiten, Sortieren und Zuordnen von Fahrzeugunterlagen wie Zulassungspapieren etc. • Einarbeitung: Erfolgt On-the-job durch die Mitarbeiter im Team, gegenseitige Unterstützung wird gelebt • Die notwendige spezifische Software ist mit normalen Anwenderkenntnissen schnell zu beherrschen • Gelegentlich kurze standardisierte Online-Schulungen • Arbeitszeit: Bis zu 20h/Woche – idealerweise vormittags, Arbeitsbeginn bis 8:00 Uhr • Abstimmung der Arbeitstage und -dauer mit weiteren im Team eingesetzten Werkstudenten*innen • Arbeitsplatz: Vor Ort im Kundencenter, Käßbrünnlestr. 25, Sindelfingen. Gut erreichbar mit S-Bahn bis Bahnhof Böblingen, von dort ggf. Shuttlebus ins Kundencenter • Großes Tageslichtbüro • Moderner PC-Arbeitsplatz, 2 Monitore, Schreibtisch höhenverstellbar, Headset etc. • Die Tätigkeit kann ab November 2026 beginnen.\n\n[Qualifications] Studiengang im Bereich BWL, VWL, oder ähnlicher Studiengang • MS-Office Anwendungskenntnisse, insb. Excel, Sharepoint, Outlook • Erfahrung mit - oder Freude am - Kundenkontakt, Callcenter o.ä. wünschenswert • Anwenderumgang mit Telefonanlagen-Software • Zusätzliche Informationen: Wir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Bitte vergiss nicht im Online-Formular Deine Dokumente als \"relevant für diese Bewerbung\" zu markieren und beachte die maximale Dateigröße von 5 MB. Weiterführende Informationen zu den Einstellkriterien findest Du hier . Schwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung (sbv-sindelfingen@mercedes-benz.com) unterstützt Dich gerne im Bewerbungsprozess. People Solutions hilft Dir bei Fragen zum Bewerbungsprozess gerne weiter. Du erreichst uns per E-Mail über myhrservice@mercedes-benz.com oder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).",
+      "experience_1": {
+        "role": "System Integration Werkstudent",
+        "description": "Integrated backend systems and databases, improving latency and performance while managing data flow within internal IT platforms",
+        "skills": [
+          "system integration",
+          "backend systems",
+          "database management",
+          "data management",
+          "performance optimization",
+          "latency improvement",
+          "cross-functional collaboration"
+        ]
+      },
+      "experience_2": {
+        "role": "Database Management Intern",
+        "description": "Developed MySQL database structures and backend services with Django and Flask to support data storage and processing for machine-learning workflows",
+        "skills": [
+          "database management",
+          "data management",
+          "backend development",
+          "MySQL",
+          "Django",
+          "Flask",
+          "data storage"
+        ]
+      },
+      "experience_error": ""
+    }
+  ]
+}

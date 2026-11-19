@@ -1,0 +1,4577 @@
+[
+  {
+    "job_url": "https://jobs.sap.com/en/jobs/744000152629140/executive-gm-canberra/",
+    "title": "Executive GM — Canberra",
+    "company": "SAP",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Executive GM — Canberra",
+      "language": "en",
+      "required": [
+        "public sector technology sales",
+        "full P&L accountability",
+        "Australian Federal Government market",
+        "operating at Secretary level",
+        "lead, coach, and develop",
+        "technology partner ecosystem",
+        "enterprise technology modernisation",
+        "cloud ERP",
+        "data platforms"
+      ],
+      "preferred": [
+        "AUKUS-related Defence programmes",
+        "APS reform priorities",
+        "RISE with SAP",
+        "GROW with SAP",
+        "budget cycle mechanics",
+        "defence procurement environment",
+        "partner co-investment",
+        "customer success outcomes"
+      ],
+      "tools": [
+        "SAP",
+        "cloud ERP",
+        "AI",
+        "data platforms",
+        "RISE with SAP",
+        "GROW with SAP",
+        "ERP"
+      ],
+      "languages_required": [],
+      "years_experience": null,
+      "domain": "government technology sales",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Seasoned technology executive with full P&L accountability and deep experience selling enterprise modernization solutions to the Australian federal government. I aim to lead the Canberra portfolio, driving partner ecosystem success and customer outcomes while targeting cloud ERP and data platforms initiatives. Working toward hands-on SAP and RISE with SAP experience.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Quantitative Modeling",
+          "Data Analytics"
+        ],
+        "areas": [
+          {
+            "label": "Software Development",
+            "skills": [
+              "Python",
+              "C++",
+              "JavaScript",
+              "SQL",
+              "Django",
+              "FastAPI",
+              "React",
+              "NodeJS"
+            ]
+          },
+          {
+            "label": "AI & Data Engineering",
+            "skills": [
+              "Machine Learning",
+              "Deep Learning",
+              "Natural Language Processing",
+              "Computer Vision",
+              "Transformers",
+              "Reinforcement Learning",
+              "Data Analytics",
+              "Data Preprocessing"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed high‑profitability quantitative functions and models for financial decision‑making, and built backend components with real‑time algorithms that support trading operations, leveraging black‑box and gray‑box AI models to exceed benchmark performance.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Deep Learning",
+            "Real-Time Algorithms",
+            "Backend Components",
+            "Trading Operations",
+            "Financial Decision-Making"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech and visual activity analysis projects, and performed precise data extraction and preprocessing to ensure high‑quality training and evaluation, supporting data‑driven decision making.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Led development of an end‑to‑end high‑frequency trading platform, integrating real‑time data scraping, quantitative and AI models, and automated execution to achieve 70 percent accuracy in cash‑segment market decisions, supporting rapid, data‑driven operational leadership.",
+          "skills": [
+            "Python",
+            "Django",
+            "Data Analytics",
+            "Machine Learning",
+            "Deep Learning",
+            "Real-Time Systems"
+          ]
+        },
+        {
+          "id": "vehicle_sharing",
+          "title": "Vehicle Sharing Application",
+          "description": "Built a full‑stack vehicle sharing application with real‑time CRUD operations and Dijkstra‑based route optimization, delivering a responsive UI and scalable backend to streamline city‑wide mobility services, aligning with executive oversight of technology‑enabled operations.",
+          "skills": [
+            "NodeJS",
+            "React",
+            "MongoDB",
+            "JavaScript",
+            "CRUD",
+            "UI Development"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 11.8,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [
+      "tools: force-inserted system acronym ERP",
+      "required: single-tool item 'AI' is covered by tools"
+    ],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [
+        "SAP",
+        "RISE with SAP"
+      ],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 6,
+      "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/en/jobs/744000152628469/senior-account-executive/",
+    "title": "Senior Account Executive",
+    "company": "SAP",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Senior Account Executive",
+      "language": "en",
+      "required": [
+        "Bachelor's degree",
+        "10+ years account management",
+        "5+ years cloud sales",
+        "5+ years customer relationship",
+        "cloud sales platforms",
+        "tailored proposals presentations",
+        "industry trends cloud AI",
+        "upselling cross-selling cloud",
+        "exceeding sales targets",
+        "strategic customer relationships"
+      ],
+      "preferred": [
+        "AI Value Selling",
+        "Data-Driven Stakeholder Engagement",
+        "Context Engineering",
+        "Negotiation",
+        "Overcoming Objections",
+        "Cloud Strategy",
+        "Competitive Positioning",
+        "Complex Sales"
+      ],
+      "tools": [],
+      "languages_required": [],
+      "years_experience": 10,
+      "domain": "Cloud Solutions Sales",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Seasoned senior account executive with a bachelor’s degree and extensive account management experience, specializing in cloud sales and customer relationship building. Proven ability to craft tailored proposals and presentations, stay ahead of industry trends in cloud AI, and drive upselling and cross‑selling to exceed sales targets while nurturing strategic customer relationships.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Data Analytics",
+          "Quantitative Modeling"
+        ],
+        "areas": [
+          {
+            "label": "Web Development",
+            "skills": [
+              "JavaScript",
+              "React",
+              "NodeJS",
+              "Django",
+              "FastAPI",
+              "CSS",
+              "NextJS",
+              "Streamlit"
+            ]
+          },
+          {
+            "label": "AI & Data Science",
+            "skills": [
+              "Python",
+              "SQL",
+              "Machine Learning",
+              "Deep Learning",
+              "Transformers",
+              "Data Analytics",
+              "Data Preprocessing",
+              "Reinforcement Learning"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Created quant functions and models that boosted profitability in financial decision‑making, and engineered backend components with real‑time algorithms to enhance trading operations, consistently exceeding benchmark performance.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Real-Time Algorithms",
+            "Trading Operations",
+            "Financial Decision-Making",
+            "Data Analytics"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech and visual activity analysis, and performed precise data extraction and preprocessing to ensure high‑quality training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Led development of an end‑to‑end high‑frequency trading platform that scraped, analyzed, and filtered market data in real time, integrating quantitative and AI models to execute actions with 70 percent accuracy in cash segment.",
+          "skills": [
+            "Python",
+            "Django",
+            "Data Analytics",
+            "Machine Learning",
+            "Deep Learning",
+            "Real-Time Systems",
+            "Quantitative Modeling",
+            "Mathematics"
+          ]
+        },
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Built an automated resume generation system that transforms structured datasets for multiple job categories into tailored resume sections using open‑source LLMs, delivering a streamlined solution for job‑seekers.",
+          "skills": [
+            "Python",
+            "Streamlit",
+            "Natural Language Processing",
+            "Large Language Models",
+            "Transformers",
+            "Data Analytics"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 3.1,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 6,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/en/jobs/744000152612169/internship-ai-automation-developer-fm/",
+    "title": "Internship: AI Automation Developer F/M",
+    "company": "SAP",
+    "status": "parked",
+    "analysis": {
+      "title_core": "AI Automation Developer Internship",
+      "language": "en",
+      "required": [
+        "student at engineering school",
+        "strong expertise Java",
+        "strong expertise JavaScript",
+        "agentic AI",
+        "English communication",
+        "team player",
+        "agile environment",
+        "solid technical fundamentals",
+        "Codility assessment"
+      ],
+      "preferred": [
+        "quick learning ability",
+        "new frameworks",
+        "rigorous AI output",
+        "context engineering",
+        "prompt design",
+        "RAG",
+        "agent orchestration",
+        "international environment"
+      ],
+      "tools": [
+        "Java",
+        "JavaScript",
+        "LLM pipelines",
+        "agentic AI",
+        "SAP BTP",
+        "Joule Studio Classic",
+        "SAP Build Apps",
+        "SAP Business Application Studio",
+        "SAP BACE Automation & Life Cycle",
+        "Lobby & Registry infrastructure",
+        "Codility"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": "fluent",
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "AI automation",
+      "knockouts": []
+    },
+    "components": null,
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 3.9,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [
+      "G2: tech token 'agile' is not in the claimable set"
+    ],
+    "error": "gates failed after regeneration: G2: tech token 'agile' is not in the claimable set",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [
+        "vehicle_sharing",
+        "hft"
+      ],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 4,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=4 repicked=True"
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/en/jobs/744000152611519/sap-ixp-intern-it-end-user-support-specialist-deal-support-coe-l2c-euas/",
+    "title": "SAP iXp Intern - IT End User Support Specialist, Deal Support CoE L2C EU/AS",
+    "company": "SAP",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "SAP iXp Intern - IT End User Support Specialist, Deal Support CoE L2C EU/AS",
+      "language": "en",
+      "required": [
+        "customer-service attitude",
+        "analytical skills",
+        "inquisitive mindset",
+        "multitasking prioritization",
+        "strong English communication",
+        "confidence navigating challenges",
+        "independent and team work",
+        "bachelor´s degree",
+        "equivalent work experience"
+      ],
+      "preferred": [
+        "fast learner",
+        "virtual collaboration",
+        "multi-channel support",
+        "chat call-out ticketing",
+        "testing new features",
+        "process-related projects",
+        "learning networking activities",
+        "knowledge of SAP"
+      ],
+      "tools": [
+        "SAP",
+        "ticketing system",
+        "chat",
+        "call-out"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": null,
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "IT End User Support",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Enthusiastic IT support professional with a bachelor’s degree and solid experience delivering multi‑channel assistance. I bring a customer‑service attitude, strong English communication, analytical and inquisitive mindset, and proven multitasking prioritization while confidently navigating challenges both independently and within virtual teams. Seeking to apply my skills toward SAP and ticketing system support. Working toward hands-on chat and call-out experience.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Data Analytics"
+        ],
+        "areas": [
+          {
+            "label": "Backend Development",
+            "skills": [
+              "Python",
+              "Django",
+              "FastAPI",
+              "SQL",
+              "MongoDB",
+              "NodeJS"
+            ]
+          },
+          {
+            "label": "AI & Data Science",
+            "skills": [
+              "Machine Learning",
+              "Deep Learning",
+              "Reinforcement Learning",
+              "Natural Language Processing",
+              "Transformers",
+              "Data Preprocessing"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed quant functions and models that boosted profitability in financial decision‑making, and built backend components with real‑time algorithms to support trading operations, leveraging AI models to exceed benchmark performance.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Real-Time Algorithms",
+            "Backend Components",
+            "Financial Decision-Making",
+            "Data Analytics"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech and visual activity analysis, and performed data extraction and preprocessing to ensure accurate training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Built an end‑to‑end web app that ingests structured job‑category datasets and leverages LLMs to generate tailored resumes, streamlining user‑self‑service and reducing manual effort.",
+          "skills": [
+            "Python",
+            "Streamlit",
+            "Natural Language Processing",
+            "Large Language Models",
+            "Transformers",
+            "Data Analytics"
+          ]
+        },
+        {
+          "id": "vehicle_sharing",
+          "title": "Vehicle Sharing Application",
+          "description": "Created a full‑stack vehicle‑sharing platform with real‑time CRUD operations and route optimization, delivering an intuitive UI for end‑users to request and manage services.",
+          "skills": [
+            "NodeJS",
+            "React",
+            "React-Native",
+            "MongoDB",
+            "JavaScript",
+            "CSS",
+            "CRUD",
+            "Dijkstra Algorithm"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 3.2,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [
+        "chat",
+        "call-out"
+      ],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 4,
+      "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=4 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/en/jobs/744000152603549/senior-account-executive/",
+    "title": "Senior Account Executive",
+    "company": "SAP",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Senior Account Executive",
+      "language": "en",
+      "required": [
+        "10+ years experience",
+        "complex business software",
+        "team-selling environment",
+        "large transactions",
+        "business application sales",
+        "Business level English",
+        "Local language Fluent",
+        "Bachelor equivalent"
+      ],
+      "preferred": [
+        "virtual account team",
+        "pipeline planning",
+        "cross sell",
+        "up sell",
+        "SAP promotions",
+        "industry solutions"
+      ],
+      "tools": [
+        "SAP",
+        "CRM",
+        "SCM",
+        "HCM",
+        "SRM",
+        "Business Analytics",
+        "Mobility",
+        "Database",
+        "OneSAP"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": "Fluent",
+          "other": null
+        }
+      ],
+      "years_experience": 10,
+      "domain": "Enterprise Software Sales",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Senior Account Executive with over a decade of experience selling complex business software, eager to drive large‑transaction deals within a virtual account team and to expand SAP and CRM industry solutions.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL",
+          "NodeJS"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Data Analytics",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Quantitative Modeling"
+        ],
+        "areas": [
+          {
+            "label": "Backend Development",
+            "skills": [
+              "Python",
+              "Django",
+              "FastAPI",
+              "SQL",
+              "MongoDB",
+              "NodeJS"
+            ]
+          },
+          {
+            "label": "Front‑End & Mobile",
+            "skills": [
+              "React",
+              "React-Native",
+              "NextJS",
+              "Flutter",
+              "CSS",
+              "JavaScript"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed multiple functions and quantitative models that boosted profitability in financial decision‑making, and built backend components with real‑time algorithms to support high‑frequency trading operations.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "SQL",
+            "Data Analytics",
+            "Backend Components",
+            "Real-Time Algorithms",
+            "Financial Decision-Making"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech and visual‑activity analysis, and performed data extraction and preprocessing to ensure accurate model training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Built an end‑to‑end system that transforms structured job‑category datasets into tailored resumes using open‑source LLMs, streamlining candidate presentation for AI, backend, and data roles.",
+          "skills": [
+            "Python",
+            "Streamlit",
+            "Natural Language Processing",
+            "Large Language Models",
+            "Transformers",
+            "Data Analytics"
+          ]
+        },
+        {
+          "id": "vehicle_sharing",
+          "title": "Vehicle Sharing Application",
+          "description": "Created a full‑stack vehicle‑sharing platform with real‑time CRUD operations, city‑specific routing via Dijkstra’s algorithm, and a responsive UI, enhancing user engagement and operational efficiency.",
+          "skills": [
+            "NodeJS",
+            "React",
+            "React-Native",
+            "MongoDB",
+            "CSS",
+            "JavaScript",
+            "CRUD",
+            "Dijkstra Algorithm"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 4.5,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 7,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=7 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/en/jobs/744000152600039/general-administration-persons-with-disabilities-%E4%B8%80%E8%88%AC%E4%BA%8B%E5%8B%99%E8%81%B7-%E9%9A%9C%E3%81%8C%E3%81%84%E8%80%85%E6%8E%A1%E7%94%A8/",
+    "title": "General Administration - Persons with Disabilities（一般事務職／障がい者採用）",
+    "company": "SAP",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "General Administration - Persons with Disabilities",
+      "language": "en",
+      "required": [
+        "English reading/writing",
+        "administrative functions understanding",
+        "detail-oriented",
+        "proactive approach",
+        "willingness to learn"
+      ],
+      "preferred": [
+        "Microsoft Office applications",
+        "Excel",
+        "Outlook",
+        "PowerPoint",
+        "Scheduling tools",
+        "Document management",
+        "Business communication",
+        "AI-assisted automation"
+      ],
+      "tools": [
+        "Microsoft Office",
+        "Excel",
+        "Outlook",
+        "PowerPoint",
+        "Microsoft Teams",
+        "SAP internal delivery systems",
+        "SAP internal purchasing systems"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": null,
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "administrative support",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Detail‑oriented professional fluent in English, adept at reading and writing complex documents, seeking to apply strong analytical and automation expertise to support administrative functions for persons with disabilities. Proactive learner eager to integrate AI‑assisted tools such as Microsoft Office and Excel to streamline workflows. Working toward hands-on Outlook and PowerPoint experience.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Data Analytics"
+        ],
+        "areas": [
+          {
+            "label": "Backend Development",
+            "skills": [
+              "Python",
+              "Django",
+              "FastAPI",
+              "SQL",
+              "MongoDB",
+              "Data Preprocessing"
+            ]
+          },
+          {
+            "label": "AI Modeling",
+            "skills": [
+              "Machine Learning",
+              "Deep Learning",
+              "Reinforcement Learning",
+              "Transformers",
+              "Natural Language Processing",
+              "Quantitative Modeling"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed multiple functions and quant models achieving high profitability in financial decision-making, and designed backend components with real-time algorithms to support trading operations.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Data Analytics",
+            "Backend Components",
+            "Real-Time Algorithms",
+            "Trading Operations",
+            "Financial Decision-Making"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text-to-speech and visual-activity analysis, and performed data extraction and preprocessing to ensure accurate model training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Built an automated resume generation system that structures role‑specific sections using open‑source LLMs, streamlining document creation for diverse job categories, supporting efficient administrative workflows.",
+          "skills": [
+            "Python",
+            "Streamlit",
+            "Natural Language Processing",
+            "Large Language Models",
+            "Transformers",
+            "Data Analytics"
+          ]
+        },
+        {
+          "id": "vehicle_sharing",
+          "title": "Vehicle Sharing Application",
+          "description": "Developed a full‑stack vehicle sharing application with real‑time CRUD operations and route optimization, delivering an intuitive interface for managing resources, applicable to administrative coordination and accessibility services.",
+          "skills": [
+            "NodeJS",
+            "React",
+            "MongoDB",
+            "CSS",
+            "JavaScript",
+            "Dijkstra Algorithm",
+            "CRUD",
+            "UI Development"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 4.5,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [
+        "Outlook",
+        "PowerPoint"
+      ],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 4,
+      "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=4 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/en/jobs/744000152597699/technology-associate-consultant-six-months-limited-contract/",
+    "title": "Technology Associate Consultant (Six Months Limited Contract)",
+    "company": "SAP",
+    "status": "parked",
+    "analysis": {
+      "title_core": "Technology Associate Consultant",
+      "language": "en",
+      "required": [
+        "Bachelor's Degree",
+        "Excellent programming skills",
+        "SAP ABAP",
+        "Cloud ABAP",
+        "SAP UI5",
+        "SAP development tools"
+      ],
+      "preferred": [
+        "knowledge transfer",
+        "training contents design",
+        "class administration",
+        "class management",
+        "technical assistance",
+        "support trainee",
+        "global community",
+        "inclusive culture"
+      ],
+      "tools": [
+        "SAP ABAP",
+        "Cloud ABAP",
+        "SAP UI5",
+        "SQL",
+        "HTML5",
+        "JavaScript"
+      ],
+      "languages_required": [],
+      "years_experience": null,
+      "domain": "Technology Consulting",
+      "knockouts": []
+    },
+    "components": null,
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 4.0,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [
+      "required: single-tool item 'SQL' is covered by tools",
+      "required: single-tool item 'HTML5' is covered by tools",
+      "required: single-tool item 'JavaScript' is covered by tools"
+    ],
+    "gate_findings": [
+      "G2: tech token 'sap' is not in the claimable set",
+      "G2: tech token 'sap' is not in the claimable set",
+      "G2: tech token 'sap' is not in the claimable set"
+    ],
+    "error": "gates failed after regeneration: G2: tech token 'sap' is not in the claimable set; G2: tech token 'sap' is not in the claimable set; G2: tech token 'sap' is not in the claimable set",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [
+        "vehicle_sharing",
+        "hft"
+      ],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 5,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=True"
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/en/jobs/744000152592370/business-process-consultant-sf/",
+    "title": "Business Process Consultant - SF",
+    "company": "SAP",
+    "status": "parked",
+    "analysis": {
+      "title_core": "Business Process Consultant - SF",
+      "language": "en",
+      "required": [
+        "Bachelor's degree",
+        "0–2 years SF implementation",
+        "English fluency",
+        "HR digital transformation curiosity"
+      ],
+      "preferred": [
+        "Employee Central",
+        "Talent modules",
+        "Japanese language",
+        "SAP SuccessFactors certification",
+        "AI-Workforce Transformation Planning",
+        "Effective Communication",
+        "Complex Problem Solving",
+        "Business Process Automation"
+      ],
+      "tools": [
+        "SAP SuccessFactors",
+        "Employee Central",
+        "Performance & Goals",
+        "AI-Assisted Automation",
+        "AI-Workforce Transformation Planning",
+        "Agentic AI Day-to-Day Practice",
+        "Context Engineering",
+        "AI Output Quality Assurance",
+        "Establishing Trust",
+        "Customer Orientation",
+        "Business Process Management",
+        "Business Process Analysis"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": "fluent",
+          "other": null
+        },
+        {
+          "language": "other",
+          "level": null,
+          "other": "Japanese"
+        }
+      ],
+      "years_experience": 1,
+      "domain": "HR consulting",
+      "knockouts": [
+        "Bachelor's degree"
+      ]
+    },
+    "components": null,
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 4.3,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [
+      "G2: tech token 'SAP' is not in the claimable set"
+    ],
+    "error": "gates failed after regeneration: G2: tech token 'SAP' is not in the claimable set",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 3,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=3 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/en/jobs/744000152592429/technical-quality-manager-services-south-korea/",
+    "title": "Technical Quality Manager-Services, South Korea",
+    "company": "SAP",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Technical Quality Manager-Services",
+      "language": "en",
+      "required": [
+        "client relationship management",
+        "account management roles",
+        "strong communication skills",
+        "service delivery coordination",
+        "project management",
+        "organizing multiple tasks",
+        "CRM systems",
+        "service management tools",
+        "service level agreements",
+        "performance metrics"
+      ],
+      "preferred": [
+        "Korean fluency",
+        "English fluency",
+        "service-based industries",
+        "consulting",
+        "technology services",
+        "professional services",
+        "mentoring junior members",
+        "leading junior members"
+      ],
+      "tools": [
+        "SAP",
+        "CRM systems",
+        "service management tools",
+        "CRM"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": null,
+          "other": null
+        },
+        {
+          "language": "other",
+          "level": null,
+          "other": "Korean"
+        }
+      ],
+      "years_experience": null,
+      "domain": "Premium Engagement Consulting",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Seasoned technical leader seeking the Technical Quality Manager‑Services role to drive client relationship management, service delivery coordination, and performance metric oversight across complex projects. Experienced in account management and organizing multiple tasks while mentoring teams, with a focus on mastering CRM systems and service management tools.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL",
+          "NodeJS"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Data Analytics"
+        ],
+        "areas": [
+          {
+            "label": "Backend Development",
+            "skills": [
+              "Python",
+              "Django",
+              "FastAPI",
+              "SQL",
+              "MongoDB",
+              "NodeJS"
+            ]
+          },
+          {
+            "label": "AI Data Engineering",
+            "skills": [
+              "Machine Learning",
+              "Deep Learning",
+              "Natural Language Processing",
+              "Transformers",
+              "Data Preprocessing",
+              "Quantitative Modeling"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed high‑profitability quantitative functions and models, and built backend components with real‑time algorithms to support trading operations, applying black‑box and gray‑box approaches that exceeded benchmark performance.",
+          "skills": [
+            "Python",
+            "Deep Learning",
+            "Quantitative Modeling",
+            "SQL",
+            "Data Analytics",
+            "Backend Components",
+            "Real-Time Algorithms"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech and visual activity analysis, and performed data extraction and preprocessing to ensure accurate model training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Django",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Built an end‑to‑end high‑frequency trading platform with real‑time data scraping, analysis, and filtering; integrated quantitative and AI models to execute market actions and handle unexpected events, delivering strong accuracy in cash‑segment trading.",
+          "skills": [
+            "Python",
+            "Django",
+            "Data Analytics",
+            "Machine Learning",
+            "Deep Learning",
+            "Real-Time Systems",
+            "Mathematics",
+            "Quantitative Modeling"
+          ]
+        },
+        {
+          "id": "vehicle_sharing",
+          "title": "Vehicle Sharing Application",
+          "description": "Created a full‑stack vehicle‑sharing app for a city, implementing Dijkstra‑based route selection, real‑time CRUD operations, and a clean, responsive UI using modern web and mobile technologies.",
+          "skills": [
+            "NodeJS",
+            "React",
+            "MongoDB",
+            "JavaScript",
+            "Dijkstra Algorithm",
+            "CRUD",
+            "UI Development",
+            "CSS"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 3.5,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [
+      "tools: force-inserted system acronym CRM"
+    ],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 7,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=7 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/en/jobs/744000152541819/digital-solution-advisor-baip-specialist-for-sap-digital-hub-sap-next-gen/",
+    "title": "Digital Solution Advisor, BAIP Specialist for SAP Digital Hub – SAP Next Gen",
+    "company": "SAP",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Digital Solution Advisor, BAIP Specialist for SAP Digital Hub – SAP Next Gen",
+      "language": "en",
+      "required": [
+        "Bachelor's degree",
+        "0-2 years experience",
+        "AI/ML concepts",
+        "English proficiency"
+      ],
+      "preferred": [
+        "Data visualization",
+        "BI platforms",
+        "Data Engineering background",
+        "Computer Science background",
+        "Information Systems background",
+        "Artificial Intelligence background",
+        "Statistics background",
+        "Storytelling"
+      ],
+      "tools": [
+        "Python",
+        "SQL",
+        "AI/ML",
+        "BI platforms",
+        "SAP",
+        "BI"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": null,
+          "other": null
+        }
+      ],
+      "years_experience": 0,
+      "domain": "AI and Data",
+      "knockouts": [
+        "Bachelor's degree"
+      ]
+    },
+    "components": {
+      "objective": "Recent Computer Science graduate with strong foundation in Python, C++ and machine learning, seeking to contribute as a Digital Solution Advisor at SAP Digital Hub. Eager to apply expertise in data analytics and AI/ML concepts while developing solutions on BI platforms.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Data Analytics"
+        ],
+        "areas": [
+          {
+            "label": "Backend Development",
+            "skills": [
+              "Python",
+              "Django",
+              "FastAPI",
+              "SQL",
+              "MongoDB",
+              "NodeJS"
+            ]
+          },
+          {
+            "label": "Front‑End & Visualization",
+            "skills": [
+              "JavaScript",
+              "React",
+              "NextJS",
+              "CSS",
+              "Streamlit"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed quant functions and models that boosted profitability in financial decision‑making, and built backend components with real‑time algorithms to support trading operations, employing black‑box and gray‑box approaches that exceeded benchmark performance.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Real-Time Algorithms",
+            "Backend Components",
+            "Trading Operations",
+            "Financial Decision-Making",
+            "Data Analytics"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech applications and high‑function visual‑activity analysis, and performed data extraction and preprocessing to ensure accurate model training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech",
+            "Django"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Developed an end-to-end high-frequency trading platform with real-time data scraping, analysis, filtering, and AI-driven decision-making to execute market actions and manage unexpected events.",
+          "skills": [
+            "Python",
+            "Django",
+            "Machine Learning",
+            "Deep Learning",
+            "Real-Time Systems",
+            "Data Analytics"
+          ]
+        },
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation System",
+          "description": "Built an automated resume generation system that uses structured datasets and open-source large language models to customize project, skill, and highlight sections for targeted job categories.",
+          "skills": [
+            "Python",
+            "Streamlit",
+            "Natural Language Processing",
+            "Large Language Models",
+            "Transformers",
+            "Data Analytics"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 4.1,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [
+      "tools: force-inserted system acronym BI",
+      "required: single-tool item 'Python' is covered by tools",
+      "required: single-tool item 'SQL' is covered by tools"
+    ],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 7,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=7 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/en/jobs/744000152531389/services-account-executive-oil-gas/",
+    "title": "Services Account Executive (Oil & Gas)",
+    "company": "SAP",
+    "status": "parked",
+    "analysis": {
+      "title_core": "Services Account Executive (Oil & Gas)",
+      "language": "en",
+      "required": [
+        "Customer Value Journey Alignment",
+        "Complex Sales",
+        "Customer Value Proposition",
+        "Account Governance",
+        "Cloud Strategy",
+        "Customer Engagement",
+        "Relationship Building",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Sales Territory Management"
+      ],
+      "preferred": [
+        "quarterly quotas",
+        "customer success",
+        "lifetime value",
+        "trusted relationships",
+        "strategic account plans",
+        "robust R4Q pipeline",
+        "SAP Services adoption",
+        "value delivery"
+      ],
+      "tools": [
+        "SAP Services",
+        "AI",
+        "cloud"
+      ],
+      "languages_required": [],
+      "years_experience": null,
+      "domain": "Oil & Gas",
+      "knockouts": []
+    },
+    "components": null,
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 3.2,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [
+      "G2: tech token 'sap' is not in the claimable set"
+    ],
+    "error": "gates failed after regeneration: G2: tech token 'sap' is not in the claimable set",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 6,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/en/jobs/744000152531179/services-account-executive-oil-gas/",
+    "title": "Services Account Executive (Oil & Gas)",
+    "company": "SAP",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Services Account Executive (Oil & Gas)",
+      "language": "en",
+      "required": [
+        "Customer Value Journey Alignment",
+        "Complex Sales",
+        "Customer Value Proposition",
+        "Account Governance",
+        "Cloud Strategy",
+        "Customer Engagement",
+        "Relationship Building",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Sales Territory Management"
+      ],
+      "preferred": [
+        "Competitive Positioning",
+        "AI Value Selling",
+        "Strategic AI Synthesis",
+        "AI Data Analytics",
+        "Data-Driven Stakeholder Engagement",
+        "Context Engineering",
+        "AI Output Quality Assurance",
+        "Agentic AI Day-to-Day Practice"
+      ],
+      "tools": [
+        "SAP Services",
+        "AI",
+        "Cloud"
+      ],
+      "languages_required": [],
+      "years_experience": null,
+      "domain": "Oil & Gas Sales",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Seasoned technology professional seeking to drive oil and gas client success by aligning complex sales cycles with robust customer value journeys. Aiming to leverage deep expertise in data analytics, machine learning, and quantitative modeling to articulate AI and cloud‑enabled value propositions, while strengthening account governance and stakeholder relationships.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Data Analytics"
+        ],
+        "areas": [
+          {
+            "label": "Backend Development",
+            "skills": [
+              "Python",
+              "Django",
+              "FastAPI",
+              "SQL",
+              "MongoDB",
+              "Data Preprocessing"
+            ]
+          },
+          {
+            "label": "AI Modeling",
+            "skills": [
+              "Machine Learning",
+              "Deep Learning",
+              "Reinforcement Learning",
+              "Transformers",
+              "Quantitative Modeling",
+              "Natural Language Processing",
+              "Computer Vision"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed multiple functions and quantitative models that boosted profitability in financial decision‑making, and built backend components with real‑time algorithms to support high‑frequency trading operations.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Backend Components",
+            "Real-Time Algorithms",
+            "Trading Operations",
+            "Financial Decision-Making"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech and visual activity analysis, and performed data extraction and preprocessing to ensure accurate model training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Built an end‑to‑end platform that scrapes market data, applies quantitative and AI models, and executes real‑time decisions, demonstrating capability to deliver high‑velocity analytics solutions for energy market clients.",
+          "skills": [
+            "Data Analytics",
+            "Python",
+            "Mathematics",
+            "Quantitative Modeling",
+            "Machine Learning",
+            "Real-Time Systems"
+          ]
+        },
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Developed complete system starting with structured datasets for different job categories (AI, backend, data)",
+          "skills": [
+            "Data Analytics",
+            "Large Language Models",
+            "Natural Language Processing",
+            "Python",
+            "Streamlit",
+            "Transformers"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 4.0,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [
+        "hft",
+        "resume_gen"
+      ],
+      "gate_findings": [],
+      "rows_reordered": 1,
+      "skills_recased": 3,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=1 recased=3 repicked=True"
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/job/Walldorf-Working-Student-%28fmd%29-HR-Learning-&-Development-69190/1437947533/",
+    "title": "Working Student (f/m/d) - HR Learning & Development",
+    "company": "SAP",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Working Student (f/m/d) - HR Learning & Development",
+      "language": "en",
+      "required": [
+        "student at university",
+        "office work required",
+        "strong English skills",
+        "MS Office proficiency",
+        "PowerPoint skills",
+        "Excel skills"
+      ],
+      "preferred": [
+        "picture/video editing",
+        "AI tools familiarity",
+        "German language",
+        "team player",
+        "strong communication",
+        "high commitment",
+        "proactive work ethic",
+        "corporate HR experience"
+      ],
+      "tools": [
+        "MS Office",
+        "PowerPoint",
+        "Excel",
+        "AI tools",
+        "ERP"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": null,
+          "other": null
+        },
+        {
+          "language": "German",
+          "level": null,
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "Human Resources",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Enthusiastic university student seeking a Working Student position in HR Learning & Development, where I can apply my strong English communication and programming expertise while gaining experience with MS Office and PowerPoint tools. I am committed to proactive, collaborative office work and continuous learning. Working toward hands-on Excel and AI tools experience.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Data Analytics"
+        ],
+        "areas": [
+          {
+            "label": "Backend Development",
+            "skills": [
+              "Python",
+              "C++",
+              "SQL",
+              "Django",
+              "FastAPI",
+              "NodeJS",
+              "MongoDB"
+            ]
+          },
+          {
+            "label": "AI Modeling",
+            "skills": [
+              "Transformers",
+              "Large Language Models",
+              "Reinforcement Learning",
+              "Quantitative Modeling",
+              "Machine Learning",
+              "Deep Learning",
+              "Data Preprocessing",
+              "Computer Vision"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed quant models and backend components that improved profitability and supported real-time trading decisions, demonstrating strong analytical and instructional capabilities.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Data Analytics",
+            "Backend Components",
+            "Real-Time Algorithms",
+            "Financial Decision-Making",
+            "Mathematics"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented ML models for text-to-speech and visual activity analysis, and performed data extraction and preprocessing to ensure accurate training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Built an end‑to‑end system that creates tailored resumes from structured datasets for AI, backend, and data roles, leveraging open‑source LLMs to format sections such as projects, skills, and highlights.",
+          "skills": [
+            "Python",
+            "Streamlit",
+            "Natural Language Processing",
+            "Large Language Models",
+            "Transformers",
+            "Data Analytics"
+          ]
+        },
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Implemented a full‑stack platform that scrapes real‑time market data, applies quantitative and AI models, and executes trades, achieving real‑time decision accuracy.",
+          "skills": [
+            "Python",
+            "Django",
+            "Data Analytics",
+            "Machine Learning",
+            "Deep Learning",
+            "Quantitative Modeling",
+            "Real-Time Systems",
+            "Data Scraping"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 5.5,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [
+      "tools: force-inserted system acronym ERP"
+    ],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [
+        "Excel",
+        "AI tools"
+      ],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 4,
+      "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=4 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/job/St_-Leon-Rot-Working-Student-%28fmd%29-Machine-TranslationNatural-Language-Processing-68789/1437176333/",
+    "title": "Working Student (f/m/d) - Machine Translation/Natural Language Processing",
+    "company": "SAP",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Working Student (f/m/d) - Machine Translation/Natural Language Processing",
+      "language": "en",
+      "required": [
+        "currently enrolled student",
+        "Computer Science",
+        "Computational Linguistics",
+        "Linux environment",
+        "communication skills in English"
+      ],
+      "preferred": [
+        "shell scripting",
+        "machine translation",
+        "large language models",
+        "machine learning",
+        "OpenAI APIs",
+        "fine-tuning a Llama",
+        "Stanford CoreNLP",
+        "Huggingface Transformers"
+      ],
+      "tools": [
+        "Python",
+        "Linux",
+        "shell scripting",
+        "Large Language Models",
+        "OpenAI APIs",
+        "Llama model",
+        "Stanford CoreNLP",
+        "stanza",
+        "Huggingface Transformers",
+        "SAP data",
+        "sentence segmentation",
+        "term recognition",
+        "ERP"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": null,
+          "other": null
+        },
+        {
+          "language": "German",
+          "level": null,
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "Machine Translation",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Enthusiastic computer science student specializing in computational linguistics, currently enrolled and fluent in English, seeking a Working Student role in Machine Translation. I aim to deepen experience in a Linux environment while fine‑tuning Llama models and applying HuggingFace Transformers to real‑world translation tasks. Working toward hands-on shell scripting and OpenAI APIs experience.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL"
+        ],
+        "specialized_areas": [
+          "Natural Language Processing",
+          "Machine Learning",
+          "Deep Learning",
+          "Data Analytics",
+          "Quantitative Modeling"
+        ],
+        "areas": [
+          {
+            "label": "Programming & Frameworks",
+            "skills": [
+              "Python",
+              "C++",
+              "JavaScript",
+              "SQL",
+              "Django",
+              "FastAPI",
+              "React",
+              "NodeJS"
+            ]
+          },
+          {
+            "label": "AI & Analytics",
+            "skills": [
+              "Large Language Models",
+              "Machine Learning",
+              "Transformers",
+              "Deep Learning",
+              "Natural Language Processing",
+              "Reinforcement Learning",
+              "Data Analytics",
+              "Quantitative Modeling"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed quant functions and models that boosted profitability in financial decision‑making, and built backend components with real‑time algorithms to support trading operations, applying AI techniques and advanced black‑box/gray‑box modeling to exceed benchmark performance.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Data Analytics",
+            "Backend Components",
+            "Real-Time Algorithms",
+            "Trading Operations",
+            "Financial Decision-Making"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for projects such as text‑to‑speech applications and visual‑activity analysis, and performed data extraction and preprocessing to ensure high‑quality inputs for model training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation Platform",
+          "description": "Built an end‑to‑end system that ingests structured datasets for various job categories and uses open‑source large language models to generate tailored resumes via a Streamlit web interface. Implementation focus: Transformers.",
+          "skills": [
+            "Large Language Models",
+            "Transformers",
+            "Python",
+            "Streamlit",
+            "Natural Language Processing",
+            "Data Analytics"
+          ]
+        },
+        {
+          "id": "hft",
+          "title": "High‑Frequency Trading Platform",
+          "description": "Developed a real‑time trading pipeline in Python with Django, combining quantitative models and deep‑learning predictors to scrape market data, filter signals, and execute actions with high accuracy. Implementation focus: Machine Learning.",
+          "skills": [
+            "Machine Learning",
+            "Python",
+            "Django",
+            "Data Scraping",
+            "Real-Time Systems",
+            "Deep Learning",
+            "Quantitative Modeling",
+            "Data Analytics"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 6.6,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [
+      "tools: force-inserted system acronym ERP",
+      "required: single-tool item 'Python' is covered by tools"
+    ],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [
+        "shell scripting",
+        "OpenAI APIs"
+      ],
+      "dormant_added": {},
+      "desc_insertions": [
+        "project:Machine Learning",
+        "project:Transformers"
+      ],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 3,
+      "skills_recased": 5,
+      "summary": "mirror=2 dormant_added=0 desc_insertions=2 labels=0 reorder=3 recased=5 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/job/Walldorf-Working-Student-%28fmd%29-IT-Portfolio-69190/1435713633/",
+    "title": "Working Student (f/m/d) - IT Portfolio",
+    "company": "SAP",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Working Student - IT Portfolio",
+      "language": "en",
+      "required": [
+        "Fluent in English",
+        "Willingness to work onsite",
+        "Strong analytical and problem-solving",
+        "Strong communication and negotiation",
+        "Currently pursuing a Master’s"
+      ],
+      "preferred": [
+        "Agile ways of working",
+        "knowledge of Jira",
+        "Experience creating executive-level reporting",
+        "Interest in portfolio management"
+      ],
+      "tools": [
+        "SAFe",
+        "Jira",
+        "OKR framework",
+        "SAP",
+        "ERP",
+        "OKR"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": "fluent",
+          "other": null
+        },
+        {
+          "language": "German",
+          "level": null,
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "Portfolio Management",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Master’s student in Computer Science with strong analytical, problem‑solving and communication skills, fluent in English and ready to work onsite. Eager to support IT portfolio management while gaining hands‑on experience with Jira and ERP frameworks, applying expertise in Python, data analytics and machine learning to deliver executive‑level insights.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL",
+          "NodeJS"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Quantitative Modeling"
+        ],
+        "areas": [
+          {
+            "label": "Data Engineering & Analytics",
+            "skills": [
+              "SQL",
+              "Python",
+              "Data Preprocessing",
+              "Data Analytics",
+              "MongoDB",
+              "FastAPI"
+            ]
+          },
+          {
+            "label": "AI Development Frameworks",
+            "skills": [
+              "Transformers",
+              "Deep Learning",
+              "Reinforcement Learning",
+              "Large Language Models",
+              "Computer Vision",
+              "Django",
+              "Streamlit"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed quant functions and models that boosted profitability in financial decision‑making, and built backend components with real‑time algorithms to support trading operations, leveraging black‑box and gray‑box AI models to exceed benchmark performance.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Data Analytics",
+            "Backend Components",
+            "Real-Time Algorithms",
+            "Trading Operations",
+            "Financial Decision-Making"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine‑learning models for text‑to‑speech and visual‑activity analysis projects, and performed data extraction and preprocessing to ensure high‑quality training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Built an end‑to‑end Python/Django platform that scrapes real‑time market data, applies quantitative and AI models, and delivers actionable analytics for portfolio monitoring.",
+          "skills": [
+            "Python",
+            "Django",
+            "Data Analytics",
+            "Machine Learning",
+            "Real-Time Systems",
+            "Data Scraping"
+          ]
+        },
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Created a Streamlit application that leverages large language models to transform structured job datasets into tailored resumes, streamlining the content generation workflow.",
+          "skills": [
+            "Python",
+            "Streamlit",
+            "Natural Language Processing",
+            "Large Language Models",
+            "Data Analytics"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 15.5,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [
+      "tools: force-inserted system acronym ERP",
+      "tools: force-inserted system acronym OKR"
+    ],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 4,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=4 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/job/Garching-bei-M%C3%BCnchen-%28Munich%29-Working-Student-%28fmd%29-SAI-native-Software-Development-85748/1437848533/",
+    "title": "Working Student (f/m/d) - SAI-native Software Development",
+    "company": "SAP",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Working Student - SAI-native Software Development",
+      "language": "en",
+      "required": [
+        "Munich office required",
+        "AI coding agents",
+        "Programming language knowledge",
+        "Software development methodologies",
+        "Git version control"
+      ],
+      "preferred": [
+        "Angular framework",
+        "React framework",
+        "Node.js framework",
+        "Java language",
+        "JavaScript language",
+        "Python language",
+        "C++ language",
+        "Full stack development"
+      ],
+      "tools": [
+        "SAP Commerce Cloud",
+        "Java",
+        "TypeScript",
+        "Angular",
+        "Docker",
+        "Kubernetes",
+        "React",
+        "Node.js",
+        "Git",
+        "Scrum",
+        "Agile",
+        "TDD",
+        "ERP",
+        "SaaS"
+      ],
+      "languages_required": [
+        {
+          "language": "German",
+          "level": null,
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "e-commerce",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Seeking a Working Student position in SAI-native Software Development at the Munich office. I aim to apply my expertise in Python, C++, JavaScript, SQL, and machine learning to build AI coding agents while advancing my proficiency with git version control and the Angular framework.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Data Analytics"
+        ],
+        "areas": [
+          {
+            "label": "Backend Development",
+            "skills": [
+              "Python",
+              "C++",
+              "SQL",
+              "FastAPI",
+              "Django",
+              "MongoDB",
+              "Data Preprocessing",
+              "Quantitative Modeling"
+            ]
+          },
+          {
+            "label": "AI & Modeling",
+            "skills": [
+              "Machine Learning",
+              "Deep Learning",
+              "Reinforcement Learning",
+              "Transformers",
+              "Natural Language Processing",
+              "Large Language Models",
+              "Data Analytics",
+              "Mathematics"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed high‑profitability quantitative functions and models for financial decision‑making, and built backend components with real‑time algorithms that support trading operations, leveraging black‑box and gray‑box AI models to exceed benchmark performance. Key working areas: Python.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Mathematics",
+            "Backend Components",
+            "Real-Time Algorithms",
+            "Trading Operations",
+            "Financial Decision-Making"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech and visual activity analysis, and performed data extraction and preprocessing to ensure high‑quality training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Django",
+            "Data Preprocessing"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "vehicle_sharing",
+          "title": "Vehicle Sharing Application",
+          "description": "Developed full stack application for vehicle sharing in a specific city",
+          "skills": [
+            "React",
+            "JavaScript",
+            "Full Stack",
+            "CRUD",
+            "CSS",
+            "Dijkstra Algorithm",
+            "MongoDB"
+          ]
+        },
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Built an end‑to‑end high‑frequency trading platform that scrapes market data in real time, applies quantitative and AI models, and executes trades with low latency, demonstrating strong Python and real‑time system engineering.",
+          "skills": [
+            "Python",
+            "Django",
+            "Real-Time Systems",
+            "Data Scraping",
+            "Machine Learning",
+            "Deep Learning",
+            "Mathematics",
+            "Data Analytics"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 4.9,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [
+      "force-inserted language requirement: German (level not stated)",
+      "tools: force-inserted system acronym ERP",
+      "tools: force-inserted system acronym SaaS"
+    ],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {
+        "project_1": [
+          "React"
+        ]
+      },
+      "desc_insertions": [
+        "experience:Python"
+      ],
+      "area_labels": {},
+      "project_repick": [
+        "vehicle_sharing",
+        "hft"
+      ],
+      "gate_findings": [],
+      "rows_reordered": 1,
+      "skills_recased": 5,
+      "summary": "mirror=0 dormant_added=1 desc_insertions=1 labels=0 reorder=1 recased=5 repicked=True"
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/job/Garching-bei-M%C3%BCnchen-%28Munich%29-Working-Student-%28fmd%29-AI-Software-Engineer-85748/1437976633/",
+    "title": "Working Student (f/m/d) - AI Software Engineer",
+    "company": "SAP",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Working Student (f/m/d) - AI Software Engineer",
+      "language": "en",
+      "required": [
+        "AI concepts",
+        "agent skills",
+        "MCP",
+        "A2A",
+        "prompt techniques",
+        "context-injection",
+        "RAG",
+        "GitHub Actions"
+      ],
+      "preferred": [
+        "LangGraph",
+        "LangChain",
+        "LangFuse",
+        "CrewAI",
+        "CI/CD pipelines",
+        "automation testing",
+        "releases",
+        "adapt quickly"
+      ],
+      "tools": [
+        "Kyma",
+        "Kubernetes",
+        "LangGraph",
+        "LangChain",
+        "LangFuse",
+        "Python",
+        "FastAPI",
+        "K3D/S",
+        "GitHub Actions",
+        "CI/CD pipelines",
+        "SAP BTP Kyma runtime",
+        "CrewAI",
+        "ERP",
+        "CI",
+        "CD",
+        "CI/CD",
+        "REST"
+      ],
+      "languages_required": [
+        {
+          "language": "German",
+          "level": null,
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "AI cloud platform",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Passionate AI software engineer student eager to apply strong Python, Machine Learning, NLP, and Data Analytics skills to build intelligent agents. Seeking to deepen expertise with langchain and CI/CD pipelines in a collaborative environment. Working toward hands-on LangGraph and LangFuse experience.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL",
+          "MongoDB"
+        ],
+        "specialized_areas": [
+          "Natural Language Processing",
+          "Machine Learning",
+          "Deep Learning",
+          "Computer Vision",
+          "Reinforcement Learning"
+        ],
+        "areas": [
+          {
+            "label": "Backend Development",
+            "skills": [
+              "Automation",
+              "Python",
+              "Django",
+              "FastAPI",
+              "SQL",
+              "MongoDB",
+              "NodeJS"
+            ]
+          },
+          {
+            "label": "AI Modeling",
+            "skills": [
+              "Machine Learning",
+              "Deep Learning",
+              "Transformers",
+              "Large Language Models",
+              "Natural Language Processing",
+              "Quantitative Modeling",
+              "Data Analytics",
+              "Reinforcement Learning"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed quant functions and AI-driven models that boosted profitability in financial decision‑making, and built backend components with real‑time algorithms to support trading operations, surpassing benchmark performance with black‑box and gray‑box approaches.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Deep Learning",
+            "Real-Time Algorithms",
+            "Trading Operations",
+            "Financial Decision-Making",
+            "Data Analytics"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning and deep learning models for text‑to‑speech applications and advanced visual‑activity analysis, and performed data extraction and preprocessing to ensure high‑quality training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Built an end-to-end high-frequency trading system with real-time data scraping, analysis, and AI-driven decision making, integrating quantitative and deep-learning models to execute market actions.",
+          "skills": [
+            "Python",
+            "Django",
+            "Mathematics",
+            "Quantitative Modeling",
+            "Machine Learning",
+            "Deep Learning",
+            "Real-Time Systems",
+            "Data Scraping"
+          ]
+        },
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Created a full pipeline that transforms structured job-specific datasets into tailored resumes using large language models and transformer-based NLP, deployed via Streamlit for interactive user experience.",
+          "skills": [
+            "Python",
+            "Streamlit",
+            "Natural Language Processing",
+            "Large Language Models",
+            "Transformers",
+            "Data Analytics"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 5.3,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [
+      "force-inserted language requirement: German (level not stated)",
+      "tools: force-inserted system acronym ERP",
+      "tools: force-inserted system acronym CI",
+      "tools: force-inserted system acronym CD",
+      "tools: force-inserted system acronym CI/CD",
+      "tools: force-inserted system acronym REST",
+      "required: single-tool item 'Python' is covered by tools",
+      "required: single-tool item 'Kubernetes' is covered by tools"
+    ],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [
+        "LangGraph",
+        "LangFuse"
+      ],
+      "dormant_added": {
+        "skills_area_1": [
+          "automation"
+        ]
+      },
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 1,
+      "skills_recased": 4,
+      "summary": "mirror=2 dormant_added=1 desc_insertions=0 labels=0 reorder=1 recased=4 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/job/Walldorf-Working-Student-%28fmd%29-for-Agentic-AI-and-Robot-Learning-Research-in-Cooperation-with-KIT-69190/1439977333/",
+    "title": "Working Student (f/m/d) for Agentic AI and Robot Learning Research in Cooperation with KIT",
+    "company": "SAP",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Working Student for Agentic AI and Robot Learning Research",
+      "language": "en",
+      "required": [
+        "Student (f/m/d)",
+        "Python programming",
+        "ML frameworks",
+        "Fluent English"
+      ],
+      "preferred": [
+        "German language",
+        "MuJoCo simulation",
+        "LeRobot framework",
+        "OpenVLA",
+        "project experience robotics",
+        "Git version control"
+      ],
+      "tools": [
+        "MuJoCo",
+        "LeRobot",
+        "OpenVLA",
+        "PyTorch",
+        "TensorFlow",
+        "SAP ERP",
+        "Git",
+        "ERP"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": "fluent",
+          "other": null
+        },
+        {
+          "language": "German",
+          "level": null,
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "robot learning",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Enthusiastic computer science student (f/m/d) with strong Python programming and experience in machine learning frameworks, seeking a Working Student role in Agentic AI and Robot Learning Research. I aim to contribute to cutting‑edge robot learning while gaining hands‑on experience with mujoco and lerobot, and I am fluent in English with conversational German. Working toward hands-on OpenVLA and Git experience.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Computer Vision",
+          "Natural Language Processing",
+          "Data Analytics"
+        ],
+        "areas": [
+          {
+            "label": "Python",
+            "skills": [
+              "Python",
+              "Machine Learning",
+              "Deep Learning",
+              "Transformers",
+              "Large Language Models",
+              "Data Preprocessing"
+            ]
+          },
+          {
+            "label": "Full Stack Development",
+            "skills": [
+              "JavaScript",
+              "React",
+              "NodeJS",
+              "Django",
+              "FastAPI",
+              "SQL",
+              "MongoDB",
+              "Data Analytics"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed multiple functions and quantitative models that boosted profitability in financial decision‑making, and built backend components with real‑time algorithms supporting trading operations using black‑box and gray‑box AI approaches. Key working areas: Python.",
+          "skills": [
+            "Python",
+            "Reinforcement Learning",
+            "Deep Learning",
+            "Mathematics",
+            "Quantitative Modeling",
+            "Real-Time Algorithms",
+            "Trading Operations"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine‑learning models for text‑to‑speech and visual‑activity analysis, and performed data extraction and preprocessing to ensure high‑accuracy training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Built an end‑to‑end high‑frequency trading platform that streams market data, applies quantitative and deep learning models, and executes decisions in real time, showcasing expertise in real‑time AI systems. Implementation focus: Python.",
+          "skills": [
+            "Python",
+            "Django",
+            "Data Analytics",
+            "Machine Learning",
+            "Deep Learning",
+            "Real-Time Systems",
+            "Mathematics",
+            "Quantitative Modeling"
+          ]
+        },
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation System",
+          "description": "Created a full‑stack resume generation tool that leverages large language models and transformer‑based NLP pipelines to automatically craft role‑specific sections, demonstrating proficiency in LLM integration and data‑driven text generation.",
+          "skills": [
+            "Python",
+            "Streamlit",
+            "Natural Language Processing",
+            "Large Language Models",
+            "Transformers",
+            "Data Analytics"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 7.9,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [
+      "tools: force-inserted system acronym ERP"
+    ],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [
+        "OpenVLA",
+        "Git"
+      ],
+      "dormant_added": {},
+      "desc_insertions": [
+        "experience:Python",
+        "project:Python"
+      ],
+      "area_labels": {
+        "area_1": "AI Modeling -> Python"
+      },
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 5,
+      "summary": "mirror=2 dormant_added=0 desc_insertions=2 labels=1 reorder=0 recased=5 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/en/jobs/744000155471839/it-business-services-consultant/",
+    "title": "IT Business Services Consultant",
+    "company": "SAP SE",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "IT Business Services Consultant",
+      "language": "en",
+      "required": [
+        "Bachelor’s degree",
+        "SAP NetWeaver Administration",
+        "operation of systems installations",
+        "coordinate operational tasks",
+        "critical decisions",
+        "team player",
+        "weekends/off hours",
+        "9-13+ years experience",
+        "Fluent in English"
+      ],
+      "preferred": [
+        "German language skills",
+        "cross‑dependencies integration",
+        "whole technology stack",
+        "process improvements",
+        "high pressure environment",
+        "technical communication skills",
+        "release management alignment",
+        "productization of services"
+      ],
+      "tools": [
+        "SAP",
+        "SAP NetWeaver",
+        "SAP HANA",
+        "SAP S/4HANA",
+        "RISE with SAP",
+        "Enterprise Cloud Services",
+        "Global Cloud Operations",
+        "SAP Basis",
+        "ERP"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": "fluent",
+          "other": null
+        },
+        {
+          "language": "German",
+          "level": null,
+          "other": null
+        }
+      ],
+      "years_experience": 9,
+      "domain": "SAP cloud services",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "I am a software engineer with a BE in Computer Engineering and ongoing MSc in Artificial Intelligence, seeking to apply my expertise in Python, C++, and full‑stack development to the IT Business Services Consultant role. I aim to contribute to SAP NetWeaver and SAP S/4HANA initiatives, leveraging agile practices and strong English communication.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "TypeScript",
+          "html"
+        ],
+        "specialized_areas": [
+          "artificial intelligence",
+          "Machine Learning",
+          "Data Analytics",
+          "Software Engineer",
+          "Web Development"
+        ],
+        "areas": [
+          {
+            "label": "Backend Development",
+            "skills": [
+              "Python",
+              "FastAPI",
+              "Django",
+              "API Integration",
+              "Git",
+              "SQL",
+              "Automated Workflows",
+              "Agile Development"
+            ]
+          },
+          {
+            "label": "Front‑End Engineering",
+            "skills": [
+              "JavaScript",
+              "TypeScript",
+              "React",
+              "NextJS",
+              "HTML",
+              "CSS",
+              "Design Systems",
+              "Component Libraries"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed modular API endpoints, quant models, and automated data transformation pipelines, backend components, and real‑time algorithms to support trading operations, achieving high profitability in financial decision‑making; collaborated in an agile team using Git/GitHub and software engineering best practices.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Backend Components",
+            "Real-Time Algorithms",
+            "Trading Operations",
+            "Financial Decision-Making",
+            "Software Engineering Best Practices",
+            "Agile Development"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech applications and visual‑activity analysis; built automated data extraction and preprocessing pipelines to ensure accuracy for model training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Python"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Developed a complete automated transformation system that uses structured datasets and open-source Large Language Models to analyze and convert code and text into structured documents, employing AI agent workflows and prompt engineering for role-specific categorization.",
+          "skills": [
+            "Python",
+            "Large Language Models",
+            "Transformers",
+            "AI Agents",
+            "Automated Workflows",
+            "Software Engineering Best Practices"
+          ]
+        },
+        {
+          "id": "vehicle_sharing",
+          "title": "Vehicle Sharing Application",
+          "description": "Developed a full stack web application with reusable UI components, responsive styling, and modern web standards; implemented route selection using the Dijkstra algorithm and managed real-time CRUD actions via modular component libraries.",
+          "skills": [
+            "React",
+            "NodeJS",
+            "MongoDB",
+            "Dijkstra Algorithm",
+            "UI Development",
+            "Design Systems",
+            "API Integration",
+            "Software Engineering Best Practices"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 3.6,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [
+      "tools: force-inserted system acronym ERP"
+    ],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 18,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=18 repicked=False"
+    },
+    "letter_input": {
+      "posting": {
+        "title": "IT Business Services Consultant",
+        "company": "SAP SE",
+        "detail_company_name": "SAP SE",
+        "source": "SuccessFactors",
+        "source_job_id": "it-business-services-consultant",
+        "job_url": "https://jobs.sap.com/en/jobs/744000155471839/it-business-services-consultant/",
+        "location": "Bangalore, Karnataka, India",
+        "detail_location": "Bangalore, Karnataka, India",
+        "job_description": "Job Description\nWhat you’ll do\nOne of SAP’s strategic customers has conducted a transformation program, part of which is to consume their entire SAP landscape as enhanced private cloud model provided by SAP with more than 80 productive systems and several of the largest SAP HANA-based systems. To provide the right level of service, a dedicated team has been set up within SAP Enterprise Cloud Services to work for this strategic client. The goal of this team is to operate the entire customer SAP landscape and drive innovation adoption as the customer is at the start of a large-scale SAP S/4HANA transformation program.\nKey Responsibilities:\nDeep understanding of customer landscape from technical and business perspectives including its interfaces\nStrong collaboration with the customer for planning and operations\nAlign on upcoming changes with the Release Management and plan the execution accordingly\nEnsure high availability of customer service by supporting service restoration in critical situations and working proactively on the stability of the landscape\nAnalyse and deep dive into issues including the creation of RCAs as the foundation for continuous improvement\nSupport productization of services including, if required initial setup, documentation, and standardization\nAlign on planning activities and system build processes, define Handover criteria, and ensure operational readiness of the Operations team as a pre-condition for any customer GoLive\nWhere you belong:\nEnterprise Cloud Services (ECS) is part of the Customer Value Group board area, sitting within Global Cloud Operations (GCO), an organization dedicated to delivering exceptional end-to-end operational experiences and seamless technical adoption for customers throughout their cloud journey.\nECS is the delivery organization responsible for running and operating SAP's Cloud ERP Private offering (RISE with SAP). We provide technical managed services and operations across the full stack, helping thousands of customers worldwide become intelligent enterprises. Our teams operate across all major regions - EMEA, MEE, AMER, and APAC, bringing strong international focus and rich cultural diversity to everything we do.\nWithin ECS, the MEE Large Customer Operations (LCO) team takes accountability for a select group of high-complexity customers, operating them in a ring-fenced model to meet the highest standards of operational excellence. Together, we cultivate a culture built on deep technical ownership, proactive governance, and strategic advisory, empowering customers to achieve their business outcomes and succeed in their SAP transformation journeys.\nEqual Employment Opportunity (EEO) Statement\nOur company does not discriminate in employment on the basis of race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factor.\nQualifications\nBachelor’s degree or higher in one of the following areas: Computer Science, Engineering, Information Management, Mathematics or comparable\nBackground in SAP technology and products with excellent knowledge in SAP NetWeaver Administration and Operations and cross-dependencies like integration\nKnowledge of the whole technology stack (Application, Database, Server management) and the ability to assess issues and system architectures\nExperience in operation of systems installations is a must\nAbility to own and coordinate operational tasks, customer escalations, process improvements\nCompetency to take critical decisions and working under high pressure\nBe a team player and able to inspire and energize team with strong technical, verbal and written communication skills\nFlexibility to work on weekends/off hours during critical customer escalations, cut-overs or go-lives.\n9 - 13+ years of experience as SAP Basis consultant / System Admin or in a similar role\nFluent in English language is a must, German language skills are beneficial\nAdditional Information\nAbout SAP\nWith a global network of customers, partners, employees, and thought leaders, SAP helps the world run better and improves people’s lives.\nAs a leader in enterprise applications and business AI, SAP stands at the nexus of business and technology. For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply chain, and customer experience.\nWe win with inclusion\nSAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone, regardless of background, feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.\nSAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or complete your application, please send an email with your request to the Recruiting Operations Team: Careers@sap.com.\nFor SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.\nQualified applicants will receive consideration for employment without regard to age, race, religion, national origin, ethnicity, gender (including pregnancy and childbirth), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.\nSuccessful candidates might be required to undergo a background verification with an external vendor.\nAI Usage in the Recruitment Process\nFor information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.\nPlease note that any violation of these guidelines may result in disqualification from the hiring process.",
+        "requirements": "",
+        "your_tasks": "",
+        "applicant_profile": "",
+        "about_us": "",
+        "what_they_offer": "",
+        "snippet": ""
+      },
+      "analysis": {
+        "title_core": "IT Business Services Consultant",
+        "language": "en",
+        "required": [
+          "Bachelor’s degree",
+          "SAP NetWeaver Administration",
+          "operation of systems installations",
+          "coordinate operational tasks",
+          "critical decisions",
+          "team player",
+          "weekends/off hours",
+          "9-13+ years experience",
+          "Fluent in English"
+        ],
+        "preferred": [
+          "German language skills",
+          "cross‑dependencies integration",
+          "whole technology stack",
+          "process improvements",
+          "high pressure environment",
+          "technical communication skills",
+          "release management alignment",
+          "productization of services"
+        ],
+        "tools": [
+          "SAP",
+          "SAP NetWeaver",
+          "SAP HANA",
+          "SAP S/4HANA",
+          "RISE with SAP",
+          "Enterprise Cloud Services",
+          "Global Cloud Operations",
+          "SAP Basis",
+          "ERP"
+        ],
+        "languages_required": [
+          {
+            "language": "English",
+            "level": "fluent",
+            "other": null
+          },
+          {
+            "language": "German",
+            "level": null,
+            "other": null
+          }
+        ],
+        "years_experience": 9,
+        "domain": "SAP cloud services",
+        "knockouts": []
+      }
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/en/jobs/744000155471239/diploma-student-intern-business-transformation-intern/",
+    "title": "Diploma Student / Intern - Business Transformation Intern",
+    "company": "SAP SE",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Diploma Student / Intern - Business Transformation Intern",
+      "language": "en",
+      "required": [
+        "Bachelor's degree",
+        "Full-time 6-month internship",
+        "English communication skills",
+        "Analytical problem-solving skills",
+        "Data and spreadsheets",
+        "Translate analysis presentations",
+        "Productivity collaboration tools"
+      ],
+      "preferred": [
+        "Business transformation exposure",
+        "Process improvement exposure",
+        "Data analysis exposure",
+        "Operations exposure",
+        "Project work exposure",
+        "Process mapping awareness",
+        "Project management awareness",
+        "Dashboarding awareness"
+      ],
+      "tools": [
+        "SAP iXp",
+        "spreadsheets",
+        "presentation tools",
+        "documents",
+        "dashboards"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": null,
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "Business transformation",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Aspiring Business Transformation Intern leveraging a strong foundation in AI, software engineering, and data analytics to support process improvement initiatives. Seeking to apply analytical problem‑solving skills and proficiency with spreadsheets and dashboards to translate insights into actionable presentations and enhance productivity collaboration tools.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "TypeScript",
+          "SQL"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Data Analytics",
+          "Software Engineer",
+          "Natural Language Processing"
+        ],
+        "areas": [
+          {
+            "label": "Web Development",
+            "skills": [
+              "React",
+              "NodeJS",
+              "HTML",
+              "CSS",
+              "Design Systems",
+              "Component Libraries",
+              "Modern Web Standards",
+              "Styling Frameworks"
+            ]
+          },
+          {
+            "label": "AI & Data Engineering",
+            "skills": [
+              "Python",
+              "Transformers",
+              "FastAPI",
+              "Django",
+              "Git",
+              "API Integration",
+              "Automated Workflows",
+              "Large Language Models"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed multiple functions, modular API endpoints, and quantitative models that achieved high profitability in financial decision‑making. Designed automated data‑transformation pipelines, backend components, and real‑time algorithms for trading operations, focusing on black‑box and gray‑box models, and collaborated in an agile team using Git/GitHub while applying software‑engineering best practices.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Backend Components",
+            "Real-Time Algorithms",
+            "Trading Operations",
+            "Software Engineering Best Practices",
+            "Agile Development",
+            "Git"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine‑learning models for projects such as text‑to‑speech applications and high‑functional visual‑activity analysis. Built automated data‑extraction and preprocessing pipelines to ensure accuracy for model training and evaluation.",
+          "skills": [
+            "Python",
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech",
+            "Automated Pipelines"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Developed an automated transformation system that uses structured datasets and open-source Large Language Models to analyze and convert code and text into structured documents, with AI agent workflows and prompt engineering for role-specific categorization.",
+          "skills": [
+            "Python",
+            "Streamlit",
+            "Large Language Models",
+            "Transformers",
+            "AI Agents",
+            "Automated Workflows",
+            "Software Engineering Best Practices",
+            "Git"
+          ]
+        },
+        {
+          "id": "vehicle_sharing",
+          "title": "Vehicle Sharing Application",
+          "description": "Developed a full‑stack web application with reusable UI components, responsive styling, and modern web standards, incorporating Dijkstra‑based route selection and real‑time CRUD actions via modular component libraries using React, JavaScript, and CSS.",
+          "skills": [
+            "React",
+            "JavaScript",
+            "CSS",
+            "NodeJS",
+            "MongoDB",
+            "Dijkstra Algorithm",
+            "CRUD",
+            "Component Libraries"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 3.8,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 22,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=22 repicked=False"
+    },
+    "letter_input": {
+      "posting": {
+        "title": "Diploma Student / Intern - Business Transformation Intern",
+        "company": "SAP SE",
+        "detail_company_name": "SAP SE",
+        "source": "SuccessFactors",
+        "source_job_id": "diploma-student-intern-business-transformation-intern",
+        "job_url": "https://jobs.sap.com/en/jobs/744000155471239/diploma-student-intern-business-transformation-intern/",
+        "location": "Ho Chi Minh City, , Vietnam",
+        "detail_location": "Ho Chi Minh City, , Vietnam",
+        "job_description": "Job Description\nSAP iXp Intern Business Transformation Intern\nWhat You'll Build\nThe SAP Internship Experience Program is SAPs global, strategic, internship program that provides university students with opportunities to find purpose in their careers. This is more than an internship; its the foundation for a career built on bond, creativity, and impact.\nPosition title: SAP iXp Intern Business Transformation Intern\nLocation: Ho Chi Minh, Vietnam\nAs a Business Transformation Intern, you will support global transformation initiatives within the Adoption and Consumption Practices & Platform team. Working closely with your project lead, you will help evaluate business challenges, improve existing ways of working, and design scalable processes and solutions across multiple stakeholders and workstreams.\nYour responsibilities will include analyzing current processes, identifying pain points and opportunities for simplification, standardization, and automation, and helping translate these into future-state processes, frameworks, playbooks, and more.\nData and reporting will be an important part of the role. You will work with business and operational data to track key metrics, identify trends, and generate insights that support decision-making. This may include consolidating and analyzing data, developing reports and dashboards, and translating findings into clear recommendations for stakeholders.\nYou will also support transformation initiatives from design through execution by gathering business requirements, coordinating stakeholders, and contributing to field readiness through enablement and communications.\nThrough this work, you will gain exposure to large-scale global programs spanning multiple functions and regions and learn how transformation initiatives are analyzed, designed, implemented, and measured within a global organization. You will collaborate with stakeholders across functions and time zones while receiving regular guidance and mentorship from your manager and project leads.\nWhat You'll Bring\nWe are looking for someone who makes effort, perseveres, and stays curious. You like to work on meaningful innovative projects and are energized by lifelong learning.\nEducational & Experience Requirements\nCurrently pursuing a Bachelor's degree in Business, Management, Information Systems, Data/Business Analytics, Economics, or a related field (preferably in 2nd year or 3rd year)\nAvailable to work full-time for the full 6-month internship duration\nExposure to business transformation, process improvement, data analysis, operations, or project work is an advantage\nTechnical and Functional Skills\nDeep written and verbal English communication skills\nSolid analytical and problem-solving skills, with the ability to structure complex or ambiguous topics\nComfortable working with data and spreadsheets, including organizing, analyzing, and interpreting data to identify trends and insights\nAbility to translate analysis into clear presentations, reports, and recommendations\nAwareness with process mapping, project management, reporting, or dashboarding is an advantage\nComfortable using common productivity and collaboration tools (e.g., spreadsheets, presentation tools, documents)\nThis role is designed for a motivated intern with strong foundational skills rather than deep prior experience. Training, guidance, and mentorship will be provided. We value curiosity, analytical thinking, adaptability, and initiative over perfect technical proficiency, and encourage candidates who meet most but not necessarily all of the requirements to apply.\nWhere You Belong\nBe part of SAP Next Gen, a global community for students, universities, schools and educational partners, who are passionate about innovation and technology.\nCulture of Collaboration: Partner with experienced SAP colleagues and expert mentors who will support your growth. Grow professionally through personalized mentoring, coaching, and career development support.\nProject-driven Experience: Kickstart your career with hands-on learning experience, making an impact from day one by contributing to meaningful projects that help the world run better. Youll have endless learning resources at your fingertips and gain future-ready skills from a variety of virtual, in-person, and hybrid learning sessions, cultivated just for you, and aligned with our learning approach.\nGain Visibility: Build relationships with leaders and peers across teams and functions. Showcase your ideas, skills, and creativity in a global, fast-paced environment. Open doors for future career opportunities within SAP and beyond.\nEqual Employment Opportunity (EEO) Statement\nOur company does not discriminate in employment on the basis of race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factor.\nQualifications\nCurrently pursuing a Bachelor's degree in Business, Management, Information Systems, Data/Business Analytics, Economics, or a related field (preferably in 2nd year or 3rd year)\nAvailable to work full-time for the full 6-month internship duration\nAdditional Information\nAbout SAP\nWith a global network of customers, partners, employees, and thought leaders, SAP helps the world run better and improves people’s lives.\nAs a leader in enterprise applications and business AI, SAP stands at the nexus of business and technology. For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply chain, and customer experience.\nWe win with inclusion\nSAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone, regardless of background, feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.\nSAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or complete your application, please send an email with your request to the Recruiting Operations Team: Careers@sap.com.\nFor SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.\nQualified applicants will receive consideration for employment without regard to age, race, religion, national origin, ethnicity, gender (including pregnancy and childbirth), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.\nSuccessful candidates might be required to undergo a background verification with an external vendor.\nAI Usage in the Recruitment Process\nFor information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.\nPlease note that any violation of these guidelines may result in disqualification from the hiring process.",
+        "requirements": "",
+        "your_tasks": "",
+        "applicant_profile": "",
+        "about_us": "",
+        "what_they_offer": "",
+        "snippet": ""
+      },
+      "analysis": {
+        "title_core": "Diploma Student / Intern - Business Transformation Intern",
+        "language": "en",
+        "required": [
+          "Bachelor's degree",
+          "Full-time 6-month internship",
+          "English communication skills",
+          "Analytical problem-solving skills",
+          "Data and spreadsheets",
+          "Translate analysis presentations",
+          "Productivity collaboration tools"
+        ],
+        "preferred": [
+          "Business transformation exposure",
+          "Process improvement exposure",
+          "Data analysis exposure",
+          "Operations exposure",
+          "Project work exposure",
+          "Process mapping awareness",
+          "Project management awareness",
+          "Dashboarding awareness"
+        ],
+        "tools": [
+          "SAP iXp",
+          "spreadsheets",
+          "presentation tools",
+          "documents",
+          "dashboards"
+        ],
+        "languages_required": [
+          {
+            "language": "English",
+            "level": null,
+            "other": null
+          }
+        ],
+        "years_experience": null,
+        "domain": "Business transformation",
+        "knockouts": []
+      }
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/en/jobs/744000155442599/business-process-consultant-sf/",
+    "title": "Business Process Consultant - SF",
+    "company": "SAP SE",
+    "status": "parked",
+    "analysis": {
+      "title_core": "Business Process Consultant - SF",
+      "language": "en",
+      "required": [
+        "SAP SuccessFactors",
+        "HR business processes",
+        "Employee Central",
+        "0–2 years implementation",
+        "English fluency",
+        "Bachelor's degree"
+      ],
+      "preferred": [
+        "Talent modules",
+        "Japanese language",
+        "SAP SuccessFactors certification",
+        "Agentic AI",
+        "Context Engineering",
+        "AI-Assisted Automation",
+        "Customer Orientation",
+        "Effective Communication"
+      ],
+      "tools": [
+        "SAP SuccessFactors",
+        "Employee Central",
+        "Performance & Goals",
+        "AI"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": "fluent",
+          "other": null
+        },
+        {
+          "language": "other",
+          "level": null,
+          "other": "Japanese"
+        }
+      ],
+      "years_experience": 0,
+      "domain": "HR transformation",
+      "knockouts": []
+    },
+    "components": null,
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 3.3,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [
+      "G2: tech token 'SAP' is not in the claimable set"
+    ],
+    "error": "gates failed after regeneration: G2: tech token 'SAP' is not in the claimable set",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 18,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=18 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/en/jobs/744000155414659/diploma-student-intern/",
+    "title": "Diploma Student / Intern",
+    "company": "SAP SE",
+    "status": "parked",
+    "analysis": {
+      "title_core": "Diploma Student / Intern",
+      "language": "en",
+      "required": [
+        "Undergraduate",
+        "English professional proficiency",
+        "Minimum 4 days",
+        "Minimum 6 months",
+        "Enrolled full-time"
+      ],
+      "preferred": [
+        "Japanese language skills",
+        "Finance science engineering degree",
+        "Excellent analytical skills",
+        "Strong team player",
+        "Open professional communication",
+        "Direct customer interfacing"
+      ],
+      "tools": [
+        "SAP ERP",
+        "SAP S/4HANA",
+        "Private Cloud Edition",
+        "ERP"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": "professional proficiency",
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "enterprise software support",
+      "knockouts": []
+    },
+    "components": null,
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 3.5,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [
+      "tools: force-inserted system acronym ERP"
+    ],
+    "gate_findings": [
+      "G2: tech token 'SAP' is not in the claimable set"
+    ],
+    "error": "gates failed after regeneration: G2: tech token 'SAP' is not in the claimable set",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 20,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=20 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/en/jobs/744000155408689/diploma-student-intern/",
+    "title": "Diploma Student / Intern",
+    "company": "SAP SE",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Diploma Student / Intern",
+      "language": "en",
+      "required": [
+        "Current university students",
+        "graduating in 2027/2028",
+        "Strong communication skills",
+        "spoken and written English",
+        "6‑month internship",
+        "at least 3 days"
+      ],
+      "preferred": [
+        "proactive",
+        "curious",
+        "eager to learn"
+      ],
+      "tools": [
+        "SAP",
+        "FIN & GRC",
+        "Asset Accounting",
+        "Controlling",
+        "Real Estate (RE-FX)",
+        "Central Finance",
+        "Concur Integration"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": null,
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "Technical Support",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Aspiring AI specialist pursuing a six‑month internship to apply Python, C++, and machine learning expertise while gaining hands‑on experience with SAP asset accounting and central finance modules. Eager to contribute proactive problem‑solving and strong communication skills within an agile team.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "TypeScript",
+          "SQL"
+        ],
+        "specialized_areas": [
+          "artificial intelligence",
+          "Machine Learning",
+          "Data Analytics",
+          "Web Development",
+          "Quantitative Modeling"
+        ],
+        "areas": [
+          {
+            "label": "Backend Development",
+            "skills": [
+              "Python",
+              "FastAPI",
+              "Django",
+              "API Integration",
+              "Git",
+              "Agile Development",
+              "SQL",
+              "Automated Workflows"
+            ]
+          },
+          {
+            "label": "AI & Data Engineering",
+            "skills": [
+              "Machine Learning",
+              "Deep Learning",
+              "Natural Language Processing",
+              "Transformers",
+              "Large Language Models",
+              "Data Preprocessing",
+              "Quantitative Modeling",
+              "Code Transformation"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed modular API endpoints, quant models, and automated data transformation pipelines that supported trading operations and achieved high profitability in financial decision‑making, while collaborating in an agile team using GitHub and applying software‑engineering best practices to surpass benchmark marks.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Backend Components",
+            "Real-Time Algorithms",
+            "Trading Operations",
+            "Software Engineering Best Practices",
+            "Agile Development",
+            "Git"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for projects such as text‑to‑speech applications and high‑functional visual‑activity analysis, and built automated data extraction and preprocessing pipelines to ensure accuracy for model training and evaluation.",
+          "skills": [
+            "Python",
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech",
+            "Automated Pipelines"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Developed a complete automated transformation system using structured datasets and open-source Large Language Models to analyze and transform code and text into structured documents, and implemented AI agent workflows with prompt engineering for role-specific categorization using Python, Transformers, and automated pipelines.",
+          "skills": [
+            "Python",
+            "Streamlit",
+            "Large Language Models",
+            "Transformers",
+            "AI Agents",
+            "Automated Workflows",
+            "Git"
+          ]
+        },
+        {
+          "id": "vehicle_sharing",
+          "title": "Vehicle Sharing Application",
+          "description": "Developed a full stack web application with reusable UI components, responsive styling, and modern web standards, incorporating Dijkstra algorithm for route selection and managing real-time CRUD actions using React, JavaScript, and CSS.",
+          "skills": [
+            "React",
+            "JavaScript",
+            "TypeScript",
+            "CSS",
+            "Dijkstra Algorithm",
+            "CRUD",
+            "UI Development",
+            "API Integration"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 3.5,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 15,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=15 repicked=False"
+    },
+    "letter_input": {
+      "posting": {
+        "title": "Diploma Student / Intern",
+        "company": "SAP SE",
+        "detail_company_name": "SAP SE",
+        "source": "SuccessFactors",
+        "source_job_id": "diploma-student-intern",
+        "job_url": "https://jobs.sap.com/en/jobs/744000155408689/diploma-student-intern/",
+        "location": "Dalian, , China",
+        "detail_location": "Dalian, , China",
+        "job_description": "Job Description\nWhat you’ll build\nThe SAP Internship Experience Program is SAP’s global, strategic, paid internship program that provides university students with opportunities to find purpose in their careers. This is more than an internship; it’s the foundation for a career built on connection, creativity and impact.\nAs a Technical Support Intern, you will support our global customer support operations and contribute to daily team activities:\nMonitor the global support queue and maintain the chat monitor.\nCommunicate with global customers and help validate case priorities.\nReview cases with colleagues and assist in providing solutions to clients.\nSupport team members in various daily operational tasks.\nWhat you bring:\nWe’re looking for someone proactive, curious, and eager to learn - someone who enjoys meaningful, innovative work and values continuous growth.\nCurrent university students graduating in 2027/2028 or later\nStrong communication skills in both spoken and written English\nAbility to commit to a 6‑month internship, working at least 3 days per week\nWhere you belong\nSAP Product Support makes sure that customer’s incidents and tickets can be dealt at the first time. In this position, you can closely work with global colleagues and communicate with customers from different countries. You will negotiate with them and check basic information to validate incident priority. After the internship, you will get familiar with SAP product and know standards processing procedures. What’s more, you can practice verbal English and improve yourself in the multi-national working environments.\nQualifications\nFIN & GRC APJ Technical Support Team 1 plays a vital role in safeguarding the stability, compliance, and performance of SAP's Financial and Governance, Risk & Compliance solutions across the Asia Pacific Japan region. As the owners of the core functional and technical support backbone for FIN & GRC, the team ensures that all SAP finance and compliance business processes run reliably and efficiently at scale.\nTheir responsibilities span key support operations, including incident management, solution troubleshooting, and advisory services across complex SAP FIN & GRC landscapes — covering core finance products such as Asset Accounting, Controlling, Real Estate (RE-FX), Central Finance, and Concur Integration. Through proactive engagement and deep product expertise, the team ensures seamless continuity and high-quality delivery of enterprise-grade support services for customers across the APJ region.\nWe’re looking for someone proactive, curious, and eager to learn - someone who enjoys meaningful, innovative work and values continuous growth.\nCurrent university students graduating in 2027/2028 or later\nStrong communication skills in both spoken and written English\nAbility to commit to a 6‑month internship, working at least 3 days per week\nAdditional Information\nAbout SAP\nWith a global network of customers, partners, employees, and thought leaders, SAP helps the world run better and improves people’s lives.\nAs a leader in enterprise applications and business AI, SAP stands at the nexus of business and technology. For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply chain, and customer experience.\nWe win with inclusion\nSAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone, regardless of background, feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.\nSAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or complete your application, please send an email with your request to the Recruiting Operations Team: Careers@sap.com.\nFor SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.\nQualified applicants will receive consideration for employment without regard to age, race, religion, national origin, ethnicity, gender (including pregnancy and childbirth), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.\nSuccessful candidates might be required to undergo a background verification with an external vendor.\nAI Usage in the Recruitment Process\nFor information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.\nPlease note that any violation of these guidelines may result in disqualification from the hiring process.\nCompany Description\nWe help the world run better\nAt SAP, we keep it simple: you bring your best to us, and we'll bring out the best in you. We're builders touching over 20 industries and 80% of global commerce, and we need your unique talents to help shape what's next. The work is challenging – but it matters. You'll find a place where you can be yourself, prioritize your wellbeing, and truly belong. What's in it for you? Constant learning, skill growth, great benefits, and a team that wants you to grow and succeed.",
+        "requirements": "",
+        "your_tasks": "",
+        "applicant_profile": "",
+        "about_us": "",
+        "what_they_offer": "",
+        "snippet": ""
+      },
+      "analysis": {
+        "title_core": "Diploma Student / Intern",
+        "language": "en",
+        "required": [
+          "Current university students",
+          "graduating in 2027/2028",
+          "Strong communication skills",
+          "spoken and written English",
+          "6‑month internship",
+          "at least 3 days"
+        ],
+        "preferred": [
+          "proactive",
+          "curious",
+          "eager to learn"
+        ],
+        "tools": [
+          "SAP",
+          "FIN & GRC",
+          "Asset Accounting",
+          "Controlling",
+          "Real Estate (RE-FX)",
+          "Central Finance",
+          "Concur Integration"
+        ],
+        "languages_required": [
+          {
+            "language": "English",
+            "level": null,
+            "other": null
+          }
+        ],
+        "years_experience": null,
+        "domain": "Technical Support",
+        "knockouts": []
+      }
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/en/jobs/744000155404290/sap-hana-cloud-database-developer/",
+    "title": "SAP HANA - Cloud Database Developer",
+    "company": "SAP SE",
+    "status": "parked",
+    "analysis": {
+      "title_core": "SAP HANA Cloud Database Developer",
+      "language": "en",
+      "required": [
+        "C/C++ programming",
+        "systems programming",
+        "English proficiency",
+        "Computer Science degree"
+      ],
+      "preferred": [
+        "responsibility",
+        "teamwork",
+        "creative thinking",
+        "quick learning",
+        "global collaboration"
+      ],
+      "tools": [
+        "SAP HANA Cloud Database",
+        "SQL optimizer",
+        "SQL execution engine",
+        "SQL script",
+        "SQL expression",
+        "plan cache",
+        "C/C++",
+        "SQL"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": "high proficiency",
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "enterprise database",
+      "knockouts": []
+    },
+    "components": null,
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 5.0,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [
+      "tools: force-inserted system acronym SQL"
+    ],
+    "gate_findings": [
+      "G2: tech token 'SAP' is not in the claimable set"
+    ],
+    "error": "gates failed after regeneration: G2: tech token 'SAP' is not in the claimable set",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [
+        "c c"
+      ],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 18,
+      "summary": "mirror=1 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=18 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/en/jobs/744000155364630/copy-of-sap-ixp-intern-technical-quality-manager-services-engagement/",
+    "title": "Copy of SAP iXp Intern - Technical Quality Manager | Services Engagement",
+    "company": "SAP SE",
+    "status": "parked",
+    "analysis": {
+      "title_core": "SAP iXp Intern - Technical Quality Manager",
+      "language": "en",
+      "required": [
+        "university student",
+        "Business Administration",
+        "Industrial Engineering",
+        "solid organization",
+        "communication",
+        "problem-solving",
+        "listening skills",
+        "English",
+        "Portuguese",
+        "Microsoft Excel"
+      ],
+      "preferred": [
+        "advanced PowerPoint",
+        "curiosity",
+        "quick learner",
+        "ownership mindset",
+        "project coordination",
+        "budget tracking",
+        "forecast preparation",
+        "collaboration performance"
+      ],
+      "tools": [
+        "Microsoft Excel",
+        "PowerPoint"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": null,
+          "other": null
+        },
+        {
+          "language": "other",
+          "level": null,
+          "other": "Portuguese"
+        }
+      ],
+      "years_experience": null,
+      "domain": "technical quality management",
+      "knockouts": []
+    },
+    "components": null,
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 4.0,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [
+      "G2: tech token 'SAP' is not in the claimable set"
+    ],
+    "error": "gates failed after regeneration: G2: tech token 'SAP' is not in the claimable set",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 19,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=19 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/en/jobs/744000155365399/sap-ixp-intern-technical-quality-manager-services-engagement/",
+    "title": "SAP iXp Intern - Technical Quality Manager | Services Engagement",
+    "company": "SAP SE",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "SAP iXp Intern - Technical Quality Manager",
+      "language": "en",
+      "required": [
+        "university student",
+        "business administration",
+        "accounting",
+        "industrial engineering",
+        "communication skills",
+        "problem solving",
+        "English fluency",
+        "Portuguese fluency",
+        "advanced Excel",
+        "advanced PowerPoint"
+      ],
+      "preferred": [
+        "curious mindset",
+        "quick learner",
+        "ownership attitude",
+        "project leadership",
+        "budget tracking",
+        "forecast preparation",
+        "workshop facilitation"
+      ],
+      "tools": [
+        "Microsoft Excel",
+        "PowerPoint",
+        "SAP"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": null,
+          "other": null
+        },
+        {
+          "language": "other",
+          "level": null,
+          "other": "Portuguese"
+        }
+      ],
+      "years_experience": null,
+      "domain": "technical quality management",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "MSc Artificial Intelligence student with strong software engineering background, eager to support SAP iXp as Technical Quality Manager by leveraging AI, data analytics, and automated workflows, while building proficiency in SAP and advanced Excel. Working toward hands-on PowerPoint experience.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "TypeScript",
+          "SQL"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Quantitative Modeling"
+        ],
+        "areas": [
+          {
+            "label": "Software Development",
+            "skills": [
+              "Git",
+              "Agile Development",
+              "API Integration",
+              "Automated Workflows",
+              "Design Systems",
+              "Component Libraries",
+              "Modern Web Standards",
+              "Styling Frameworks"
+            ]
+          },
+          {
+            "label": "Data Engineering & AI",
+            "skills": [
+              "Data Preprocessing",
+              "Transformers",
+              "Large Language Models",
+              "AI Agents",
+              "Code Transformation",
+              "Quantitative Modeling",
+              "Data Analytics",
+              "MongoDB"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed modular API endpoints, functions, and quantitative models that enhanced profitability in financial decision‑making, and designed automated data‑transformation pipelines, backend components, and real‑time algorithms supporting trading operations with quant and AI techniques. Collaborated in an agile team using Git/GitHub, applying software‑engineering best practices for high‑reliability systems while focusing on black‑box and gray‑box models to exceed benchmark marks.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Backend Components",
+            "Real-Time Algorithms",
+            "Trading Operations",
+            "Software Engineering Best Practices",
+            "Agile Development",
+            "Git"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for projects such as text‑to‑speech applications and high‑functional visual‑activity analysis, and built automated data‑extraction and preprocessing pipelines that ensured accuracy for model training and evaluation.",
+          "skills": [
+            "Python",
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech",
+            "Automated Pipelines"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Developed an end-to-end system with real-time data scraping, analysis, and filtering, and integrated quant and AI models to act in the real-time market and manage unexpected actions.",
+          "skills": [
+            "Python",
+            "Data Analytics",
+            "Machine Learning",
+            "Deep Learning",
+            "Real-Time Systems",
+            "Data Scraping"
+          ]
+        },
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Developed a complete automated transformation system that uses structured datasets and open-source Large Language Models to analyze and convert code and text into structured documents, and implemented AI agent workflows with prompt engineering for role-specific categorization using Python and Transformers.",
+          "skills": [
+            "Python",
+            "Large Language Models",
+            "Transformers",
+            "AI Agents",
+            "Automated Workflows",
+            "Software Engineering Best Practices",
+            "Git"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 3.4,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [
+        "PowerPoint"
+      ],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 19,
+      "summary": "mirror=1 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=19 repicked=False"
+    },
+    "letter_input": {
+      "posting": {
+        "title": "SAP iXp Intern - Technical Quality Manager | Services Engagement",
+        "company": "SAP SE",
+        "detail_company_name": "SAP SE",
+        "source": "SuccessFactors",
+        "source_job_id": "sap-ixp-intern-technical-quality-manager-services-engagement",
+        "job_url": "https://jobs.sap.com/en/jobs/744000155365399/sap-ixp-intern-technical-quality-manager-services-engagement/",
+        "location": "São Leopoldo, RS, Brazil",
+        "detail_location": "São Leopoldo, RS, Brazil",
+        "job_description": "Job Description\nBring It\nYou are a university student studying Business Administration, Accounting, Industrial Engineering, or a related field. You bring solid organization, communication, problem-solving, and listening skills. You communicate confidently in English and Portuguese, and you use Microsoft Excel and PowerPoint at an advanced level. You stay curious, learn quickly, and take ownership of assigned work.\nBuild It\nYou will help coordinate customer collaboration activities across Premium Engagement services. You will prepare agendas, presentations, meetings, workshops, and collaboration performance indicators. You will help track budgets, prepare forecasts, and organize information for customer and internal communications. You will also lead simple projects and initiatives, turning plans into clear actions and measurable deliverables.\nBelong\nYou will join Services Engagement at Sao Leopoldo, a team that coordinates SAP services throughout the customer solution lifecycle. Your work will connect customer needs with experts across SAP, giving you visibility into cloud and on-premises solutions. You will learn from skilled colleagues, build a global network, and gain useful experience through meaningful projects, mentoring, and collaboration.\nEqual Employment Opportunity (EEO) Statement\nOur company does not discriminate in employment on the basis of race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factor.\nAdditional Information\nAbout SAP\nWith a global network of customers, partners, employees, and thought leaders, SAP helps the world run better and improves people’s lives.\nAs a leader in enterprise applications and business AI, SAP stands at the nexus of business and technology. For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply chain, and customer experience.\nWe win with inclusion\nSAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone, regardless of background, feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.\nSAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or complete your application, please send an email with your request to the Recruiting Operations Team: Careers@sap.com.\nFor SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.\nQualified applicants will receive consideration for employment without regard to age, race, religion, national origin, ethnicity, gender (including pregnancy and childbirth), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.\nSuccessful candidates might be required to undergo a background verification with an external vendor.\nAI Usage in the Recruitment Process\nFor information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.\nPlease note that any violation of these guidelines may result in disqualification from the hiring process.",
+        "requirements": "",
+        "your_tasks": "",
+        "applicant_profile": "",
+        "about_us": "",
+        "what_they_offer": "",
+        "snippet": ""
+      },
+      "analysis": {
+        "title_core": "SAP iXp Intern - Technical Quality Manager",
+        "language": "en",
+        "required": [
+          "university student",
+          "business administration",
+          "accounting",
+          "industrial engineering",
+          "communication skills",
+          "problem solving",
+          "English fluency",
+          "Portuguese fluency",
+          "advanced Excel",
+          "advanced PowerPoint"
+        ],
+        "preferred": [
+          "curious mindset",
+          "quick learner",
+          "ownership attitude",
+          "project leadership",
+          "budget tracking",
+          "forecast preparation",
+          "workshop facilitation"
+        ],
+        "tools": [
+          "Microsoft Excel",
+          "PowerPoint",
+          "SAP"
+        ],
+        "languages_required": [
+          {
+            "language": "English",
+            "level": null,
+            "other": null
+          },
+          {
+            "language": "other",
+            "level": null,
+            "other": "Portuguese"
+          }
+        ],
+        "years_experience": null,
+        "domain": "technical quality management",
+        "knockouts": []
+      }
+    }
+  },
+  {
+    "job_url": "https://jobs.sap.com/en/jobs/744000155320950/temporary-less-6-month-fixed-salary/",
+    "title": "Temporary less 6 month fixed salary",
+    "company": "SAP SE",
+    "status": "parked",
+    "analysis": null,
+    "components": null,
+    "generation_meta": null,
+    "postcheck_fixes": [],
+    "gate_findings": [],
+    "error": "analyst failed: no JSON object in analyst reply"
+  },
+  {
+    "job_url": "https://jobs.sap.com/en/jobs/744000155306107/ui-developer/",
+    "title": "UI Developer",
+    "company": "SAP SE",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "UI Developer",
+      "language": "en",
+      "required": [
+        "Bachelor's degree",
+        "professional software development",
+        "TypeScript proficiency",
+        "enterprise UI component library",
+        "CI/CD pipelines",
+        "REST API integrations",
+        "AI/LLM workflows",
+        "observability",
+        "Git"
+      ],
+      "preferred": [
+        "SAP Design System",
+        "SAP Fiori",
+        "SAP Horizon theme",
+        "Storybook",
+        "RTK Query",
+        "accessibility audits",
+        "Cypress",
+        "Playwright"
+      ],
+      "tools": [
+        "React",
+        "TypeScript",
+        "Vite",
+        "ESLint",
+        "Prettier",
+        "GitHub Actions",
+        "ArgoCD",
+        "JWT",
+        "OAuth2",
+        "OIDC",
+        "Vitest",
+        "Playwright",
+        "CI",
+        "CD",
+        "CI/CD",
+        "API",
+        "REST"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": null,
+          "other": null
+        }
+      ],
+      "years_experience": 3,
+      "domain": "frontend development",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Seeking a UI Developer role where I can apply my expertise in TypeScript, React, and design systems while targeting CI/CD pipelines and REST API integrations. Working toward hands-on GitHub Actions and Playwright experience.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "TypeScript",
+          "html",
+          "css"
+        ],
+        "specialized_areas": [
+          "artificial intelligence",
+          "Machine Learning",
+          "Natural Language Processing",
+          "Data Analytics",
+          "software engineering best practices"
+        ],
+        "areas": [
+          {
+            "label": "TypeScript",
+            "skills": [
+              "TypeScript",
+              "JavaScript",
+              "React",
+              "NextJS",
+              "HTML",
+              "CSS",
+              "Design Systems",
+              "Component Libraries"
+            ]
+          },
+          {
+            "label": "API Integration & Git",
+            "skills": [
+              "API Integration",
+              "Git",
+              "Python",
+              "FastAPI",
+              "Django",
+              "Machine Learning",
+              "Transformers",
+              "SQL"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed modular API endpoints, functions, and quantitative models that enhanced profitability in financial decision‑making. Designed automated data‑transformation pipelines, backend components, and real‑time algorithms supporting trading operations, while collaborating in an agile Git‑based team applying software‑engineering best practices. Key working areas: Git.",
+          "skills": [
+            "Git",
+            "Python",
+            "Quantitative Modeling",
+            "Backend Components",
+            "Real-Time Algorithms",
+            "Trading Operations",
+            "Software Engineering Best Practices",
+            "Agile Development"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for projects such as text‑to‑speech applications and visual‑activity analysis, and built automated data‑extraction and preprocessing pipelines to ensure accurate model training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech",
+            "Python"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "vehicle_sharing",
+          "title": "Vehicle Sharing Application",
+          "description": "Built a full‑stack web app with reusable UI components, responsive styling, and modern web standards, handling real‑time CRUD actions and route selection via Dijkstra algorithm using React, JavaScript, and CSS. Implementation focus: Git.",
+          "skills": [
+            "API Integration",
+            "Git",
+            "React",
+            "JavaScript",
+            "CSS",
+            "Component Libraries",
+            "Design Systems",
+            "Modern Web Standards"
+          ]
+        },
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Created an automated transformation system that uses structured datasets and open‑source large language models to analyze and convert code and text into structured documents, with AI agent workflows and prompt engineering for role‑specific categorization.",
+          "skills": [
+            "API Integration",
+            "Git",
+            "Python",
+            "Streamlit",
+            "Large Language Models",
+            "Transformers",
+            "AI Agents",
+            "Automated Workflows"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 6.3,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [
+      "force-inserted language requirement: English (level not stated)",
+      "tools: force-inserted system acronym CI",
+      "tools: force-inserted system acronym CD",
+      "tools: force-inserted system acronym CI/CD",
+      "tools: force-inserted system acronym API",
+      "tools: force-inserted system acronym REST",
+      "required: single-tool item 'React' is covered by tools"
+    ],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [
+        "GitHub Actions",
+        "Playwright"
+      ],
+      "dormant_added": {},
+      "desc_insertions": [
+        "experience:Git",
+        "project:Git"
+      ],
+      "area_labels": {
+        "area_1": "Frontend Development -> TypeScript",
+        "area_2": "Backend & AI Engineering -> API Integration & Git"
+      },
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 4,
+      "skills_recased": 20,
+      "summary": "mirror=2 dormant_added=0 desc_insertions=2 labels=2 reorder=4 recased=20 repicked=False"
+    },
+    "letter_input": {
+      "posting": {
+        "title": "UI Developer",
+        "company": "SAP SE",
+        "detail_company_name": "SAP SE",
+        "source": "SuccessFactors",
+        "source_job_id": "ui-developer",
+        "job_url": "https://jobs.sap.com/en/jobs/744000155306107/ui-developer/",
+        "location": "Montreal, , Canada",
+        "detail_location": "Montreal, , Canada",
+        "job_description": "Job Description\nAbout the Role\nWe are looking for a motivated and product-minded UI Developer to join the CX One OMS UI, SAP's unified back-office interface for Order Management Services. The UI brings co-operatively multiple OMS applications into one coherent experience, helping enterprise customers manage their order operations across channels and fulfilment networks.\nThis means you will not be starting from scratch: you will be inheriting a working codebase, contributing to its technical quality and completeness, and helping deliver something stable and polished to market. You'll work in a team of engineers in a collaborative, agile environment where delivery discipline and technical craftsmanship go hand in hand.\nYou will help the team use effective AI-assisted development practices. You will use new tools and workflows. The goal is to improve productivity. We also want to maintain software quality, security, and maintainability. This will drive customer impact.\nWhat You'll Do\nYou'll design, develop, and maintain production-grade AI-enabled features and services, with a focus on scalability and reliability. LLM integration and basic RAG workflows, including prompt management and response validation, are part of your core work. You'll build and improve evaluation and benchmarking pipelines to measure AI output quality and system performance. Application health, latency, throughput, and system efficiency are areas you'll actively monitor and improve. Debugging and resolving production issues, contributing to incident analysis, and implementing stability fixes are all expected. You'll support and enhance CI/CD pipelines and deployment workflows. Cross-functional collaboration to refine requirements and improve system design is a regular expectation.\nBuild, refine, and harden features in a production-grade React / TypeScript frontend that serves enterprise customers managing complex order management operations\nApply the SAP Design System consistently, using an enterprise UI component library as the underlying toolkit\nTranslate Figma designs and UX specifications into user interfaces that are precise, accessible, and responsive. Identify any design ambiguities and technical limitations early while collaborating with UX designers and product owners.\nImplement and maintain REST API integrations with robust error handling, loading state management, and consistent data patterns\nWrite unit, component, and integration tests (Vitest, React Testing Library) and contribute to E2E test coverage (Playwright)\nContribute to CI/CD pipelines and the reliability of build and deployment automation\nParticipate actively in code reviews, giving and receiving constructive, specific feedback\nUse AI-assisted development tools every day. This includes tasks such as implementing, refactoring, generating tests, and creating documentation. Always review and validate any AI-generated results before accepting them.\nContribute to production monitoring and troubleshooting. Use telemetry, browser error tracking, and user feedback to identify, diagnose, and resolve issues in production\nSupport technical documentation and knowledge sharing within the team\nWhat You Bring\nYou have robust coding and debugging skills and hands-on experience building and operating cloud-based microservices. A solid awareness of APIs, distributed systems basics, and CI/CD practices is required. Experience with AI/LLM workflows, including prompt design, basic RAG patterns, and integrating AI services into applications, is important. Knowledge with observability (logging, metrics, tracing), performance tuning, and system monitoring is expected. An ownership mindset, combined with experience in testing, validation, and troubleshooting production systems, will set you up to contribute well.\nBachelor's degree in Computer Science, Software Engineering, or a related field — or equivalent functional experience\nMinimum of 3 years of professional software development experience, with meaningful recent frontend experience\nStrong TypeScript proficiency - comfortable with types, generics, type narrowing, async patterns, and working in a fully typed codebase\nSolid production experience with React. This includes working with functional components and hooks. It involves component composition, managing state, and developing with a focus on performance.\nRobust experience with an enterprise UI component library - component usage, customization, and theme integration with a design system\nSolid grasp of HTML, CSS, and browser fundamentals including accessibility semantics, responsive design, and cross-browser behavior\nKnowledge with design systems and design tokens\nKnowledge with modern frontend build tooling (Vite or similar), package management, and code quality tooling (ESLint, Prettier)\nKnowledge with CI/CD pipelines and deployment tooling (GitHub Actions, ArgoCD, or similar) - comfortable navigating and contributing to build and deployment workflows\nSecurity fundamentals include authentication and authorization methods like JWT, OAuth2, and OIDC. Knowledge of input validation is also important. You should be aware of the OWASP Top 10.\nComfortable writing unit and component tests (Jest, React Testing Library, Vitest, or similar) and E2E tests (Playwright, Cypress, or similar)\nProficient with Git and collaborative development workflows\nGenuine, practiced experience using AI coding assistants and agents (e.g. Claude Code, GitHub Copilot, or similar) as a real part of your development workflow, beyond the use of autocomplete. Able to decompose tasks for AI execution, write effective specifications with the right context and constraints, and critically review AI-generated code with the same rigour as any other contribution\nNice to Have\nKnowledge with the SAP Design System, SAP Fiori, or the SAP Horizon theme\nExperience with Storybook or similar tools for component documentation and design system consumption\nKnowledge with RTK Query\nExperience with accessibility auditing tools (a11y, Lighthouse, or similar)\nKnowledge of SAP infrastructure platforms (BTP, Kyma) or cloud platforms (Azure)\nKnowledge with OMS domain concepts (order capture, fulfilment, inventory, returns)\nContributions to open-source projects\nHow You Work\nYou'll own features and modules end-to-end and work closely with product, data, platform, and AI teams to align on goals and deliver quality results. This team values direct communication, shared accountability, and continuous improvement. You'll participate in code reviews, share technical knowledge, and help build team capabilities as you develop deeper expertise in AI-native application development.\nWe value the skills you bring and support you to build on them through our learning and development opportunities. These are the skills associated with this role:\nYou take ownership of what you build: correctness, accessibility, performance, and production behaviour\nYou review AI-generated output critically. You understand it is untrusted input until validated through tests, static analysis, and careful reading\nYou are proactive on clarifying ambiguous requirements\nYou are comfortable inheriting an existing codebase and improving it incrementally\nYou are a continuous learner, particularly in the fast-moving space of AI-assisted development, where practices are evolving quickly\nYou collaborate openly, give honest code review feedback, and receive it constructively\nYou value user experience and functional correctness\nEqual Employment Opportunity (EEO) Statement\nOur company does not discriminate in employment on the basis of race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factor.\nAdditional Information\nAbout SAP\nWith a global network of customers, partners, employees, and thought leaders, SAP helps the world run better and improves people’s lives.\nAs a leader in enterprise applications and business AI, SAP stands at the nexus of business and technology. For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply chain, and customer experience.\nWe win with inclusion\nSAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.\nSAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com.\nFor SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.\nQualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.\nCompensation Range Transparency\nSAP believes pay transparency is essential to fostering an honest, supportive, and inclusive culture and is an important part of our commitment to pay equity. The salary range for this position is included in the job posting. The actual compensation offered to the successful candidate will fall within that range and will depend on factors such as education, skills, experience, location, and scope of the role, as determined through the selection process. Where applicable, SAP may also provide variable incentive opportunities and additional benefits, subject to the terms of the relevant plans and policies. Any variable incentive amount is target-based, with actual payouts dependent on company and individual performance. Please reference this link for a summary of SAP benefits and eligibility requirements: SAP North America Benefits .\nDue to the nature of the role, which involves global interactions with SAP entities, as well as with employees and stakeholders in Canada, functional proficiency in English is required for positions based in the Quebec.\nAI Usage in the Recruitment Process\nFor information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.\nPlease note that any violation of these guidelines may result in disqualification from the hiring process.\nCompany Description\nThe CX Order Management Services team is a cloud-native engineering group building the backbone of SAP's commerce fulfillment ecosystem. We ship features that directly impact how global enterprise customers manage orders at scale. In our team, we value technical craftsmanship, open feedback, and have a people-first culture. Our environment is safe to let people be themselves and leverage their strengths. This high-performance and fast-paced environment is assured to provide rich opportunities for learning and growing.\nYou'll join the CX One OMS UI team, a focused engineering group building the unified back-office interface for SAP's Order Management Services. You are stepping in at the consolidation and hardening stage ahead of the product's initial release. The broader CX OMS engineering organization powers the order lifecycle for some of the world's largest enterprise retailers and commerce operators. Our backend services handle order capture, fulfilment orchestration, inventory availability, and returns at scale.",
+        "requirements": "",
+        "your_tasks": "",
+        "applicant_profile": "",
+        "about_us": "",
+        "what_they_offer": "",
+        "snippet": ""
+      },
+      "analysis": {
+        "title_core": "UI Developer",
+        "language": "en",
+        "required": [
+          "Bachelor's degree",
+          "professional software development",
+          "TypeScript proficiency",
+          "enterprise UI component library",
+          "CI/CD pipelines",
+          "REST API integrations",
+          "AI/LLM workflows",
+          "observability",
+          "Git"
+        ],
+        "preferred": [
+          "SAP Design System",
+          "SAP Fiori",
+          "SAP Horizon theme",
+          "Storybook",
+          "RTK Query",
+          "accessibility audits",
+          "Cypress",
+          "Playwright"
+        ],
+        "tools": [
+          "React",
+          "TypeScript",
+          "Vite",
+          "ESLint",
+          "Prettier",
+          "GitHub Actions",
+          "ArgoCD",
+          "JWT",
+          "OAuth2",
+          "OIDC",
+          "Vitest",
+          "Playwright",
+          "CI",
+          "CD",
+          "CI/CD",
+          "API",
+          "REST"
+        ],
+        "languages_required": [
+          {
+            "language": "English",
+            "level": null,
+            "other": null
+          }
+        ],
+        "years_experience": 3,
+        "domain": "frontend development",
+        "knockouts": []
+      }
+    }
+  }
+]

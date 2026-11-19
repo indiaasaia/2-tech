@@ -1,0 +1,27 @@
+{
+  "generated_at_utc": "2026-10-14T10:40:47+00:00",
+  "total": 1,
+  "complete": 1,
+  "bundles": [
+    {
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-im-bereich-testbenches-und-telematikentwicklung-m-w-d-x--238227-J000238227",
+      "title": "Werkstudent im Bereich Testbenches und Telematikentwicklung (m/w/d/x)",
+      "company": "Mercedes-Benz Tech Innovation GmbH",
+      "portal": "unknown",
+      "letter_language": "de",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Mercedes-Benz-Tech-Innovation-GmbH_Werkstudent-im-Bereich-Testbenches-und-T.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Mercedes-Benz-Tech-Innovation-GmbH_Werkstudent-im-Bereich-Testbenches-und-T.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Mercedes-Benz-Tech-Innovation-GmbH_Werkstudent-im-Bereich-Testbenches-und-T.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Mercedes-Benz-Tech-Innovation-GmbH_Werkstudent-im-Bereich-Testbenches-und-T.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Werkstudent-im-Bereich-Testbenches-und-Telematikentwicklung.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Werkstudent-im-Bereich-Testbenches-und-Telematikentwicklung.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "missing": [],
+      "artifacts_complete": true
+    }
+  ]
+}

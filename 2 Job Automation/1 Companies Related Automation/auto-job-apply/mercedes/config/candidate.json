@@ -1,0 +1,22 @@
+{
+  "_comment": "Candidate profile for Mercedes-Benz Tech Innovation (Workday) applications. 3_MERCEDES_job_apply.py loads this file automatically at startup - if present, its values OVERRIDE the built-in constants in the script. Edit here, never in the source. Date fields are [month, day, year] strings. Source field: 'Job Portals' is a category that drills down; source_option must be one of its verified leaf children (Agentur fuer Arbeit, Google for Jobs, herCareer, Indeed, Mercedes-Benz career portal, Stepstone). No 'Career Fair' option exists in the live picker.",
+  "given_name": "Meetkumar Riteshkumar",
+  "family_name": "Raval",
+  "street": "Ernestristrasse",
+  "postal_code": "45141",
+  "city": "Essen",
+  "phone_national": "015567018163",
+  "source_category": "Job Portals",
+  "source_option": "Mercedes-Benz career portal",
+  "earliest_entry_date": ["09", "30", "2026"],
+  "severe_disability": "No",
+  "work_permit_option": "Yes, I have a work and residence permit for Germany, but I am not a citizen of a member state of the EU/Iceland/Liechtenstein/Norway/Switzerland",
+  "data_transfer_option": "Yes, I agree to the transfer of my data within Mercedes-Benz Tech Innovation and thus have the greatest possible chance of finding a suitable position for me.",
+  "gender": "Male",
+  "date_of_birth": ["02", "28", "2002"],
+  "nationality": "India",
+  "pronoun": "He/Him/His",
+  "terms_accept": true,
+  "job_url": "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/MBTI_JOBPORTAL/details/Werkstudent-fr-Android-Entwicklung--in-car---m-w-d-x-_R0006909/apply",
+  "resume_path": "E:\\WorkSpace\\2 Tech\\1 Cold Emailing\\Cold Emaling\\RAVAL_MEETKUMAR_RESUME.pdf"
+}

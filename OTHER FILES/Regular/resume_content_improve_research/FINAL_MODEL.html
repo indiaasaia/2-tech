@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ATS Resume Research — The Final Model</title>
+<style>
+:root{
+  --bg:#0f1117; --card:#171a23; --border:#2a2f3d; --text:#e2e6f0; --muted:#8b93a7;
+  --accent:#4f8cff; --good:#3ecf8e; --bad:#ff6b6b; --warn:#ffb84d; --purple:#a78bfa;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--text);font-family:'Segoe UI',system-ui,-apple-system,sans-serif;line-height:1.6}
+.wrap{max-width:960px;margin:0 auto;padding:24px 20px 80px}
+header{text-align:center;padding:36px 0 20px;border-bottom:1px solid var(--border);margin-bottom:28px}
+h1{font-size:2rem;font-weight:700;letter-spacing:-.02em}
+h1 span{color:var(--accent)}
+header p{color:var(--muted);margin-top:8px;font-size:.95rem}
+.badge{display:inline-block;background:#1c2333;color:var(--accent);border:1px solid #2b3b5e;border-radius:999px;padding:3px 12px;font-size:.75rem;font-weight:600;margin:4px 3px}
+nav{position:sticky;top:0;background:rgba(15,17,23,.95);backdrop-filter:blur(8px);border-bottom:1px solid var(--border);padding:10px 0;margin-bottom:28px;z-index:10}
+nav .wrap{display:flex;gap:8px;flex-wrap:wrap;justify-content:center;padding:0 20px}
+nav a{color:var(--muted);text-decoration:none;font-size:.82rem;padding:5px 12px;border-radius:999px;border:1px solid transparent}
+nav a:hover{color:var(--text);background:#1c2333;border-color:var(--border)}
+section{margin-bottom:44px}
+h2{font-size:1.4rem;margin-bottom:16px;padding-bottom:8px;border-bottom:2px solid var(--accent);display:inline-block}
+h3{font-size:1.05rem;margin:20px 0 10px;color:var(--purple)}
+p{margin-bottom:10px}
+.card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:18px 20px;margin-bottom:14px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px}
+table{width:100%;border-collapse:collapse;font-size:.88rem;margin:12px 0}
+th{color:var(--accent);text-align:left;padding:8px 10px;border-bottom:2px solid var(--border);font-weight:600}
+td{padding:8px 10px;border-bottom:1px solid var(--border);vertical-align:top}
+tr:hover td{background:#1a1f2c}
+.tag{display:inline-block;border-radius:6px;padding:1px 8px;font-size:.75rem;font-weight:700}
+.tag.good{background:#12301f;color:var(--good)}
+.tag.bad{background:#331414;color:var(--bad)}
+.tag.warn{background:#332514;color:var(--warn)}
+.tag.info{background:#14203a;color:var(--accent)}
+.big{font-size:1.9rem;font-weight:800}
+.small{font-size:.8rem;color:var(--muted)}
+code,pre{font-family:Consolas,'Courier New',monospace}
+code{background:#0d1018;padding:2px 6px;border-radius:4px;font-size:.82rem;color:#9ecbff}
+pre{background:#0d1018;border:1px solid var(--border);border-radius:10px;padding:14px;overflow-x:auto;font-size:.78rem;line-height:1.5;margin:12px 0;color:#c9d6f2}
+.arrow{color:var(--accent);font-weight:700}
+ul,ol{margin:8px 0 12px 22px}
+li{margin-bottom:5px}
+.kpi{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:16px 0}
+.kpi .card{text-align:center;margin:0}
+.kpi .label{font-size:.75rem;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+.verdict{border-left:3px solid;padding:10px 14px;border-radius:0 8px 8px 0;margin:10px 0;background:#131722}
+.verdict.rejected{border-color:var(--bad)}
+.verdict.validated{border-color:var(--good)}
+.verdict.mandatory{border-color:var(--warn)}
+footer{text-align:center;color:var(--muted);font-size:.8rem;margin-top:50px;padding-top:20px;border-top:1px solid var(--border)}
+</style>
+</head>
+<body>
+<nav><div class="wrap">
+  <a href="#journey">Journey</a><a href="#challenges">Corrections</a><a href="#defects">Defects Found</a>
+  <a href="#model">Final Model</a><a href="#gates">Gates</a><a href="#score">Score</a>
+  <a href="#kb">Knowledge Base</a><a href="#roadmap">Roadmap</a>
+</div></nav>
+
+<div class="wrap">
+<header>
+  <h1>ATS Resume Research — <span>The Final Model</span></h1>
+  <p>Consolidated result of 7 research rounds (V1–V7) · every claim measured, prototyped, or A/B-tested · nothing assumed</p>
+  <div>
+    <span class="badge">V1 Architecture</span><span class="badge">V2 Primary Sources</span><span class="badge">V3 Empirical</span>
+    <span class="badge">V4 Validated</span><span class="badge">V5 Measured Assumptions</span><span class="badge">V6 Verifier Bake-off</span><span class="badge">V7 Constrained Generation</span>
+  </div>
+</header>
+
+<!-- KPIs -->
+<section>
+  <div class="kpi">
+    <div class="card"><div class="big" style="color:var(--bad)">0/21</div><div class="label">Resumes machine-parseable (before fixes)</div></div>
+    <div class="card"><div class="big" style="color:var(--bad)">294</div><div class="label">Gate findings, 0 clean jobs (V6)</div></div>
+    <div class="card"><div class="big" style="color:var(--bad)">~9.6</div><div class="label">Fabricated tool claims per job</div></div>
+    <div class="card"><div class="big" style="color:var(--good)">3–5</div><div class="label">LLM calls/job in final model (was 6)</div></div>
+  </div>
+</section>
+
+<!-- JOURNEY -->
+<section id="journey">
+  <h2>1 · The Journey: 7 research topics → the final model</h2>
+  <div class="card">
+  <table>
+    <tr><th>Research topic</th><th>What it found</th><th>What the later rounds did to it</th></tr>
+    <tr><td><b>1. Current-system baseline</b></td><td>One model, 6 prompts, prompt-only truthfulness, zero verification</td><td>V4 audit: 35 fabricated metrics ship; truncation worry <span class="tag info">dead</span></td></tr>
+    <tr><td><b>2. Resume/document parsers</b></td><td>Docling + pdfplumber + OpenResume parser as ATS model</td><td>V3 ran it on 21 real PDFs → 3 real defects; V4 A/B-validated fixes</td></tr>
+    <tr><td><b>3. Skill taxonomies</b></td><td>ESCO best fit (EU, German labels, free CSV)</td><td>V5: lexicon alone fails German JDs → ESCO + LLM analyst both required</td></tr>
+    <tr><td><b>4. Keyword + semantic matching</b></td><td>Proposed e5 embeddings with τ=0.72</td><td><span class="tag bad">REJECTED</span> V5 measured: "Kubernetes ↔ cooking recipes" = 0.818 &gt; τ. Synonyms come from alias/ESCO map only</td></tr>
+    <tr><td><b>5. ATS behavior + myths</b></td><td>"75% auto-reject" = myth; parse fidelity is the real KPI</td><td>V3: no RCT supports keyword-stuffing; machine readability first</td></tr>
+    <tr><td><b>6. Datasets + German market</b></td><td>Own frozen benchmark; HF dataset as sanity check only</td><td>V4: 7/21 JDs are German → Lebenslauf variant</td></tr>
+    <tr><td><b>7. Architecture proposal</b></td><td>Strategy E: LLM + NLP + embeddings + validators</td><td>Rebuilt via V2–V7: embeddings removed, calls 6→3–5, gates prototyped (294 findings), constrained generation tested</td></tr>
+  </table>
+  </div>
+</section>
+
+<!-- CORRECTIONS -->
+<section id="challenges">
+  <h2>2 · What "challenge each point" actually killed or changed</h2>
+  <div class="grid">
+    <div class="card">
+      <h3 style="margin-top:0">❌ Killed by measurement</h3>
+      <ul>
+        <li><b>e5 semantic scoring layer</b> — cosine compressed into 0.80–0.84; no tunable threshold exists (V5)</li>
+        <li><b>"Just write a better prompt"</b> — constrained generation still fabricated on attempt 1: gate→regenerate is mandatory (V7)</li>
+        <li><b>Analyst prompt patches alone</b> — returned empty language requirements even when the JD said "ideally english and german" → deterministic post-check required (V7)</li>
+        <li><b>Gemini as load-bearing / NVIDIA as free critic / parallel LLM workers</b> — free-tier realities (V2)</li>
+        <li><b>Truncation worry</b> — 0/21 JDs truncated (V4)</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3 style="margin-top:0">✔️ Survived / strengthened</h3>
+      <ul>
+        <li><b>Parse fidelity as the #1 KPI</b> — measurably 0/21 before fixes</li>
+        <li><b>KB + claimable-set generation</b> — fabrication is systemic (201/201 triaged true positives), so this became THE central fix</li>
+        <li><b>Coverage scorer</b> — intent 0.72 vs artifact 0.73 (+0.01): generation lands in the PDF</li>
+        <li><b>ESCO + alias map synonyms</b> — deterministic, never misfires</li>
+        <li><b>Cross-encoder</b> — kept only as advisory "best line for missing requirement" suggestions</li>
+      </ul>
+    </div>
+  </div>
+  <div class="verdict rejected"><b>Design reversal:</b> embeddings were removed from scoring entirely. The score got <i>simpler</i> because measurement removed machinery — not because challenge added it.</div>
+</section>
+
+<!-- DEFECTS -->
+<section id="defects">
+  <h2>3 · Real defects found in your shipped resumes (all measured, not theorized)</h2>
+  <div class="card">
+  <table>
+    <tr><th>Defect (21/21 PDFs)</th><th>Root cause</th><th>Fix (validated)</th><th>Round</th></tr>
+    <tr><td>Section titles corrupt: <code>"AREER BJECTIVE"</code>, <code>"E XPERIENCE"</code> — even the <b>name</b> corrupts</td><td><code>\scshape</code> small-caps font loses Unicode mapping</td><td><code>\scshape → \bfseries</code></td><td>V3/V4</td></tr>
+    <tr><td>Experience dates invisible to every standard ATS regex (0 matches)</td><td><code>Dec'23</code> apostrophe 2-digit year</td><td><code>Dec 2023 – Jan 2025</code></td><td>V3</td></tr>
+    <tr><td>Ligatures break skill words (<code>efﬁciency</code>)</td><td>Palatino ligature glyphs</td><td><code>Ligatures=NoCommon</code> + texgyrepagella <span class="tag warn">only recipe that works on tectonic</span></td><td>V3/V4</td></tr>
+    <tr><td><b>Main Projects section shows experience content</b> with literal <code>PROJECT-</code> prefix</td><td><code>replace("SKILLS-1")</code> runs before <code>replace("PROJECT-SKILLS-1")</code> — substring collision</td><td>Longest-first replacement + <code>assert "PROJECT-" not in text</code></td><td>V4</td></tr>
+    <tr><td>Word segmentation collapse: extractors find 154 "words" vs 622</td><td>Same scshape corruption</td><td>Same title fix + new 200–800 words/page gate</td><td>V5</td></tr>
+    <tr><td>Over-conservative: <code>python</code> absent in 12/21, <code>sql</code> in 16/21, <code>llm</code> in 20/21</td><td>Prompt over-caution (not hallucination — the opposite)</td><td>Coverage metric + honest claimable set</td><td>V3</td></tr>
+    <tr><td>35 fabricated metrics across 42 project slots; "thirty percent" evades digit rule</td><td>Prompt <i>instructs</i> mirroring posting tools</td><td>KB licensing + digit rule incl. spelled-out numbers</td><td>V4/V6</td></tr>
+  </table>
+  </div>
+</section>
+
+<!-- FINAL MODEL -->
+<section id="model">
+  <h2>4 · The Final Model — architecture</h2>
+  <div class="card">
+<pre>
+JOB DESCRIPTION
+   <span class="arrow">▼</span>
+[1] JD ANALYST — 1 LLM call, strict JSON (required / preferred / tools / languages / knockouts)
+   <span class="arrow">▼</span>
+[2] DETERMINISTIC POST-CHECK — regex language sweep, tier sanity (LLM proposes, code disposes)
+   <span class="arrow">▼</span>
+[3] SKILL NORMALIZATION — ESCO CSV (EN+DE) + alias map, rapidfuzz ≥ 92
+   <span class="arrow">▼</span>
+[4] CLAIMABLE SET — KB-licensed skills (with evidence) ∪ JD tools (mirrorable, never ownable)
+   <span class="arrow">▼</span>
+[5] CONSTRAINED GENERATION — 1–3 LLM calls (was 6): real projects only, licensed skills only
+   <span class="arrow">▼</span>
+[6] GATES — fail <span class="arrow">→</span> regenerate with violations (≤2 iterations)   <span style="color:var(--warn)">MANDATORY (measured)</span>
+   <span class="arrow">▼</span>
+[7] DOCUMENT BUILD — fixed template (titles, dates, ligatures, longest-first replacement)
+   <span class="arrow">▼</span>
+[8] ARTIFACT VERIFICATION — parse PDF back; coverage over extracted text; GAP REPORT
+   <span class="arrow">▼</span>
+[9] SCORECARD + sampled critic (NVIDIA, budget-capped)
+</pre>
+  <p class="small">Measured performance: analyst ~5 s · generation ~7–9 s · gates &lt;1 s · 3–5 LLM calls/job → ~4 min per 20-job run on the serial free tier.</p>
+  </div>
+</section>
+
+<!-- GATES -->
+<section id="gates">
+  <h2>5 · The gates (fail = never ship)</h2>
+  <div class="card">
+  <table>
+    <tr><th>Gate</th><th>Checks</th><th>Measured justification</th></tr>
+    <tr><td><b>G1 Parse sanity</b></td><td>Text extracts; 200–800 words/page; name/email/phone (EU regex); sections detectable</td><td>V3: 0/21 clean titles · V5: 154-word collapse</td></tr>
+    <tr><td><b>G2 Hallucination</b></td><td>Every tech token KB-licensed; every digit (incl. spelled-out) in KB evidence</td><td>V6: 201 true positives · 35 fake metrics · "thirty percent" evasion</td></tr>
+    <tr><td><b>G3 Artifact integrity</b></td><td>No placeholders, no <code>PROJECT-</code> prefix, dates parse, titles not corrupted</td><td>V4: 21/21 collision bug</td></tr>
+  </table>
+  </div>
+</section>
+
+<!-- SCORE -->
+<section id="score">
+  <h2>6 · The scorecard (0–100, no embedding term)</h2>
+  <div class="grid">
+    <div class="card">
+      <table>
+        <tr><th>Component</th><th>Weight</th></tr>
+        <tr><td>Required-keyword coverage (exact + alias/ESCO)</td><td><b>40</b></td></tr>
+        <tr><td>Preferred-keyword coverage</td><td><b>20</b></td></tr>
+        <tr><td>Parse fidelity (fields exact vs intent)</td><td><b>15</b></td></tr>
+        <tr><td>Format checks (dates, reading order, sections)</td><td><b>10</b></td></tr>
+        <tr><td>Experience relevance (analyst verdict)</td><td><b>10</b></td></tr>
+        <tr><td>Naturalness (sampled critic)</td><td><b>5</b></td></tr>
+      </table>
+    </div>
+    <div class="card">
+      <h3 style="margin-top:0">Iteration & honesty rules</h3>
+      <ul>
+        <li>Regenerate only if score &lt; 70 <b>or</b> required coverage &lt; 0.8; max 2 iterations; accept only if score improves by &gt; 2 with G2 clean</li>
+        <li><b>Honest coverage targets:</b> current 0.73 is partly purchased with fabrication → expect honest 0.5–0.7; the ceiling is set by KB expansion, not prompt pressure</li>
+        <li><b>Genuinely missing requirements → gap report to you</b> (learn it / skip the job) — never a fabricated claim</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- KB -->
+<section id="kb">
+  <h2>7 · The candidate knowledge base — the central fix</h2>
+  <div class="card">
+    <p>Structured JSON, schema-validated at load. Every skill has ≥1 <b>evidence id</b>; explicit
+    <code>skills_allowed</code> / <code>skills_forbidden</code> per experience and project; projects are the
+    <b>real</b> ones with real evidence only. The LLM may <b>select, reorder, summarize, mirror surface
+    forms</b> — it may never exceed the KB. Fabrication becomes a <b>compile error</b>, not a prompt hope.</p>
+    <pre>{
+  "id": "soham",
+  "titles_allowed": ["Software Engineer", "Backend Engineer", ...],
+  "skills_allowed": ["backend engineering", "database management", ...],
+  "skills_forbidden": ["docker", "kubernetes", "aws", "react", ...],
+  "evidence": ["integrated backend systems, servers and databases ..."]
+}</pre>
+    <div class="verdict mandatory"><b>Why it's the central fix:</b> V6 proved ~9.6 unlicensed tool claims per job and that the projects prompt <i>instructs</i> the fabrication. Prompt-level constraints reduce it ~4× but don't eliminate it (V7) — only KB licensing + gates do.</div>
+  </div>
+</section>
+
+<!-- ROADMAP -->
+<section id="roadmap">
+  <h2>8 · Implementation roadmap (evidence-backed, nothing left to research)</h2>
+  <div class="card">
+  <table>
+    <tr><th>#</th><th>Item</th><th>Evidence</th><th>Effort</th></tr>
+    <tr><td>1</td><td>Placeholder-collision fix + <code>PROJECT-</code> assert</td><td>21/21 PDFs affected (V4)</td><td>~30 min</td></tr>
+    <tr><td>2</td><td>4 template fixes (exact LaTeX proven)</td><td>A/B-validated (V4)</td><td>~1 h</td></tr>
+    <tr><td>3</td><td>KB + validator + digit rule (incl. spelled-out numbers)</td><td>294 bake-off findings (V6)</td><td>1–2 days</td></tr>
+    <tr><td>4</td><td>Constrained generation + mandatory gate→regenerate loop</td><td>Prototype working (V7)</td><td>1–2 days</td></tr>
+    <tr><td>5</td><td>Gate suite as permanent regression step</td><td>Catches 294/294 (V6)</td><td>~half day</td></tr>
+    <tr><td>6</td><td>Coverage scorer (DE+EN) + analyst with deterministic post-check</td><td>Prototyped (V5/V6/V7)</td><td>1–2 days</td></tr>
+    <tr><td>7</td><td>Gap report + scorecard + honest coverage targets</td><td>V7 §3</td><td>1 day</td></tr>
+    <tr><td>8</td><td>Lebenslauf variant (MM/YYYY, no DECLARATION)</td><td>7/21 German JDs (V4)</td><td>1 day</td></tr>
+    <tr><td>9</td><td>Benchmark harness (frozen 50-job suite + adversarial cases)</td><td>V2 C10 protocol</td><td>2 days</td></tr>
+    <tr><td>—</td><td><s>e5 semantic scoring layer</s></td><td><span class="tag bad">rejected by measurement</span> (V5)</td><td>—</td></tr>
+  </table>
+  </div>
+</section>
+
+<!-- META -->
+<section>
+  <h2>9 · The meta-lesson</h2>
+  <div class="verdict validated">
+    The three most valuable findings — small-caps corruption, date invisibility, and the replacement-order
+    bug — were <b>all found by testing artifacts</b>, never by reading code or web research. Two proposed
+    designs (semantic scoring; "just constrain the prompt") <b>died on contact with data</b>.
+    Rule going forward: every pipeline change is gated on <b>build → extract → assert → ship</b>.
+  </div>
+  <p class="small">Full evidence chain: V1–V7 reports, <code>RESUME_GENERATION_DOCUMENTATION.md</code>,
+  <code>empirical_parser_test.py</code> + results, and <code>experiment/</code>
+  (validate_fixes · verify_all · analyst_prototype · mini_pipeline) with their JSON outputs — all in
+  <code>resume_content_improve_research/</code>.</p>
+</section>
+
+<footer>Generated from 7 rounds of challenged, measured ATS research · all claims reproducible from the scripts in this folder</footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,76 @@
+{
+  "requisitionId": "R0007042",
+  "jobUrl": "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/MBTI_JOBPORTAL/job/Ulm/Werkstudent-Softwareentwicklung-KI---Automatisierung-MBOS--m-w-d-x-_R0007042",
+  "resume": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\auto-job-apply\\mercedes\\sub_program_files\\output\\resume\\pdf\\Working-Student-Software-Development-AI-Automation-MBOS.pdf",
+  "status": "DRY_RUN",
+  "dryRun": true,
+  "startedAt": "2026-11-16T18:31:42.591759+00:00",
+  "finishedAt": "2026-11-16T18:33:26.395640+00:00",
+  "stagesReached": [
+    "job_page",
+    "apply_dialog",
+    "autofill_with_resume",
+    "resume_uploaded",
+    "my_information",
+    "my_experience",
+    "application_questions",
+    "voluntary_disclosures",
+    "review"
+  ],
+  "fields": {
+    "changed": {
+      "givenName": "Meetkumar Riteshkumar",
+      "familyName": "Raval",
+      "street": "Ernestristrasse",
+      "postalCode": "45141",
+      "city": "Essen",
+      "source": "Mercedes-Benz career portal",
+      "phone": "015567018163"
+    },
+    "verified": {
+      "resume": "Working-Student-Software-Development-AI-Automation-MBOS.pdf",
+      "experience": {
+        "documentsShown": "Working-Student-Software-Development-AI-Automation-MBOS.pdf",
+        "modified": false
+      },
+      "applicationQuestions": {
+        "entryDate": {
+          "month": "9",
+          "day": "30",
+          "year": "2026"
+        },
+        "disability": "No",
+        "work_permit": "Yes, I have a work and residence permit for Germany, but I am not a citizen of a member state of the EU/Iceland/Liechtenstein/Norway/Switzerland",
+        "data_transfer": "Yes, I agree to the transfer of my data within Mercedes-Benz Tech Innovation and thus have the greatest possible chance of finding a suitable position for me."
+      },
+      "voluntaryDisclosures": {
+        "dateOfBirth": {
+          "month": "2",
+          "day": "28",
+          "year": "2002"
+        },
+        "gender": "Male",
+        "nationality": "India",
+        "pronoun": "He/Him/His",
+        "termsChecked": true
+      }
+    },
+    "problems": []
+  },
+  "successIndicators": {},
+  "errors": [],
+  "screenshots": {
+    "01-job-page": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\auto-job-apply\\mercedes\\results\\R0007042-01-job-page.png",
+    "02-application-start": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\auto-job-apply\\mercedes\\results\\R0007042-02-application-start.png",
+    "03-resume-uploaded": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\auto-job-apply\\mercedes\\results\\R0007042-03-resume-uploaded.png",
+    "04-my-information": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\auto-job-apply\\mercedes\\results\\R0007042-04-my-information.png",
+    "05-my-experience": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\auto-job-apply\\mercedes\\results\\R0007042-05-my-experience.png",
+    "06-application-questions": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\auto-job-apply\\mercedes\\results\\R0007042-06-application-questions.png",
+    "07-voluntary-disclosures": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\auto-job-apply\\mercedes\\results\\R0007042-07-voluntary-disclosures.png",
+    "08-review-before-submit": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\auto-job-apply\\mercedes\\results\\R0007042-08-review-before-submit.png"
+  },
+  "notes": [
+    "DRY RUN: final submission intentionally skipped."
+  ],
+  "durationSeconds": 103.8
+}

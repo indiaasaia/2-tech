@@ -1,0 +1,113 @@
+{
+  "generated_at_utc": "2026-09-17T09:34:40+00:00",
+  "model": "gpt-oss:120b",
+  "total_jobs": 3,
+  "experiences": [
+    {
+      "source": "bosch",
+      "title": "Masterarbeit: Evaluierung hardwarebeschleunigter MACsec-Lösungen für sicheres gPTP in automobilen TSN-Netzwerken (w/m/div.)",
+      "company": "Robert Bosch GmbH",
+      "location": "Schwieberdingen",
+      "posted_time": "2026-09-14",
+      "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000149351689-masterarbeit-evaluierung-hardwarebeschleunigter-macsec-losungen-fur-sicheres-gptp-in-automobilen-tsn-netzwerken-w-m-div-?oga=true",
+      "job_description": "[Unternehmensbeschreibung] Bei Bosch gestalten wir die Zukunft, indem wir hochwertige Technologien und Dienstleistungen entwickeln, die begeistern und das Leben der Menschen bereichern. Unser Versprechen an unsere Mitarbeitenden ist felsenfest: Wir wachsen gemeinsam, wir haben Freude an unserer Arbeit und wir inspirieren uns gegenseitig. Machen Sie mit und erleben Sie den Unterschied. Die Robert Bosch GmbH freut sich auf Ihre Bewerbung!\n\n[Stellenbeschreibung] * Sie werden ein Automotive-Ethernet-Netzwerk einrichten, das gPTP und hardwarebeschleunigtes MACsec unterstützt. * Im Rahmen des Validierungsprozesses werden Sie verifizieren, dass die gPTP-Kommunikation durch MACsec wirksam geschützt ist und korrekt funktioniert. * Darüber hinaus werden Sie die Auswirkungen auf Clock Offset, Peer Delay, Synchronisationsstabilität, Konvergenz, Latenz und Jitter quantifizieren. * Wo möglich, werden Sie hardwarebasiertes MACsec mit einer Linux-Referenzimplementierung von Software-MACsec vergleichen.\n\n[Qualifikationen] Ausbildung: Masterstudium im Bereich Elektrotechnik, Informatik, Nachrichtentechnik oder einer vergleichbaren ingenieurwissenschaftlichen Fachrichtung mit sehr guten Leistungen • Erfahrung und Kenntnisse: Sehr gute Programmierkenntnisse in C/C++ und Python; gute Kenntnisse in Linux und Embedded Systems; nachweisliche Mitarbeit in einem studentischen Projekt und/oder einem Praktikum • Persönlichkeit und Arbeitsweise: Sie sind motiviert, an einem forschungsorientierten Engineering-Thema zu arbeiten, und möchten technische Herausforderungen sowie Ergebnisse mit ausgeprägten Kommunikationsfähigkeiten diskutieren • Arbeitsmodell: Unser hybrides Modell bietet Ihnen eine ausgewogene Mischung aus Präsenz vor Ort und flexiblem Remote-Arbeiten (60 % Büro und 40 % Remote) • Begeisterung: Sie interessieren sich für die Erkundung neuer Netzwerktechnologien, Hardware-Plattformen und technischer Dokumentation • Sprachen: Verhandlungssicheres Englisch; Deutschkenntnisse sind von Vorteil •\n\n[Zusätzliche Informationen] **Start:** gemäß vorheriger Vereinbarung **Dauer:** 6 Monate Voraussetzung für diese Abschlussarbeit ist die Immatrikulation an einer Hochschule. Bitte fügen Sie Ihren Lebenslauf, Ihren Notenspiegel (Transcript of Records), die Prüfungsordnung sowie – falls erforderlich – eine gültige Arbeits- und Aufenthaltserlaubnis bei. Vielfalt und Inklusion sind für uns nicht nur Trends, sondern fest in unserer Unternehmenskultur verankert. Daher begrüßen wir alle Bewerbungen – unabhängig von Geschlecht, Alter, Behinderung, Religion oder Weltanschauung, ethnischer Herkunft oder sexueller Identität. **Benötigen Sie weitere Informationen zur Stelle?** Friedrich Wiemer (Fachbereich) +49 152 24695820 Jonathan Ndop (Fachbereich) +49 152 05270537 Work #LikeABosch startet hier: Jetzt bewerben! #LI-DNI",
+      "experience_1": {
+        "role": "Systems Integration Engineer",
+        "description": "Integrated backend servers and databases, optimized system latency and performance, and collaborated cross-functional to enhance data management within distributed services",
+        "skills": [
+          "system integration",
+          "latency optimization",
+          "performance optimization",
+          "backend engineering",
+          "database management",
+          "cross-functional collaboration"
+        ]
+      },
+      "experience_2": {
+        "role": "Python Backend Development Intern",
+        "description": "Implemented MySQL data management and Python backend services with Django and Flask to support machine learning workflow integration for web applications",
+        "skills": [
+          "Python",
+          "MySQL",
+          "Django",
+          "Flask",
+          "Backend Development",
+          "Database Management",
+          "Data Storage",
+          "Machine Learning Workflow Support"
+        ]
+      },
+      "experience_error": ""
+    },
+    {
+      "source": "bosch",
+      "title": "Master Thesis Evaluation of Hardware-Accelerated MACsec for Secure gPTP in Automotive TSN Networks",
+      "company": "Robert Bosch GmbH",
+      "location": "Schwieberdingen",
+      "posted_time": "2026-09-14",
+      "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000149348659-master-thesis-evaluation-of-hardware-accelerated-macsec-for-secure-gptp-in-automotive-tsn-networks?oga=true",
+      "job_description": "[Company Description] At Bosch, we shape the future by inventing high-quality technologies and services that spark enthusiasm and enrich people’s lives. Our promise to our associates is rock-solid: we grow together, we enjoy our work, and we inspire each other. Join in and feel the difference. The Robert Bosch GmbH is looking forward to your application!\n\n[Job Description] You will set up an automotive Ethernet network supporting gPTP and hardware-accelerated MACsec. • As part of the validation process, you will verify that gPTP communication is effectively protected by MACsec and operates correctly. • In addition, you will quantify the impact on clock offset, peer delay, synchronization stability, convergence, latency, and jitter. • Where feasible, you will compare hardware MACsec with a Linux software-MACsec reference implementation. •\n\n[Qualifications] Education: Master studies in the field of Electrical Engineering, Computer Science, Communications, or a comparable engineering discipline with very good grades • Experience and Knowledge: solid programming skills in C/C++ and Python; good knowledge of Linux and embedded systems; proven involvement in a student project and/or internship • Personality and Working Practice: you are motivated to work on a research-oriented engineering topic and eager to discuss technical challenges and results with strong communication skills • Work Routine: our hybrid model provides you with a balanced mix of on-site presence and flexible remote work (60% office and 40% remote) • Enthusiasm: passionate about exploring new networking technologies, hardware platforms, and technical documentation • Languages: fluent in English; German is a plus •\n\n[Additional Information] Start: according to prior agreement Duration: 6 months Requirement for this thesis is the enrollment at university. Please attach your CV, transcript of records, examination regulations and if indicated a valid work and residence permit. Diversity and inclusion are not just trends for us but are firmly anchored in our corporate culture. Therefore, we welcome all applications, regardless of gender, age, disability, religion, ethnic origin or sexual identity. Need further information about the job? Friedrich Wiemer (Functional Department) +49 152 24695820 Jonathan Ndop (Functional Department) +49 152 05270537 Work #LikeABosch starts here: Apply now! #LI-DNI",
+      "experience_1": {
+        "role": "Systems Integration Engineer",
+        "description": "Integrated backend systems and databases, optimizing server latency and performance while collaborating cross-functionally to enhance data management and overall system efficiency",
+        "skills": [
+          "system integration",
+          "backend systems",
+          "latency optimization",
+          "performance improvement",
+          "data management",
+          "cross-functional collaboration"
+        ]
+      },
+      "experience_2": {
+        "role": "Backend Development Intern",
+        "description": "Implemented MySQL schemas and Django/Flask services to manage storage and backend processing for machine-learning workflows",
+        "skills": [
+          "MySQL",
+          "Django",
+          "Flask",
+          "backend development",
+          "database management",
+          "web application development",
+          "machine learning workflow support"
+        ]
+      },
+      "experience_error": ""
+    },
+    {
+      "source": "bosch",
+      "title": "Werkstudent im Bereich Materialfeldeinkauf (w/m/div.)",
+      "company": "Bosch Rexroth AG",
+      "location": "Lohr am Main",
+      "posted_time": "2026-09-14",
+      "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000149341954-werkstudent-im-bereich-materialfeldeinkauf-w-m-div-?oga=true",
+      "job_description": "[Unternehmensbeschreibung] Bei Bosch Rexroth dreht sich alles um Bewegung und den Erfolg unserer Kunden. Mit unseren vernetzbaren Antriebs- und Steuerungstechnologien sowie digitalen Lösungen arbeiten Maschinen und Anlagen effizient, sicher und leistungsstark. Wir bieten unseren Kunden Komponenten, Systemlösungen und Services für mobile und industrielle Anwendungen ebenso wie für die Fabrikautomation. In allen Bereichen schätzen wir das Know-how und das Engagement unserer Mitarbeitenden und ermöglichen dynamische Karrieren in einem internationalen Umfeld. Rund 33.800 Menschen in über 80 Ländern - und ein Unternehmenszweck: „We move industries to make our planet a better place.” Willst auch du etwas bewegen? Dann freuen wir uns auf deine Bewerbung bei der Bosch Rexroth AG.\n\n[Stellenbeschreibung] Im Rahmen deiner Werkstudententätigkeit übernimmst du die Betreuung eines definierten C-Lieferantenportfolios aus den Materialbereichen Kunststoffteile, Dichtungen und Stanz-Zieh-Biegeteile. • Du bist Ansprechperson für unsere internen Kunden, Lieferanten und fungierst als Schnittstelle in der internen sowie externen Kommunikation. • Eigenverantwortlich erstellst du Anfragen, Benchmarks, verhandelst Preise mit den Lieferanten und erstellst daraus Preisvereinbarungen. • Bei deinen ersten Erfahrungen im internationalen industriellen Einkauf stehen dir die Einkäuferinnen und Einkäufer des Konzerns mit Rat und Tat zur Seite. •\n\n[Qualifikationen] Ausbildung: Studium im Bereich Wirtschaftsingenieurwesen, Betriebswirtschaftslehre oder vergleichbar • Erfahrungen und Know-How: sicherer Umgang mit MS Office (insbesondere Excel); idealerweise Grundkenntnisse in SAP R/3 und erste Erfahrungen im Bereich Einkauf • Persönlichkeit und Arbeitsweise: du bist ein selbstständiger und offener Mensch, der flexibel vorgeht • Sprachen: sehr gutes Deutsch und gutes Englisch •\n\n[Zusätzliche Informationen] Beginn: nach Absprache Dauer: 6 Monate – 10h/Woche Voraussetzung für die Werkstudententätigkeit ist die Immatrikulation an einer Hochschule. Bitte füge deiner Bewerbung deinen Lebenslauf, deinen aktuellen Notenspiegel, eine aktuelle Immatrikulationsbescheinigung sowie ggf. eine gültige Arbeits- und Aufenthaltserlaubnis bei. Vielfalt und Inklusion sind für uns keine Trends, sondern fest verankert in unserer Unternehmenskultur. Daher freuen wir uns über alle Bewerbungen: unabhängig von Geschlecht, Alter, Behinderung, Religion, ethnischer Herkunft oder sexueller Identität. Du hast fachliche Fragen zum Job? Alexander Klein (Fachabteilung) +49 9352 18 6517 Work #LikeABosch beginnt hier: Jetzt bewerben! Weitere Informationen zu uns findest du auch auf www.boschrexroth.de/karriere sowie auf unseren Social Media Kanälen, beispielsweise Instagram. Move with us. Win together.",
+      "experience_1": {
+        "role": "Backend Integration Engineer",
+        "description": "Integrated backend systems and databases, reducing latency and improving data management while collaborating with cross-functional teams to support internal and external stakeholders",
+        "skills": [
+          "system integration",
+          "backend engineering",
+          "database management",
+          "performance optimization",
+          "cross-functional collaboration",
+          "data management"
+        ]
+      },
+      "experience_2": {
+        "role": "Backend Development Intern",
+        "description": "Developed MySQL database schemas and backend services with Django and Flask to support machine-learning data workflows for web applications",
+        "skills": [
+          "MySQL",
+          "Django",
+          "Flask",
+          "database management",
+          "backend development",
+          "data storage",
+          "machine learning workflow support"
+        ]
+      },
+      "experience_error": ""
+    }
+  ]
+}

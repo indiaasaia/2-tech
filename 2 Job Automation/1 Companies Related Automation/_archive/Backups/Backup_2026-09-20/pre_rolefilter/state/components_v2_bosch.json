@@ -1,0 +1,193 @@
+[
+  {
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000149868802-mandatory-internship-model-based-systems-engineering-?oga=true",
+    "title": "Mandatory Internship Model Based Systems Engineering",
+    "company": "Bosch Thermotechnik GmbH",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Internship Model Based Systems Engineering",
+      "language": "en",
+      "required": [
+        "Master studies",
+        "Electrical Engineering",
+        "Mechanical Engineering",
+        "Energy Engineering",
+        "Systems Engineering",
+        "good grades",
+        "system engineering frameworks"
+      ],
+      "preferred": [
+        "fast-paced environments",
+        "collaborating actively",
+        "renewable energy",
+        "heat pump systems",
+        "international development sites",
+        "design department",
+        "software development",
+        "hardware development"
+      ],
+      "tools": [
+        "Cameo",
+        "EA",
+        "Rhapsody"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": "fluent",
+          "other": null
+        },
+        {
+          "language": "German",
+          "level": "very good",
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "heat pump systems",
+      "knockouts": [
+        "enrollment at university",
+        "valid work permit",
+        "mandatory internship"
+      ]
+    },
+    "components": {
+      "objective": "Master’s student in electrical, mechanical and energy engineering seeking an internship in model‑based systems engineering to apply strong academic performance and system engineering frameworks. Aiming to contribute to renewable‑energy heat‑pump projects at international development sites, I am targeting experience with cameo and rhapsody while collaborating actively in fast‑paced design and software/hardware development teams.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Quantitative Modeling",
+          "Data Analytics"
+        ],
+        "areas": [
+          {
+            "label": "Backend Development",
+            "skills": [
+              "Python",
+              "Django",
+              "FastAPI",
+              "SQL",
+              "MongoDB",
+              "NodeJS"
+            ]
+          },
+          {
+            "label": "Frontend & Mobile",
+            "skills": [
+              "JavaScript",
+              "React",
+              "React-Native",
+              "Flutter",
+              "NextJS",
+              "CSS"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed quant functions and models that boosted profitability in financial decision‑making, and built backend components with real‑time algorithms to support trading operations, leveraging black‑box and gray‑box AI models to exceed benchmark performance.",
+          "skills": [
+            "Python",
+            "Reinforcement Learning",
+            "Deep Learning",
+            "Quantitative Modeling",
+            "Real-Time Algorithms",
+            "Trading Operations",
+            "Data Analytics"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech applications and high‑function visual activity analysis, and performed data extraction and preprocessing to ensure accurate model training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Django"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Built an end‑to‑end high‑frequency trading platform that scrapes market data in real time, applies quantitative and AI models, and executes trades while handling unexpected market events.",
+          "skills": [
+            "Python",
+            "Django",
+            "Data Analytics",
+            "Machine Learning",
+            "Deep Learning",
+            "Real-Time Systems",
+            "Mathematics",
+            "Quantitative Modeling"
+          ]
+        },
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Created an automated resume generation system that leverages structured datasets and open‑source large language models to produce role‑specific sections such as projects, skills, and highlights.",
+          "skills": [
+            "Python",
+            "Streamlit",
+            "Natural Language Processing",
+            "Large Language Models",
+            "Transformers",
+            "Data Analytics"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 3.7,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [
+      "required: single-tool item 'Cameo' is covered by tools",
+      "required: single-tool item 'EA' is covered by tools",
+      "required: single-tool item 'Rhapsody' is covered by tools"
+    ],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 8,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=8 repicked=False"
+    }
+  }
+]

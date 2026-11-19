@@ -1,0 +1,28 @@
+{
+  "generated_at_utc": "2026-10-14T10:40:44+00:00",
+  "policy": "rank verified resumes by honest-fit score; apply strong-first",
+  "counts": {
+    "verified": 1,
+    "poor": 1
+  },
+  "recommendation": "apply to the 0 strong-fit job(s) first; 1 job(s) fall below the 50-point effort line",
+  "jobs": [
+    {
+      "title": "Werkstudent im Bereich Testbenches und Telematikentwicklung (m/w/d/x)",
+      "company": "Mercedes-Benz Tech Innovation GmbH",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-im-bereich-testbenches-und-telematikentwicklung-m-w-d-x--238227-J000238227",
+      "score": 35.4,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.375,
+      "top_gaps": [
+        "Deutsch- und Englischkenntnissen",
+        "vollständige Bewerbungsunterlagen",
+        "Erste Erfahrungen Software-Entwicklung",
+        "Standort in Ulm"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Werkstudent-im-Bereich-Testbenches-und-Telematikentwicklung.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Werkstudent-im-Bereich-Testbenches-und-Telematikentwicklung.docx"
+    }
+  ]
+}

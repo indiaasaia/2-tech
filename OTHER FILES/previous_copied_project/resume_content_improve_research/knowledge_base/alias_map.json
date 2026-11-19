@@ -1,0 +1,193 @@
+{
+  "_comment": "Private alias map v1 (K8s->Kubernetes style). Canonical term -> alias list. Both directions resolve; extend from benchmark misses (IMPLEMENTATION_PLAN risk table).",
+  "aliases": {
+    "Python": [
+      "python3",
+      "py"
+    ],
+    "JavaScript": [
+      "js",
+      "java script",
+      "ecmascript"
+    ],
+    "TypeScript": [
+      "ts"
+    ],
+    "C++": [
+      "cpp"
+    ],
+    "C#": [
+      "c sharp",
+      "csharp"
+    ],
+    "SQL": [
+      "structured query language"
+    ],
+    "MySQL": [
+      "my sql"
+    ],
+    "MongoDB": [
+      "mongo"
+    ],
+    "NodeJS": [
+      "node.js",
+      "node js",
+      "node"
+    ],
+    "NextJS": [
+      "next.js",
+      "next js"
+    ],
+    "React-Native": [
+      "react native",
+      "reactnative"
+    ],
+    "Kubernetes": [
+      "k8s"
+    ],
+    "Machine Learning": [
+      "ml"
+    ],
+    "Natural Language Processing": [
+      "nlp",
+      "natural language processing"
+    ],
+    "Large Language Models": [
+      "llm",
+      "llms",
+      "gen ai",
+      "generative ai",
+      "open-source llm",
+      "open source llm"
+    ],
+    "Deep Learning": [
+      "dl"
+    ],
+    "Reinforcement Learning": [
+      "rl",
+      "reinforcement models"
+    ],
+    "Computer Vision": [
+      "cv"
+    ],
+    "Quantitative Modeling": [
+      "quant",
+      "quant models",
+      "quantitative models",
+      "black-box models",
+      "gray-box models"
+    ],
+    "Data Analytics": [
+      "analytics",
+      "data analysis"
+    ],
+    "Data Preprocessing": [
+      "data extraction",
+      "preprocessing",
+      "data preparation"
+    ],
+    "REST": [
+      "rest api",
+      "restful api",
+      "rest apis"
+    ],
+    "API Integration": [
+      "api integrations",
+      "api",
+      "apis",
+      "rest apis"
+    ],
+    "CI/CD": [
+      "ci cd",
+      "cicd"
+    ],
+    "PostgreSQL": [
+      "postgres"
+    ],
+    "Golang": [
+      "go"
+    ],
+    "Spring": [
+      "spring boot",
+      "springboot"
+    ],
+    "Power BI": [
+      "powerbi",
+      "power bi"
+    ],
+    "Scikit-learn": [
+      "sklearn",
+      "scikit learn"
+    ],
+    "Hugging Face": [
+      "huggingface",
+      "transformers"
+    ],
+    "Transformers": [
+      "hugging face",
+      "huggingface"
+    ],
+    "Streamlit": [
+      "stream lit"
+    ],
+    "FastAPI": [
+      "fast api"
+    ],
+    "Text-to-Speech": [
+      "text to speech",
+      "tts"
+    ],
+    "Full Stack": [
+      "fullstack",
+      "full-stack"
+    ],
+    "CRUD": [
+      "crud operations"
+    ],
+    "UI Development": [
+      "ui",
+      "user interface development"
+    ],
+    "Dijkstra Algorithm": [
+      "dijkstra",
+      "dijkstra's algorithm"
+    ],
+    "Data Scraping": [
+      "web scraping",
+      "scraping"
+    ],
+    "Real-time Systems": [
+      "real time systems",
+      "real-time"
+    ],
+    "Backend Components": [
+      "backend development",
+      "backend systems"
+    ],
+    "Real-time Algorithms": [
+      "real time algorithms"
+    ],
+    "Trading Operations": [
+      "trading",
+      "financial trading"
+    ],
+    "Financial Decision-Making": [
+      "financial decisions"
+    ],
+    "Web Development": [
+      "web development"
+    ],
+    "Mathematics": [
+      "math",
+      "mathematics for machine learning"
+    ],
+    "Software Engineer": [
+      "software developer",
+      "software engineering"
+    ],
+    "Machine Learning Intern": [
+      "machine learning internship",
+      "ml intern"
+    ]
+  }
+}

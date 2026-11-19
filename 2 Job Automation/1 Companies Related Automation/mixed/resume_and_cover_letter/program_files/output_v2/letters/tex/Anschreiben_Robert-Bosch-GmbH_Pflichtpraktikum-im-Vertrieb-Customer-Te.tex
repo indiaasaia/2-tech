@@ -1,0 +1,88 @@
+%
+% cover_letter_template_de.tex — German Anschreiben, DIN 5008-style one-pager
+%
+% Structure per the German norm (Agentur für Arbeit "Das 1x1 der Bewerbungsunterlagen"):
+%   sender block top-right, company block left, city + DD.MM.YYYY date right,
+%   BOLD subject line with the exact job title (no "Betreff:" word), gendered
+%   salutation, 3-4 short paragraphs, "Mit freundlichen Grüßen" + signature.
+%
+% Parser-safety: the V3/V4-validated recipe (texgyrepagella with
+% Ligatures=NoCommon, four-digit dates, \bfseries titles, collision-proof
+% at-token filling, longest-first replacement + leftover-assert in fill.py).
+% English/EU regexes must still extract the name, email, phone and dates from
+% the compiled PDF.
+%
+\documentclass[a4paper,11pt]{article}
+\usepackage[empty]{fullpage}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{parskip}
+\usepackage[hidelinks]{hyperref}
+
+\geometry{left=2.4cm, right=2cm, top=2.2cm, bottom=2cm}
+\pagestyle{empty}
+\setlength{\parskip}{0.45em}
+\setlength{\parindent}{0pt}
+
+% Parser-safety: FLATTERSATZ (ragged right) — justified text compresses
+% interword spaces below pdfplumber's x-tolerance and the extracted text
+% loses ALL word boundaries ("MitfreundlichenGrüßen", measured in E2E).
+% The parser-safe resume template makes the same choice.
+\raggedright
+
+% Parser-safety: widen the interword glue. TeX Gyre Pagella's 0.25em space
+% yields ~2.7pt x-gaps at 10pt — below pdfplumber's default x_tolerance of 3 —
+% so extractors merge every word ("MitfreundlichenGrüßen", measured E2E).
+% \spaceskip forces a >= 3.3pt stretchable space; at-shintos keep raggedness.
+\setlength{\spaceskip}{0.34em plus 0.14em minus 0.06em}
+\setlength{\xspaceskip}{0.34em plus 0.14em minus 0.06em}
+
+\usepackage{fontspec}
+\setmainfont{texgyrepagella}[Ligatures=NoCommon, Extension=.otf, UprightFont=*-regular, BoldFont=*-bold, ItalicFont=*-italic, BoldItalicFont=*-bolditalic]
+
+\newcommand{\clsender}[1]{{\small #1\par}}
+
+\begin{document}
+
+% ---------- sender block (top right) ----------
+\hfill
+\begin{minipage}[t]{7.2cm}
+\raggedleft\clsender{\bfseries RAVAL MEETKUMAR\\ Ernestinenstraße 21, 45141 Essen, Germany\\ +49 15565 468731 | ravalmeett@gmail.com\\ https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/}
+\end{minipage}
+
+\vspace{0.9em}
+
+% ---------- company block (left) ----------
+Robert Bosch GmbH
+
+\vspace{0.4em}
+
+% ---------- city + date (right, DD.MM.YYYY) ----------
+\hfill Essen, 14.10.2026
+
+\vspace{1.4em}
+
+% ---------- subject line (bold, exact title; never preceded by "Betreff:") ----------
+\noindent\textbf{Pflichtpraktikum im Vertrieb - Customer Team BMW Automotive (w/m/div.)}
+
+\vspace{0.8em}
+
+Sehr geehrte Damen und Herren,
+
+Hiermit bewerbe ich mich um die ausgeschriebene Position bei Robert Bosch GmbH. Mein Masterstudium der Künstlichen Intelligenz und mein Bachelorabschluss in Computer Engineering bilden den fachlichen Hintergrund für mein Interesse an den Aufgaben.
+
+Bei Soham Infotech entwickelte ich Funktionen und quantitative Modelle für finanzielle Entscheidungsprozesse und baute Backend-Komponenten sowie Echtzeit-Algorithmen zur Unterstützung des Handels. Ergänzend entwickelte ich ein automatisiertes System auf Basis strukturierter Datensätze und Open-Source-Sprachmodelle, das Inhalte für KI-, Backend- und Datenrollen aufbereitet.
+
+Mich begeistert die Verbindung von Software-Entwicklung mit KI-Agenten zur Automatisierung strukturierter Code- und Text-Transformationen. Besonders reizt mich die Entwicklung wiederverwendbarer UI-Komponenten und moderner Design-Systeme auf Basis of\{\}fener Webstandards. In dieser Rolle möchte ich meine Kenntnisse in Python, Machine Learning, Data Analytics gezielt in Ihre Aufgaben einbringen.
+
+Über die Gelegenheit, meine Bewerbung in einem Gespräch zu erläutern, freue ich mich. Vielen Dank für die Berücksichtigung meiner Unterlagen.
+
+\vspace{1.2em}
+
+Mit freundlichen Grüßen
+
+\vspace{1.6em}
+
+RAVAL MEETKUMAR RITESHKUMAR
+
+\end{document}

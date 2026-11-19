@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Working Student Job Applications Dashboard</title>
+<style>
+:root {
+  --bg: #0f141c;
+  --card-bg: #18202c;
+  --card-border: #243042;
+  --text: #e2e8f0;
+  --text-muted: #94a3b8;
+  --accent: #38bdf8;
+  --accent-hover: #0ea5e9;
+  --success: #10b981;
+  --warning: #f59e0b;
+  --purple: #a855f7;
+  --border-radius: 10px;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+body { background-color: var(--bg); color: var(--text); padding: 24px; line-height: 1.5; }
+header { max-width: 1200px; margin: 0 auto 24px auto; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px; border-bottom: 1px solid var(--card-border); padding-bottom: 16px; }
+h1 { font-size: 1.5rem; font-weight: 700; color: #fff; }
+.subtitle { color: var(--text-muted); font-size: 0.9rem; }
+.stats-bar { display: flex; gap: 12px; }
+.stat-box { background: var(--card-bg); border: 1px solid var(--card-border); border-radius: 8px; padding: 8px 16px; text-align: center; }
+.stat-val { font-size: 1.3rem; font-weight: 700; color: var(--accent); }
+.stat-lbl { font-size: 0.75rem; text-transform: uppercase; color: var(--text-muted); letter-spacing: 0.5px; }
+
+.container { max-width: 1200px; margin: 0 auto; display: grid; gap: 18px; }
+.job-card { background: var(--card-bg); border: 1px solid var(--card-border); border-radius: var(--border-radius); padding: 20px; transition: transform 0.15s ease, border-color 0.15s ease; }
+.job-card:hover { border-color: var(--accent); transform: translateY(-2px); }
+.card-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; margin-bottom: 12px; }
+.job-title { font-size: 1.15rem; font-weight: 600; color: #fff; text-decoration: none; }
+.job-title:hover { color: var(--accent); }
+.company-name { color: var(--accent); font-weight: 600; font-size: 0.95rem; margin-top: 2px; }
+.meta-row { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; font-size: 0.8rem; }
+.tag { background: #222d3d; border: 1px solid var(--card-border); padding: 3px 8px; border-radius: 6px; color: var(--text-muted); }
+
+.badge { font-size: 0.75rem; font-weight: 700; padding: 4px 10px; border-radius: 20px; text-transform: uppercase; letter-spacing: 0.5px; }
+.badge-ready { background: rgba(16, 185, 129, 0.2); color: #34d399; border: 1px solid #059669; }
+.badge-applied { background: rgba(56, 189, 248, 0.2); color: #38bdf8; border: 1px solid #0284c7; }
+.badge-screened { background: rgba(245, 158, 11, 0.2); color: #fbbf24; border: 1px solid #d97706; }
+
+.action-bar { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 14px; padding-top: 14px; border-top: 1px solid rgba(255,255,255,0.06); align-items: center; }
+.btn { background: #263445; color: #fff; padding: 6px 14px; border-radius: 6px; font-size: 0.85rem; font-weight: 500; text-decoration: none; border: 1px solid var(--card-border); cursor: pointer; display: inline-flex; align-items: center; gap: 6px; }
+.btn:hover { background: #334458; }
+.btn-primary { background: #0284c7; border-color: #0284c7; }
+.btn-primary:hover { background: #0369a1; }
+.btn-copy { background: #2d224d; border-color: #4c3585; color: #c084fc; }
+.btn-copy:hover { background: #3b2b68; }
+
+.cl-snippet { margin-top: 12px; background: #111722; border: 1px solid #1f2937; border-radius: 6px; padding: 12px; font-size: 0.85rem; color: #cbd5e1; white-space: pre-wrap; max-height: 180px; overflow-y: auto; }
+.copied-toast { position: fixed; bottom: 24px; right: 24px; background: #10b981; color: #fff; padding: 10px 20px; border-radius: 8px; font-weight: 600; box-shadow: 0 4px 12px rgba(0,0,0,0.3); opacity: 0; pointer-events: none; transition: opacity 0.25s ease; }
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>Working Student Applications</h1>
+    <div class="subtitle">Source: workingstudentjobs.de (Last 24 Hours) &bull; Tailored Resumes & Cover Letters</div>
+  </div>
+  <div class="stats-bar">
+    <div class="stat-box">
+      <div class="stat-val">7</div>
+      <div class="stat-lbl">Screened</div>
+    </div>
+    <div class="stat-box">
+      <div class="stat-val">0</div>
+      <div class="stat-lbl">Ready</div>
+    </div>
+    <div class="stat-box">
+      <div class="stat-val">0</div>
+      <div class="stat-lbl">Applied</div>
+    </div>
+  </div>
+</header>
+
+<div class="container">
+
+  <div class="job-card">
+    <div class="card-header">
+      <div>
+        <a class="job-title" href="https://www.workingstudentjobs.de/jobs/nela-next-economy-lab-internship-beyond-growth-cb585d04" target="_blank">Internship – Beyond growth</a>
+        <div class="company-name">NELA. Next Economy Lab</div>
+      </div>
+      <div>
+        <span class="badge badge-screened">SCREENED</span>
+      </div>
+    </div>
+    <div class="meta-row">
+      <span class="tag">&#128205; Cologne, DE</span>
+      <span class="tag">&#128188; Internship</span>
+      <span class="tag">&#9881; software</span>
+      <span class="tag">&#127760; German: none</span>
+      
+    </div>
+    
+    <div class="action-bar">
+      <a class="btn btn-primary" href="https://www.workingstudentjobs.de/jobs/nela-next-economy-lab-internship-beyond-growth-cb585d04" target="_blank">&rarr; Apply on Portal</a>
+      <span class="tag">Resume Pending</span>
+      
+      
+      
+    </div>
+  </div>
+
+  <div class="job-card">
+    <div class="card-header">
+      <div>
+        <a class="job-title" href="https://www.workingstudentjobs.de/jobs/e-on-drive-infrastructure-working-student-it-workplace-m-f-d-346a82d8" target="_blank">Working Student - IT Workplace Management (m/f/d)</a>
+        <div class="company-name">E.ON Drive Infrastructure</div>
+      </div>
+      <div>
+        <span class="badge badge-screened">SCREENED</span>
+      </div>
+    </div>
+    <div class="meta-row">
+      <span class="tag">&#128205; Essen, DE</span>
+      <span class="tag">&#128188; Working Student</span>
+      <span class="tag">&#9881; software</span>
+      <span class="tag">&#127760; German: none</span>
+      
+    </div>
+    
+    <div class="action-bar">
+      <a class="btn btn-primary" href="https://www.workingstudentjobs.de/jobs/e-on-drive-infrastructure-working-student-it-workplace-m-f-d-346a82d8" target="_blank">&rarr; Apply on Portal</a>
+      <span class="tag">Resume Pending</span>
+      
+      
+      
+    </div>
+  </div>
+
+  <div class="job-card">
+    <div class="card-header">
+      <div>
+        <a class="job-title" href="https://www.workingstudentjobs.de/jobs/sap-working-student-sap-engagement-cloud-f-m-d-ai-product-01cdfa39" target="_blank">Working Student SAP Engagement Cloud (f/m/d) – AI Product Builder for Product Brain</a>
+        <div class="company-name">SAP</div>
+      </div>
+      <div>
+        <span class="badge badge-screened">SCREENED</span>
+      </div>
+    </div>
+    <div class="meta-row">
+      <span class="tag">&#128205; Walldorf, DE</span>
+      <span class="tag">&#128188; Working Student</span>
+      <span class="tag">&#9881; software</span>
+      <span class="tag">&#127760; German: none</span>
+      
+    </div>
+    
+    <div class="action-bar">
+      <a class="btn btn-primary" href="https://www.workingstudentjobs.de/jobs/sap-working-student-sap-engagement-cloud-f-m-d-ai-product-01cdfa39" target="_blank">&rarr; Apply on Portal</a>
+      <span class="tag">Resume Pending</span>
+      
+      
+      
+    </div>
+  </div>
+
+  <div class="job-card">
+    <div class="card-header">
+      <div>
+        <a class="job-title" href="https://www.workingstudentjobs.de/jobs/henkel-internship-ai-sustainability-technology-3d875407" target="_blank">Internship AI &amp; Sustainability Technology</a>
+        <div class="company-name">Henkel</div>
+      </div>
+      <div>
+        <span class="badge badge-screened">SCREENED</span>
+      </div>
+    </div>
+    <div class="meta-row">
+      <span class="tag">&#128205; Düsseldorf, DE</span>
+      <span class="tag">&#128188; Internship</span>
+      <span class="tag">&#9881; software</span>
+      <span class="tag">&#127760; German: none</span>
+      
+    </div>
+    
+    <div class="action-bar">
+      <a class="btn btn-primary" href="https://www.workingstudentjobs.de/jobs/henkel-internship-ai-sustainability-technology-3d875407" target="_blank">&rarr; Apply on Portal</a>
+      <span class="tag">Resume Pending</span>
+      
+      
+      
+    </div>
+  </div>
+
+  <div class="job-card">
+    <div class="card-header">
+      <div>
+        <a class="job-title" href="https://www.workingstudentjobs.de/jobs/dhl-global-forwarding-intern-new-energy-global-growth-0f655055" target="_blank">Intern New Energy Global Growth Initiative</a>
+        <div class="company-name">DHL Global Forwarding</div>
+      </div>
+      <div>
+        <span class="badge badge-screened">SCREENED</span>
+      </div>
+    </div>
+    <div class="meta-row">
+      <span class="tag">&#128205; Bonn, DE</span>
+      <span class="tag">&#128188; Internship</span>
+      <span class="tag">&#9881; software</span>
+      <span class="tag">&#127760; German: none</span>
+      
+    </div>
+    
+    <div class="action-bar">
+      <a class="btn btn-primary" href="https://www.workingstudentjobs.de/jobs/dhl-global-forwarding-intern-new-energy-global-growth-0f655055" target="_blank">&rarr; Apply on Portal</a>
+      <span class="tag">Resume Pending</span>
+      
+      
+      
+    </div>
+  </div>
+
+  <div class="job-card">
+    <div class="card-header">
+      <div>
+        <a class="job-title" href="https://www.workingstudentjobs.de/jobs/novanta-inc-working-student-r-d-m-f-d-a13cc691" target="_blank">Working Student R&amp;D (m/f/d)</a>
+        <div class="company-name">Novanta Inc.</div>
+      </div>
+      <div>
+        <span class="badge badge-screened">SCREENED</span>
+      </div>
+    </div>
+    <div class="meta-row">
+      <span class="tag">&#128205; Berlin, DE</span>
+      <span class="tag">&#128188; Working Student</span>
+      <span class="tag">&#9881; software</span>
+      <span class="tag">&#127760; German: none</span>
+      
+    </div>
+    
+    <div class="action-bar">
+      <a class="btn btn-primary" href="https://www.workingstudentjobs.de/jobs/novanta-inc-working-student-r-d-m-f-d-a13cc691" target="_blank">&rarr; Apply on Portal</a>
+      <span class="tag">Resume Pending</span>
+      
+      
+      
+    </div>
+  </div>
+
+  <div class="job-card">
+    <div class="card-header">
+      <div>
+        <a class="job-title" href="https://www.workingstudentjobs.de/jobs/sap-working-student-f-m-d-cloud-developer-for-sap-document-957bdcb7" target="_blank">Working Student (f/m/d) - Cloud Developer for SAP Document AI</a>
+        <div class="company-name">SAP</div>
+      </div>
+      <div>
+        <span class="badge badge-screened">SCREENED</span>
+      </div>
+    </div>
+    <div class="meta-row">
+      <span class="tag">&#128205; Walldorf, DE</span>
+      <span class="tag">&#128188; Working Student</span>
+      <span class="tag">&#9881; software</span>
+      <span class="tag">&#127760; German: none</span>
+      
+    </div>
+    
+    <div class="action-bar">
+      <a class="btn btn-primary" href="https://www.workingstudentjobs.de/jobs/sap-working-student-f-m-d-cloud-developer-for-sap-document-957bdcb7" target="_blank">&rarr; Apply on Portal</a>
+      <span class="tag">Resume Pending</span>
+      
+      
+      
+    </div>
+  </div>
+
+</div>
+
+<div id="toast" class="copied-toast">Copied to clipboard!</div>
+
+<script>
+function copyText(id) {
+  const el = document.getElementById(id);
+  if (!el) return;
+  const text = el.innerText || el.textContent;
+  navigator.clipboard.writeText(text).then(() => {
+    showToast();
+  });
+}
+function toggleSnippet(id) {
+  const el = document.getElementById(id);
+  if (!el) return;
+  el.style.display = el.style.display === 'none' ? 'block' : 'none';
+}
+function showToast() {
+  const t = document.getElementById('toast');
+  t.style.opacity = '1';
+  setTimeout(() => { t.style.opacity = '0'; }, 2000);
+}
+</script>
+</body>
+</html>

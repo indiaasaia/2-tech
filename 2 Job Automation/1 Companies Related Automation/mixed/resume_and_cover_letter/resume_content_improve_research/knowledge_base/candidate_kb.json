@@ -1,0 +1,347 @@
+{
+  "status": "APPROVED",
+  "_review_note": "CONFIRMED BY CANDIDATE: every fact below comes verbatim from the candidate's master Academic CV (pasted 100%-correct, this session). Remaining micro-unknowns are marked NOTE (non-blocking). v2 generation may run.",
+
+  "profile": {
+    "name": "RAVAL MEETKUMAR RITESHKUMAR",
+    "display_name": "RAVAL MEETKUMAR",
+    "photo": "profile.jpg (included in master CV header)",
+    "contact": {
+      "address": "Ernestinenstra\u00dfe 21, 45141 Essen, Germany",
+      "phone_de": "+49 15565 468731",
+      "phone_in": "+91 8154 985075",
+      "email": "ravalmeett@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/meetraval/",
+      "github": "https://github.com/ravalmeet",
+      "portfolio": "https://raval.vercel.app/"
+    },
+    "work_authorization": "NOTE: not stated in master CV - confirm before surfacing on any resume",
+    "languages_spoken": [
+      {"lang": "English", "level": "C2 (native proficiency)"},
+      {"lang": "German", "level": "A2 (conversational proficiency)"},
+      {"lang": "Hindi", "level": "C2 (native proficiency)"},
+      {"lang": "Gujarati", "level": "C2 (native proficiency)"}
+    ]
+  },
+
+  "education": [
+    {
+      "id": "btu-msc",
+      "degree": "Master of Science - MS, Artificial Intelligence",
+      "school": "Brandenburgische Technische Universit\u00e4t Cottbus-Senftenberg",
+      "location": "Berlin, Germany (as printed on master CV; NOTE: confirm Cottbus vs Berlin)",
+      "start": "2025-04",
+      "end": "present"
+    },
+    {
+      "id": "gtu-be",
+      "degree": "Bachelor of Engineering - BE, Computer Engineering",
+      "school": "Gujarat Technological University",
+      "location": "Gujarat, India",
+      "start": "2020-06",
+      "end": "2024-05"
+    }
+  ],
+
+  "experience": [
+    {
+      "id": "soham",
+      "company": "Soham Infotech",
+      "location": "Gujarat, India",
+      "start": "2023-12",
+      "end": "2025-01",
+      "titles_allowed": ["Software Engineer"],
+      "titles_forbidden_patterns": ["senior|lead|principal|staff|manager|architect|director|head"],
+      "evidence": [
+        "Developed multiple functions, modular API endpoints and quant models achieving high level of profitability in financial decision-making",
+        "Designed and built automated data transformation pipelines, backend components and real-time algorithms to support trading operations, leveraging quant and AI algorithms",
+        "Collaborated in an agile engineering team using Git and GitHub, applying software engineering best practices for high-reliability systems",
+        "Focused on black-box and gray-box models to surpass overall benchmark marks"
+      ],
+      "skills_allowed": [
+        "python", "reinforcement learning", "deep learning", "mathematics",
+        "quantitative modeling", "quant models", "sql", "data analytics",
+        "backend components", "real-time algorithms", "trading operations",
+        "black-box models", "gray-box models", "financial decision-making",
+        "api design", "rest apis", "automated workflows", "automation processes",
+        "software engineering best practices", "agile development", "git", "github"
+      ],
+      "skills_forbidden": [
+        "react", "react-native", "nodejs", "mongodb", "flutter", "nextjs",
+        "docker", "kubernetes", "aws", "aws ec2", "aws lambda", "amazon s3",
+        "computer vision", "flask", "mysql", "django"
+      ],
+      "skills_forbidden_note": "Cloud tools (AWS EC2/Lambda/S3) appear commented-out in the master CV -> not claimable. MySQL/Django/Flask belong to other entries, not this stint."
+    },
+    {
+      "id": "pantechelearning",
+      "company": "Pantechelearning",
+      "role": "Machine Learning Intern",
+      "location": "Chennai, India",
+      "start": "2021-12",
+      "end": "2022-02",
+      "titles_allowed": ["Machine Learning Intern", "Machine Learning Internship"],
+      "titles_forbidden_patterns": ["senior|lead|principal|staff|manager|architect|director|head|engineer"],
+      "evidence": [
+        "Implemented machine learning models for various projects, including text-to-speech applications and high functional visual-activity analysis",
+        "Worked on automated data extraction and preprocessing pipelines, ensuring accuracy for model training and evaluation"
+      ],
+      "skills_allowed": [
+        "machine learning", "deep learning", "reinforcement learning",
+        "nlp", "natural language processing", "computer vision",
+        "django", "data extraction", "data preprocessing", "text-to-speech",
+        "automated pipelines", "python"
+      ],
+      "skills_forbidden": ["mysql", "flask", "sql", "docker", "kubernetes", "aws", "react", "nodejs", "mongodb"],
+      "skills_forbidden_note": "The MySQL/Django/Flask data-management line is commented out in the master CV; only Django remains as a stated skill."
+    }
+  ],
+
+  "projects": [
+    {
+      "id": "hft",
+      "title": "High Frequency Trading Platform",
+      "real": true,
+      "tier": "main",
+      "evidence": [
+        "Developed end-to-end system including real-time data scraping, analysis and filtering",
+        "Combination of quant and AI models to take actions in real-time market and manage unexpected actions",
+        "Achieved 70 percent accuracy in real-time market in cash segment"
+      ],
+      "skills_allowed": [
+        "mathematics", "quant models", "django", "data analytics", "python",
+        "machine learning", "deep learning", "real-time systems", "data scraping"
+      ],
+      "skills_forbidden": ["react", "nodejs", "mongodb", "flutter"],
+      "metrics_note": "'70 percent accuracy' is candidate-confirmed via master CV -> KB-licensed for the digit rule"
+    },
+    {
+      "id": "resume_gen",
+      "title": "Automated Resume Generation",
+      "real": true,
+      "tier": "main",
+      "url": "https://job-automation-raval.streamlit.app/",
+      "evidence": [
+        "Developed complete automated transformation system using structured datasets and open-source Large Language Models to analyze and transform code and text into structured documents",
+        "Implemented AI agent workflows and prompt engineering for role-specific categorization using Python, Transformers, and automated pipelines"
+      ],
+      "skills_allowed": [
+        "python", "streamlit", "natural language processing", "nlp", "llm",
+        "large language models", "transformers", "data analytics", "open-source llm",
+        "ai agents", "code transformation", "automated workflows", "rest apis",
+        "software engineering best practices", "git", "github"
+      ],
+      "skills_forbidden": ["docker", "aws", "react", "mongodb"]
+    },
+    {
+      "id": "vehicle_sharing",
+      "title": "Vehicle Sharing Application",
+      "real": true,
+      "tier": "main",
+      "url": "https://github.com/ravalmeet/Vehicle-Sharing-Application",
+      "evidence": [
+        "Developed full stack web application featuring reusable UI components, responsive styling, and modern web standards",
+        "Route selection using Dijkstra algorithm, managing real-time CRUD actions and modular component libraries with React, JavaScript, and CSS"
+      ],
+      "skills_allowed": [
+        "nodejs", "react", "react-native", "mongodb", "css", "javascript",
+        "typescript", "html", "html5", "css3", "full stack", "dijkstra algorithm",
+        "crud", "ui development", "component libraries", "reusable components",
+        "design systems", "design tokens", "styling frameworks", "modern web standards",
+        "rest apis", "git", "github", "software engineering best practices"
+      ],
+      "skills_forbidden": ["machine learning", "python", "django", "docker", "aws"]
+    },
+    {
+      "id": "tradingview",
+      "title": "TradingView-Data Fetch",
+      "real": true,
+      "tier": "additional",
+      "url": "https://github.com/ravalmeet/TradingView",
+      "evidence": [
+        "Individual project; open source on GitHub with 40+ stars and 24+ forks"
+      ],
+      "skills_allowed": ["python", "api integration", "data fetching", "automation"],
+      "skills_forbidden": ["machine learning", "docker", "aws"],
+      "metrics_note": "'40+ stars, 24+ forks' candidate-confirmed -> KB-licensed for the digit rule"
+    },
+    {
+      "id": "nirvana",
+      "title": "Nirvana Food Management",
+      "real": true,
+      "tier": "additional",
+      "evidence": ["Freelance work delivered for a client"],
+      "skills_allowed": ["web development"],
+      "skills_forbidden": ["machine learning", "docker", "aws"],
+      "NOTE": "stack not stated in master CV - add framework details if you want them claimable"
+    },
+    {
+      "id": "tutor",
+      "title": "Select-Your-Tutor",
+      "real": true,
+      "tier": "additional",
+      "evidence": ["Freelance work delivered for a client"],
+      "skills_allowed": ["web development"],
+      "skills_forbidden": ["machine learning", "docker", "aws"],
+      "NOTE": "stack not stated in master CV - add framework details if you want them claimable"
+    },
+    {
+      "id": "shivshivay",
+      "title": "Shivshivay Himalaya",
+      "real": true,
+      "tier": "additional",
+      "url": "Shivshivay.com",
+      "evidence": ["Freelance work delivered for a client; live site at Shivshivay.com"],
+      "skills_allowed": ["web development"],
+      "skills_forbidden": ["machine learning", "docker", "aws"],
+      "NOTE": "stack not stated in master CV - add framework details if you want them claimable"
+    }
+  ],
+  "projects_real_policy": "v2 generates ONLY these real projects: 3 main (hft, resume_gen, vehicle_sharing) chosen per job, plus the additional-projects section is static. No invented projects (V1-V7).",
+
+  "research": [
+    {
+      "id": "sarcasm",
+      "title": "An Empirical Study on Large Language Models for Sarcasm Detection in Low-resourced Indic Languages",
+      "evidence": [
+        "Conducting research on NLP models aimed at detecting and analyzing sarcasm across various Indian regional dialects",
+        "Focused on enhancing machine learning models to address linguistic diversity and complexities in sarcasm interpretation"
+      ],
+      "skills_allowed": ["nlp", "natural language processing", "machine learning", "llm", "sarcasm detection", "indic languages", "ai agents"]
+    }
+  ],
+
+  "skills": [
+    {"name": "Python", "aliases": ["python3"], "evidence": ["soham", "hft", "resume_gen", "tradingview"]},
+    {"name": "C++", "aliases": ["c", "c/c++"], "evidence": ["master_cv"]},
+    {"name": "Artificial Intelligence", "aliases": ["applied ai", "artificial intelligence systems"], "evidence": ["btu-msc", "sarcasm", "master_cv"]},
+    {"name": "AI", "aliases": ["artificial intelligence", "applied ai"], "evidence": ["btu-msc", "sarcasm", "master_cv"]},
+    {"name": "JavaScript", "aliases": ["js"], "evidence": ["vehicle_sharing", "master_cv"]},
+    {"name": "TypeScript", "aliases": ["ts"], "evidence": ["vehicle_sharing", "master_cv"]},
+    {"name": "HTML", "aliases": ["html5"], "evidence": ["vehicle_sharing", "master_cv"]},
+    {"name": "CSS", "aliases": ["css3"], "evidence": ["vehicle_sharing", "master_cv"]},
+    {"name": "Design Systems", "aliases": ["design system"], "evidence": ["vehicle_sharing", "master_cv"]},
+    {"name": "Design Tokens", "aliases": ["design token"], "evidence": ["vehicle_sharing", "master_cv"]},
+    {"name": "Component Libraries", "aliases": ["component library", "reusable components", "web components"], "evidence": ["vehicle_sharing", "master_cv"]},
+    {"name": "Modern Web Standards", "aliases": ["web standards"], "evidence": ["vehicle_sharing", "master_cv"]},
+    {"name": "Styling Frameworks", "aliases": ["styling framework", "theming"], "evidence": ["vehicle_sharing", "master_cv"]},
+    {"name": "AI Agents", "aliases": ["ai agent", "llm agents", "intelligent agents"], "evidence": ["resume_gen", "sarcasm"]},
+    {"name": "Code Transformation", "aliases": ["code and text transformation", "text transformation"], "evidence": ["resume_gen"]},
+    {"name": "Software Engineering Best Practices", "aliases": ["best practices", "code quality"], "evidence": ["soham", "vehicle_sharing", "master_cv"]},
+    {"name": "Agile Development", "aliases": ["agile", "scrum"], "evidence": ["soham", "master_cv"]},
+    {"name": "Git", "aliases": ["github", "version control"], "evidence": ["soham", "vehicle_sharing", "tradingview", "master_cv"]},
+    {"name": "REST APIs", "aliases": ["api design", "rest api", "apis", "api"], "evidence": ["soham", "vehicle_sharing", "tradingview", "master_cv"]},
+    {"name": "Automated Workflows", "aliases": ["automation processes", "automation", "automated pipelines"], "evidence": ["soham", "resume_gen", "tradingview", "master_cv"]},
+    {"name": "SQL", "aliases": [], "evidence": ["soham"]},
+    {"name": "Natural Language Processing", "aliases": ["nlp"], "evidence": ["pantechelearning", "sarcasm", "resume_gen"]},
+    {"name": "Large Language Models", "aliases": ["llm", "gen ai", "generative ai", "open-source llm"], "evidence": ["sarcasm", "resume_gen"]},
+    {"name": "Computer Vision", "aliases": ["cv"], "evidence": ["pantechelearning"]},
+    {"name": "Machine Learning", "aliases": ["ml"], "evidence": ["pantechelearning", "hft", "sarcasm"]},
+    {"name": "Deep Learning", "aliases": ["dl"], "evidence": ["soham", "pantechelearning"]},
+    {"name": "Reinforcement Learning", "aliases": ["reinforcement models", "rl"], "evidence": ["soham", "pantechelearning"]},
+    {"name": "Quantitative Modeling", "aliases": ["quant", "quant models", "black-box models", "gray-box models"], "evidence": ["soham", "hft"]},
+    {"name": "Data Analytics", "aliases": ["analytics"], "evidence": ["soham", "hft", "resume_gen"]},
+    {"name": "Django", "aliases": [], "evidence": ["pantechelearning", "hft"]},
+    {"name": "FastAPI", "aliases": ["fast api"], "evidence": ["master_cv"]},
+    {"name": "Streamlit", "aliases": [], "evidence": ["resume_gen"]},
+    {"name": "Transformers", "aliases": ["hugging face", "huggingface", "transforms"], "evidence": ["resume_gen"]},
+    {"name": "React", "aliases": [], "evidence": ["vehicle_sharing", "master_cv"]},
+    {"name": "React-Native", "aliases": ["react native"], "evidence": ["vehicle_sharing", "master_cv"]},
+    {"name": "NodeJS", "aliases": ["node.js", "node"], "evidence": ["vehicle_sharing", "master_cv"]},
+    {"name": "MongoDB", "aliases": ["mongo"], "evidence": ["vehicle_sharing", "master_cv"]},
+    {"name": "Flutter", "aliases": [], "evidence": ["master_cv"]},
+    {"name": "NextJS", "aliases": ["next.js", "next"], "evidence": ["master_cv"]},
+    {"name": "Mathematics", "aliases": ["math"], "evidence": ["soham", "hft"]},
+    {"name": "Data Preprocessing", "aliases": ["data extraction", "preprocessing"], "evidence": ["pantechelearning"]}
+  ],
+
+  "certifications": [
+    {"name": "Google - Big Data and Machine Learning", "url": "https://coursera.org/share/3a4a9873341816c7a080e52e5526cc7a"},
+    {"name": "Google - Machine Learning with TensorFlow", "url": "https://coursera.org/share/cefbd0a13d0b0b9aac57203ff36ebce5"},
+    {"name": "How Google does Machine Learning", "url": "https://www.coursera.org/account/accomplishments/certificate/6V69S8P9PSH9"},
+    {"name": "Google - Machine Learning", "url": "https://www.coursera.org/account/accomplishments/certificate/6V69S8P9PSH9"},
+    {"name": "Machine Learning with Python", "url": "https://www.coursera.org/account/accomplishments/verify/T27YPZ324DWS"},
+    {"name": "Data Science Introduction", "url": "https://coursera.org/verify/5NSNQKCW42RW"},
+    {"name": "Tools for Data Science", "url": "https://www.coursera.org/account/accomplishments/certificate/Q3ZQWDRCVR52"},
+    {"name": "Problem Solving (Intermediate) - HackerRank", "url": "https://www.hackerrank.com/certificates/95dfce6a91a5"},
+    {"name": "Java Programming: Complete Beginner to Advanced - Udemy", "url": "https://www.udemy.com/certificate/UC-dbac07d6-ffe4-4b77-b837-10c63c2f956e/"},
+    {"name": "Web Development Masterclass Course - Udemy", "url": "https://www.udemy.com/certificate/UC-6f2bbef1-bfa8-497d-bec4-57dfaa4e6f00/"}
+  ],
+
+  "achievements": [
+    {"name": "Smart India Hackathon - 2021", "result": "Runner's Up - State Level"},
+    {"name": "Smart India Hackathon - 2022", "result": "Runner's Up - National Level"},
+    {"name": "Azadi ka Amrit Mahotsav - 2023", "result": "Runner's Up - State Level"},
+    {"name": "AI Guild Hackathon - 2025", "result": "Winner - Berlin and Brandenburg State, Germany"}
+  ],
+
+  "templates_policy": {
+    "static_sections": ["header (with photo)", "education", "research and publications", "achievements", "certifications", "additional projects", "languages", "declaration"],
+    "dynamic_sections": ["career objective", "experience x2 (soham + pantechelearning)", "main projects (pick 2 of 3 real ones per job)", "skills x4 rows"],
+    "german_variant": false,
+    "date_format": "Dec 2023",
+    "no_fabricated_metrics": true,
+    "master_cv_source": "All static facts MUST be synced from the candidate's master CV; the old pipeline template's static content is stale (see divergence note in IMPLEMENTATION_PLAN.md)"
+  },
+
+  "motivation_profile": {
+    "status": "APPROVED",
+    "needs_candidate_input": false,
+    "_review_note": "CONFIRMED BY CANDIDATE: Authenticated interests in frontend design systems, AI agent automation, agile collaboration, and web architectures.",
+    "professional_interests": [
+      {
+        "id": "mot-interest-frontend-01",
+        "category": "interest",
+        "role_families": ["software", "frontend", "design_systems", "web"],
+        "keywords": ["design system", "design tokens", "component library", "modern web standards", "styling frameworks"],
+        "domains": ["frontend", "web development", "design systems"],
+        "related_skills": ["JavaScript", "React", "CSS", "TypeScript", "Component Libraries"],
+        "statement_de": "Besonders reizt mich die Entwicklung wiederverwendbarer UI-Komponenten und moderner Design-Systeme auf Basis offener Webstandards.",
+        "statement_en": "I am particularly motivated by developing reusable UI components and modular design systems based on modern web standards.",
+        "evidence_ids": ["vehicle_sharing"],
+        "approved_by_candidate": true
+      },
+      {
+        "id": "mot-interest-ai-01",
+        "category": "interest",
+        "role_families": ["ai_data", "automation", "software"],
+        "keywords": ["ai agents", "code transformation", "llm", "large language models", "automated workflows"],
+        "domains": ["ai", "automation", "natural language processing"],
+        "related_skills": ["Python", "Large Language Models", "AI Agents", "Automated Workflows"],
+        "statement_de": "Mich begeistert die Verbindung von Software-Entwicklung mit KI-Agenten zur Automatisierung strukturierter Code- und Text-Transformationen.",
+        "statement_en": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations.",
+        "evidence_ids": ["resume_gen"],
+        "approved_by_candidate": true
+      }
+    ],
+    "working_preferences": [
+      {
+        "id": "mot-pref-agile-01",
+        "category": "working_preference",
+        "role_families": ["software", "automation", "ai_data"],
+        "keywords": ["software engineering best practices", "agile development", "github"],
+        "domains": ["software engineering"],
+        "related_skills": ["Software Engineering Best Practices", "Agile Development", "Git"],
+        "statement_de": "Ich schätze agile Zusammenarbeit, saubere Code-Reviews und die konsequente Anwendung von Best Practices im Team.",
+        "statement_en": "I value agile collaboration, clean code reviews, and the consistent application of software engineering best practices.",
+        "evidence_ids": ["soham"],
+        "approved_by_candidate": true
+      }
+    ],
+    "career_direction": [
+      {
+        "id": "mot-dir-web-ai-01",
+        "category": "career_direction",
+        "role_families": ["software", "frontend", "automation"],
+        "keywords": ["design system", "component library", "ai agents"],
+        "domains": ["frontend", "ai systems"],
+        "related_skills": ["Design Systems", "AI Agents", "Component Libraries"],
+        "statement_de": "Fachlich möchte ich meine Kenntnisse im Bereich moderner Web-Architekturen und intelligenter Prozessautomatisierung weiter vertiefen.",
+        "statement_en": "Professionally, I aim to further deepen my expertise in modern web architectures and intelligent workflow automation.",
+        "evidence_ids": ["vehicle_sharing", "resume_gen"],
+        "approved_by_candidate": true
+      }
+    ],
+    "entries": []
+  }
+}

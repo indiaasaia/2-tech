@@ -1,0 +1,43 @@
+{
+  "status": "FAILED",
+  "company": "Bosch",
+  "job_title": "internship-machine-learning-for-predictive-reliability-analytics-heat-pumps",
+  "application_url": "https://jobs.smartrecruiters.com/BoschGroup/744000149826650-internship-machine-learning-for-predictive-reliability-analytics-heat-pumps?oga=true",
+  "timestamp": "2026-09-30T12:57:49.344259+00:00",
+  "resume_uploaded": true,
+  "email_filled": false,
+  "questions_completed": false,
+  "consent_completed": false,
+  "attachments_uploaded": [],
+  "submitted": false,
+  "confirmation_message": "",
+  "application_id": "",
+  "error": "Page.evaluate: TypeError: Illegal invocation\n    at eval (eval at evaluate (:311:30), <anonymous>:44:57)\n    at UtilityScript.evaluate (<anonymous>:318:18)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)",
+  "dryRun": false,
+  "startedAt": "2026-09-30T12:57:49.344272+00:00",
+  "finishedAt": "2026-09-30T12:58:35.397715+00:00",
+  "stagesReached": [
+    "job_page",
+    "application_opened",
+    "resume_uploaded"
+  ],
+  "questionsAnswered": {},
+  "unknownQuestions": [],
+  "diagnostics": {
+    "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/BoschGroup/publication/4a140095-5056-4aff-97bf-e152db80d3d2?dcr_ci=BoschGroup",
+    "title": "Easy apply - Internship Machine Learning for Predictive Reliability Analytics - Heat Pumps - Bosch Group",
+    "step": "",
+    "visibleErrors": [],
+    "domInfo": "[{\"tag\": \"button\", \"text\": \"Apply With Indeed\", \"disabled\": false, \"type\": \"button\", \"dataQa\": \"\"}, {\"tag\": \"button\", \"text\": \"Apply with SEEK\", \"disabled\": false, \"type\": \"button\", \"dataQa\": \"\"}, {\"tag\": \"button\", \"text\": \"Upload profile image\", \"disabled\": false, \"type\": \"button\", \"dataQa\": \"\"}, {\"tag\": \"a\", \"text\": \"Privacy Notice\", \"disabled\": false, \"type\": \"\", \"dataQa\": \"\"}, {\"tag\": \"a\", \"text\": \"Imprint\", \"disabled\": false, \"type\": \"\", \"dataQa\": \"\"}, {\"tag\": \"button\", \"text\": \"Cookie Settings\", \"disabled\": false, \"type\": \"\", \"dataQa\": \"\"}, {\"tag\": \"button\", \"text\": \"Country code\", \"disabled\": false, \"type\": \"\", \"dataQa\": \"\"}, {\"tag\": \"spl-button\", \"text\": \"Delete file\", \"disabled\": false, \"type\": \"tertiary\", \"dataQa\": \"\"}]"
+  },
+  "screenshots": {
+    "01_job_page": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\1_BOSCH\\results\\bosch-744000149826650-01_job_page.png",
+    "02_application_opened": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\1_BOSCH\\results\\bosch-744000149826650-02_application_opened.png",
+    "03_resume_uploaded": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\1_BOSCH\\results\\bosch-744000149826650-03_resume_uploaded.png",
+    "error": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\1_BOSCH\\results\\bosch-744000149826650-error.png"
+  },
+  "notes": [
+    "Real submit requested; unknown questions (if any) will be re-checked at pre-submit validation."
+  ],
+  "durationSeconds": 46.1
+}

@@ -1,0 +1,45 @@
+{
+  "status": "FAILED",
+  "company": "Bosch",
+  "job_title": "praktikum-im-bereich-international-sales-bei-bosch-ebike-systems",
+  "application_url": "https://jobs.smartrecruiters.com/BoschGroup/744000151563196-praktikum-im-bereich-international-sales-bei-bosch-ebike-systems?oga=true",
+  "timestamp": "2026-09-30T13:59:11.669069+00:00",
+  "resume_uploaded": true,
+  "email_filled": true,
+  "questions_completed": false,
+  "consent_completed": false,
+  "attachments_uploaded": [],
+  "submitted": false,
+  "confirmation_message": "",
+  "application_id": "",
+  "error": "Locator.click: Timeout 8000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"button\", name=re.compile(r\"^weiter$\", re.IGNORECASE)).first\n    - locator resolved to <button type=\"button\" aria-expanded=\"false\" aria-description=\"Hervorgehoben\" data-spl-button-type-description=\"Hervorgehoben\" class=\" c-spl-button-wrapper c-spl-button c-spl-button--primary \">…</button>\n  - attempting click action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - element is outside of the viewport\n    - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - element is outside of the viewport\n    - retrying click action\n      - waiting 100ms\n    15 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - element is outside of the viewport\n     - retrying click action\n       - waiting 500ms\n",
+  "dryRun": false,
+  "startedAt": "2026-09-30T13:59:11.669083+00:00",
+  "finishedAt": "2026-09-30T13:59:51.233867+00:00",
+  "stagesReached": [
+    "job_page",
+    "application_opened",
+    "resume_uploaded",
+    "email_filled"
+  ],
+  "questionsAnswered": {},
+  "unknownQuestions": [],
+  "diagnostics": {
+    "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/BoschGroup/publication/6b7a62c8-0844-4485-bc64-1fe71d508b65?dcr_ci=BoschGroup",
+    "title": "Einfach Bewerben - Praktikum im Bereich International Sales bei Bosch eBike Systems - Bosch Group",
+    "step": "",
+    "visibleErrors": [],
+    "domInfo": "[{\"tag\": \"button\", \"text\": \"Mit Indeed bewerben\", \"disabled\": false, \"type\": \"button\", \"dataQa\": \"\"}, {\"tag\": \"button\", \"text\": \"Apply with SEEK\", \"disabled\": false, \"type\": \"button\", \"dataQa\": \"\"}, {\"tag\": \"button\", \"text\": \"Profilbild hochladen\", \"disabled\": false, \"type\": \"button\", \"dataQa\": \"\"}, {\"tag\": \"a\", \"text\": \"Datenschutzerklärung\", \"disabled\": false, \"type\": \"\", \"dataQa\": \"\"}, {\"tag\": \"a\", \"text\": \"Impressum\", \"disabled\": false, \"type\": \"\", \"dataQa\": \"\"}, {\"tag\": \"button\", \"text\": \"Cookies Settings\", \"disabled\": false, \"type\": \"\", \"dataQa\": \"\"}, {\"tag\": \"button\", \"text\": \"Ländercode\", \"disabled\": false, \"type\": \"\", \"dataQa\": \"\"}, {\"tag\": \"spl-button\", \"text\": \"Datei löschen\", \"disabled\": false, \"type\": \"tertiary\", \"dataQa\": \"\"}]"
+  },
+  "screenshots": {
+    "01_job_page": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\1_BOSCH\\results\\bosch-744000151563196-01_job_page.png",
+    "02_application_opened": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\1_BOSCH\\results\\bosch-744000151563196-02_application_opened.png",
+    "03_resume_uploaded": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\1_BOSCH\\results\\bosch-744000151563196-03_resume_uploaded.png",
+    "04_email_filled": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\1_BOSCH\\results\\bosch-744000151563196-04_email_filled.png",
+    "error": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\1_BOSCH\\results\\bosch-744000151563196-error.png"
+  },
+  "notes": [
+    "Real submit requested; unknown questions (if any) will be re-checked at pre-submit validation."
+  ],
+  "durationSeconds": 39.6
+}

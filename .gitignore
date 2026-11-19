@@ -1,0 +1,40 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Node dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Browser profiles and cached binaries
+chrome_profile/
+**/chrome_profile/
+Default/
+OptimizationGuidePredictionModels/
+
+# Files > 100MB (Exceeds GitHub limit)
+OTHER FILES/BOSCH FETCHER.zip
+OTHER FILES/Companies Related Automation.zip
+*.zip
+
+# Testing & logs
+.pytest_cache/
+.coverage
+*.log
+
+# OS artifacts
+Thumbs.db
+.DS_Store

@@ -1,0 +1,347 @@
+{
+  "generated_at_utc": "2026-10-14T09:52:38+00:00",
+  "total": 17,
+  "complete": 17,
+  "bundles": [
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/bosch-master-thesis-on-closed-loop-reasoning-in-llm-agents-00907833",
+      "title": "Master Thesis on Closed-Loop Reasoning in LLM Agents for Evaluating HEMS Parameter Effects Using Time-Series Foundation Models via MCP",
+      "company": "Bosch",
+      "portal": "workingstudentjobs",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Bosch_Master-Thesis-on-Closed-Loop-Reasoning-i.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Bosch_Master-Thesis-on-Closed-Loop-Reasoning-i.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Bosch_Master-Thesis-on-Closed-Loop-Reasoning-i.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Bosch_Master-Thesis-on-Closed-Loop-Reasoning-i.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Master-Thesis-on-Closed-Loop-Reasoning-in-LLM-Agents-for-Evaluating-HEMS-Paramet.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Master-Thesis-on-Closed-Loop-Reasoning-in-LLM-Agents-for-Evaluating-HEMS-Paramet.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Working-Student-AI-Automation-Procurement-m-f-d-Gilching-Bayern-Germany-Quantum-Systems-GmbH--14549160-inline.html",
+      "title": "Working Student - AI Automation, Procurement (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "portal": "stepstone",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Quantum-Systems-GmbH_Working-Student---AI-Automation-Procurem.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Quantum-Systems-GmbH_Working-Student---AI-Automation-Procurem.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Quantum-Systems-GmbH_Working-Student---AI-Automation-Procurem.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Quantum-Systems-GmbH_Working-Student---AI-Automation-Procurem.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student---AI-Automation-Procurement.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student---AI-Automation-Procurement.docx"
+      },
+      "upload_slot": "Anschreiben / Cover letter document slot",
+      "notes": "Upload the PDF in the Anschreiben slot during the online application.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/sixt-working-student-data-science-m-f-d-0f39b005",
+      "title": "Working Student Data Science (m/f/d)",
+      "company": "SIXT",
+      "portal": "workingstudentjobs",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_SIXT_Working-Student-Data-Science.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SIXT_Working-Student-Data-Science.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_SIXT_Working-Student-Data-Science.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SIXT_Working-Student-Data-Science.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-Data-Science.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-Data-Science.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Working-Student-Intern-Offensive-Security-Engineer-Red-Team-AppSec-f-m-x-Cologne-iLert-GmbH--14431296-inline.html",
+      "title": "Working Student / Intern: Offensive Security Engineer (Red Team & AppSec) (f/m/x)",
+      "company": "iLert GmbH",
+      "portal": "stepstone",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_iLert-GmbH_Working-Student-Intern-Offensive-Securit.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_iLert-GmbH_Working-Student-Intern-Offensive-Securit.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_iLert-GmbH_Working-Student-Intern-Offensive-Securit.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_iLert-GmbH_Working-Student-Intern-Offensive-Securit.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-Intern-Offensive-Security-Engineer-Red-Team-AppSec.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-Intern-Offensive-Security-Engineer-Red-Team-AppSec.docx"
+      },
+      "upload_slot": "Anschreiben / Cover letter document slot",
+      "notes": "Upload the PDF in the Anschreiben slot during the online application.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/airbus-working-student-d-f-m-in-the-area-of-mass-properties-96595b89",
+      "title": "Working Student (d/f/m) in the area of Mass Properties",
+      "company": "Airbus",
+      "portal": "workingstudentjobs",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Airbus_Working-Student-in-the-area-of-Mass-Prop.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Airbus_Working-Student-in-the-area-of-Mass-Prop.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Airbus_Working-Student-in-the-area-of-Mass-Prop.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Airbus_Working-Student-in-the-area-of-Mass-Prop.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-in-the-area-of-Mass-Properties.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-in-the-area-of-Mass-Properties.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Working-Student-Full-Stack-Development-Angular-Java-m-f-d-Munich-OKAPI-Orbits-GmbH--13883870-inline.html",
+      "title": "Working Student Full-Stack Development (Angular/Java) (m/f/d)",
+      "company": "OKAPI:Orbits GmbH",
+      "portal": "stepstone",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_OKAPIOrbits-GmbH_Working-Student-Full-Stack-Development-A.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_OKAPIOrbits-GmbH_Working-Student-Full-Stack-Development-A.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_OKAPIOrbits-GmbH_Working-Student-Full-Stack-Development-A.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_OKAPIOrbits-GmbH_Working-Student-Full-Stack-Development-A.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-Full-Stack-Development-AngularJava.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-Full-Stack-Development-AngularJava.docx"
+      },
+      "upload_slot": "Anschreiben / Cover letter document slot",
+      "notes": "Upload the PDF in the Anschreiben slot during the online application.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Internship-f-m-x-in-Technology-Data-Innovation-2027-Berlin-Berlin-Deutsche-Bank-AG--14603749-inline.html",
+      "title": "Internship (f/m/x) in Technology, Data & Innovation 2027 - Berlin",
+      "company": "Deutsche Bank AG",
+      "portal": "stepstone",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Deutsche-Bank-AG_Internship-in-Technology-Data-Innovation.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Deutsche-Bank-AG_Internship-in-Technology-Data-Innovation.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Deutsche-Bank-AG_Internship-in-Technology-Data-Innovation.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Deutsche-Bank-AG_Internship-in-Technology-Data-Innovation.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Internship-in-Technology-Data-Innovation-2027---Berlin.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Internship-in-Technology-Data-Innovation-2027---Berlin.docx"
+      },
+      "upload_slot": "Anschreiben / Cover letter document slot",
+      "notes": "Upload the PDF in the Anschreiben slot during the online application.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/qonto-backend-engineer-internship-6-months-8436e927",
+      "title": "Backend Engineer - Internship (6 months)",
+      "company": "Qonto",
+      "portal": "workingstudentjobs",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Qonto_Backend-Engineer---Internship-6-months.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Qonto_Backend-Engineer---Internship-6-months.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Qonto_Backend-Engineer---Internship-6-months.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Qonto_Backend-Engineer---Internship-6-months.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Backend-Engineer---Internship-6-months.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Backend-Engineer---Internship-6-months.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/proceedit-ai-market-analytics-app-full-stack-development-8cab49d3",
+      "title": "App Full-stack Development Intern",
+      "company": "proceedit | AI Market Analytics",
+      "portal": "workingstudentjobs",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_proceedit-AI-Market-Analytics_App-Full-stack-Development-Intern.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_proceedit-AI-Market-Analytics_App-Full-stack-Development-Intern.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_proceedit-AI-Market-Analytics_App-Full-stack-Development-Intern.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_proceedit-AI-Market-Analytics_App-Full-stack-Development-Intern.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\App-Full-stack-Development-Intern.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\App-Full-stack-Development-Intern.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/amazon-process-improvement-specialist-intern-2027-a3c2da19",
+      "title": "Process Improvement Specialist Intern - 2027",
+      "company": "Amazon",
+      "portal": "workingstudentjobs",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern---.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern---.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern---.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern---.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Process-Improvement-Specialist-Intern---2027.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Process-Improvement-Specialist-Intern---2027.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/amazon-process-improvement-specialist-intern-2027-43828660",
+      "title": "Process Improvement Specialist Intern - 2027",
+      "company": "Amazon",
+      "portal": "workingstudentjobs",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern----2.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern----2.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern----2.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern----2.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Process-Improvement-Specialist-Intern---2027-2.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Process-Improvement-Specialist-Intern---2027-2.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/amazon-process-improvement-specialist-intern-2027-e81e98af",
+      "title": "Process Improvement Specialist Intern - 2027",
+      "company": "Amazon",
+      "portal": "workingstudentjobs",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern----3.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern----3.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern----3.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern----3.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Process-Improvement-Specialist-Intern---2027-3.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Process-Improvement-Specialist-Intern---2027-3.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Internship-f-m-x-in-Technology-Data-Innovation-2027-Frankfurt-am-Main-Frankfurt-Main-Deutsche-Bank-AG--14603752-inline.html",
+      "title": "Internship (f/m/x) in Technology, Data & Innovation 2027 - Frankfurt am Main",
+      "company": "Deutsche Bank AG",
+      "portal": "stepstone",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Deutsche-Bank-AG_Internship-in-Technology-Data-Innovation-2.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Deutsche-Bank-AG_Internship-in-Technology-Data-Innovation-2.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Deutsche-Bank-AG_Internship-in-Technology-Data-Innovation-2.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Deutsche-Bank-AG_Internship-in-Technology-Data-Innovation-2.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Internship-in-Technology-Data-Innovation-2027---Frankfurt-am-Main.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Internship-in-Technology-Data-Innovation-2027---Frankfurt-am-Main.docx"
+      },
+      "upload_slot": "Anschreiben / Cover letter document slot",
+      "notes": "Upload the PDF in the Anschreiben slot during the online application.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/amazon-process-improvement-specialist-intern-2027-ad22c69f",
+      "title": "Process Improvement Specialist Intern - 2027",
+      "company": "Amazon",
+      "portal": "workingstudentjobs",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern----4.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern----4.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern----4.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern----4.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Process-Improvement-Specialist-Intern---2027-4.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Process-Improvement-Specialist-Intern---2027-4.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/linde-working-student-ai-digital-transformation-adoption-m-f-29d08735",
+      "title": "Working Student - AI / Digital Transformation & Adoption (m/f/d)",
+      "company": "Linde",
+      "portal": "workingstudentjobs",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Linde_Working-Student---AI-Digital-Transformat.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Linde_Working-Student---AI-Digital-Transformat.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Linde_Working-Student---AI-Digital-Transformat.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Linde_Working-Student---AI-Digital-Transformat.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student---AI-Digital-Transformation-Adoption.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student---AI-Digital-Transformation-Adoption.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/scalable-capital-working-student-it-support-m-f-x-556ab834",
+      "title": "Working Student IT-Support (m/f/x)",
+      "company": "Scalable Capital",
+      "portal": "workingstudentjobs",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Scalable-Capital_Working-Student-IT-Support-mfx.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Scalable-Capital_Working-Student-IT-Support-mfx.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Scalable-Capital_Working-Student-IT-Support-mfx.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Scalable-Capital_Working-Student-IT-Support-mfx.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-IT-Support-mfx.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-IT-Support-mfx.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Internship-m-f-x-in-Risk-2027-Berlin-Bonn-Duesseldorf-Essen-Frankfurt-Main-Hamburg-Stuttgart-Deutsche-Bank-AG--14603549-inline.html",
+      "title": "Internship (m/f/x) in Risk 2027",
+      "company": "Deutsche Bank AG",
+      "portal": "stepstone",
+      "letter_language": "de",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Deutsche-Bank-AG_Internship-mfx-in-Risk-2027.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Deutsche-Bank-AG_Internship-mfx-in-Risk-2027.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Deutsche-Bank-AG_Internship-mfx-in-Risk-2027.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Deutsche-Bank-AG_Internship-mfx-in-Risk-2027.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Internship-mfx-in-Risk-2027.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Internship-mfx-in-Risk-2027.docx"
+      },
+      "upload_slot": "Anschreiben / Cover letter document slot",
+      "notes": "Upload the PDF in the Anschreiben slot during the online application.",
+      "missing": [],
+      "artifacts_complete": true
+    }
+  ]
+}

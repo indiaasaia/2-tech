@@ -1,0 +1,50 @@
+{
+  "company": "bosch",
+  "sample_key": "bosch",
+  "job_id": "744000151829278",
+  "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000151829278-praktikum-fertigungsplanung-automatisierte-optische-prufung-?oga=true",
+  "title": "Praktikum – Fertigungsplanung – Automatisierte Optische Prüfung",
+  "score": "32.9",
+  "resume": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume_bosch\\pdf\\Praktikum-Fertigungsplanung-Automatisierte-Optische-Prüfung.pdf",
+  "cover_letter": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters_bosch\\pdf\\Anschreiben_Robert-Bosch-GmbH_Praktikum-Fertigungsplanung-Automatisier.pdf",
+  "cover_letter_available": true,
+  "matched_current_bundle_by_role": false,
+  "dry_run_only": true,
+  "final_submit_clicked": false,
+  "result": {
+    "status": "CAPTCHA_DETECTED",
+    "company": "Bosch",
+    "job_title": "praktikum-fertigungsplanung-automatisierte-optische-prufung",
+    "application_url": "https://jobs.smartrecruiters.com/BoschGroup/744000151829278-praktikum-fertigungsplanung-automatisierte-optische-prufung-?oga=true",
+    "timestamp": "2026-10-15T11:04:11.789145+00:00",
+    "resume_uploaded": false,
+    "email_filled": false,
+    "questions_completed": false,
+    "consent_completed": false,
+    "attachments_uploaded": [],
+    "submitted": false,
+    "confirmation_message": "",
+    "application_id": "",
+    "error": "CAPTCHA / bot protection detected. Automation stopped by design.",
+    "dryRun": true,
+    "startedAt": "2026-10-15T11:04:11.789156+00:00",
+    "finishedAt": null,
+    "stagesReached": [
+      "job_page"
+    ],
+    "questionsAnswered": {},
+    "unknownQuestions": [],
+    "diagnostics": {
+      "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/BoschGroup/publication/6935f517-3184-4d05-a7f3-b1db61400153?dcr_ci=BoschGroup",
+      "title": "smartrecruiters.com",
+      "step": "",
+      "visibleErrors": [],
+      "domInfo": ""
+    },
+    "screenshots": {
+      "01_job_page": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\reports\\auto_apply_sample_dryruns\\20261015T110411Z\\bosch\\portal_artifacts\\bosch-744000151829278-01_job_page.png",
+      "captcha": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\reports\\auto_apply_sample_dryruns\\20261015T110411Z\\bosch\\portal_artifacts\\bosch-744000151829278-captcha.png"
+    },
+    "notes": []
+  }
+}

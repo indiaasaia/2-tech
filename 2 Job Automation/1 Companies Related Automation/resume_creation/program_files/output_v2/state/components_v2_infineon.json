@@ -1,0 +1,3578 @@
+[
+  {
+    "job_url": "https://jobs.infineon.com/careers/job/563808971880480",
+    "title": "Werkstudent - Technisches Gebäudemanagement (w/m/div)",
+    "company": "Unknown",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Werkstudent Technisches Gebäudemanagement",
+      "language": "de",
+      "required": [
+        "ordentlich immatrikulierte Studierende",
+        "nicht im Urlaubssemester",
+        "maximal 20 Stunden",
+        "sehr gute Deutschkenntnisse",
+        "Bachelor- oder Masterstudium",
+        "Technische Gebäudeausrüstung",
+        "Energie- und Gebäudetechnik",
+        "Umwelttechnik",
+        "erste praktische Erfahrungen",
+        "selbstständige, strukturierte Arbeitsweise"
+      ],
+      "preferred": [
+        "effiziente Arbeitsabläufe",
+        "teamfähigkeit",
+        "hohe Motivation",
+        "Zuverlässigkeit",
+        "CAFM-System",
+        "Bestandsaufnahmen durchführen",
+        "technische Anlagen analysieren",
+        "nachhaltige Effizienzsteigerungen"
+      ],
+      "tools": [
+        "CAFM-System",
+        "Power-Systeme",
+        "IoT"
+      ],
+      "languages_required": [
+        {
+          "language": "German",
+          "level": "fluent",
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "Technical Facility Management",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Ich bin ein ordentlich immatrikulierter Student im Bachelorstudium der Informatik, der praktische Erfahrungen in technischer Gebäudeausrüstung und Energie‑ und Gebäudetechnik einbringen möchte. Ziel ist es, durch datenbasierte Analysen und KI‑Methoden die Effizienz von CAFM‑Systemen und IoT‑Lösungen nachhaltig zu steigern. Working toward hands-on CAFM-System experience.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Data Analytics"
+        ],
+        "areas": [
+          {
+            "label": "Programming & Development",
+            "skills": [
+              "Python",
+              "C++",
+              "JavaScript",
+              "SQL",
+              "Django",
+              "FastAPI",
+              "React",
+              "NodeJS"
+            ]
+          },
+          {
+            "label": "AI & Data Science",
+            "skills": [
+              "Machine Learning",
+              "Deep Learning",
+              "Natural Language Processing",
+              "Transformers",
+              "Data Analytics",
+              "Quantitative Modeling",
+              "Reinforcement Learning",
+              "Data Preprocessing"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed backend components and real‑time algorithms for trading operations, applying quantitative and AI models to boost profitability and support financial decision‑making.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Deep Learning",
+            "Reinforcement Learning",
+            "SQL",
+            "Data Analytics",
+            "Real-Time Algorithms"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech and visual‑activity analysis, handling data extraction and preprocessing to ensure accurate model training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Django",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Built an end‑to‑end platform that scrapes market data in real time, applies quantitative and AI models, and executes actions automatically, demonstrating expertise in real‑time monitoring and data‑driven decision making relevant to building systems.",
+          "skills": [
+            "Python",
+            "Django",
+            "Data Analytics",
+            "Machine Learning",
+            "Deep Learning",
+            "Real-Time Systems",
+            "Mathematics",
+            "Quantitative Modeling"
+          ]
+        },
+        {
+          "id": "vehicle_sharing",
+          "title": "Vehicle Sharing Application",
+          "description": "Developed a full‑stack vehicle sharing app with real‑time CRUD operations and route optimization using Dijkstra’s algorithm, showcasing skills in system integration and responsive UI applicable to technical facility management.",
+          "skills": [
+            "NodeJS",
+            "React",
+            "React-Native",
+            "MongoDB",
+            "JavaScript",
+            "Dijkstra Algorithm",
+            "CRUD",
+            "UI Development"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 5.1,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [
+        "CAFM-System"
+      ],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 7,
+      "summary": "mirror=1 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=7 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.infineon.com/careers/job/563808971794202",
+    "title": "Working Student - Foundry Supplier Market Intelligence & Data Management (f/m/div)",
+    "company": "Unknown",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Working Student - Foundry Supplier Market Intelligence & Data Management",
+      "language": "en",
+      "required": [
+        "currently enrolled",
+        "Microsoft Excel and PowerPoint",
+        "communication skills in English",
+        "analytical and research capabilities",
+        "attention to detail",
+        "proper students",
+        "enrolled at a university",
+        "not completed all exams",
+        "maximum 20 hours"
+      ],
+      "preferred": [
+        "familiarity with AI tools",
+        "experience with data analytics",
+        "business intelligence",
+        "market research",
+        "basic knowledge semiconductor manufacturing",
+        "strategic sourcing",
+        "global supply chains",
+        "data visualizations"
+      ],
+      "tools": [
+        "Microsoft Excel",
+        "PowerPoint",
+        "AI tools",
+        "data analytics",
+        "business intelligence",
+        "market intelligence databases"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": null,
+          "other": null
+        },
+        {
+          "language": "German",
+          "level": null,
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "semiconductor market intelligence",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Current university student in Computer Science, eager to support the Foundry Supplier Market Intelligence team by applying strong Python, SQL, and data analytics expertise. Aiming to deepen practical experience with Microsoft Excel and PowerPoint for effective market research and data visualizations. Working toward hands-on AI tools and business intelligence experience.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL",
+          "NodeJS"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Data Analytics"
+        ],
+        "areas": [
+          {
+            "label": "Data Engineering & Modeling",
+            "skills": [
+              "SQL",
+              "Python",
+              "Data Preprocessing",
+              "MongoDB",
+              "FastAPI",
+              "Django"
+            ]
+          },
+          {
+            "label": "AI & Machine Learning",
+            "skills": [
+              "Machine Learning",
+              "Deep Learning",
+              "Natural Language Processing",
+              "Transformers",
+              "Reinforcement Learning",
+              "Large Language Models"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed multiple quant functions and models that increased profitability in financial decision‑making, and built backend components with real‑time algorithms to support trading operations, surpassing benchmark performance. Key working areas: Data Analytics.",
+          "skills": [
+            "Data Analytics",
+            "Python",
+            "Quantitative Modeling",
+            "Real-Time Algorithms",
+            "Backend Components",
+            "Financial Decision-Making",
+            "Mathematics"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech and visual‑activity analysis, and performed data extraction and preprocessing to ensure accurate model training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Developed an end-to-end system with real-time data scraping, analysis, filtering, and AI-driven decision making to act on market events and handle unexpected actions. Implementation focus: Data Analytics.",
+          "skills": [
+            "Data Analytics",
+            "Python",
+            "Django",
+            "Machine Learning",
+            "Deep Learning",
+            "Mathematics",
+            "Quantitative Modeling",
+            "Real-Time Systems",
+            "Data Scraping"
+          ]
+        },
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Built a complete platform that uses structured datasets and open‑source large language models to automatically craft resume sections tailored to specific job categories.",
+          "skills": [
+            "Data Analytics",
+            "Python",
+            "Streamlit",
+            "Natural Language Processing",
+            "Large Language Models",
+            "Transformers"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 8.6,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [
+      "force-inserted language requirement: German (level not stated)",
+      "required: dropped over-long item (5 words): 'not in semester of leave'"
+    ],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [
+        "AI tools",
+        "business intelligence"
+      ],
+      "dormant_added": {},
+      "desc_insertions": [
+        "experience:Data Analytics",
+        "project:Data Analytics"
+      ],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 3,
+      "skills_recased": 4,
+      "summary": "mirror=2 dormant_added=0 desc_insertions=2 labels=0 reorder=3 recased=4 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.infineon.com/careers/job/563808971793447",
+    "title": "Internship - Legal Compliance in the area of ESH&E (f/m/div)",
+    "company": "Unknown",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Legal Compliance in the area of ESH&E",
+      "language": "en",
+      "required": [
+        "Bachelor or Master",
+        "Business and Law",
+        "Economics",
+        "Business Administration",
+        "Teamwork",
+        "Learning Ability",
+        "Resilience",
+        "Multitasking"
+      ],
+      "preferred": [
+        "process improvement",
+        "clear internal communications",
+        "flexible working hours"
+      ],
+      "tools": [
+        "Legal Compliance software tool"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": null,
+          "other": null
+        },
+        {
+          "language": "German",
+          "level": null,
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "Legal Compliance",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "A recent graduate with a bachelor degree in business administration and law, eager to apply strong teamwork, learning ability, resilience, and multitasking skills to a legal compliance role in ESH&E. Seeking to contribute to and learn from the development of a legal compliance software tool while supporting clear internal communications and process improvement.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL",
+          "NodeJS"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Data Analytics"
+        ],
+        "areas": [
+          {
+            "label": "Data Engineering",
+            "skills": [
+              "SQL",
+              "Data Preprocessing",
+              "MongoDB",
+              "FastAPI",
+              "Django",
+              "Python"
+            ]
+          },
+          {
+            "label": "AI Development",
+            "skills": [
+              "Python",
+              "C++",
+              "Transformers",
+              "Reinforcement Learning",
+              "Large Language Models",
+              "Computer Vision",
+              "Machine Learning",
+              "Deep Learning"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed quant models and backend real‑time algorithms that drove profitable trading decisions while ensuring rigorous model validation to meet benchmark standards, supporting compliance‑focused financial operations.",
+          "skills": [
+            "Python",
+            "Reinforcement Learning",
+            "Deep Learning",
+            "Mathematics",
+            "Quantitative Modeling",
+            "Real-Time Algorithms",
+            "Financial Decision-Making"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine‑learning models for text‑to‑speech and visual activity analysis, and performed precise data extraction and preprocessing to guarantee accurate training, supporting reliable compliance monitoring.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Django"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Built an end‑to‑end system that scrapes real‑time market data, applies quantitative and AI models, and executes actions, delivering 70 percent accuracy in cash‑segment trading, showcasing expertise in real‑time analytics and risk‑aware automation.",
+          "skills": [
+            "Python",
+            "Django",
+            "Data Analytics",
+            "Machine Learning",
+            "Deep Learning",
+            "Real-Time Systems"
+          ]
+        },
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Created a full pipeline that transforms structured job‑category datasets into tailored resumes using open‑source LLMs, demonstrating proficiency in NLP, large language models, and data analytics for automated document generation.",
+          "skills": [
+            "Python",
+            "Streamlit",
+            "Natural Language Processing",
+            "Large Language Models",
+            "Transformers",
+            "Data Analytics"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 5.0,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 5,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.infineon.com/careers/job/563808971906944",
+    "title": "Internship - Project Management Support (f/m/div)",
+    "company": "Unknown",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Internship - Project Management Support",
+      "language": "en",
+      "required": [
+        "Advanced Microsoft Excel",
+        "Basic AI understanding",
+        "Project planning",
+        "Access control",
+        "Coordination meetings",
+        "Cost control",
+        "Administration support",
+        "Proactive",
+        "Precise",
+        "Structured"
+      ],
+      "preferred": [
+        "Technical-economic studies",
+        "Project management experience",
+        "Related tools experience"
+      ],
+      "tools": [
+        "Microsoft Excel",
+        "Artificial Intelligence (AI) tools",
+        "Confluence"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": "fluent",
+          "other": null
+        },
+        {
+          "language": "German",
+          "level": null,
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "project management",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Aspiring project management intern eager to apply strong analytical and AI fundamentals to support structured project planning, cost control, and coordination meetings. I am targeting experience with advanced Microsoft Excel and Confluence to enhance administration support and access control within technical‑economic studies.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Data Analytics"
+        ],
+        "areas": [
+          {
+            "label": "Core Programming",
+            "skills": [
+              "Python",
+              "C++",
+              "JavaScript",
+              "SQL"
+            ]
+          },
+          {
+            "label": "AI & Data Science",
+            "skills": [
+              "Machine Learning",
+              "Deep Learning",
+              "Natural Language Processing",
+              "Computer Vision",
+              "Reinforcement Learning"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed quant models and backend real‑time algorithms that boosted profitability in financial decision‑making and supported trading operations, consistently surpassing benchmark performance.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Real-Time Algorithms",
+            "Trading Operations",
+            "Financial Decision-Making",
+            "Data Analytics"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech and visual‑activity analysis, and performed data extraction and preprocessing to ensure accurate model training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Led the design and delivery of an end‑to‑end high‑frequency trading platform, coordinating real‑time data scraping, analysis, and AI‑driven decision pipelines to ensure timely market actions and mitigate unexpected events.",
+          "skills": [
+            "Python",
+            "Django",
+            "Data Analytics",
+            "Machine Learning",
+            "Deep Learning",
+            "Real-Time Systems",
+            "Quantitative Modeling",
+            "Data Scraping"
+          ]
+        },
+        {
+          "id": "vehicle_sharing",
+          "title": "Vehicle Sharing Application",
+          "description": "Managed full‑stack development of a city‑wide vehicle sharing app, integrating route optimization via Dijkstra, real‑time CRUD operations, and a responsive UI to streamline user workflows and operational oversight.",
+          "skills": [
+            "NodeJS",
+            "React",
+            "MongoDB",
+            "JavaScript",
+            "Dijkstra Algorithm",
+            "CRUD",
+            "UI Development",
+            "Full Stack"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 4.8,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 4,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=4 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.infineon.com/careers/job/563808971620732",
+    "title": "Internship - Lab Verification Engineer in the AMS Lab of the Development Center Villach (f/m/div)",
+    "company": "Unknown",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Lab Verification Engineer",
+      "language": "en",
+      "required": [
+        "Enrolled as student",
+        "Electronic Engineering",
+        "Laboratory equipment",
+        "Programming C C# C++",
+        "Good English skills",
+        "Internship 6 months",
+        "Part-time",
+        "Flexible working hours"
+      ],
+      "preferred": [
+        "Dynamic international environment",
+        "Board assembly",
+        "Soldering",
+        "Debugging skills",
+        "Data automation",
+        "Post-processing",
+        "High precision oscillators",
+        "RF blocks"
+      ],
+      "tools": [
+        "C",
+        "C#",
+        "C++",
+        "Analog-Mixed-Signal",
+        "ADC",
+        "DAC",
+        "DCDC Converters",
+        "LDOs",
+        "Power Management Systems",
+        "Battery Management Systems",
+        "RF blocks",
+        "Measurement equipment"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": "good",
+          "other": null
+        },
+        {
+          "language": "German",
+          "level": null,
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "Analog Mixed Signal verification",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Electronic engineering student seeking a part‑time Lab Verification Engineer internship to apply programming expertise in Python, C++ and JavaScript while developing hands‑on experience with laboratory equipment. Aiming to work with C and rf blocks in a dynamic international environment, leveraging strong English communication and flexible hours.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Data Analytics"
+        ],
+        "areas": [
+          {
+            "label": "Backend Development",
+            "skills": [
+              "Automation",
+              "Python",
+              "Django",
+              "FastAPI",
+              "SQL",
+              "MongoDB",
+              "NodeJS"
+            ]
+          },
+          {
+            "label": "AI & Modeling",
+            "skills": [
+              "Machine Learning",
+              "Deep Learning",
+              "Reinforcement Learning",
+              "Transformers",
+              "Natural Language Processing",
+              "Quantitative Modeling",
+              "Data Preprocessing",
+              "Computer Vision"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Designed and built backend components and real‑time algorithms, developing quant models that delivered high profitability and exceeded benchmark marks, demonstrating rigorous verification of AI‑driven trading systems.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Real-Time Algorithms",
+            "Backend Components",
+            "Data Analytics",
+            "Deep Learning",
+            "Mathematics"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech and visual‑activity analysis, and performed precise data extraction and preprocessing to ensure accurate model training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Developed an end‑to‑end Python platform that scrapes market data in real time, applies quantitative and AI models for analysis, and automates decision pipelines, enabling rapid verification of data integrity and system performance.",
+          "skills": [
+            "Python",
+            "Data Scraping",
+            "Real-Time Systems",
+            "Machine Learning",
+            "Deep Learning",
+            "Quantitative Modeling",
+            "Data Analytics",
+            "Django"
+          ]
+        },
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Built a Streamlit application that processes structured job‑category datasets with large language models, generating tailored resumes through NLP pipelines, demonstrating end‑to‑end data preprocessing and model integration.",
+          "skills": [
+            "Python",
+            "Streamlit",
+            "Natural Language Processing",
+            "Large Language Models",
+            "Transformers",
+            "Data Analytics"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 5.6,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [
+      "force-inserted language requirement: German (level not stated)"
+    ],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {
+        "skills_area_1": [
+          "automation"
+        ]
+      },
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 1,
+      "skills_recased": 4,
+      "summary": "mirror=0 dormant_added=1 desc_insertions=0 labels=0 reorder=1 recased=4 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.infineon.com/careers/job/563808971118853",
+    "title": "Internship - High Speed and RF LAB Validation Engineer in Development Center Villach (f/m/div)",
+    "company": "Unknown",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Internship - High Speed and RF LAB Validation Engineer",
+      "language": "en",
+      "required": [
+        "Pursuing a degree",
+        "Electronic Engineering",
+        "Good English skills",
+        "Proficiency in Matlab",
+        "Signal Spectrum Analyzers",
+        "Vector Network Analyzers",
+        "Mathematical concepts",
+        "circuit analysis",
+        "data processing"
+      ],
+      "preferred": [
+        "Mixed-Signal High-Speed",
+        "RF mmWave equipment",
+        "Data communication",
+        "Radar applications",
+        "PCB design",
+        "Automation",
+        "Data post-processing",
+        "Validation flow"
+      ],
+      "tools": [
+        "Matlab",
+        "Oscilloscopes",
+        "Signal Spectrum Analyzers",
+        "Vector Network Analyzers",
+        "PLLs",
+        "BERT",
+        "Eye Diagrams",
+        "FFT",
+        "digital filtering",
+        "mmWave equipment",
+        "radar hardware",
+        "PCB design"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": "good",
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "semiconductor validation",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Electronic engineering student pursuing a degree, fluent in English, seeking an internship as a High‑Speed and RF Lab Validation Engineer. Aiming to apply strong Python, C++, and data analytics expertise while gaining hands‑on experience with signal spectrum analyzers and vector network analyzers. Working toward hands-on Matlab and mmWave equipment experience.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Computer Vision",
+          "Data Analytics",
+          "Quantitative Modeling"
+        ],
+        "areas": [
+          {
+            "label": "Software Development",
+            "skills": [
+              "Python",
+              "C++",
+              "JavaScript",
+              "Django",
+              "FastAPI",
+              "React",
+              "NodeJS",
+              "SQL"
+            ]
+          },
+          {
+            "label": "Data Science & Modeling",
+            "skills": [
+              "Machine Learning",
+              "Deep Learning",
+              "Reinforcement Learning",
+              "Transformers",
+              "Data Analytics",
+              "Natural Language Processing",
+              "Large Language Models",
+              "Quantitative Modeling"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed multiple functions and quantitative models that boosted profitability in financial decision‑making, and built backend components with real‑time algorithms supporting trading operations, showcasing analytical and systems expertise relevant to high‑speed RF lab validation.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Real-Time Algorithms",
+            "Data Analytics",
+            "Mathematics",
+            "Reinforcement Learning"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech and visual‑activity analysis, and performed data extraction and preprocessing to ensure accurate model training and evaluation, demonstrating precision and data‑handling skills valuable for RF measurement validation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Django"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Built an end‑to‑end high‑frequency trading system that ingests real‑time market data, applies quantitative and AI models, and executes actions with low latency, demonstrating expertise in real‑time data processing and high‑speed analytics.",
+          "skills": [
+            "Python",
+            "Django",
+            "Real-Time Systems",
+            "Data Analytics",
+            "Machine Learning",
+            "Quantitative Modeling"
+          ]
+        },
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Designed a full pipeline that structures job‑specific datasets and leverages large language models to generate tailored resumes, showcasing data preprocessing, NLP, and model integration skills applicable to signal data validation workflows.",
+          "skills": [
+            "Python",
+            "Streamlit",
+            "Natural Language Processing",
+            "Large Language Models",
+            "Transformers",
+            "Data Analytics"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 5.7,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [
+      "required: single-tool item 'Oscilloscopes' is covered by tools"
+    ],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [
+        "Matlab",
+        "mmWave equipment"
+      ],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 6,
+      "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.infineon.com/careers/job/563808971879852",
+    "title": "Working Student - Supplier Sustainability (f/m/div)",
+    "company": "Unknown",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Working Student - Supplier Sustainability",
+      "language": "en",
+      "required": [
+        "Fluency in English",
+        "Enrolled at university",
+        "On-site 12 months",
+        "Study field sustainability",
+        "MS PowerPoint",
+        "MS Excel"
+      ],
+      "preferred": [
+        "German would be a plus",
+        "practical experience sustainability",
+        "advanced AI knowledge",
+        "collaborative mindset",
+        "self initiative",
+        "flexibility",
+        "structured way of working"
+      ],
+      "tools": [
+        "MS PowerPoint",
+        "MS Excel"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": "fluent",
+          "other": null
+        },
+        {
+          "language": "German",
+          "level": null,
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "supplier sustainability",
+      "knockouts": [
+        "must be enrolled student",
+        "must not be on leave"
+      ]
+    },
+    "components": {
+      "objective": "English‑fluent university student in Sustainability seeking a full‑year on‑site Working Student role. I aim to apply my quantitative modeling, data analytics, and AI expertise while developing supplier sustainability reports using MS PowerPoint and MS Excel. I bring a collaborative, self‑initiated, flexible and structured approach.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL",
+          "NodeJS"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Quantitative Modeling"
+        ],
+        "areas": [
+          {
+            "label": "AI Modeling",
+            "skills": [
+              "Python",
+              "Machine Learning",
+              "Deep Learning",
+              "Natural Language Processing",
+              "Large Language Models",
+              "Data Preprocessing",
+              "Transformers",
+              "Data Analytics"
+            ]
+          },
+          {
+            "label": "Full Stack Development",
+            "skills": [
+              "JavaScript",
+              "React",
+              "NodeJS",
+              "Django",
+              "FastAPI",
+              "MongoDB",
+              "SQL",
+              "CSS"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed quantitative models and real‑time backend algorithms that optimized decision‑making, delivering high profitability and surpassing benchmark performance, skills transferable to data‑driven supplier sustainability analysis.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Data Analytics",
+            "Backend Components",
+            "Real-Time Algorithms",
+            "Mathematics",
+            "SQL"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech and visual‑activity analysis, and performed precise data extraction and preprocessing to ensure accurate model training, experience applicable to evaluating supplier sustainability data.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Data Preprocessing",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Built an end‑to‑end Python‑based platform that scraped, analyzed, and filtered real‑time market data, applying quantitative and machine‑learning models to support data‑driven decision making—skills transferable to supplier sustainability analytics.",
+          "skills": [
+            "Python",
+            "Data Analytics",
+            "Quantitative Modeling",
+            "Machine Learning",
+            "Real-Time Systems",
+            "Data Scraping"
+          ]
+        },
+        {
+          "id": "vehicle_sharing",
+          "title": "Vehicle Sharing Application",
+          "description": "Developed a full‑stack vehicle‑sharing app with real‑time CRUD operations and Dijkstra‑based route optimization, enabling efficient resource allocation—experience applicable to evaluating and improving supplier logistics and sustainability.",
+          "skills": [
+            "NodeJS",
+            "React",
+            "MongoDB",
+            "Dijkstra Algorithm",
+            "CRUD",
+            "UI Development"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 5.1,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 6,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.infineon.com/careers/job/563808959893172",
+    "title": "Internships, working student position and theses at the Warstein site",
+    "company": "Unknown",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Internships, working student position and theses",
+      "language": "en",
+      "required": [
+        "currently studying",
+        "technical affinity",
+        "independent way of working",
+        "work in a team",
+        "confident communication in German",
+        "confident communication in English",
+        "electrical characterization",
+        "mechanical conception and design",
+        "development of cooling concepts",
+        "market and competition analysis"
+      ],
+      "preferred": [],
+      "tools": [],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": "confident",
+          "other": null
+        },
+        {
+          "language": "German",
+          "level": "confident",
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "power semiconductor",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Currently studying Computer Science with strong technical affinity, I work independently and thrive in team environments. I communicate confidently in English and German, and I am eager to apply my analytical skills to electrical characterization, mechanical design, cooling concept development, and market and competition analysis.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL",
+          "react"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Data Analytics"
+        ],
+        "areas": [
+          {
+            "label": "Programming & Development",
+            "skills": [
+              "Python",
+              "C++",
+              "JavaScript",
+              "SQL",
+              "Django",
+              "FastAPI",
+              "React",
+              "NodeJS"
+            ]
+          },
+          {
+            "label": "AI & Data Science",
+            "skills": [
+              "Machine Learning",
+              "Deep Learning",
+              "Reinforcement Learning",
+              "Natural Language Processing",
+              "Transformers",
+              "Data Analytics",
+              "Data Preprocessing",
+              "Quantitative Modeling"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed functions and quantitative models that improved profitability in financial decision‑making; designed backend components and real‑time algorithms supporting trading operations using quant and AI techniques.",
+          "skills": [
+            "Python",
+            "Deep Learning",
+            "Mathematics",
+            "Quantitative Modeling",
+            "SQL",
+            "Data Analytics",
+            "Trading Operations"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech applications and visual‑activity analysis; performed data extraction and preprocessing to ensure accurate model training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Django",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Built an end‑to‑end high‑frequency trading platform with real‑time data scraping, analysis, filtering, and AI‑driven decision making, suitable for research‑oriented internships in quantitative finance.",
+          "skills": [
+            "Python",
+            "Django",
+            "Data Analytics",
+            "Machine Learning",
+            "Deep Learning",
+            "Real-Time Systems"
+          ]
+        },
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Created an automated resume generation tool that processes structured job‑specific datasets and leverages open‑source large language models to produce tailored resumes, demonstrating full‑stack NLP capabilities for internship‑level projects.",
+          "skills": [
+            "Python",
+            "Streamlit",
+            "Natural Language Processing",
+            "Large Language Models",
+            "Transformers",
+            "Data Analytics"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 5.4,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 5,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.infineon.com/careers/job/563808971991308",
+    "title": "Pool Position - Praktika, Werkstudententätigkeiten und Abschlussarbeiten bei MOTEON GmbH in Ilmenau",
+    "company": "Unknown",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Pool Position - Praktika, Werkstudententätigkeiten und Abschlussarbeiten",
+      "language": "de",
+      "required": [
+        "Technischer Studiengang",
+        "Deutschkenntnisse",
+        "Englischkenntnisse",
+        "Technische Affinität",
+        "selbstständige Arbeitsweise",
+        "Teamfähigkeit"
+      ],
+      "preferred": [
+        "Embedded Software",
+        "Software Development",
+        "Regelungstechnik",
+        "Mechatronik",
+        "Electrical Engineering",
+        "Produktmarketing",
+        "Finance"
+      ],
+      "tools": [],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": null,
+          "other": null
+        },
+        {
+          "language": "German",
+          "level": null,
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "Embedded Systems",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Engineering student in a technical Studiengang seeking a Praktika or Werkstudent position to apply strong technical affinity, self‑directed work style, and team‑oriented mindset. Fluent in English with conversational German, I aim to contribute to embedded software and product‑marketing projects while deepening my skills in machine learning and data analytics.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Data Analytics"
+        ],
+        "areas": [
+          {
+            "label": "Programming Foundations",
+            "skills": [
+              "Python",
+              "C++",
+              "JavaScript",
+              "SQL",
+              "Data Preprocessing",
+              "Mathematics"
+            ]
+          },
+          {
+            "label": "AI & Modeling",
+            "skills": [
+              "Machine Learning",
+              "Deep Learning",
+              "Reinforcement Learning",
+              "Natural Language Processing",
+              "Transformers",
+              "Quantitative Modeling",
+              "Computer Vision"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed quant functions and models that boosted profitability in financial decision‑making, and built backend components with real‑time algorithms to support trading operations, employing black‑box and gray‑box AI approaches that exceeded benchmark performance.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Data Analytics",
+            "Backend Components",
+            "Real-Time Algorithms",
+            "Trading Operations",
+            "Financial Decision-Making"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech applications and visual‑activity analysis, and performed data extraction and preprocessing to ensure high‑quality training and evaluation datasets.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Developed an end-to-end system with real-time data scraping, analysis, and AI-driven market actions.",
+          "skills": [
+            "Python",
+            "Django",
+            "Machine Learning",
+            "Real-Time Systems",
+            "Data Scraping",
+            "Quantitative Modeling"
+          ]
+        },
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Built a full pipeline that creates role-specific resumes from structured datasets, leveraging open-source LLMs to format sections such as projects, skills and highlights.",
+          "skills": [
+            "Python",
+            "Streamlit",
+            "Natural Language Processing",
+            "Large Language Models",
+            "Transformers",
+            "Data Analytics"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 4.1,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 3,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=3 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.infineon.com/careers/job/563808972052110",
+    "title": "Werkstudent - Qualitätsmanagement im Zuverlässigkeitslabor (w/m/div)",
+    "company": "Unknown",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Werkstudent - Qualitätsmanagement im Zuverlässigkeitslabor",
+      "language": "de",
+      "required": [
+        "technischen Studiengang",
+        "analytische Fähigkeiten",
+        "Teamarbeit",
+        "MS-Office Kenntnisse",
+        "Deutsch (C1)",
+        "Englisch in Wort",
+        "immatrikulierte Studierende",
+        "maximal 20 Stunden",
+        "nicht im Urlaubssemester",
+        "nahe am Einsatzort"
+      ],
+      "preferred": [
+        "Stresstests mechanische Zuverlässigkeit",
+        "Funktionsmessungen",
+        "Verifikation Fehlerbilder",
+        "Datenanalyse Produktionsmessungen",
+        "logistische Handhabung Labormustern"
+      ],
+      "tools": [
+        "MS-Office",
+        "Excel",
+        "Word",
+        "PowerPoint",
+        "Stresstests",
+        "Funktionsmessungen",
+        "Datenanalyse",
+        "Labormessungen"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": null,
+          "other": null
+        },
+        {
+          "language": "German",
+          "level": "C1",
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "Quality Management",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Enthusiastic technical student pursuing a degree in engineering, seeking a Werkstudent position in Qualitätsmanagement to apply strong analytical abilities and collaborative mindset. Aiming to support reliability testing while developing proficiency with ms‑office tools and datenanalyse in a laboratory environment. Working toward hands-on MS-Office and Stresstests experience.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Computer Vision",
+          "Natural Language Processing",
+          "Quantitative Modeling"
+        ],
+        "areas": [
+          {
+            "label": "Backend Development",
+            "skills": [
+              "Python",
+              "Django",
+              "FastAPI",
+              "NodeJS",
+              "SQL",
+              "MongoDB"
+            ]
+          },
+          {
+            "label": "Data Science & Modeling",
+            "skills": [
+              "Python",
+              "Machine Learning",
+              "Deep Learning",
+              "Reinforcement Learning",
+              "Transformers",
+              "Data Analytics"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed multiple functions and quantitative models that enhanced profitability in financial decision‑making, employing black‑box and gray‑box approaches to exceed benchmark performance, and built backend and real‑time algorithms supporting trading operations with rigorous data analytics.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Deep Learning",
+            "Reinforcement Learning",
+            "Data Analytics",
+            "Real-Time Algorithms",
+            "SQL",
+            "Mathematics"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech applications and high‑functional visual‑activity analysis, and performed data extraction and preprocessing to ensure accurate training and evaluation of models.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Django"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Built an end‑to‑end high‑frequency trading platform that scrapes market data in real time, applies quantitative and AI models for analysis and decision making, and handles unexpected actions, demonstrating robust data processing and model validation.",
+          "skills": [
+            "Python",
+            "Django",
+            "Data Analytics",
+            "Machine Learning",
+            "Deep Learning",
+            "Mathematics",
+            "Quantitative Modeling",
+            "Real-Time Systems"
+          ]
+        },
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Created an automated resume generation tool that ingests structured datasets per job category and leverages open‑source large language models to produce tailored sections, showcasing data preprocessing and model‑driven content creation for quality documentation.",
+          "skills": [
+            "Python",
+            "Streamlit",
+            "Natural Language Processing",
+            "Large Language Models",
+            "Transformers",
+            "Data Analytics"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 5.1,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [
+        "MS-Office",
+        "Stresstests"
+      ],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 5,
+      "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.infineon.com/careers/job/563808971922747",
+    "title": "Werkstudent - Logistik / Supply Chain (w/m/div)",
+    "company": "Unknown",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Werkstudent - Logistik / Supply Chain",
+      "language": "de",
+      "required": [
+        "Wirtschaftswissenschaften",
+        "Betriebswirtschaftslehre",
+        "Wirtschaftsinformatik",
+        "gute Deutsch- und Englischkenntnisse",
+        "ordentlich immatrikulierte Studierende",
+        "nicht im Urlaubssemester",
+        "maximal 20 Stunden",
+        "mindestens 6 Monate"
+      ],
+      "preferred": [
+        "hohe Lernbereitschaft",
+        "Teamfähigkeit",
+        "Supply Chain Management",
+        "Logistik spezialisiert",
+        "Projektmanagement",
+        "interessierst dich für Logistik"
+      ],
+      "tools": [
+        "SAP",
+        "Excel"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": "good",
+          "other": null
+        },
+        {
+          "language": "German",
+          "level": "good",
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "Logistik / Supply Chain",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Motivated economics student seeking a Werkstudent position in logistics to apply quantitative modeling, data analytics, and machine learning for supply chain optimization. Eager to develop practical experience with SAP and Excel while contributing to a dynamic team.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL",
+          "NodeJS"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Data Analytics",
+          "Natural Language Processing",
+          "Computer Vision"
+        ],
+        "areas": [
+          {
+            "label": "Backend Development",
+            "skills": [
+              "Python",
+              "Django",
+              "FastAPI",
+              "SQL",
+              "MongoDB",
+              "NodeJS"
+            ]
+          },
+          {
+            "label": "AI & Modeling",
+            "skills": [
+              "Transformers",
+              "Large Language Models",
+              "Reinforcement Learning",
+              "Quantitative Modeling",
+              "Data Preprocessing",
+              "Mathematics"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Created quantitative models and real‑time backend algorithms that boosted profitability and decision‑making, demonstrating ability to optimize complex logistics processes and meet performance benchmarks.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Real-Time Algorithms",
+            "Backend Components",
+            "Data Analytics",
+            "Mathematics",
+            "Trading Operations"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech and visual activity analysis, and performed precise data extraction and preprocessing, showcasing analytical skills applicable to supply‑chain data optimization.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech",
+            "Django"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Built an end‑to‑end platform that scrapes market data in real time, applies quantitative and AI models for analysis and decision‑making, and executes trades while handling unexpected market events.",
+          "skills": [
+            "Python",
+            "Django",
+            "Data Analytics",
+            "Machine Learning",
+            "Deep Learning",
+            "Real-Time Systems",
+            "Data Scraping",
+            "Quantitative Modeling"
+          ]
+        },
+        {
+          "id": "vehicle_sharing",
+          "title": "Vehicle Sharing Application",
+          "description": "Created a full‑stack vehicle‑sharing app with city‑wide route optimization using Dijkstra’s algorithm, real‑time CRUD operations, and a responsive UI for seamless user experience.",
+          "skills": [
+            "NodeJS",
+            "React",
+            "React-Native",
+            "MongoDB",
+            "CSS",
+            "JavaScript",
+            "Dijkstra Algorithm",
+            "CRUD"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 5.6,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [
+      "required: single-tool item 'SAP' is covered by tools",
+      "required: single-tool item 'Excel' is covered by tools"
+    ],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 7,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=7 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.infineon.com/careers/job/563808971959592",
+    "title": "Werkstudent - Wafer Sorting und Wafer Packing (w/m/div)",
+    "company": "Unknown",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Werkstudent - Wafer Sorting und Wafer Packing",
+      "language": "de",
+      "required": [
+        "technischer Studiengang",
+        "immatrikuliert",
+        "mindestens zwei Semester",
+        "nicht im Urlaubssemester",
+        "sehr gute Deutschkenntnisse",
+        "gute Englischkenntnisse",
+        "zuverlässige Arbeitsweise",
+        "strukturierte Arbeitsweise"
+      ],
+      "preferred": [
+        "MS Office",
+        "grundlegendes Datenbankwissen",
+        "Büro und Reinraum",
+        "Abwechslung im Arbeitsalltag",
+        "nahe am Einsatzort"
+      ],
+      "tools": [
+        "MS Office"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": "good",
+          "other": null
+        },
+        {
+          "language": "German",
+          "level": "very good",
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "semiconductor manufacturing",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Enthusiastic student in a technischer studiengang, immatrikuliert and completing mindestens zwei semester, currently not im urlaubssemester, seeking a Werkstudent position in wafer sorting and packing. I bring sehr gute deutschkenntnisse, gute englischkenntnisse, a zuverlässige und strukturierte arbeitsweise, and aim to develop ms office proficiency in a practical setting.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Data Analytics"
+        ],
+        "areas": [
+          {
+            "label": "Core Development",
+            "skills": [
+              "Python",
+              "C++",
+              "JavaScript",
+              "SQL",
+              "Django",
+              "FastAPI",
+              "React",
+              "NodeJS"
+            ]
+          },
+          {
+            "label": "AI & Modeling",
+            "skills": [
+              "Machine Learning",
+              "Deep Learning",
+              "Reinforcement Learning",
+              "Transformers",
+              "Large Language Models",
+              "Quantitative Modeling",
+              "Data Preprocessing",
+              "Computer Vision"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed quantitative models and backend real-time algorithms that boosted profitability in financial decision‑making and consistently exceeded benchmark performance, applying black‑box and gray‑box AI techniques to support high‑throughput trading operations.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Real-Time Algorithms",
+            "Data Analytics",
+            "Backend Components",
+            "Mathematics"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech and high‑functional visual activity analysis, and performed precise data extraction and preprocessing to ensure accurate training and evaluation of AI systems.",
+          "skills": [
+            "Machine Learning",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Natural Language Processing",
+            "Django"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Built an end‑to‑end platform that streams market data, applies quantitative and AI models, and executes trades in real time, demonstrating expertise in high‑throughput data handling and decision making applicable to wafer sorting automation.",
+          "skills": [
+            "Python",
+            "Django",
+            "Real-Time Systems",
+            "Data Analytics",
+            "Machine Learning",
+            "Quantitative Modeling"
+          ]
+        },
+        {
+          "id": "vehicle_sharing",
+          "title": "Vehicle Sharing Application",
+          "description": "Created a full‑stack vehicle sharing system featuring real‑time CRUD operations and Dijkstra‑based route optimization, showcasing skills in rapid data processing and algorithmic scheduling relevant to wafer packing workflows.",
+          "skills": [
+            "NodeJS",
+            "React",
+            "MongoDB",
+            "Dijkstra Algorithm",
+            "CRUD",
+            "UI Development"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 3.1,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 7,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=7 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.infineon.com/careers/job/563808971904127",
+    "title": "Werkstudent - Business Continuity (w/m/div)",
+    "company": "Unknown",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Werkstudent - Business Continuity",
+      "language": "de",
+      "required": [
+        "Wirtschaftswissenschaften",
+        "Wirtschaftsingenieurwesen",
+        "artverwandten Studiengang",
+        "Organisationstalent",
+        "strukturierte Arbeitsweise",
+        "selbstständige Arbeitsweise",
+        "hohes Maß an Diskretion",
+        "MS Office-Anwendungen",
+        "Deutsch- und Englischkenntnisse",
+        "immatrikulierte Studierende"
+      ],
+      "preferred": [
+        "PowerPoint Präsentationen",
+        "Excel Darstellung",
+        "Audits Unterstützung",
+        "Projektaufgaben Business Continuity"
+      ],
+      "tools": [
+        "MS Office",
+        "PowerPoint",
+        "Excel"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": "very good",
+          "other": null
+        },
+        {
+          "language": "German",
+          "level": "very good",
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "Business Continuity",
+      "knockouts": [
+        "immatrikulierte Studierende",
+        "nicht im Urlaubssemester"
+      ]
+    },
+    "components": {
+      "objective": "Motivated Wirtschaftswissenschaften student seeking a Werkstudent position in Business Continuity to apply strong analytical and quantitative modeling abilities. Aiming to support audits and project tasks while developing expertise in ms office applications and excel reporting, leveraging proven organization talent and a structured, self‑directed work style. Working toward hands-on PowerPoint experience.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Quantitative Modeling"
+        ],
+        "areas": [
+          {
+            "label": "Data Engineering & Analytics",
+            "skills": [
+              "Python",
+              "SQL",
+              "Data Preprocessing",
+              "Data Analytics",
+              "MongoDB",
+              "FastAPI"
+            ]
+          },
+          {
+            "label": "AI Model Development",
+            "skills": [
+              "Machine Learning",
+              "Deep Learning",
+              "Reinforcement Learning",
+              "Transformers",
+              "Large Language Models",
+              "Natural Language Processing",
+              "Computer Vision"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed quant models and backend components with real‑time algorithms that enhanced trading operations and financial decision‑making, delivering profitability and surpassing benchmark performance.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Real-Time Algorithms",
+            "Trading Operations",
+            "Financial Decision-Making",
+            "Data Analytics"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech and visual‑activity analysis, and performed data extraction and preprocessing to ensure accurate model training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Built an end‑to‑end platform that scrapes market data in real time, applies quantitative and AI models, and automatically executes actions while handling unexpected market events, supporting continuous operations.",
+          "skills": [
+            "Python",
+            "Django",
+            "Data Analytics",
+            "Machine Learning",
+            "Deep Learning",
+            "Real-Time Systems",
+            "Quantitative Modeling",
+            "Mathematics"
+          ]
+        },
+        {
+          "id": "vehicle_sharing",
+          "title": "Vehicle Sharing Application",
+          "description": "Created a full‑stack vehicle‑sharing system with real‑time CRUD operations and Dijkstra‑based route optimization, ensuring reliable service continuity and an intuitive user interface.",
+          "skills": [
+            "JavaScript",
+            "NodeJS",
+            "React",
+            "MongoDB",
+            "Dijkstra Algorithm",
+            "CRUD",
+            "UI Development",
+            "CSS"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 5.1,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [
+        "PowerPoint"
+      ],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 5,
+      "summary": "mirror=1 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.infineon.com/careers/job/563808972088501",
+    "title": "Werkstudent – Human Resources - Early Career Talent Acquisition & Hochschulmarketing (w/m/div)",
+    "company": "Unknown",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Werkstudent – Human Resources",
+      "language": "de",
+      "required": [
+        "Betriebswirtschaftslehre",
+        "Wirtschaftspsychologie",
+        "Elektrotechnik",
+        "Physik",
+        "Wirtschaftsingenieurwesen",
+        "MS Office",
+        "Sehr gute Deutschkenntnisse",
+        "Sehr gute Englischkenntnisse",
+        "Mindestens 16 Stunden"
+      ],
+      "preferred": [
+        "erste Recruiting Erfahrung",
+        "Personalmarketing Erfahrung",
+        "Selbstständige Arbeitsweise",
+        "Zuverlässige Arbeitsweise",
+        "lösungsorientiertes Denken",
+        "Kommunikationsstärke",
+        "Verantwortungsbewusstsein",
+        "Eventorganisation"
+      ],
+      "tools": [
+        "MS Office",
+        "PowerPoint"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": "very good",
+          "other": null
+        },
+        {
+          "language": "German",
+          "level": "very good",
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "Human Resources",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Motivated computer science student eager to support HR operations as a Werkstudent, applying strong analytical and programming expertise while developing very good German proficiency. Targeting experience with MS Office and PowerPoint and committing to a minimum of 16 hours weekly. Interested to integrating insights from betriebswirtschaftslehre, wirtschaftspsychologie, elektrotechnik, physik, and wirtschaftsingenieurwesen into people‑focused projects.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL",
+          "dart"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Data Analytics"
+        ],
+        "areas": [
+          {
+            "label": "Software Development",
+            "skills": [
+              "Python",
+              "C++",
+              "JavaScript",
+              "NodeJS",
+              "React",
+              "Django",
+              "FastAPI",
+              "Streamlit"
+            ]
+          },
+          {
+            "label": "Data Science & AI",
+            "skills": [
+              "SQL",
+              "Transformers",
+              "Machine Learning",
+              "Deep Learning",
+              "Reinforcement Learning",
+              "Quantitative Modeling",
+              "Data Preprocessing",
+              "Large Language Models"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed multiple functions and quantitative models that enhanced profitability in financial decision‑making, and built backend components with real‑time algorithms to support trading operations, leveraging black‑box and gray‑box models to exceed benchmark performance.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Data Analytics",
+            "Real-Time Algorithms",
+            "Trading Operations",
+            "Financial Decision-Making"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine‑learning models for text‑to‑speech applications and high‑functional visual‑activity analysis, and performed data extraction and preprocessing to ensure accurate model training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Built an end‑to‑end system that transforms structured job‑category datasets into tailored resumes using LLMs, streamlining candidate profiling and supporting HR screening workflows.",
+          "skills": [
+            "Python",
+            "Streamlit",
+            "Natural Language Processing",
+            "Large Language Models",
+            "Transformers",
+            "Data Analytics"
+          ]
+        },
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Created a real‑time analytics platform that ingests market data, applies quantitative and AI models, and delivers actionable insights, demonstrating expertise in data pipelines and predictive modeling useful for HR workforce analytics.",
+          "skills": [
+            "Python",
+            "Django",
+            "Data Analytics",
+            "Machine Learning",
+            "Deep Learning",
+            "Quantitative Modeling"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 3.9,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [
+      "required: single-tool item 'PowerPoint' is covered by tools"
+    ],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 4,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=4 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.infineon.com/careers/job/563808972055420",
+    "title": "Werkstudent - Labormessungen an neuartigem Synchron-Induktionsmotor (w/m/div)",
+    "company": "Unknown",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Werkstudent - Labormessungen an neuartigem Synchron-Induktionsmotor",
+      "language": "de",
+      "required": [
+        "Master Elektrotechnik",
+        "Master Mechatronik",
+        "vergleichbarer Studiengang",
+        "mindestens 3 Monate",
+        "sehr gute Deutschkenntnisse",
+        "immatrikuliert an Hochschule",
+        "nicht im Urlaubssemester",
+        "selbstständige Arbeitsweise",
+        "Verständnis Asynchronmaschine",
+        "Kenntnisse digitale Signalverarbeitung"
+      ],
+      "preferred": [
+        "Interesse Masterarbeit",
+        "Kenntnisse Matlab/Simulink",
+        "Englischkenntnisse von Vorteil",
+        "Nähe zum Einsatzort",
+        "Teilzeit 20 Stunden",
+        "Erfahrung Messungen",
+        "Datenanalyse Erfahrung",
+        "Teamintegration"
+      ],
+      "tools": [
+        "Matlab/Simulink"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": null,
+          "other": null
+        },
+        {
+          "language": "German",
+          "level": "very good",
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "electrical machines",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Master’s student in Elektrotechnik (Mechatronik) at a German university, currently enrolled and not in a vacation semester, seeking a 3‑month part‑time position to support laboratory measurements on a novel synchronous‑induction motor. I bring independent work style, solid understanding of asynchronous machines, digital signal processing, and data‑analysis experience, and I am working toward proficiency in MATLAB/Simulink for motor modeling.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL",
+          "NodeJS"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Reinforcement Learning"
+        ],
+        "areas": [
+          {
+            "label": "Web & API Development",
+            "skills": [
+              "Python",
+              "Django",
+              "FastAPI",
+              "React",
+              "NodeJS",
+              "MongoDB",
+              "CSS",
+              "NextJS"
+            ]
+          },
+          {
+            "label": "AI & Data Science",
+            "skills": [
+              "Python",
+              "Machine Learning",
+              "Deep Learning",
+              "Computer Vision",
+              "Natural Language Processing",
+              "Transformers",
+              "Data Analytics",
+              "Quantitative Modeling"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed backend components and real‑time algorithms using Python and quantitative models to optimize decision‑making, achieving high profitability in trading operations.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Real-Time Algorithms",
+            "Backend Components",
+            "Data Analytics",
+            "Mathematics"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech and visual activity analysis, and performed precise data extraction and preprocessing to ensure high‑quality training datasets.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Built an end‑to‑end Python system that streams real‑time sensor‑like market data, applies quantitative and machine‑learning models, and executes actions, mirroring the real‑time data acquisition and analysis required for motor lab measurements.",
+          "skills": [
+            "Python",
+            "Django",
+            "Data Analytics",
+            "Machine Learning",
+            "Deep Learning",
+            "Real-Time Systems",
+            "Quantitative Modeling"
+          ]
+        },
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Created a Python‑based Streamlit application that processes structured datasets and leverages large language models to generate tailored documents, demonstrating expertise in data preprocessing and analytics applicable to interpreting motor measurement data.",
+          "skills": [
+            "Python",
+            "Streamlit",
+            "Natural Language Processing",
+            "Large Language Models",
+            "Transformers",
+            "Data Analytics"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 4.3,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 6,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.infineon.com/careers/job/563808971792696",
+    "title": "Werkstudent - Facility Management in Automatisierungstechnik / Elektrotechnik (w/m/div)",
+    "company": "Unknown",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Werkstudent - Facility Management in Automatisierungstechnik / Elektrotechnik",
+      "language": "de",
+      "required": [
+        "laufenden Studium Elektrotechnik",
+        "laufenden Studium Automatisierungstechnik",
+        "immatrikulierte Studierende",
+        "gute Deutschkenntnisse",
+        "MS Office"
+      ],
+      "preferred": [
+        "erweiterte Kenntnisse PCS7",
+        "TIA-Portal",
+        "Simatic Manager",
+        "interesse technische Infrastruktur",
+        "Teamfähigkeit",
+        "Kommunikationsstärke"
+      ],
+      "tools": [
+        "MS Office",
+        "Excel",
+        "PowerPoint",
+        "PCS7",
+        "TIA-Portal",
+        "Simatic Manager"
+      ],
+      "languages_required": [
+        {
+          "language": "German",
+          "level": null,
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "Facility Management",
+      "knockouts": [
+        "must be enrolled student",
+        "cannot be in vacation semester"
+      ]
+    },
+    "components": {
+      "objective": "Seeking a Werkstudent position in Facility Management within automation and electrical engineering, applying my strong foundation in Python‑based quantitative modeling and data analytics to support technical infrastructure. I aim to further develop proficiency with MS Office and PCS7 while contributing to a collaborative team. Working toward hands-on TIA-Portal and Simatic Manager experience.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL",
+          "NodeJS"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Computer Vision",
+          "Data Analytics",
+          "Quantitative Modeling"
+        ],
+        "areas": [
+          {
+            "label": "AI & Data Engineering",
+            "skills": [
+              "Python",
+              "SQL",
+              "Data Analytics",
+              "Data Preprocessing",
+              "Machine Learning",
+              "Deep Learning",
+              "Transformers",
+              "Large Language Models"
+            ]
+          },
+          {
+            "label": "Web & Application Development",
+            "skills": [
+              "JavaScript",
+              "React",
+              "NodeJS",
+              "FastAPI",
+              "Django",
+              "MongoDB",
+              "CSS",
+              "NextJS"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed multiple functions and quantitative models to boost profitability in financial decision‑making, and built backend components with real‑time algorithms supporting trading operations, leveraging deep learning and data analytics to automate complex processes.",
+          "skills": [
+            "Python",
+            "Deep Learning",
+            "Quantitative Modeling",
+            "Real-Time Algorithms",
+            "Backend Components",
+            "Data Analytics"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech and visual‑activity analysis, and performed data extraction and preprocessing to ensure high accuracy for model training and evaluation, demonstrating strong automation and analytical skills.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Django"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Built an end‑to‑end platform that scrapes market data in real time, applies quantitative and AI models, and executes automated actions, demonstrating expertise in real‑time system integration and data‑driven automation.",
+          "skills": [
+            "Python",
+            "Django",
+            "Data Analytics",
+            "Machine Learning",
+            "Deep Learning",
+            "Real-Time Systems",
+            "Mathematics",
+            "Quantitative Modeling"
+          ]
+        },
+        {
+          "id": "vehicle_sharing",
+          "title": "Vehicle Sharing Application",
+          "description": "Created a full‑stack vehicle sharing app with real‑time CRUD operations and Dijkstra‑based route optimization, highlighting skills in system integration, automation of logistics, and responsive UI development.",
+          "skills": [
+            "NodeJS",
+            "React",
+            "MongoDB",
+            "JavaScript",
+            "Full Stack",
+            "Dijkstra Algorithm",
+            "CRUD",
+            "UI Development"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 4.4,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [
+      "required: single-tool item 'Excel' is covered by tools",
+      "required: single-tool item 'PowerPoint' is covered by tools"
+    ],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [
+        "TIA-Portal",
+        "Simatic Manager"
+      ],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 8,
+      "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=8 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.infineon.com/careers/job/563808971831069",
+    "title": "Werkstudent - Technisches Marketing (w/m/div)",
+    "company": "Unknown",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Werkstudent Technisches Marketing",
+      "language": "de",
+      "required": [
+        "Elektrotechnik",
+        "Informationstechnik",
+        "erste Erfahrung Softwareentwicklung",
+        "sicherer Umgang MS-Office",
+        "fließend Deutsch",
+        "fließend Englisch",
+        "ordentlich immatrikulierte Studierende",
+        "nicht im Urlaubssemester"
+      ],
+      "preferred": [
+        "Embedded Applikationen",
+        "AI-basierte Tools",
+        "MS Dynamics",
+        "Confluence",
+        "Web-basierende Tools",
+        "Datenbanken",
+        "Präsentationen",
+        "Spread-Sheets"
+      ],
+      "tools": [
+        "MS Dynamics",
+        "Confluence",
+        "Web-basierende Tools",
+        "AI-basierten Tools",
+        "MS-Office",
+        "Datenbanken",
+        "Embedded Applikationen"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": "fließend",
+          "other": null
+        },
+        {
+          "language": "German",
+          "level": "fließend",
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "semiconductor marketing",
+      "knockouts": [
+        "ordentlich immatrikulierte Studierende",
+        "nicht im Urlaubssemester"
+      ]
+    },
+    "components": {
+      "objective": "Motivated electrical and information engineering student seeking a Werkstudent Technisches Marketing position to apply strong Python, C++, and Machine Learning skills in data‑driven campaigns. Aiming to deepen experience with MS Dynamics and Confluence while supporting multilingual market initiatives. Working toward hands-on Web-basierende Tools and MS-Office experience.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Data Analytics"
+        ],
+        "areas": [
+          {
+            "label": "Backend Development",
+            "skills": [
+              "Python",
+              "Django",
+              "FastAPI",
+              "SQL",
+              "MongoDB",
+              "NodeJS"
+            ]
+          },
+          {
+            "label": "AI & Modeling",
+            "skills": [
+              "Transformers",
+              "Large Language Models",
+              "Reinforcement Learning",
+              "Quantitative Modeling",
+              "Data Preprocessing",
+              "Machine Learning"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed functions and quantitative models that increased profitability in financial decision‑making, supporting trading operations with real‑time algorithms and AI‑driven backend components.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Real-Time Algorithms",
+            "Backend Components",
+            "Data Analytics",
+            "Mathematics",
+            "SQL"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech and visual activity analysis, handling data extraction and preprocessing to ensure accurate model training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Django",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Built an end-to-end resume generation platform that ingests structured datasets for AI, backend and data roles and uses open-source LLMs to format sections such as projects, skills and role highlights.",
+          "skills": [
+            "Python",
+            "Streamlit",
+            "Natural Language Processing",
+            "Large Language Models",
+            "Transformers",
+            "Data Analytics"
+          ]
+        },
+        {
+          "id": "vehicle_sharing",
+          "title": "Vehicle Sharing Application",
+          "description": "Created a full-stack vehicle-sharing web app for a city, implementing Dijkstra-based route selection, real-time CRUD operations, and a clean UI.",
+          "skills": [
+            "NodeJS",
+            "React",
+            "React-Native",
+            "MongoDB",
+            "CSS",
+            "JavaScript",
+            "Dijkstra Algorithm",
+            "CRUD"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 4.7,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [
+        "Web-basierende Tools",
+        "MS-Office"
+      ],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 5,
+      "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.infineon.com/careers/job/563808972041838",
+    "title": "Working Student - Automotive Project Office (f/m/div)",
+    "company": "Unknown",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Working Student - Automotive Project Office",
+      "language": "en",
+      "required": [
+        "master's degree program",
+        "Fluency in English",
+        "MS PowerPoint",
+        "MS Excel",
+        "hands‑on experience",
+        "AI knowledge",
+        "enrolled at university",
+        "not completed exams",
+        "maximum 20 hours"
+      ],
+      "preferred": [
+        "German language plus",
+        "advanced AI knowledge",
+        "generative AI interest",
+        "self‑driven personality",
+        "proactive personality",
+        "analytical mind",
+        "clear communication",
+        "structured work style"
+      ],
+      "tools": [
+        "MS PowerPoint",
+        "MS Excel",
+        "AI"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": "fluent",
+          "other": null
+        },
+        {
+          "language": "German",
+          "level": null,
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "automotive",
+      "knockouts": [
+        "master’s degree enrollment",
+        "German student status"
+      ]
+    },
+    "components": {
+      "objective": "Master’s student in Computer Science with hands‑on experience in Python, Machine Learning and Data Analytics, seeking a Working Student role in the Automotive Project Office. I am fluent in English, conversational in German, and aim to develop proficiency in MS PowerPoint and MS Excel while contributing AI‑driven insights in a part‑time capacity.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL",
+          "NodeJS"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Data Analytics"
+        ],
+        "areas": [
+          {
+            "label": "AI Development",
+            "skills": [
+              "Python",
+              "Machine Learning",
+              "Deep Learning",
+              "Natural Language Processing",
+              "Transformers",
+              "Large Language Models"
+            ]
+          },
+          {
+            "label": "Full‑Stack Engineering",
+            "skills": [
+              "JavaScript",
+              "React",
+              "NodeJS",
+              "FastAPI",
+              "Django",
+              "MongoDB"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed quant functions and models that boosted profitability in financial decision‑making, and built backend components with real‑time algorithms to support trading operations, surpassing benchmark performance through advanced black‑box and gray‑box modeling.",
+          "skills": [
+            "Python",
+            "Reinforcement Learning",
+            "Deep Learning",
+            "Quantitative Modeling",
+            "Real-Time Algorithms",
+            "Financial Decision-Making"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine learning models for text‑to‑speech applications and high‑functional visual activity analysis, and performed data extraction and preprocessing to ensure accurate model training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "vehicle_sharing",
+          "title": "Vehicle Sharing Application",
+          "description": "Built a full‑stack vehicle‑sharing platform for a city, implementing Dijkstra‑based route optimization and real‑time CRUD operations with a clean UI, demonstrating end‑to‑end system delivery relevant to automotive project workflows.",
+          "skills": [
+            "NodeJS",
+            "React",
+            "MongoDB",
+            "JavaScript",
+            "Dijkstra Algorithm",
+            "UI Development"
+          ]
+        },
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Created an end‑to‑end high‑frequency trading platform that scrapes, analyzes, and filters market data in real time, integrating quantitative and AI models to execute automated actions, showcasing expertise in real‑time systems and data analytics for automotive project contexts.",
+          "skills": [
+            "Python",
+            "Data Scraping",
+            "Real-Time Systems",
+            "Machine Learning",
+            "Quantitative Modeling",
+            "Data Analytics"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 5.3,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 5,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://jobs.infineon.com/careers/job/563808972009600",
+    "title": "Working Student - AI-Assisted Embedded Software Development (f/m/div)",
+    "company": "Unknown",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Working Student - AI-Assisted Embedded Software Development",
+      "language": "en",
+      "required": [
+        "good C programming",
+        "AI coding assistants",
+        "GitHub Copilot",
+        "Claude Code",
+        "debugging tools",
+        "version control systems",
+        "very good English",
+        "1 year experience",
+        "enrolled university student"
+      ],
+      "preferred": [
+        "proactive and structured",
+        "experimenting with new tech",
+        "teamwork",
+        "prototype scripts",
+        "AI-supported workflows",
+        "documentation of findings",
+        "research trends",
+        "close to site"
+      ],
+      "tools": [
+        "C",
+        "GitHub Copilot",
+        "Claude Code",
+        "Codex",
+        "Cursor",
+        "microcontrollers",
+        "debugging tools",
+        "version control systems",
+        "embedded development environments",
+        "AI coding assistants"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": "very good",
+          "other": null
+        },
+        {
+          "language": "German",
+          "level": null,
+          "other": null
+        }
+      ],
+      "years_experience": 1,
+      "domain": "embedded systems",
+      "knockouts": [
+        "enrolled university student",
+        "German law student status"
+      ]
+    },
+    "components": {
+      "objective": "Enrolled university student with one year of experience in AI‑assisted software development, seeking a working‑student role to apply Python, C++, JavaScript and machine‑learning expertise while becoming proficient with GitHub Copilot and Claude code. Very good English communication and a proactive, structured approach. Working toward hands-on debugging tools and version control systems experience.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL",
+          "react"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Reinforcement Learning"
+        ],
+        "areas": [
+          {
+            "label": "Data Engineering",
+            "skills": [
+              "Python",
+              "SQL",
+              "MongoDB",
+              "Data Analytics",
+              "Data Preprocessing",
+              "FastAPI"
+            ]
+          },
+          {
+            "label": "AI Development",
+            "skills": [
+              "Python",
+              "Transformers",
+              "Large Language Models",
+              "Natural Language Processing",
+              "Computer Vision",
+              "Reinforcement Learning"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed high‑profitability quantitative functions and models for financial decision‑making, and built backend components with real‑time algorithms that support trading operations, leveraging AI‑driven black‑box and gray‑box models to exceed benchmark performance.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Real-Time Algorithms",
+            "Backend Components",
+            "Trading Operations",
+            "Financial Decision-Making"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine‑learning models for text‑to‑speech applications and visual‑activity analysis, and performed data extraction and preprocessing to ensure accurate training and evaluation of the models.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Built an end‑to‑end Python system that scrapes market data in real time, applies quantitative and machine‑learning models, and executes trades with low latency, demonstrating real‑time AI‑driven decision making.",
+          "skills": [
+            "Python",
+            "Real-Time Systems",
+            "Machine Learning",
+            "Deep Learning",
+            "Quantitative Modeling",
+            "Data Scraping"
+          ]
+        },
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Created a Python‑based Streamlit app that leverages large language models and transformer‑based NLP to generate role‑specific resumes from structured datasets, automating content framing for AI, backend, and data positions.",
+          "skills": [
+            "Python",
+            "Streamlit",
+            "Natural Language Processing",
+            "Large Language Models",
+            "Transformers",
+            "Data Analytics"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 6.3,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [
+      "force-inserted language requirement: German (level not stated)",
+      "required: single-tool item 'microcontrollers' is covered by tools"
+    ],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [
+        "debugging tools",
+        "version control systems"
+      ],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 2,
+      "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=2 repicked=False"
+    }
+  }
+]

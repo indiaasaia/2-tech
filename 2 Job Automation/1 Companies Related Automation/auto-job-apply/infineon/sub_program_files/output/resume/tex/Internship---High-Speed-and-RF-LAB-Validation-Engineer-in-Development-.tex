@@ -1,0 +1,424 @@
+%
+%Academic CV LaTeX Template
+% Author: Dubasi Pavan Kumar
+% LinkedIn: https://www.linkedin.com/in/im-pavankumar/
+% License: MIT
+%
+% For errors, suggestions, or improvements, please contact:
+% Email: pavankumard.pg19.ma@nitp.ac.in
+%
+
+
+
+\documentclass[a4paper,11pt]{article}
+
+% Package imports
+\usepackage{latexsym}
+\usepackage{xcolor}
+\usepackage{float}
+\usepackage{ragged2e}
+\usepackage[empty]{fullpage}
+\usepackage{wrapfig}
+\usepackage{lipsum}
+\usepackage{tabularx}
+\usepackage{titlesec}
+\usepackage{geometry}
+\usepackage{marvosym}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{cfr-lm}
+\usepackage[T1]{fontenc}
+\usepackage{fontawesome5}
+
+% Color definitions
+\definecolor{darkblue}{RGB}{0,0,139}
+
+% Page layout
+\setlength{\multicolsep}{0pt} 
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\geometry{left=1.4cm, top=0.8cm, right=1.2cm, bottom=1cm}
+\setlength{\footskip}{5pt} % Addressing fancyhdr warning
+
+% Hyperlink setup (moved after fancyhdr to address warning)
+\usepackage[hidelinks]{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=darkblue,
+    filecolor=darkblue,
+    urlcolor=darkblue,
+}
+
+% Custom box settings
+\usepackage[most]{tcolorbox}
+\tcbset{
+    frame code={},
+    center title,
+    left=0pt,
+    right=0pt,
+    top=0pt,
+    bottom=0pt,
+    colback=gray!20,
+    colframe=white,
+    width=\dimexpr\textwidth\relax,
+    enlarge left by=-2mm,
+    boxsep=4pt,
+    arc=0pt,outer arc=0pt,
+}
+
+% URL style
+\urlstyle{same}
+
+% Text alignment
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Section formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-7pt}]
+
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item{
+    \textbf{#1}{\hspace{0.5mm}#2 \vspace{-0.5mm}}
+  }
+}
+
+\newcommand{\resumePOR}[3]{
+\vspace{0.5mm}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+        \textbf{#1}\hspace{0.3mm}#2 & \textit{\small{#3}} 
+    \end{tabular*}
+    \vspace{-2mm}
+}
+
+\newcommand{\resumeSubheading}[4]{
+\vspace{0.5mm}\item
+    \begin{tabular*}{0.98\textwidth}[t]{l@{\extracolsep{\fill}}r}
+        \textbf{#1} & \textit{\footnotesize{#4}} \\
+        \textit{\footnotesize{#3}} &  \footnotesize{#2}\\
+    \end{tabular*}
+    \vspace{-2.4mm}
+}
+
+\newcommand{\resumeProject}[4]{
+\vspace{0.5mm}\item
+    \begin{tabular*}{0.98\textwidth}[t]{l@{\extracolsep{\fill}}r}
+        \textbf{#1} & \textit{\footnotesize{#3}} \\
+        \footnotesize{\textit{#2}} & \footnotesize{#4}
+    \end{tabular*}
+    \vspace{-2.4mm}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemi}{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand{\labelitemii}{$\vcenter{\hbox{\tiny$\circ$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*,labelsep=1mm]}
+\newcommand{\resumeHeadingSkillStart}{\begin{itemize}[leftmargin=*,itemsep=1.7mm, rightmargin=2ex]}
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=*,labelsep=1mm,itemsep=0.5mm]}
+
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}\vspace{2mm}}
+\newcommand{\resumeHeadingSkillEnd}{\end{itemize}\vspace{-2mm}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-2mm}}
+\newcommand{\cvsection}[1]{%
+\vspace{2mm}
+\begin{tcolorbox}
+    \textbf{\large #1}
+\end{tcolorbox}
+    \vspace{-4mm}
+}
+
+\newcolumntype{L}{>{\raggedright\arraybackslash}X}%
+\newcolumntype{R}{>{\raggedleft\arraybackslash}X}%
+\newcolumntype{C}{>{\centering\arraybackslash}X}%
+
+% Commands for icon sizing and positioning
+\newcommand{\socialicon}[1]{\raisebox{-0.05em}{\resizebox{!}{1em}{#1}}}
+\newcommand{\ieeeicon}[1]{\raisebox{-0.3em}{\resizebox{!}{1.3em}{#1}}}
+
+% Font options
+\newcommand{\headerfonti}{\fontfamily{phv}\selectfont} % Helvetica-like (similar to Arial/Calibri)
+\newcommand{\headerfontii}{\fontfamily{ptm}\selectfont} % Times-like (similar to Times New Roman)
+\newcommand{\headerfontiii}{\fontfamily{ppl}\selectfont} % Palatino (elegant serif)
+\newcommand{\headerfontiv}{\fontfamily{pbk}\selectfont} % Bookman (readable serif)
+\newcommand{\headerfontv}{\fontfamily{pag}\selectfont} % Avant Garde-like (similar to Trebuchet MS)
+\newcommand{\headerfontvi}{\fontfamily{cmss}\selectfont} % Computer Modern Sans Serif
+\newcommand{\headerfontvii}{\fontfamily{qhv}\selectfont} % Quasi-Helvetica (another Arial/Calibri alternative)
+\newcommand{\headerfontviii}{\fontfamily{qpl}\selectfont} % Quasi-Palatino (another elegant serif option)
+\newcommand{\headerfontix}{\fontfamily{qtm}\selectfont} % Quasi-Times (another Times New Roman alternative)
+\newcommand{\headerfontx}{\fontfamily{bch}\selectfont} % Charter (clean serif font)
+
+\begin{document}
+\headerfontiii
+
+% % Header
+% \begin{center}
+%     {\Large\textbf{RAVAL MEETKUMAR RITESHKUMAR}}
+% \end{center}
+% \vspace{-6mm}
+
+% \begin{center}
+%     \small{
+%      \href{mailto:ravalmeett@gmail.com}{ravalmeett@gmail.com} | 
+%     \href{https://raval.vercel.app/}{raval.vercel.app} | 
+%     \socialicon{\faLinkedin} \href{https://www.linkedin.com/in/meetraval/}{meetraval} |
+%     \socialicon{\faGithub} \href{https://github.com/ravalmeet}{ravalmeet}
+%     }
+% \end{center}
+
+
+%================ HEADER ================%
+
+\begin{table}[h]
+% \centering
+\begin{tabular}{m{6cm} m{11.8cm}}
+
+%========== INFO SECTION ==========%
+\begin{minipage}[t]{11.5cm}
+
+\headerfontiii
+
+\vspace{1mm}
+
+{{\fontsize{24}{28}\selectfont
+\textbf{{RAVAL MEETKUMAR }}}}
+
+\vspace{5mm}
+
+\begin{tabular}{@{}p{2.8cm}p{8.5cm}}
+
+\textbf{Phone:} 
+& +49 15565 468731\\[1mm]
+
+\textbf{Email:} 
+& \href{mailto:ravalmeett@gmail.com}{ravalmeett@gmail.com} \\[1mm]
+
+% \textbf{Portfolio:} 
+% & \href{https://raval.vercel.app/}{raval.vercel.app} \\[1mm]
+
+\textbf{LinkedIn:} 
+& \socialicon{\faLinkedin}\ 
+\href{https://www.linkedin.com/in/meetraval/}{meetraval} \\[1mm]
+
+\textbf{GitHub:} 
+& \socialicon{\faGithub}\ 
+\href{https://github.com/ravalmeet}{ravalmeet}
+
+\end{tabular}
+
+\end{minipage}
+
+\end{tabular}
+\end{table}
+
+\vspace{-7mm}
+
+\section{\textbf{Career Objective}}
+\vspace{1mm}
+
+\textbf{MSc Artificial Intelligence student at BTU Cottbus-Senftenberg with over 1 year of professional software engineering experience in backend systems, APIs, and database performance. Seeking a working student position in Internship - High Speed and RF LAB Validation Engineer in Development Center Villach at Infineon to contribute strong technical competencies in scalable software architectures, algorithms, and automated data systems.}
+\section{\textbf{Experience}}
+
+
+\vspace{1mm}
+  \textbf{Backend Software Engineer - Soham Infotech} \hfill Gujarat, India | Dec'23 -- Jan'25
+   % \textbf{Software Engineer - Soham } \hfill Gujarat, India | Dec'23 -- Jan'25
+\vspace{-1.5mm} % Adjust spacing if needed
+\begin{itemize}
+  \item Engineered backend microservices, optimized REST API endpoints, and improved relational database queries to reduce latency
+
+% \vspace{-2mm}
+%   \item Collaborated with cross-functional team to integrated backend-systems,server and databases to enhance latency, data management and performance.
+
+\vspace{-2mm}
+  \item \textbf{Skills:} Python, Django, REST APIs, PostgreSQL, Redis, Backend Engineering, Git
+\end{itemize}
+
+\vspace{1mm}
+  \textbf{ Software Engineering Intern - Pantechelearning} \hfill Chennai, India | Dec'21 -- Feb'22
+\vspace{-1.5mm} % Adjust spacing if needed
+\begin{itemize}
+  \item Developed backend infrastructure for web applications using Django and Flask, managing MySQL databases for data workflows
+% \vspace{-2mm}
+%   \item Worked on MySQL for efficient data management and storage, supporting machine learning workflows. Developed backend infrastructure for web applications using Django, and Flask.
+\vspace{-2mm}
+  \item \textbf{Skills:} Python, Flask, Django, MySQL, Backend Systems, REST APIs
+\end{itemize}\section{\textbf{Education}}
+\vspace{-0.4mm}
+
+\begin{itemize}
+\resumeSubheading
+{Master of Science - MS, Artificial Intelligence }{Berlin, Germany}
+{Brandenburgische Technische Universität Cottbus-Senftenberg  }{April 2025 - Current}
+
+\vspace{1.0mm} % Adjust spacing if needed
+\resumeSubheading
+{Bachelor of Engineering - BE, Computer Engineering  }{Gujarat, India}
+{Gujarat Technological University }{June 2020 - May 2024}
+
+\end{itemize}
+\section{\textbf{Main Projects}}
+
+\vspace{1mm}
+  \textbf{Multi-Agent LLM Orchestration Platform  } 
+\vspace{-1.5mm} % Adjust spacing if needed
+\begin{itemize}
+  \item Developed an autonomous multi-agent framework utilizing RAG and vector search to resolve complex user queries with low latency
+\vspace{-3mm}
+  \item \textbf{Skills:} Python, LangChain, FAISS, PyTorch, FastAPI, Vector Embeddings
+\end{itemize}
+
+
+\vspace{1mm}
+   \textbf{Distributed High-Throughput Data Pipeline } 
+\vspace{-1.5mm} % Adjust spacing if needed
+\begin{itemize}
+  \item Designed an event-driven data streaming engine with asynchronous message processing and fault-tolerant persistent storage
+\vspace{-3mm}
+  \item \textbf{Skills:} Python, Docker, Apache Kafka, PostgreSQL, Redis, Microservices
+\end{itemize}
+
+
+
+\section{\textbf{Research and Publications} \hfill }
+\vspace{1mm}
+  \textbf{An Empirical Study on Large Language Models for Sarcasm Detection in Low-resourced Indic Languages}. 
+\vspace{-1mm} % Adjust spacing if needed
+\begin{itemize}
+  \item Conducting research on natural language processing (NLP) models aimed at detecting and analyzing sarcasm across various Indian regional dialects. 
+\vspace{-3mm}
+  \item Focused on enhancing machine learning models to address linguistic diversity and complexities in sarcasm interpretation.
+\end{itemize}
+
+
+
+\section{\textbf{Achievements }}
+\vspace{-0.4mm}
+
+ \resumeHeadingSkillStart
+\vspace{1mm}
+% \vspace{-0.4mm}
+% \resumeSubItem{Leetcode ( \href{https://leetcode.com/u/meetravall/}{Profile} ) : } {500+ Solved Problems, Top 50 Percent}
+%   \vspace{-0.4mm}
+%   \resumeSubItem{CodeChef ( \href{https://leetcode.com/u/meetravall/}{Profile} ) : } {4 Star Coder,}
+% \vspace{-0.4mm}
+% \resumeSubItem{Kaggle ( \href{https://www.kaggle.com/ravalmeett}{Profile} ) : } {Expert Level}
+\vspace{-0.4mm}
+\resumeSubItem{Smart India Hackathon - 2021 : } {Runner's Up - State Level}
+\vspace{-0.4mm}
+\resumeSubItem{Smart India Hackathon - 2022 : } {Runner's Up - National Level}
+\vspace{-0.4mm}
+\resumeSubItem{Azadi ka Amrit Mahotsav - 2023 : } {Runner's Up - State Level}
+\vspace{-0.4mm}
+% \vspace{-0.4mm}
+\resumeSubItem{AI Guild Hackathon - 2025 : } {Winner - Berlin and Branderburg State, Germany}
+  
+  \resumeHeadingSkillEnd
+
+
+
+
+\section{\textbf{Skills}}
+\vspace{-0.4mm}
+ \resumeHeadingSkillStart
+  \vspace{1mm}
+  \resumeSubItem{Programming Languages:}
+    {Python, C++, SQL, Bash, JavaScript, TypeScript}
+
+\resumeSubItem{Specialized Area:}
+    {Backend Engineering, Machine Learning, Cloud Systems, Distributed Systems}
+  
+  \resumeSubItem{Core Technical Skills:}
+    REST APIs, FastAPI, Django, PostgreSQL, Docker, Git, CI/CD
+
+\resumeSubItem{Applied AI \& Analytics:}
+    PyTorch, LangChain, Scikit-learn, Vector Databases, Data Engineering
+
+% \resumeSubItem{Cloud Technologies:}
+%     {DevOps, MLOps, AWS EC2, AWS Lambda, Amazon S3}
+
+  
+  \resumeHeadingSkillEnd
+
+
+
+
+\section{\textbf{Certifications}}
+
+
+
+
+\resumeHeadingSkillStart
+\vspace{1mm}
+\resumeSubItem{\href{https://coursera.org/share/3a4a9873341816c7a080e52e5526cc7a}{Google - Big Data and Machine Learning }}
+
+\resumeSubItem{\href{https://coursera.org/share/cefbd0a13d0b0b9aac57203ff36ebce5}{\href{https://coursera.org/share/cefbd0a13d0b0b9aac57203ff36ebce5}{Google - Machine Learning with TensorFlow} }}
+
+\resumeSubItem{\href{https://www.coursera.org/account/accomplishments/certificate/6V69S8P9PSH9}{How Google does Machine Learning}  }
+
+\resumeSubItem{\href{https://www.coursera.org/account/accomplishments/certificate/6V69S8P9PSH9}{Google - Machine Learning}}
+
+\resumeSubItem{\href{https://www.coursera.org/account/accomplishments/verify/T27YPZ324DWS}{Machine Learning with Python}}
+
+
+\resumeSubItem{\href{https://coursera.org/verify/5NSNQKCW42RW}{Data Science Introduction }}
+
+  
+\resumeSubItem{\href{https://www.coursera.org/account/accomplishments/certificate/Q3ZQWDRCVR52}{Tools for Data Science\href{https://www.coursera.org/account/accomplishments/certificate/Q3ZQWDRCVR52}{Tools for Data Science} } }
+ 
+\resumeSubItem{\href{https://www.hackerrank.com/certificates/95dfce6a91a5}{\href{https://www.hackerrank.com/certificates/95dfce6a91a5}{Problem Solving (Intermediate) Certificate} } }
+  
+   
+\resumeSubItem{\href{https://www.udemy.com/certificate/UC-dbac07d6-ffe4-4b77-b837-10c63c2f956e/}{Java Programming: Complete Beginner to Advanced} }
+ 
+\resumeSubItem{\href{https://www.hackerrank.com/certificates/95dfce6a91a5}{\href{https://www.udemy.com/certificate/UC-6f2bbef1-bfa8-497d-bec4-57dfaa4e6f00/}{Web Development Masterclass Course} } }
+  
+   
+\resumeHeadingSkillEnd
+
+
+\section{\textbf{Additional Projects}}
+
+\vspace{1mm} % Adjust spacing if needed
+
+ \resumeHeadingSkillStart
+  % \resumeSubItem{} {\href{https://github.com/ravalmeet/Vehicle-Sharing-Application}{Vehicle-Sharing-Application} -  { \href{https://raval.vercel.app/}{Live Demo} } - ( AAM Hackathon ) - ( Final Round - Runner's up ) }
+  \resumeSubItem{}
+    {TradingView-Data Fetch} ({ \href{https://github.com/ravalmeet/TradingView-Data}{Live Demo} }) - ( Individual Project ) - ( 40+ Stars , 24+ forks  ) 
+  \resumeSubItem{}
+     {Nirvana-Food-Managment  ( Freelance Work )  }
+  \resumeSubItem{}
+     {Select-Your-Tutor  ( Freelance Work )  }
+     \resumeSubItem{}
+     {Shivshivay Himalaya  ({ \href{Shivshivay.com}{Live Demo} }) - ( Freelance Work )  }
+ \resumeHeadingSkillEnd
+
+\section{\textbf{Languages}}
+
+\vspace{1mm} % Adjust spacing if needed
+
+ \resumeHeadingSkillStart
+  \resumeSubItem{}
+    {English { }( C2 - Native proficiency )}
+  \resumeSubItem{}
+    {German  ( A2 - Conversational proficiency )}
+  \resumeSubItem{}
+    {Hindi  {  }{  }{  }{  }( C2 - Native proficiency )}
+  \resumeSubItem{}
+    {Gujarati { } ( C2 - Native Proficiency )}
+ \resumeHeadingSkillEnd
+
+\section{\textbf{DECLARATION}}
+\vspace{1mm}
+
+\text{I do hereby declare that all the above furnished information is true to the best of my knowledge and belief.}
+\end{document}

@@ -1,0 +1,28 @@
+{
+  "generated_at_utc": "2026-09-19T23:42:50+00:00",
+  "policy": "rank verified resumes by honest-fit score; apply strong-first",
+  "counts": {
+    "verified": 1,
+    "weak": 1
+  },
+  "recommendation": "apply to the 0 strong-fit job(s) first; 1 job(s) fall below the 50-point effort line",
+  "jobs": [
+    {
+      "title": "Werkstudent Forschung / Entwicklung Elektromobilität (m/w/x)",
+      "company": "BMW AG",
+      "job_url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.196000.html",
+      "score": 58.0,
+      "tier": "weak",
+      "required_coverage": 0.2,
+      "preferred_coverage": 1.0,
+      "top_gaps": [
+        "zuverlässige Arbeitsweise",
+        "KI Anwendungserfahrung",
+        "Deutschkenntnisse",
+        "Englischkenntnisse"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-Forschung-Entwicklung-Elektromobilität.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-Forschung-Entwicklung-Elektromobilität.docx"
+    }
+  ]
+}

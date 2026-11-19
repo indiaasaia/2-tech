@@ -1,0 +1,24 @@
+{
+  "company": "sap",
+  "job_id": "744000155471239",
+  "job_url": "https://jobs.sap.com/en/jobs/744000155471239/diploma-student-intern-business-transformation-intern/",
+  "title": "Diploma Student / Intern - Business Transformation Intern",
+  "score": "68.0",
+  "resume": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume_sap\\pdf\\Diploma-Student-Intern---Business-Transformation-Intern.pdf",
+  "cover_letter": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters_sap\\pdf\\Anschreiben_SAP-SE_Diploma-Student-Intern---Business-Transf.pdf",
+  "dry_run_only": true,
+  "final_submit_clicked": false,
+  "result": {
+    "company_id": "sap",
+    "job_url": "https://jobs.sap.com/en/jobs/744000155471239/diploma-student-intern-business-transformation-intern/",
+    "status": "NEEDS_ATTENTION",
+    "resume_path": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume_sap\\pdf\\Diploma-Student-Intern---Business-Transformation-Intern.pdf",
+    "letter_path": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters_sap\\pdf\\Anschreiben_SAP-SE_Diploma-Student-Intern---Business-Transf.pdf",
+    "stages_reached": [],
+    "errors": [],
+    "screenshots": [],
+    "details": {
+      "output_tail": "      \"Former SAP User ID\",\n      \"SAP Program Code\"\n    ],\n    \"problems\": []\n  },\n  \"screenshots\": {\n    \"sap-744000155471239-error\": \"results/sap-744000155471239-error.png\"\n  },\n  \"notes\": []\n}"
+    }
+  }
+}

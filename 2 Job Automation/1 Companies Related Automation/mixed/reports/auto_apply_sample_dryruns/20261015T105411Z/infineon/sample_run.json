@@ -1,0 +1,24 @@
+{
+  "company": "infineon",
+  "job_id": "563808972143015",
+  "job_url": "https://jobs.infineon.com/careers/job/563808972143015",
+  "title": "Working Student - Sales & Marketing Strategy and Operations (f/m/div)",
+  "score": "77.3",
+  "resume": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume_infineon\\pdf\\Working-Student---Sales-Marketing-Strategy-and-Operations-fmdiv.pdf",
+  "cover_letter": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters_infineon\\pdf\\Anschreiben_Infineon-Technologies-AG_Working-Student---Sales-Marketing-Strate.pdf",
+  "dry_run_only": true,
+  "final_submit_clicked": false,
+  "result": {
+    "company_id": "infineon",
+    "job_url": "https://jobs.infineon.com/careers/job/563808972143015",
+    "status": "NEEDS_ATTENTION",
+    "resume_path": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume_infineon\\pdf\\Working-Student---Sales-Marketing-Strategy-and-Operations-fmdiv.pdf",
+    "letter_path": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters_infineon\\pdf\\Anschreiben_Infineon-Technologies-AG_Working-Student---Sales-Marketing-Strate.pdf",
+    "stages_reached": [],
+    "errors": [],
+    "screenshots": [],
+    "details": {
+      "output_tail": " \"cookie_banner\": true,\n \"resume_confirm_clicked\": true,\n \"resume_processing\": {\n  \"chip_seen\": false,\n  \"autofill_window_waited\": false\n },\n \"popup\": \"not-present\",\n \"error\": \"autofill left required contact fields empty: ['first_name', 'last_name', 'email', 'phone'] (observed: {'first_name': '', 'last_name': '', 'email': '', 'phone': '', 'phone_country_code': ''})\"\n}\nFinal status: NEEDS_ATTENTION"
+    }
+  }
+}

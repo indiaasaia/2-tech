@@ -1,0 +1,54 @@
+{
+  "jobId": "1453020633",
+  "jobUrl": "https://careers.sap.com/job/St_-Leon-Rot-Working-Student-%28fmd%29-SAP-Cloud-ALM-Operations-Team-68789/1453020633/",
+  "resume": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\auto-job-apply\\sap\\sub_program_files\\output\\resume\\pdf\\Working-Student---SAP-Cloud-ALM-Operations-Team.pdf",
+  "status": "DRY_RUN",
+  "dryRun": true,
+  "startedAt": "2026-11-16T17:34:07.718858+00:00",
+  "finishedAt": "2026-11-16T17:38:19.481390+00:00",
+  "beforeSubmitUrl": "https://career5.successfactors.eu/portalcareer?_s.crb=bBg%252bEIgfMz7BJnCBnUf9aXNdytQCvskTldDZPyDIKcw%253d",
+  "afterSubmitUrl": null,
+  "beforeSubmitTitle": "Career Opportunities: Apply for Working Student (f/m/d) - SAP Cloud ALM Operations Team (458242)",
+  "afterSubmitTitle": null,
+  "successIndicators": {
+    "confirmationMessage": false,
+    "urlChanged": false,
+    "formChanged": false,
+    "networkResponses": []
+  },
+  "fields": {
+    "filled": {
+      "resume": {
+        "previous": "Working-Student---SAP-Cloud-ALM-Operations-Team.pdf",
+        "now": "Working-Student---SAP-Cloud-ALM-Operations-Team.pdf",
+        "verified": true
+      },
+      "Are you legally authorized to work": "Yes",
+      "Are you currently employed by:": "None of the Above",
+      "Were you previously employed by SAP?": "No",
+      "Please confirm your current country of residence": "Germany",
+      "What is your gender?": "Male",
+      "consentChecked": true,
+      "leftEmpty": [
+        "Former SAP User ID",
+        "SAP Program Code"
+      ],
+      "skillsRemoved": 52
+    },
+    "leftEmpty": [
+      "Former SAP User ID",
+      "SAP Program Code"
+    ],
+    "problems": []
+  },
+  "errors": [],
+  "screenshots": {
+    "sap-1453020633-application-page": "results/sap-1453020633-application-page.png",
+    "sap-1453020633-after-resume-upload": "results/sap-1453020633-after-resume-upload.png",
+    "sap-1453020633-before-submit": "results/sap-1453020633-before-submit.png"
+  },
+  "notes": [
+    "DRY RUN: final submission was intentionally skipped."
+  ],
+  "durationSeconds": 251.8
+}

@@ -1,0 +1,1950 @@
+{
+  "generated_at_utc": "2026-10-14T11:52:11+00:00",
+  "engine": "v2",
+  "total_jobs": 28,
+  "results": [
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152629140/executive-gm-canberra/",
+      "title": "Executive GM — Canberra",
+      "company": "SAP",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Executive GM — Canberra",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at SAP, as the focus on AI, AI Agents connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles.",
+        "motivation": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations. I want to apply my documented experience in AI, AI Agents directly to the responsibilities described.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "SAP",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "SAP",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-interest-ai-01"
+          ],
+          "motivation_evidence_ids": [
+            "resume_gen"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "resume_gen"
+          ],
+          "owned_skills_matched": [
+            "AI",
+            "AI Agents"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "public sector technology sales",
+            "full P&L accountability",
+            "Australian Federal Government market",
+            "operating at Secretary level",
+            "lead, coach, and develop",
+            "technology partner ecosystem",
+            "enterprise technology modernisation",
+            "cloud ERP",
+            "data platforms"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_Executive-GM-Canberra.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_Executive-GM-Canberra.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_Executive-GM-Canberra.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_Executive-GM-Canberra.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Executive-GM-Canberra.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Executive-GM-Canberra.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_SAP_Executive-GM-Canberra"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152628469/senior-account-executive/",
+      "title": "Senior Account Executive",
+      "company": "SAP",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Senior Account Executive",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at SAP, as the focus on AI connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation.",
+        "motivation": "I would bring my documented experience in AI to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "SAP",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "SAP",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [
+            "AI"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Bachelor's degree",
+            "10+ years account management",
+            "5+ years cloud sales",
+            "5+ years customer relationship",
+            "cloud sales platforms",
+            "tailored proposals presentations",
+            "industry trends cloud AI",
+            "upselling cross-selling cloud",
+            "exceeding sales targets",
+            "strategic customer relationships"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_Senior-Account-Executive.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_Senior-Account-Executive.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_Senior-Account-Executive.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_Senior-Account-Executive.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Senior-Account-Executive.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Senior-Account-Executive.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_SAP_Senior-Account-Executive"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152612169/internship-ai-automation-developer-fm/",
+      "title": "Internship: AI Automation Developer F/M",
+      "company": "SAP",
+      "resume_status": "parked",
+      "letter": null,
+      "letter_gates": null,
+      "letter_gates_passed": false,
+      "artifacts": {
+        "letter_tex": "",
+        "letter_pdf": "",
+        "letter_docx": "",
+        "letter_txt": "",
+        "resume_pdf": "",
+        "resume_docx": ""
+      },
+      "upload_slot": "",
+      "notes": "",
+      "bundle_missing": [],
+      "artifacts_complete": false,
+      "letter_error": "resume not gated_ok (parked) — no letter attempted",
+      "llm_calls": 0
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152611519/sap-ixp-intern-it-end-user-support-specialist-deal-support-coe-l2c-euas/",
+      "title": "SAP iXp Intern - IT End User Support Specialist, Deal Support CoE L2C EU/AS",
+      "company": "SAP",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "SAP iXp Intern - IT End User Support Specialist, Deal Support CoE L2C EU/AS",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at SAP. My academic background in Artificial Intelligence and Computer Engineering is the basis for my interest in the work described for this role.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation.",
+        "motivation": "I would bring my documented experience in Python, Machine Learning, Data Analytics to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "SAP",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "SAP",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "customer-service attitude",
+            "analytical skills",
+            "inquisitive mindset",
+            "multitasking prioritization",
+            "strong English communication",
+            "confidence navigating challenges",
+            "independent and team work",
+            "bachelor´s degree",
+            "equivalent work experience"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_SAP-iXp-Intern---IT-End-User-Support-Spe.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_SAP-iXp-Intern---IT-End-User-Support-Spe.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_SAP-iXp-Intern---IT-End-User-Support-Spe.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_SAP-iXp-Intern---IT-End-User-Support-Spe.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\SAP-iXp-Intern---IT-End-User-Support-Specialist-Deal-Support-CoE-L2C-EUAS.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\SAP-iXp-Intern---IT-End-User-Support-Specialist-Deal-Support-CoE-L2C-EUAS.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_SAP_SAP-iXp-Intern---IT-End-User-Support-Spe"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152603549/senior-account-executive/",
+      "title": "Senior Account Executive",
+      "company": "SAP",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Senior Account Executive",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at SAP. My academic background in Artificial Intelligence and Computer Engineering is the basis for my interest in the work described for this role.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles.",
+        "motivation": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations. I am particularly motivated by developing reusable UI components and modular design systems based on modern web standards. I want to apply my documented experience in Python, Machine Learning, Data Analytics directly to the responsibilities described.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "SAP",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "SAP",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-interest-ai-01",
+            "mot-interest-frontend-01",
+            "mot-dir-web-ai-01"
+          ],
+          "motivation_evidence_ids": [
+            "resume_gen",
+            "vehicle_sharing"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "resume_gen"
+          ],
+          "owned_skills_matched": [],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "10+ years experience",
+            "complex business software",
+            "team-selling environment",
+            "large transactions",
+            "business application sales",
+            "Business level English",
+            "Local language Fluent",
+            "Bachelor equivalent"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_Senior-Account-Executive-2.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_Senior-Account-Executive-2.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_Senior-Account-Executive-2.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_Senior-Account-Executive-2.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Senior-Account-Executive-2.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Senior-Account-Executive-2.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_SAP_Senior-Account-Executive-2"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152600039/general-administration-persons-with-disabilities-%E4%B8%80%E8%88%AC%E4%BA%8B%E5%8B%99%E8%81%B7-%E9%9A%9C%E3%81%8C%E3%81%84%E8%80%85%E6%8E%A1%E7%94%A8/",
+      "title": "General Administration - Persons with Disabilities（一般事務職／障がい者採用）",
+      "company": "SAP",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "General Administration - Persons with Disabilities（一般事務職／障がい者採用）",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at SAP, as the focus on AI connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles.",
+        "motivation": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations. I would bring my documented experience in AI to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "SAP",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "SAP",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-interest-ai-01",
+            "mot-dir-web-ai-01",
+            "mot-pref-agile-01"
+          ],
+          "motivation_evidence_ids": [
+            "resume_gen",
+            "vehicle_sharing",
+            "soham"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "resume_gen"
+          ],
+          "owned_skills_matched": [
+            "AI"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "English reading/writing",
+            "administrative functions understanding",
+            "detail-oriented",
+            "proactive approach",
+            "willingness to learn"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_General-Administration---Persons-with-Di.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_General-Administration---Persons-with-Di.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_General-Administration---Persons-with-Di.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_General-Administration---Persons-with-Di.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\General-Administration---Persons-with-Disabilities一般事務職障がい者採用.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\General-Administration---Persons-with-Disabilities一般事務職障がい者採用.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_SAP_General-Administration---Persons-with-Di"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152597699/technology-associate-consultant-six-months-limited-contract/",
+      "title": "Technology Associate Consultant (Six Months Limited Contract)",
+      "company": "SAP",
+      "resume_status": "parked",
+      "letter": null,
+      "letter_gates": null,
+      "letter_gates_passed": false,
+      "artifacts": {
+        "letter_tex": "",
+        "letter_pdf": "",
+        "letter_docx": "",
+        "letter_txt": "",
+        "resume_pdf": "",
+        "resume_docx": ""
+      },
+      "upload_slot": "",
+      "notes": "",
+      "bundle_missing": [],
+      "artifacts_complete": false,
+      "letter_error": "resume not gated_ok (parked) — no letter attempted",
+      "llm_calls": 0
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152592370/business-process-consultant-sf/",
+      "title": "Business Process Consultant - SF",
+      "company": "SAP",
+      "resume_status": "parked",
+      "letter": null,
+      "letter_gates": null,
+      "letter_gates_passed": false,
+      "artifacts": {
+        "letter_tex": "",
+        "letter_pdf": "",
+        "letter_docx": "",
+        "letter_txt": "",
+        "resume_pdf": "",
+        "resume_docx": ""
+      },
+      "upload_slot": "",
+      "notes": "",
+      "bundle_missing": [],
+      "artifacts_complete": false,
+      "letter_error": "resume not gated_ok (parked) — no letter attempted",
+      "llm_calls": 0
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152592429/technical-quality-manager-services-south-korea/",
+      "title": "Technical Quality Manager-Services, South Korea",
+      "company": "SAP",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Technical Quality Manager-Services, South Korea",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at SAP. My academic background in Artificial Intelligence and Computer Engineering is the basis for my interest in the work described for this role.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation.",
+        "motivation": "I would bring my documented experience in Python, Machine Learning, Data Analytics to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "SAP",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "SAP",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "client relationship management",
+            "account management roles",
+            "strong communication skills",
+            "service delivery coordination",
+            "project management",
+            "organizing multiple tasks",
+            "CRM systems",
+            "service management tools",
+            "service level agreements",
+            "performance metrics"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_Technical-Quality-Manager-Services-South.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_Technical-Quality-Manager-Services-South.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_Technical-Quality-Manager-Services-South.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_Technical-Quality-Manager-Services-South.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Technical-Quality-Manager-Services-South-Korea.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Technical-Quality-Manager-Services-South-Korea.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_SAP_Technical-Quality-Manager-Services-South"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152541819/digital-solution-advisor-baip-specialist-for-sap-digital-hub-sap-next-gen/",
+      "title": "Digital Solution Advisor, BAIP Specialist for SAP Digital Hub – SAP Next Gen",
+      "company": "SAP",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Digital Solution Advisor, BAIP Specialist for SAP Digital Hub – SAP Next Gen",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at SAP, as the focus on Python, Artificial Intelligence connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation.",
+        "motivation": "I would bring my documented experience in Python, Artificial Intelligence, AI to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "SAP",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "SAP",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [
+            "Python",
+            "Artificial Intelligence",
+            "AI",
+            "SQL"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Bachelor's degree",
+            "0-2 years experience",
+            "AI/ML concepts",
+            "English proficiency"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_Digital-Solution-Advisor-BAIP-Specialist.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_Digital-Solution-Advisor-BAIP-Specialist.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_Digital-Solution-Advisor-BAIP-Specialist.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_Digital-Solution-Advisor-BAIP-Specialist.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Digital-Solution-Advisor-BAIP-Specialist-for-SAP-Digital-Hub-SAP-Next-Gen.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Digital-Solution-Advisor-BAIP-Specialist-for-SAP-Digital-Hub-SAP-Next-Gen.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_SAP_Digital-Solution-Advisor-BAIP-Specialist"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152531389/services-account-executive-oil-gas/",
+      "title": "Services Account Executive (Oil & Gas)",
+      "company": "SAP",
+      "resume_status": "parked",
+      "letter": null,
+      "letter_gates": null,
+      "letter_gates_passed": false,
+      "artifacts": {
+        "letter_tex": "",
+        "letter_pdf": "",
+        "letter_docx": "",
+        "letter_txt": "",
+        "resume_pdf": "",
+        "resume_docx": ""
+      },
+      "upload_slot": "",
+      "notes": "",
+      "bundle_missing": [],
+      "artifacts_complete": false,
+      "letter_error": "resume not gated_ok (parked) — no letter attempted",
+      "llm_calls": 0
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152531179/services-account-executive-oil-gas/",
+      "title": "Services Account Executive (Oil & Gas)",
+      "company": "SAP",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Services Account Executive (Oil & Gas)",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at SAP, as the focus on AI, AI Agents connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles.",
+        "motivation": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations. I want to apply my documented experience in AI, AI Agents, Data Analytics directly to the responsibilities described.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "SAP",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "SAP",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-interest-ai-01"
+          ],
+          "motivation_evidence_ids": [
+            "resume_gen"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "resume_gen"
+          ],
+          "owned_skills_matched": [
+            "AI",
+            "AI Agents",
+            "Data Analytics"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Customer Value Journey Alignment",
+            "Complex Sales",
+            "Customer Value Proposition",
+            "Account Governance",
+            "Cloud Strategy",
+            "Customer Engagement",
+            "Relationship Building",
+            "Customer Relationship Management",
+            "Negotiation",
+            "Sales Territory Management"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_Services-Account-Executive-Oil-Gas-2.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_Services-Account-Executive-Oil-Gas-2.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_Services-Account-Executive-Oil-Gas-2.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_Services-Account-Executive-Oil-Gas-2.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Services-Account-Executive-Oil-Gas-2.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Services-Account-Executive-Oil-Gas-2.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_SAP_Services-Account-Executive-Oil-Gas-2"
+    },
+    {
+      "job_url": "https://jobs.sap.com/job/Walldorf-Working-Student-%28fmd%29-HR-Learning-&-Development-69190/1437947533/",
+      "title": "Working Student (f/m/d) - HR Learning & Development",
+      "company": "SAP",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Working Student (f/m/d) - HR Learning & Development",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at SAP, as the focus on AI connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation.",
+        "motivation": "I would bring my documented experience in AI to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "SAP",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "SAP",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [
+            "AI"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "student at university",
+            "office work required",
+            "strong English skills",
+            "MS Office proficiency",
+            "PowerPoint skills",
+            "Excel skills"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_Working-Student---HR-Learning-Developmen.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_Working-Student---HR-Learning-Developmen.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_Working-Student---HR-Learning-Developmen.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_Working-Student---HR-Learning-Developmen.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---HR-Learning-Development.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---HR-Learning-Development.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_SAP_Working-Student---HR-Learning-Developmen"
+    },
+    {
+      "job_url": "https://jobs.sap.com/job/St_-Leon-Rot-Working-Student-%28fmd%29-Machine-TranslationNatural-Language-Processing-68789/1437176333/",
+      "title": "Working Student (f/m/d) - Machine Translation/Natural Language Processing",
+      "company": "SAP",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Working Student (f/m/d) - Machine Translation/Natural Language Processing",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at SAP, as the focus on Python, AI connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles.",
+        "motivation": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations. I want to apply my documented experience in Python, AI, Large Language Models directly to the responsibilities described.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "SAP",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "SAP",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-interest-ai-01"
+          ],
+          "motivation_evidence_ids": [
+            "resume_gen"
+          ],
+          "fit_evidence_ids": [
+            "pantechelearning",
+            "resume_gen"
+          ],
+          "owned_skills_matched": [
+            "Python",
+            "AI",
+            "Large Language Models",
+            "Machine Learning",
+            "Transformers"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "currently enrolled student",
+            "Computer Science",
+            "Computational Linguistics",
+            "Linux environment",
+            "communication skills in English"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_Working-Student---Machine-TranslationNat.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_Working-Student---Machine-TranslationNat.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_Working-Student---Machine-TranslationNat.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_Working-Student---Machine-TranslationNat.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---Machine-TranslationNatural-Language-Processing.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---Machine-TranslationNatural-Language-Processing.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_SAP_Working-Student---Machine-TranslationNat"
+    },
+    {
+      "job_url": "https://jobs.sap.com/job/Walldorf-Working-Student-%28fmd%29-IT-Portfolio-69190/1435713633/",
+      "title": "Working Student (f/m/d) - IT Portfolio",
+      "company": "SAP",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Working Student (f/m/d) - IT Portfolio",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at SAP. My academic background in Artificial Intelligence and Computer Engineering is the basis for my interest in the work described for this role.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation.",
+        "motivation": "I would bring my documented experience in Python, Machine Learning, Data Analytics to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "SAP",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "SAP",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Fluent in English",
+            "Willingness to work onsite",
+            "Strong analytical and problem-solving",
+            "Strong communication and negotiation",
+            "Currently pursuing a Master’s"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_Working-Student---IT-Portfolio.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_Working-Student---IT-Portfolio.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_Working-Student---IT-Portfolio.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_Working-Student---IT-Portfolio.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---IT-Portfolio.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---IT-Portfolio.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_SAP_Working-Student---IT-Portfolio"
+    },
+    {
+      "job_url": "https://jobs.sap.com/job/Garching-bei-M%C3%BCnchen-%28Munich%29-Working-Student-%28fmd%29-SAI-native-Software-Development-85748/1437848533/",
+      "title": "Working Student (f/m/d) - SAI-native Software Development",
+      "company": "SAP",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Working Student (f/m/d) - SAI-native Software Development",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at SAP, as the focus on Python, C++ connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. Furthermore, I developed a full-stack vehicle-sharing application featuring route selection via the Dijkstra algorithm, real-time CRUD operations, and clean user-interface features.",
+        "motivation": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations. I am particularly motivated by developing reusable UI components and modular design systems based on modern web standards. I want to apply my documented experience in Python, C++, AI directly to the responsibilities described.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "SAP",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "SAP",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-interest-ai-01",
+            "mot-interest-frontend-01",
+            "mot-dir-web-ai-01"
+          ],
+          "motivation_evidence_ids": [
+            "resume_gen",
+            "vehicle_sharing"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "vehicle_sharing"
+          ],
+          "owned_skills_matched": [
+            "Python",
+            "C++",
+            "AI",
+            "JavaScript",
+            "TypeScript",
+            "Agile Development",
+            "Git",
+            "React",
+            "React-Native",
+            "NodeJS"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Munich office required",
+            "AI coding agents",
+            "Programming language knowledge",
+            "Software development methodologies",
+            "Git version control"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_Working-Student---SAI-native-Software-De.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_Working-Student---SAI-native-Software-De.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_Working-Student---SAI-native-Software-De.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_Working-Student---SAI-native-Software-De.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---SAI-native-Software-Development.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---SAI-native-Software-Development.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_SAP_Working-Student---SAI-native-Software-De"
+    },
+    {
+      "job_url": "https://jobs.sap.com/job/Garching-bei-M%C3%BCnchen-%28Munich%29-Working-Student-%28fmd%29-AI-Software-Engineer-85748/1437976633/",
+      "title": "Working Student (f/m/d) - AI Software Engineer",
+      "company": "SAP",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Working Student (f/m/d) - AI Software Engineer",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at SAP, as the focus on Python, Artificial Intelligence connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles.",
+        "motivation": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations. I want to apply my documented experience in Python, Artificial Intelligence, AI directly to the responsibilities described.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "SAP",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "SAP",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-interest-ai-01",
+            "mot-pref-agile-01",
+            "mot-dir-web-ai-01"
+          ],
+          "motivation_evidence_ids": [
+            "resume_gen",
+            "soham",
+            "vehicle_sharing"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "resume_gen"
+          ],
+          "owned_skills_matched": [
+            "Python",
+            "Artificial Intelligence",
+            "AI",
+            "Git",
+            "FastAPI"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "AI concepts",
+            "agent skills",
+            "MCP",
+            "A2A",
+            "prompt techniques",
+            "context-injection",
+            "RAG",
+            "GitHub Actions"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_Working-Student---AI-Software-Engineer.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_Working-Student---AI-Software-Engineer.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_Working-Student---AI-Software-Engineer.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_Working-Student---AI-Software-Engineer.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---AI-Software-Engineer.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---AI-Software-Engineer.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_SAP_Working-Student---AI-Software-Engineer"
+    },
+    {
+      "job_url": "https://jobs.sap.com/job/Walldorf-Working-Student-%28fmd%29-for-Agentic-AI-and-Robot-Learning-Research-in-Cooperation-with-KIT-69190/1439977333/",
+      "title": "Working Student (f/m/d) for Agentic AI and Robot Learning Research in Cooperation with KIT",
+      "company": "SAP",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Working Student (f/m/d) for Agentic AI and Robot Learning Research in Cooperation with KIT",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at SAP, as the focus on Python, Git connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles.",
+        "motivation": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations. I would bring my documented experience in Python, Git to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "SAP",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "SAP",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-interest-ai-01"
+          ],
+          "motivation_evidence_ids": [
+            "resume_gen"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "resume_gen"
+          ],
+          "owned_skills_matched": [
+            "Python",
+            "Git"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Student (f/m/d)",
+            "Python programming",
+            "ML frameworks",
+            "Fluent English"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_Working-Student-for-Agentic-AI-and-Robot.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_Working-Student-for-Agentic-AI-and-Robot.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_Working-Student-for-Agentic-AI-and-Robot.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_Working-Student-for-Agentic-AI-and-Robot.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student-for-Agentic-AI-and-Robot-Learning-Research-in-Cooperation-with-K.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student-for-Agentic-AI-and-Robot-Learning-Research-in-Cooperation-with-K.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_SAP_Working-Student-for-Agentic-AI-and-Robot"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155471839/it-business-services-consultant/",
+      "title": "IT Business Services Consultant",
+      "company": "SAP SE",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "IT Business Services Consultant",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at SAP SE. My academic background in Artificial Intelligence and Computer Engineering is the basis for my interest in the work described for this role.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation.",
+        "motivation": "I would bring my documented experience in Python, Machine Learning, Data Analytics to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "SAP SE\nBangalore, Karnataka, India",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "successfactors",
+        "company_name": "SAP SE",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Bachelor’s degree",
+            "SAP NetWeaver Administration",
+            "operation of systems installations",
+            "coordinate operational tasks",
+            "critical decisions",
+            "team player",
+            "weekends/off hours",
+            "9-13+ years experience",
+            "Fluent in English"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP-SE_IT-Business-Services-Consultant.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP-SE_IT-Business-Services-Consultant.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP-SE_IT-Business-Services-Consultant.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP-SE_IT-Business-Services-Consultant.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\IT-Business-Services-Consultant.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\IT-Business-Services-Consultant.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_SAP-SE_IT-Business-Services-Consultant"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155471239/diploma-student-intern-business-transformation-intern/",
+      "title": "Diploma Student / Intern - Business Transformation Intern",
+      "company": "SAP SE",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Diploma Student / Intern - Business Transformation Intern",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at SAP SE. My academic background in Artificial Intelligence and Computer Engineering is the basis for my interest in the work described for this role.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation.",
+        "motivation": "I would bring my documented experience in Python, Machine Learning, Data Analytics to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "SAP SE\nHo Chi Minh City, , Vietnam",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "successfactors",
+        "company_name": "SAP SE",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Bachelor's degree",
+            "Full-time 6-month internship",
+            "English communication skills",
+            "Analytical problem-solving skills",
+            "Data and spreadsheets",
+            "Translate analysis presentations",
+            "Productivity collaboration tools"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP-SE_Diploma-Student-Intern---Business-Transf.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP-SE_Diploma-Student-Intern---Business-Transf.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP-SE_Diploma-Student-Intern---Business-Transf.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP-SE_Diploma-Student-Intern---Business-Transf.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Diploma-Student-Intern---Business-Transformation-Intern.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Diploma-Student-Intern---Business-Transformation-Intern.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_SAP-SE_Diploma-Student-Intern---Business-Transf"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155442599/business-process-consultant-sf/",
+      "title": "Business Process Consultant - SF",
+      "company": "SAP SE",
+      "resume_status": "parked",
+      "letter": null,
+      "letter_gates": null,
+      "letter_gates_passed": false,
+      "artifacts": {
+        "letter_tex": "",
+        "letter_pdf": "",
+        "letter_docx": "",
+        "letter_txt": "",
+        "resume_pdf": "",
+        "resume_docx": ""
+      },
+      "upload_slot": "",
+      "notes": "",
+      "bundle_missing": [],
+      "artifacts_complete": false,
+      "letter_error": "resume not gated_ok (parked) — no letter attempted",
+      "llm_calls": 0
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155414659/diploma-student-intern/",
+      "title": "Diploma Student / Intern",
+      "company": "SAP SE",
+      "resume_status": "parked",
+      "letter": null,
+      "letter_gates": null,
+      "letter_gates_passed": false,
+      "artifacts": {
+        "letter_tex": "",
+        "letter_pdf": "",
+        "letter_docx": "",
+        "letter_txt": "",
+        "resume_pdf": "",
+        "resume_docx": ""
+      },
+      "upload_slot": "",
+      "notes": "",
+      "bundle_missing": [],
+      "artifacts_complete": false,
+      "letter_error": "resume not gated_ok (parked) — no letter attempted",
+      "llm_calls": 0
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155408689/diploma-student-intern/",
+      "title": "Diploma Student / Intern",
+      "company": "SAP SE",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Diploma Student / Intern",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at SAP SE. My academic background in Artificial Intelligence and Computer Engineering is the basis for my interest in the work described for this role.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation.",
+        "motivation": "I would bring my documented experience in Python, Machine Learning, Data Analytics to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "SAP SE\nDalian, , China",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "successfactors",
+        "company_name": "SAP SE",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Current university students",
+            "graduating in 2027/2028",
+            "Strong communication skills",
+            "spoken and written English",
+            "6‑month internship",
+            "at least 3 days"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP-SE_Diploma-Student-Intern-2.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP-SE_Diploma-Student-Intern-2.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP-SE_Diploma-Student-Intern-2.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP-SE_Diploma-Student-Intern-2.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Diploma-Student-Intern-2.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Diploma-Student-Intern-2.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_SAP-SE_Diploma-Student-Intern-2"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155404290/sap-hana-cloud-database-developer/",
+      "title": "SAP HANA - Cloud Database Developer",
+      "company": "SAP SE",
+      "resume_status": "parked",
+      "letter": null,
+      "letter_gates": null,
+      "letter_gates_passed": false,
+      "artifacts": {
+        "letter_tex": "",
+        "letter_pdf": "",
+        "letter_docx": "",
+        "letter_txt": "",
+        "resume_pdf": "",
+        "resume_docx": ""
+      },
+      "upload_slot": "",
+      "notes": "",
+      "bundle_missing": [],
+      "artifacts_complete": false,
+      "letter_error": "resume not gated_ok (parked) — no letter attempted",
+      "llm_calls": 0
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155364630/copy-of-sap-ixp-intern-technical-quality-manager-services-engagement/",
+      "title": "Copy of SAP iXp Intern - Technical Quality Manager | Services Engagement",
+      "company": "SAP SE",
+      "resume_status": "parked",
+      "letter": null,
+      "letter_gates": null,
+      "letter_gates_passed": false,
+      "artifacts": {
+        "letter_tex": "",
+        "letter_pdf": "",
+        "letter_docx": "",
+        "letter_txt": "",
+        "resume_pdf": "",
+        "resume_docx": ""
+      },
+      "upload_slot": "",
+      "notes": "",
+      "bundle_missing": [],
+      "artifacts_complete": false,
+      "letter_error": "resume not gated_ok (parked) — no letter attempted",
+      "llm_calls": 0
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155365399/sap-ixp-intern-technical-quality-manager-services-engagement/",
+      "title": "SAP iXp Intern - Technical Quality Manager | Services Engagement",
+      "company": "SAP SE",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "SAP iXp Intern - Technical Quality Manager | Services Engagement",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at SAP SE. My academic background in Artificial Intelligence and Computer Engineering is the basis for my interest in the work described for this role.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation.",
+        "motivation": "I would bring my documented experience in Python, Machine Learning, Data Analytics to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "SAP SE\nSão Leopoldo, RS, Brazil",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "successfactors",
+        "company_name": "SAP SE",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "university student",
+            "business administration",
+            "accounting",
+            "industrial engineering",
+            "communication skills",
+            "problem solving",
+            "English fluency",
+            "Portuguese fluency",
+            "advanced Excel",
+            "advanced PowerPoint"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP-SE_SAP-iXp-Intern---Technical-Quality-Manag.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP-SE_SAP-iXp-Intern---Technical-Quality-Manag.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP-SE_SAP-iXp-Intern---Technical-Quality-Manag.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP-SE_SAP-iXp-Intern---Technical-Quality-Manag.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\SAP-iXp-Intern---Technical-Quality-Manager-Services-Engagement.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\SAP-iXp-Intern---Technical-Quality-Manager-Services-Engagement.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_SAP-SE_SAP-iXp-Intern---Technical-Quality-Manag"
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155320950/temporary-less-6-month-fixed-salary/",
+      "title": "Temporary less 6 month fixed salary",
+      "company": "SAP SE",
+      "resume_status": "parked",
+      "letter": null,
+      "letter_gates": null,
+      "letter_gates_passed": false,
+      "artifacts": {
+        "letter_tex": "",
+        "letter_pdf": "",
+        "letter_docx": "",
+        "letter_txt": "",
+        "resume_pdf": "",
+        "resume_docx": ""
+      },
+      "upload_slot": "",
+      "notes": "",
+      "bundle_missing": [],
+      "artifacts_complete": false,
+      "letter_error": "resume not gated_ok (parked) — no letter attempted",
+      "llm_calls": 0
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155306107/ui-developer/",
+      "title": "UI Developer",
+      "company": "SAP SE",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "UI Developer",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at SAP SE, as the focus on Artificial Intelligence, AI connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. Furthermore, I developed a full-stack vehicle-sharing application featuring route selection via the Dijkstra algorithm, real-time CRUD operations, and clean user-interface features.",
+        "motivation": "I am particularly motivated by developing reusable UI components and modular design systems based on modern web standards. I want to apply my documented experience in Artificial Intelligence, AI, TypeScript directly to the responsibilities described.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "SAP SE\nMontreal, , Canada",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "successfactors",
+        "company_name": "SAP SE",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-interest-frontend-01",
+            "mot-dir-web-ai-01",
+            "mot-pref-agile-01"
+          ],
+          "motivation_evidence_ids": [
+            "vehicle_sharing",
+            "resume_gen",
+            "soham"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "vehicle_sharing"
+          ],
+          "owned_skills_matched": [
+            "Artificial Intelligence",
+            "AI",
+            "TypeScript",
+            "Git",
+            "REST APIs",
+            "React",
+            "React-Native"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Bachelor's degree",
+            "professional software development",
+            "TypeScript proficiency",
+            "enterprise UI component library",
+            "CI/CD pipelines",
+            "REST API integrations",
+            "AI/LLM workflows",
+            "observability"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP-SE_UI-Developer.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP-SE_UI-Developer.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP-SE_UI-Developer.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP-SE_UI-Developer.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\UI-Developer.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\UI-Developer.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_SAP-SE_UI-Developer"
+    }
+  ]
+}

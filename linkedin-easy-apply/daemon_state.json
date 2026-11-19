@@ -1,0 +1,14 @@
+{
+  "status": "IDLE",
+  "last_cycle_at": "2026-10-28 21:00:00",
+  "next_run_at": "2026-10-29 12:07:52",
+  "schedule": "Continuous Sprint Loop: Tailored LaTeX CV (10s pacing)",
+  "loop_mode": "CONTINUOUS_SPRINT_LOOP",
+  "apps_per_run": 50,
+  "applied_today": 1,
+  "daily_target": 50,
+  "cycle_count": 3,
+  "heartbeat_at": "2026-10-29 12:07:42",
+  "last_run_at": "2026-10-29 12:07:42",
+  "hourly_batch_size": 8
+}

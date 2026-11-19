@@ -1,0 +1,6 @@
+# Outreach Control Center (Streamlit)
+# >=1.45 because the code uses st.dataframe(width="stretch") and
+# @st.fragment(run_every=...) (both added in 1.37/1.45 era).
+streamlit>=1.45
+google-genai>=2.3.0
+pandas>=2.0

@@ -1,0 +1,78 @@
+%
+% cover_letter_template_en.tex — English cover letter for English-language
+% postings and international/startup environments (DIN 5008-inspired layout).
+%
+% Same parser-safety recipe as the German template: texgyrepagella with
+% Ligatures=NoCommon, four-digit dates, bold subject, collision-proof
+% at-token filling.
+%
+\documentclass[a4paper,11pt]{article}
+\usepackage[empty]{fullpage}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{parskip}
+\usepackage[hidelinks]{hyperref}
+
+\geometry{left=2.4cm, right=2cm, top=2.2cm, bottom=2cm}
+\pagestyle{empty}
+\setlength{\parskip}{0.45em}
+\setlength{\parindent}{0pt}
+
+% Parser-safety: ragged right (justified text compresses interword spaces
+% below the extractor's x-tolerance and word boundaries are lost in parsing).
+\raggedright
+
+% Parser-safety: widen the interword glue (Pagella's 0.25em space extracts
+% below the extractor x-tolerance and words merge; see the German template).
+\setlength{\spaceskip}{0.34em plus 0.14em minus 0.06em}
+\setlength{\xspaceskip}{0.34em plus 0.14em minus 0.06em}
+
+\usepackage{fontspec}
+\setmainfont{texgyrepagella}[Ligatures=NoCommon, Extension=.otf, UprightFont=*-regular, BoldFont=*-bold, ItalicFont=*-italic, BoldItalicFont=*-bolditalic]
+
+\newcommand{\clsender}[1]{{\small #1\par}}
+
+\begin{document}
+
+% ---------- sender block (top right) ----------
+\hfill
+\begin{minipage}[t]{7.2cm}
+\raggedleft\clsender{\bfseries RAVAL MEETKUMAR\\ Ernestinenstraße 21, 45141 Essen, Germany\\ +49 15565 468731 | ravalmeett@gmail.com\\ https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/}
+\end{minipage}
+
+\vspace{0.9em}
+
+% ---------- company block (left) ----------
+ETAS GmbH
+
+\vspace{0.4em}
+
+% ---------- city + date (right, DD.MM.YYYY) ----------
+\hfill Essen, 14.10.2026
+
+\vspace{1.4em}
+
+% ---------- subject line (bold, exact title) ----------
+\noindent\textbf{Working Student in Automotive Security (f/m/div.)}
+
+\vspace{0.8em}
+
+Dear Hiring Team,
+
+I am applying for the advertised position at ETAS GmbH, as the focus on Python, C++ connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.
+
+At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation.
+
+I would bring my documented experience in Python, C++, AI to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.
+
+I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.
+
+\vspace{1.2em}
+
+Kind regards
+
+\vspace{1.6em}
+
+RAVAL MEETKUMAR RITESHKUMAR
+
+\end{document}

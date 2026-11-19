@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="de">
+<head><meta charset="utf-8"><title>SmartRecruiters oneclick fixture</title></head>
+<body>
+  <h1>Werkstudent Testrolle (w/m/div.)</h1>
+
+  <!-- Resume upload: question text + file input inside an OPEN shadow root,
+       exactly like the spl-dropzone on the oneclick form. -->
+  <spl-dropzone id="dz"></spl-dropzone>
+
+  <!-- Email field inside a nested shadow root (spl-internal-form-field). -->
+  <spl-form-field id="emailff"></spl-form-field>
+
+  <!-- Yes/No question rendered with radios inside a shadow root. -->
+  <spl-form-field id="radioff"></spl-form-field>
+
+  <!-- Consent checkbox inside a shadow root. -->
+  <spl-form-field id="consentff"></spl-form-field>
+
+  <!-- Native select inside a shadow root (dropdown question). -->
+  <spl-form-field id="selff"></spl-form-field>
+
+  <!-- Wizard advance button (light DOM, like the oneclick footer). -->
+  <button type="button" id="advance">Weiter</button>
+
+  <script>
+    const dz = document.getElementById('dz').attachShadow({mode: 'open'});
+    dz.innerHTML = `
+      <div>
+        <span>Lebenslauf</span>
+        <span>Bitte lade deinen Lebenslauf hoch</span>
+        <input type="file" accept=".pdf,.docx">
+        <span class="filename"></span>
+      </div>`;
+    const file = dz.querySelector('input[type=file]');
+    file.addEventListener('change', () => {
+      dz.querySelector('.filename').textContent = file.files.length ? file.files[0].name : '';
+    });
+
+    const email = document.getElementById('emailff').attachShadow({mode: 'open'});
+    email.innerHTML = `
+      <div>
+        <label>E-Mail</label>
+        <input type="email">
+      </div>`;
+
+    const radio = document.getElementById('radioff').attachShadow({mode: 'open'});
+    radio.innerHTML = `
+      <div>
+        <span>Bist du immatrikuliert?</span>
+        <label><input type="radio" name="immatrikulation" value="Ja">Ja</label>
+        <label><input type="radio" name="immatrikulation" value="Nein">Nein</label>
+      </div>`;
+
+    const consent = document.getElementById('consentff').attachShadow({mode: 'open'});
+    consent.innerHTML = `
+      <div>
+        <label><input type="checkbox">Einwilligungserklärung Kontakt für andere offene Stellen bei Bosch</label>
+      </div>`;
+
+    const sel = document.getElementById('selff').attachShadow({mode: 'open'});
+    sel.innerHTML = `
+      <div>
+        <label>Sprache</label>
+        <select><option value="">--</option><option value="de">Deutsch</option><option value="en">English</option></select>
+      </div>`;
+  </script>
+</body>
+</html>

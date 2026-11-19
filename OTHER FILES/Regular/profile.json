@@ -1,0 +1,85 @@
+{
+  "personal": {
+    "first_name": "Meetkumar",
+    "last_name": "Raval",
+    "full_name": "Meetkumar Riteshkumar Raval",
+    "display_name": "Meetkumar Riteshkumar Raval",
+    "email": "ravalmeett@gmail.com",
+    "phone": "+49 15565 468731",
+    "phone_country_code": "+49",
+    "phone_national": "15565468731",
+    "address": {
+      "street": "Ernestrasse 21",
+      "street_alt": "Ernestinenstraße 21",
+      "postal_code": "45141",
+      "city": "Essen",
+      "state": "North Rhine-Westphalia",
+      "country": "Germany"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/meetraval/",
+      "github": "https://github.com/ravalmeet",
+      "portfolio": "https://raval.vercel.app/"
+    },
+    "languages": [
+      {"language": "English", "proficiency": "C2 / Native / Fluent"},
+      {"language": "German", "proficiency": "A2 / Elementary / Conversational"},
+      {"language": "Hindi", "proficiency": "C2 / Native / Fluent"},
+      {"language": "Gujarati", "proficiency": "C2 / Native / Fluent"}
+    ],
+    "work_authorization": {
+      "country": "Germany",
+      "status": "Student residence permit with working authorization in Germany (Werkstudent / 140 full days / 280 half days per year; mandatory internship allowed)",
+      "permit_valid_until": "2028-12",
+      "needs_visa_sponsorship": false,
+      "eligible_to_work_in_germany": true
+    }
+  },
+  "education": [
+    {
+      "degree": "Master of Science",
+      "field_of_study": "Artificial Intelligence",
+      "institution": "Brandenburg University of Technology Cottbus-Senftenberg (BTU)",
+      "location": "Germany",
+      "current": true,
+      "start_date": "2025-04",
+      "expected_graduation": "2027-10"
+    },
+    {
+      "degree": "Bachelor of Engineering",
+      "field_of_study": "Computer Engineering",
+      "institution": "Gujarat Technological University",
+      "location": "India",
+      "current": false,
+      "start_date": "2020-06",
+      "end_date": "2024-05"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Engineer",
+      "company": "Soham Infotech",
+      "location": "India",
+      "start_date": "2023-12",
+      "end_date": "2025-01",
+      "description": "Developed modular API endpoints and quant models for trading systems. Built automated data pipelines and backend components in Python with agile engineering best practices."
+    },
+    {
+      "title": "Machine Learning Intern",
+      "company": "Pantechelearning",
+      "location": "India",
+      "start_date": "2021-12",
+      "end_date": "2022-02",
+      "description": "Implemented machine learning models for visual analysis and NLP text-to-speech. Built automated data extraction and preprocessing pipelines."
+    }
+  ],
+  "default_answers": {
+    "how_did_you_hear_about_us": "Job Board / Online Search",
+    "earliest_start_date": "Immediately",
+    "notice_period": "None / Immediate",
+    "hours_per_week": "20 hours / week during lecture periods; up to 40 hours / week in semester breaks or for internships",
+    "internship_duration": "Flexible / open-ended",
+    "willing_to_relocate": "Yes",
+    "remote_hybrid": "Open to Hybrid / Remote / On-site"
+  }
+}

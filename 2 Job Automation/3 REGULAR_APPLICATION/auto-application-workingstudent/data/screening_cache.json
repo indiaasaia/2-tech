@@ -1,0 +1,4435 @@
+{
+  "https://www.stepstone.de/jobs--Working-Student-Software-Engineering-m-f-d-Gilching-Quantum-Systems-GmbH--14315638-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "working_student",
+      "role_evidence": "Working Student - Software Engineering",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Software Engineering",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:04:12+00:00"
+  },
+  "https://www.stepstone.de/jobs--Werkstudent-in-Software-Engineering-for-AI-Systems-m-w-d-Cologne-Niologic-GmbH--14514156-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "working_student",
+      "role_evidence": "Werkstudent/in",
+      "is_tech_related": true,
+      "tech_domain": "data_ai",
+      "domain_evidence": "software engineering",
+      "german_requirement": "required",
+      "german_level": "B2",
+      "german_evidence": "Good language skills in German and English which allow you to understand the underlying data",
+      "ad_language": "mixed",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:04:15+00:00"
+  },
+  "https://www.stepstone.de/jobs--Working-Student-Operations-m-f-d-Berlin-Germany-Peak-Peak-GmbH--13909996-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "working_student",
+      "role_evidence": "Working Student",
+      "is_tech_related": true,
+      "tech_domain": "automation_robotics",
+      "domain_evidence": "automation workflows using n8n, Make.com, Zapier",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "Comfortable communicating in both English and German",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:04:18+00:00"
+  },
+  "https://www.stepstone.de/jobs--WORKING-STUDENT-CRM-M-F-D-Koblenz-Canyon-Bicycles-GmbH--14643065-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "working_student",
+      "role_evidence": "WORKING STUDENT CRM",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Salesforce Marketing Cloud",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:04:20+00:00"
+  },
+  "https://www.stepstone.de/jobs--Work-Student-Inside-Sales-10243-Berlin-TeamViewer-Germany-GmbH--14644286-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "working_student",
+      "role_evidence": "Work Student, Inside Sales",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "assist our customers ... about our software",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:04:23+00:00"
+  },
+  "https://www.stepstone.de/jobs--Working-Student-m-f-d-SAP-S-4HANA-Stabilization-FPY-Improvement-Henstedt-Boeing-Distribution-Services-ISC-GmbH--14648396-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "working_student",
+      "role_evidence": "Working Student (m/f/d)",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "SAP S/4HANA stabilization projects",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent German and English language skills.",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:04:25+00:00"
+  },
+  "https://www.stepstone.de/jobs--Working-Student-Order-Management-and-Financial-Accounting-F-M-D-80636-Muenchen-NavVis-GmbH--14645371-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "working_student",
+      "role_evidence": "Working Student",
+      "is_tech_related": true,
+      "tech_domain": "tech_business",
+      "domain_evidence": "Order Management and Financial Accounting with ERP/CRM applications",
+      "german_requirement": "required",
+      "german_level": "unspecified",
+      "german_evidence": "Exceptional communication skills in both English and German",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:04:28+00:00"
+  },
+  "https://www.stepstone.de/jobs--Intern-People-Strategy-all-genders-Muenchen-Avelios-Medical-GmbH--14645983-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "internship",
+      "role_evidence": "Intern People Strategy (all genders)",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "people strategy & Projects team driving the people agenda",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluency in German and English",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:04:31+00:00"
+  },
+  "https://www.stepstone.de/jobs--2027-Business-Development-Intern-U4B-Berlin-Berlin-Uber-Germany-GmbH--14643909-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "internship",
+      "role_evidence": "Business Development Intern",
+      "is_tech_related": true,
+      "tech_domain": "tech_business",
+      "domain_evidence": "support Business Development for Uber for Business Platform",
+      "german_requirement": "required",
+      "german_level": "native",
+      "german_evidence": "Native German & fluent in English",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:04:34+00:00"
+  },
+  "https://www.stepstone.de/jobs--Product-Marketing-Intern-70565-Stuttgart-sereact-GmbH--14643901-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "internship",
+      "role_evidence": "Product Marketing Intern",
+      "is_tech_related": true,
+      "tech_domain": "automation_robotics",
+      "domain_evidence": "AI robotics products",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "German is a plus",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:04:37+00:00"
+  },
+  "https://www.stepstone.de/jobs--Business-Development-Intern-Italy-all-genders-10115-Berlin-autarc-GmbH--14643795-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "internship",
+      "role_evidence": "Business Development Intern",
+      "is_tech_related": true,
+      "tech_domain": "tech_business",
+      "domain_evidence": "software sales",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:04:40+00:00"
+  },
+  "https://www.stepstone.de/jobs--Art-and-Drawing-Spangdahlem-Undergraduate-School-Adjunct-Faculty-Spangdahlem-University-of-Maryland--14648387-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Adjunct Faculty",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Teaching drawing and photography, not a technical role",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:04:42+00:00"
+  },
+  "https://www.stepstone.de/jobs--Visa-Compliance-Officer-Madrid-Schiller-International-University-Inc--13965810-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "2–4 years of experience",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Visa compliance and immigration regulation support",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "German (preferred)",
+      "ad_language": "en",
+      "country": "Spain"
+    },
+    "screened_at_utc": "2026-11-02T10:04:46+00:00"
+  },
+  "https://www.stepstone.de/jobs--Physiotherapist-Physiotherapeut-in-Physio-Neuss-Physiotherapie-am-Rathaus-Mpheza-Christine-Luepke-Okocha--14354270-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "internship",
+      "role_evidence": "\"recognition year\"",
+      "german_requirement": "required",
+      "german_level": "A2",
+      "german_evidence": "\"Proof of German Language Proficiency ( A2 - B2 )\"",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T08:02:42+00:00"
+  },
+  "https://www.stepstone.de/jobs--REAL-Activities-Instructors-Oberursel-International-School-Wiesbaden--14649356-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "REAL Activities Instructors",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "sport instruction, no technical duties",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:04:48+00:00"
+  },
+  "https://www.stepstone.de/jobs--Scientific-Affairs-Manager-m-w-d-20354-Hamburg-Colgate-Palmolive-Services-CEW-GmbH--14646205-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Scientific Affairs Manager",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Scientific affairs, education, healthcare communication",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent in written and spoken German",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:04:50+00:00"
+  },
+  "https://www.stepstone.de/jobs--Data-Center-Engineering-Operations-Technician-m-f-d-Frankfurt-Data-Center-Engineering-Operations-DCEO-Frankfurt-Amazon-Workforce-Staffing--14186094-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "High school or equivalent diploma",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "electrical and mechanical infrastructure",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:04:53+00:00"
+  },
+  "https://www.stepstone.de/jobs--Technical-Support-Engineer-m-w-d-Stuttgart-OPT-Machine-Vision-GmbH--14035945-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Minimum of 2 years of experience",
+      "is_tech_related": true,
+      "tech_domain": "automation_robotics",
+      "domain_evidence": "machine vision, industrial automation, technical support",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "fluency in English and German (both written and spoken)",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:04:56+00:00"
+  },
+  "https://www.stepstone.de/jobs--Senior-Project-Manager-Measuring-Technology-m-f-d-Hamburg-Hamburgische-Schiffbau-Versuchsanstalt-GmbH--14568701-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "(Senior) Project Manager",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "Development of test equipment",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent in German and competent in English, both verbal and written",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:04:59+00:00"
+  },
+  "https://www.stepstone.de/jobs--Chief-Expert-Robotics-f-m-div-Renningen-Bosch-Gruppe--14514648-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Chief Expert Robotics",
+      "is_tech_related": true,
+      "tech_domain": "automation_robotics",
+      "domain_evidence": "Robotics and autonomous systems",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:05:01+00:00"
+  },
+  "https://www.stepstone.de/jobs--Head-of-Continuous-Improvement-EMEA-Ansbach-LSI-Germany-GmbH--14447724-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Head of Continuous Improvement",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Continuous Improvement transformation across the EMEA region",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluency in English and German is mandatory",
+      "ad_language": "mixed",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:05:05+00:00"
+  },
+  "https://www.stepstone.de/jobs--Bid-Proposal-Manager-m-f-d-Gilching-Quantum-Systems-GmbH--14651766-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Bid & Proposal Manager",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "complex technologies products, systems, operational use cases",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "German & English proficiency: You communicate fluently in German and English.",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:05:09+00:00"
+  },
+  "https://www.stepstone.de/jobs--Content-Knowledge-Base-Manager-m-f-d-Gilching-Quantum-Systems-GmbH--14651767-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Content & Knowledge Base Manager",
+      "is_tech_related": true,
+      "tech_domain": "data_ai",
+      "domain_evidence": "AI-assisted search, retrieval and drafting use approved source content",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "German and English proficiency: You communicate confidently and write to a high standard",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:05:13+00:00"
+  },
+  "https://www.stepstone.de/jobs--Head-of-IT-Division-CIO-Hamburg-PEAC-Holdings-Germany-GmbH-Co-KG--14288615-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Head of IT Division (CIO)",
+      "is_tech_related": true,
+      "tech_domain": "it_systems",
+      "domain_evidence": "core enterprise SAP platforms",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Business-fluent German and English language skills.",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:05:16+00:00"
+  },
+  "https://www.stepstone.de/jobs--Quality-Manager-with-responsibility-for-HSE-Site-Operations-Norderstedt-Safran-Helicopter-Engines-Germany-GmbH--14569518-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Minimum of 5 years of experience",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "aerospace quality management",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "German language skills are an asset",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:06:04+00:00"
+  },
+  "https://www.stepstone.de/jobs--Pflegefachkraft-Gesundheits-und-Krankenpfleger-m-w-d-Hybrid-keine-Nachtschichten-Ansbach-Schwabach-Nuremberg-South-West-and-Dietenhofen-International-SOS-GmbH--14294797-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "minimum 3 years' bedside experience",
+      "german_requirement": "required",
+      "german_level": "B2",
+      "german_evidence": "Fluent in German and English (minimum B2 level in both)",
+      "ad_language": "mixed",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T08:03:07+00:00"
+  },
+  "https://www.stepstone.de/jobs--Country-Senior-Strategic-Account-Manager-Bayern-Edwards-Lifesciences-GmbH--13702251-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Senior Strategic Account Manager",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T08:03:10+00:00"
+  },
+  "https://www.stepstone.de/jobs--Area-Manager-in-Abteilungsleiter-in-Logistik-Horn-Bad-Meinberg-Fulfillment-Center-Horn-Bad-Meinberg-Amazon-Workforce-Staffing--14437530-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Area Manager",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "logistics environment",
+      "german_requirement": "required",
+      "german_level": "unspecified",
+      "german_evidence": "local language",
+      "ad_language": "mixed",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:06:07+00:00"
+  },
+  "https://www.stepstone.de/jobs--Founding-Product-Manager-Koeln-Circonomit-GmbH--14568795-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "5+ years in product management",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "decision platform industrial companies use to plan their production",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "German at C1 level or above",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:06:10+00:00"
+  },
+  "https://www.stepstone.de/jobs--Senior-Relationship-Manager-m-w-d-Frankfurt-am-Main-Industrial-and-Commercial-Bank-of-China-Limited-Frankfurt-Branch--14516634-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Senior Relationship Manager",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent German and English, both written and spoken.",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T08:03:16+00:00"
+  },
+  "https://www.stepstone.de/jobs--Principal-Engineer-RD-Hardware-m-f-d-Bruehl-HIMA-Paul-Hildebrandt-GmbH--14515653-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Principal Engineer",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T08:03:18+00:00"
+  },
+  "https://www.stepstone.de/jobs--Abteilungsleiter-Instandhaltung-Austria-m-w-d-Munich-Amazon-Workforce-Staffing--14516598-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Abteilungsleiter Instandhaltung",
+      "is_tech_related": true,
+      "tech_domain": "automation_robotics",
+      "domain_evidence": "automated equipment including packaging machinery, sortation and conveyor systems",
+      "german_requirement": "required",
+      "german_level": "B2",
+      "german_evidence": "local language at CEFR Level B2 or higher",
+      "ad_language": "mixed",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:06:14+00:00"
+  },
+  "https://www.stepstone.de/jobs--Area-Manager-Manager-II-Operations-Kitzingen-Amazon-Workforce-Staffing--14437529-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Area Manager (Manager II, Operations)",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "warehouse operations and logistics",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:06:16+00:00"
+  },
+  "https://www.stepstone.de/jobs--Order-Picker-m-f-d-Langenhagen-Han-Randstad-Deutschland-GmbH-Co-KG--14636468-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Order Picker (m/f/d)",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Picking items, inspecting goods, preparing shipments – manual warehouse tasks",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "mixed",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:06:18+00:00"
+  },
+  "https://www.stepstone.de/jobs--Junior-Sous-Chef-m-f-d-Gilching-Quantum-Systems-GmbH--14315571-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Several years of professional experience",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "modern corporate catering concept",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:06:21+00:00"
+  },
+  "https://www.stepstone.de/jobs--Boat-Builder-m-f-d-Rostock-Quantum-Systems-GmbH--14447894-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Completed vocational training as a Boat Builder",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "assembly of innovative unmanned maritime platforms",
+      "german_requirement": "nice_to_have",
+      "german_level": "B2",
+      "german_evidence": "Good communication skills in German",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:06:25+00:00"
+  },
+  "https://www.stepstone.de/jobs--Commis-de-Cuisine-m-w-d-Gilching-Quantum-Systems-GmbH--14315533-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Commis de Cuisine (m/w/d)",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "culinary team, supporting meal preparation",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:06:27+00:00"
+  },
+  "https://www.stepstone.de/jobs--People-Culture-Partner-GSA-m-f-d-Hamburg-Warner-Bros-Discovery--14518225-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Significant experience in a generalist HR role",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "HR role delivering strategic and operational HR support",
+      "german_requirement": "required",
+      "german_level": "unspecified",
+      "german_evidence": "Strong communication skills, both written and verbal, in German and business-fluent English",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:06:30+00:00"
+  },
+  "https://www.stepstone.de/jobs--IBM-Focus-Sales-m-w-d-Berlin-ARROW-Electronics--14313898-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Essential Experience in IT distribution",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Good understanding of enterprise software and infrastructure technologies",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:06:33+00:00"
+  },
+  "https://www.stepstone.de/jobs--HR-Administrator-w-m-d-Berlin-Pamono-GmbH--14514209-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Some experience in an HR administration",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "HR Administration & Employee Lifecycle",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent in German and English, both written and spoken",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:06:36+00:00"
+  },
+  "https://www.stepstone.de/jobs--Senior-Accountant-Financial-Accountant-Manufacturing-m-f-d-Quantum-Frontline-Industries-Wessling-Quantum-Systems-GmbH--14315574-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Senior Accountant / Financial Accountant (Manufacturing)",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Very good German and English skills",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T08:03:36+00:00"
+  },
+  "https://www.stepstone.de/jobs--Project-Manager-m-f-d-Quantum-Frontline-Industries-Wessling-Quantum-Systems-GmbH--14315594-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "5–8 years of experience in project management",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "drone production operations",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "communication in English and German",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:06:39+00:00"
+  },
+  "https://www.stepstone.de/jobs--Workplace-AI-Enablement-Collaboration-Engineer-Neu-Isenburg-ARROW-Electronics--14565166-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "senior, hands-on professional",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "administering Microsoft 365 services, Power Platform, Copilot",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:06:41+00:00"
+  },
+  "https://www.stepstone.de/jobs--HR-Generalist-II-f-m-d-Mannheim-Danaher--14565156-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "5+ years of experience",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Human Resources operations",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:06:44+00:00"
+  },
+  "https://www.stepstone.de/jobs--HR-Manager-m-f-d-Quantum-Frontline-Industries-Wessling-Quantum-Systems-GmbH--14315566-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "At least 2 years of professional experience",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "HR Manager role focusing on HR administration",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "German language skills at C1 level",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:06:46+00:00"
+  },
+  "https://www.stepstone.de/jobs--Senior-Software-Engineer-Developer-Enablement-m-f-d-Gilching-Quantum-Systems-GmbH--14343784-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "(Senior) Software Engineer",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T08:03:45+00:00"
+  },
+  "https://www.stepstone.de/jobs--Warehouse-Logistics-Employee-m-f-d-Night-Shift-Longuich-Dieckhoff-Ratschow-Praxisdienst-GmbH-Co-KG--13781656-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Warehouse/Logistics Employee – Night Shift",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Packaging of pre-picked goods",
+      "german_requirement": "nice_to_have",
+      "german_level": "A2",
+      "german_evidence": "Basic knowledge of the German language",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:06:48+00:00"
+  },
+  "https://www.stepstone.de/jobs--Sourcing-Manager-Excess-Inventory-EMEA-Muenchen-ARROW-Electronics--14090739-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Minimum 5 years of experience",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "electronics industry",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent in English and German or Dutch",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:06:51+00:00"
+  },
+  "https://www.stepstone.de/jobs--kitchen-porter-Minijob-m-f-d-10243-Berlin-Friedrichshain-MONACO-FREUNDE-GmbH-Co-KG--14644056-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "kitchen porter / Minijob",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Washing dishes, cutlery, glasses and kitchen utensils",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "Knowledge of German and English an advantage",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:06:54+00:00"
+  },
+  "https://www.stepstone.de/jobs--Montagehelfer-w-m-d-Wertheim-Dr-med-Erich-Freudenberger--14354900-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Montagehelfer (w/m/d)",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Assemble components accurately, thoroughly, and quickly",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "mixed",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:06:57+00:00"
+  },
+  "https://www.stepstone.de/jobs--FINANCE-INTERN-Berlin-Coproduction-Office-Inh-Philippe-Bober--14652200-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "internship",
+      "role_evidence": "FINANCE INTERN",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Finance intern",
+      "german_requirement": "nice_to_have",
+      "german_level": "B2",
+      "german_evidence": "Fluent in French, English and/or German - with a minimum level of B2",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:06:59+00:00"
+  },
+  "https://www.stepstone.de/jobs--Transport-Planer-Dispatcher-Frankfurt-Frankfurt-am-Main-Carousel-Logistics-GmbH--14648680-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Job experience as customer service agent, transport planer/manger",
+      "is_tech_related": true,
+      "tech_domain": "it_systems",
+      "domain_evidence": "ERP systems, Transportation Management Systems (TMS), or SAP",
+      "german_requirement": "required",
+      "german_level": "unspecified",
+      "german_evidence": "English and German language skills are mandatory",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:07:03+00:00"
+  },
+  "https://www.stepstone.de/jobs--Category-Manager-IT-Services-Software-m-f-d-Koblenz-CompuGroup-Medical-SE-Co-KGaA--14371418-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "minimum of 3-5 years of procurement experience",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "IT Services & Software",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Full professional proficiency in English and German is required",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:07:06+00:00"
+  },
+  "https://www.stepstone.de/jobs--Commis-Chef-Exeter-EX2-7NN-kleinanzeigen-de-GmbH--14651961-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Commis Chef",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "passion for food and cooking",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "mixed",
+      "country": "United Kingdom"
+    },
+    "screened_at_utc": "2026-11-02T10:07:09+00:00"
+  },
+  "https://www.stepstone.de/jobs--Crew-Scheduler-Hamburg-Vista-Global-Holding-Limited--14648425-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Experience maintaining rosters, resource planning",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Scheduling crew using Excel and databases",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:07:12+00:00"
+  },
+  "https://www.stepstone.de/jobs--International-Junior-Consultant-Healthcare-LATAM-North-America-Berlin-Mammut-Pharma-GmbH--14514188-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "International Junior Consultant Healthcare",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Analysis of international commercial and regulatory healthcare topics",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:07:14+00:00"
+  },
+  "https://www.stepstone.de/jobs--Mechanical-Engineer-Interceptor-C%E2%80%91UAS-m-f-d-Gilching-Quantum-Systems-GmbH--14447866-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "5–10 years of professional experience",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "designing injection‑molded parts and assemblies for high‑volume production",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:07:17+00:00"
+  },
+  "https://www.stepstone.de/jobs--Key-Account-Manager-Semiconductor-m-w-d-Berlin-ARROW-Electronics--14427951-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "at least 4 years' experience",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "Semiconductor, Electronics industry",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Business fluency in English and German language is a must",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:07:19+00:00"
+  },
+  "https://www.stepstone.de/jobs--Customer-Operations-Associate-INTERN-6-month-fixed-term-40221-Duesseldorf-New-Balance--14645893-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "internship",
+      "role_evidence": "Customer Operations Associate/INTERN (6 month fixed term)",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Customer operations, sales support, supply chain, business administration",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent in local language and English",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:07:21+00:00"
+  },
+  "https://www.stepstone.de/jobs--Procurement-Specialist-AMRO-Pirmasens-Ramstein-Air-Base-86-LRS--14645298-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "3+ years of purchasing experience",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "procurement and supply chain management",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:07:24+00:00"
+  },
+  "https://www.stepstone.de/jobs--HSSE-Manager-m-w-d-Quantum-Frontline-Industries-Wessling-Quantum-Systems-GmbH--14447898-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "HSSE Manager (m/w/d)",
+      "is_tech_related": true,
+      "tech_domain": "automation_robotics",
+      "domain_evidence": "UAV manufacturing operations",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "Professional communication skills in English or German",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:07:27+00:00"
+  },
+  "https://www.stepstone.de/jobs--Senior-Account-Manager-Berlin-ARROW-Electronics--14427953-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Senior Account Manager",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Excellent command of German and fluency in English.",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T08:04:15+00:00"
+  },
+  "https://www.stepstone.de/jobs--Executive-Assistant-m-f-d-Quantum-Frontline-Industries-Wessling-Quantum-Systems-GmbH--14447875-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Several years of experience in an Executive Assistant",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Administrative role supporting senior leadership",
+      "german_requirement": "required",
+      "german_level": "unspecified",
+      "german_evidence": "Professional communication skills in German and English",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:07:30+00:00"
+  },
+  "https://www.stepstone.de/jobs--Chef-de-Partie-m-f-d-Gilching-Quantum-Systems-GmbH--14315554-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Chef de Partie (m/f/d)",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Food preparation in corporate catering, non‑technical",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:07:33+00:00"
+  },
+  "https://www.stepstone.de/jobs--Customer-Service-Representative-83052-Bruckmuehl-Heilind-Electronics-GmbH--14644433-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Customer Service Representative",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "order entry and maintenance, reporting, backlog review",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:07:35+00:00"
+  },
+  "https://www.stepstone.de/jobs--Aircraft-Mechanic-2-Avionics-Electronics-AP-or-FCC-License-Katterbach-Germany-91522-Ansbach-Ramstein-Air-Base-86-LRS--14649266-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Five (5) years of recent applicable aircraft maintenance experience",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "Avionics/Electronics",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:07:38+00:00"
+  },
+  "https://www.stepstone.de/jobs--Embedded-Linux-Release-Engineer-m-f-d-Wessling-Quantum-Systems-GmbH--14518546-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Embedded Linux & Release Engineer",
+      "is_tech_related": true,
+      "tech_domain": "automation_robotics",
+      "domain_evidence": "embedded Linux or Linux-based robotics, automotive or aerospace systems",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:07:41+00:00"
+  },
+  "https://www.stepstone.de/jobs--LUH-72-Aircraft-Mechanic-2-LUH-72-FAA-AP-Hohenfels-Germany-92366-Hohenfels-Ramstein-Air-Base-86-LRS--14648558-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Two (2) years aviation maintenance experience",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "aircraft mechanic hands‑on experience on rotary wing aircraft",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:07:44+00:00"
+  },
+  "https://www.stepstone.de/jobs--Corporate-Security-Manager-m-f-d-Quantum-Frontline-Industries-Wessling-Quantum-Systems-GmbH--14447874-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Several years of professional experience",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Physical security systems, access control, surveillance",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "Professional communication skills in English or German",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:07:47+00:00"
+  },
+  "https://www.stepstone.de/jobs--Electrician-m-f-d-Rostock-Quantum-Systems-GmbH--14447897-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Completed vocational training as an Electrician",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "electrical assembly, wiring, installation, and troubleshooting",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "German language skills are considered a plus",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:07:50+00:00"
+  },
+  "https://www.stepstone.de/jobs--Junior-Compliance-Officer-80333-Muenchen-Partners-Group-EU-GmbH--14645681-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Junior Compliance Officer",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "responsible for compliance monitoring and regulatory tasks",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "excellent communication skills in German and English (both written and verbal)",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:07:53+00:00"
+  },
+  "https://www.stepstone.de/jobs--Secretary-Frankfurt-am-Main-Aberdeen-Standard-Investments-Deutschland-AG--14644765-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "support-level role combines administration",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Working knowledge of Salesforce and Microsoft Office",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:07:56+00:00"
+  },
+  "https://www.stepstone.de/jobs--Development-Engineer-Production-Automated-Testing-f-m-d-Gilching-Quantum-Systems-GmbH--14447902-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Development Engineer Production – Automated Testing",
+      "is_tech_related": true,
+      "tech_domain": "automation_robotics",
+      "domain_evidence": "developing new test systems and optimizing production processes",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Communicating in both English and German comes naturally to you.",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:07:59+00:00"
+  },
+  "https://www.stepstone.de/jobs--Order-Processing-and-Export-Manager-m-f-d-Gilching-Quantum-Systems-GmbH--14447934-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "at least 3 years of professional experience",
+      "is_tech_related": true,
+      "tech_domain": "tech_business",
+      "domain_evidence": "pushing the boundaries of drone technology",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Communication in German and English comes naturally to you",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:08:02+00:00"
+  },
+  "https://www.stepstone.de/jobs--Development-Engineer-Production-m-f-d-Focus-Hardware-Gilching-Quantum-Systems-GmbH--14447862-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Development Engineer Production",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "Focus Hardware",
+      "german_requirement": "required",
+      "german_level": "unspecified",
+      "german_evidence": "Communicating in both English and German comes naturally to you.",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:08:05+00:00"
+  },
+  "https://www.stepstone.de/jobs--Demi-Chef-de-Partie-m-w-d-Gilching-Quantum-Systems-GmbH--14315540-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Several years of experience in a professional kitchen",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Culinary role delivering meals, no tech responsibilities",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:08:07+00:00"
+  },
+  "https://www.stepstone.de/jobs--Senior-Frontend-Engineer-Cloud-Solutions-m-f-d-Gilching-Quantum-Systems-GmbH--14340447-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "(Senior) Frontend Engineer – Cloud Solutions (m/f/d)",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "German language skills are a plus",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T08:04:48+00:00"
+  },
+  "https://www.stepstone.de/jobs--Solution-Architect-m-f-d-Gilching-Bayern-Germany-Quantum-Systems-GmbH--14569001-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Proven experience as a Solution Architect",
+      "is_tech_related": true,
+      "tech_domain": "automation_robotics",
+      "domain_evidence": "architecture and design of ISR-focused aerial and other unmanned systems",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Business fluency in English and German is required",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:08:11+00:00"
+  },
+  "https://www.stepstone.de/jobs--Training-Manager-m-f-d-Gilching-Quantum-Systems-GmbH--14315446-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Training Manager",
+      "is_tech_related": true,
+      "tech_domain": "automation_robotics",
+      "domain_evidence": "fixed-wing UAS, preferably eVTOL systems",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "in German or English",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:08:14+00:00"
+  },
+  "https://www.stepstone.de/jobs--IT-Infrastructure-Security-Manager-m-f-d-Gilching-Quantum-Systems-GmbH--14315492-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "IT Infrastructure & Security Manager",
+      "is_tech_related": true,
+      "tech_domain": "it_systems",
+      "domain_evidence": "IT infrastructure administration, system management, security",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "German language skills are considered a plus",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:08:16+00:00"
+  },
+  "https://www.stepstone.de/jobs--Senior-Flight-Control-System-Engineer-m-f-d-Gilching-Quantum-Systems-GmbH--14315625-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Senior Flight Control System Engineer",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T08:04:55+00:00"
+  },
+  "https://www.stepstone.de/jobs--Aircraft-Mechanic-2-Powertrain-Prop-Rotor-UH60-AH64-Back-shop-FCC-or-AP-Illesheim-Germany-91471-Illesheim-Ramstein-Air-Base-86-LRS--14649344-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Five years of recent applicable aircraft maintenance experience",
+      "is_tech_related": true,
+      "tech_domain": "automation_robotics",
+      "domain_evidence": "Powertrain Prop & Rotor",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:08:19+00:00"
+  },
+  "https://www.stepstone.de/jobs--Business-Development-Director-Berlin-ARROW-Electronics--13848743-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Business Development Director",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T08:04:58+00:00"
+  },
+  "https://www.stepstone.de/jobs--Industrialization-Technician-m-f-d-Wessling-Bayern-Germany-Quantum-Systems-GmbH--14570684-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Professional experience in industrialization, production, planning",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "assembly, integration, and testing processes for cUAS platforms",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Very good command of German",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:08:22+00:00"
+  },
+  "https://www.stepstone.de/jobs--Industrialization-Technician-m-f-d-Gilching-Bayern-Germany-Quantum-Systems-GmbH--14570685-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Professional experience in industrialization, production, aerospace engineering",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "manufacturing of our unmanned aerial systems",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Very good command of German",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:08:25+00:00"
+  },
+  "https://www.stepstone.de/jobs--IT-Security-Engineer-m-f-d-Gilching-Quantum-Systems-GmbH--14315497-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Professional experience in IT security",
+      "is_tech_related": true,
+      "tech_domain": "it_systems",
+      "domain_evidence": "strengthening and protecting our organization's IT environment",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "German language skills are considered a plus.",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:08:28+00:00"
+  },
+  "https://www.stepstone.de/jobs--Ausbildung-zum-Industriemechaniker-w-m-d-Wertheim-Dr-med-Erich-Freudenberger--14354881-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "apprenticeship",
+      "role_evidence": "Ausbildung zum Industriemechaniker",
+      "is_tech_related": true,
+      "tech_domain": "automation_robotics",
+      "domain_evidence": "manufacture components and assemblies for machines and systems",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:08:31+00:00"
+  },
+  "https://www.stepstone.de/jobs--Customer-Service-Agent-Scandinavia-Berlin-Pergolux-GmbH--14643953-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "3+ years customer service experience",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "customer service via phone, email, and chat",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:08:33+00:00"
+  },
+  "https://www.stepstone.de/jobs--Kitchen-Helper-m-f-d-80687-Muenchen-Stuttgart-Marriott-Hotel-Sindelfingen-Marriott-International-Inc--14648179-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Kitchen Helper (m/f/d)",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "support the kitchen team with all tasks",
+      "german_requirement": "required",
+      "german_level": "unspecified",
+      "german_evidence": "German language skills are mandatory",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:08:35+00:00"
+  },
+  "https://www.stepstone.de/jobs--Aircraft-Mechanic-3-CH-47-AP-or-FCC-License-Illesheim-Germany-91471-Illesheim-Ramstein-Air-Base-86-LRS--14649068-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Five (5) years of recent applicable aircraft maintenance experience",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "repair structural, mechanical, and electrical systems",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:08:38+00:00"
+  },
+  "https://www.stepstone.de/jobs--Clinical-Sales-Specialist-Surgical-Microscopes-d-f-m-Dusseldorf-Leica-Microsystems-GmbH--14565152-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "3+ years technical support experience",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "surgical microscopes",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluency in English and German",
+      "ad_language": "en",
+      "country": "unknown"
+    },
+    "screened_at_utc": "2026-11-02T10:08:42+00:00"
+  },
+  "https://www.stepstone.de/jobs--Senior-Embedded-Software-Engineer-Reliant-Gilching-Quantum-Systems-GmbH--14315624-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "(Senior) Embedded Software Engineer",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T08:05:14+00:00"
+  },
+  "https://www.stepstone.de/jobs--Service-employee-m-f-d-part-time-in-Bad-Marienberg-56470-Bad-Marienberg-Voss-Automaten-GmbH-Co-KG--14647829-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Service employee (m/f/d), part-time",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "",
+      "german_requirement": "required",
+      "german_level": "unspecified",
+      "german_evidence": "If you don't get lost in German, you've come to the right place!",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:08:45+00:00"
+  },
+  "https://www.stepstone.de/jobs--Auszubildende-Koeche-m-f-d-Berlin-Marriott-Hotel-10785-Berlin-Stuttgart-Marriott-Hotel-Sindelfingen-Marriott-International-Inc--14648469-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "apprenticeship",
+      "role_evidence": "Auszubildende Köche",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Prepare ingredients for cooking, operate ovens, stoves, grills",
+      "german_requirement": "required",
+      "german_level": "unspecified",
+      "german_evidence": "German language skills are mandatory for this position.",
+      "ad_language": "mixed",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:08:48+00:00"
+  },
+  "https://www.stepstone.de/jobs--Baker-Confectioner-Hamburg-m-f-d-Full-time-Part-time-Hamburg-Brammibal%E2%80%99s-Donuts-GmbH--14648660-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "trained confectioner/baker",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "baking and pastry production, not a tech role",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:08:50+00:00"
+  },
+  "https://www.stepstone.de/jobs--Manager-Group-Consolidation-Reporting-all-genders-Hamburg-Evotec-SE--14644563-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Manager Group Consolidation & Reporting",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Group accounting and consolidation responsibilities",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent in German and English",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:08:52+00:00"
+  },
+  "https://www.stepstone.de/jobs--Fuels-Mechanic-Pirmasens-Ramstein-Air-Base-86-LRS--14649112-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "3 or more years of related experience",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "related experience in the plumbing arena",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:08:55+00:00"
+  },
+  "https://www.stepstone.de/jobs--Project-Lead-m-f-d-Consultant-Level-Remote-Peak-Peak-GmbH--13910013-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Project Lead",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "German ... a plus",
+      "ad_language": "en",
+      "country": "unknown"
+    },
+    "screened_at_utc": "2026-11-02T08:05:26+00:00"
+  },
+  "https://www.stepstone.de/jobs--Project-Lead-m-f-d-Senior-Consultant-Level-remote-Morocco-Peak-Peak-GmbH--13909963-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Senior Consultant Level",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "Nice to Have language skills, e.g. German, French, Italian, Spanish",
+      "ad_language": "en",
+      "country": "Morocco"
+    },
+    "screened_at_utc": "2026-11-02T08:05:28+00:00"
+  },
+  "https://www.stepstone.de/jobs--Sales-Associate-m-f-d-Berlin-Remi-Health-GmbH--14568416-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "2+ years of B2B sales experience",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "B2B sales experience in SaaS, healthtech",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent German and very good written and spoken English.",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:08:57+00:00"
+  },
+  "https://www.stepstone.de/jobs--Accounts-Receivable-Assistant-60306-Frankfurt-am-Main-NOVA-Biomedical-GmbH--14649153-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "3-5 years of experience",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Strong understanding of accounts receivable controls",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent German and English (written and spoken)",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:09:00+00:00"
+  },
+  "https://www.stepstone.de/jobs--Chief-Financial-Officer-68161-Mannheim-Sinclair-Pharma-GmbH--14643585-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Chief Financial Officer",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T08:05:33+00:00"
+  },
+  "https://www.stepstone.de/jobs--IT-OT-Onsite-Support-Technician-m-f-d-Kreuzau-Hemmersbach-GmbH-Co-KG--14648682-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "IT / OT Onsite Support Technician",
+      "is_tech_related": true,
+      "tech_domain": "it_systems",
+      "domain_evidence": "providing deskside support for Windows workstations, devices and production environments",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:09:03+00:00"
+  },
+  "https://www.stepstone.de/jobs--D365-Functional-Consultant-Operations-Supply-Chain-53424-Remagen-Morgan-Advanced-Materials--14648371-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Proven experience working as a D365 F&O Functional Consultant",
+      "is_tech_related": true,
+      "tech_domain": "it_systems",
+      "domain_evidence": "Configure, optimize, and provide ongoing support for Dynamics 365 Finance & Operations",
+      "german_requirement": "required",
+      "german_level": "B2",
+      "german_evidence": "German on a professional working level",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:09:06+00:00"
+  },
+  "https://www.stepstone.de/jobs--Your-new-Job-IT-Consultant-Input-Management-Digitalisation-w-d-m-Rheinhausen-Prime-Force-Freiburg-GmbH--12068527-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "IT-Consultant Input Management",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "developing .NET applications",
+      "german_requirement": "required",
+      "german_level": "B2",
+      "german_evidence": "German language skills at least B2",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:09:09+00:00"
+  },
+  "https://www.stepstone.de/jobs--Medical-Science-Liaison-Manager-Middle-West-Muenster-Dortmund-Frankfurt-Muenchen-Alexion-Pharma-Germany-GmbH--14645486-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Medical Science Liaison Manager",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "pharmaceutical/biotechnology scientific liaison role",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent in German and English, both spoken and written",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:09:11+00:00"
+  },
+  "https://www.stepstone.de/jobs--Senior-Accounting-Group-Reporting-Manager-m-f-d-50674-Koeln-METYCLE-GmbH--14643440-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Senior Accounting & Group Reporting Manager",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "proficiency in German is a plus",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T08:05:45+00:00"
+  },
+  "https://www.stepstone.de/jobs--Talent-Acquisition-Manager-all-genders-Muenchen-Avelios-Medical-GmbH--14644891-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Talent Acquisition Manager",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Finding the right talent for Avelios",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Very good German and English skills",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:09:14+00:00"
+  },
+  "https://www.stepstone.de/jobs--HR-Business-Partner-all-genders-Nuernberg-Paessler-GmbH--14643389-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "several years of experience as an HR Business Partner",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "HR Business Partner",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "full working proficiency in both German and English",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:09:17+00:00"
+  },
+  "https://www.stepstone.de/jobs--Producer-Content-Brand-Experience-m-w-d-Berlin-6PM-GmbH--14568507-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "4 to 6 years in production",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "content productions and live formats",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "German fluent, English confident.",
+      "ad_language": "mixed",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:09:20+00:00"
+  },
+  "https://www.stepstone.de/jobs--District-Visual-Merchandiser-Metzingen-Michael-Kors--14644998-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "At least 3 years of experience",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Visual Merchandiser",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:09:22+00:00"
+  },
+  "https://www.stepstone.de/jobs--Business-Development-Manager-Muenchen-CLO-Virtual-Fashion-GmbH-c-o-wework--14643637-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Minimum 3-5 years of full-time professional work experience",
+      "is_tech_related": true,
+      "tech_domain": "tech_business",
+      "domain_evidence": "fast-paced SaaS/startup environment, tech sector",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:09:25+00:00"
+  },
+  "https://www.stepstone.de/jobs--Channel-Partner-Manager-Muenchen-Usercentrics-GmbH--14645680-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "3-5+ years of experience",
+      "is_tech_related": true,
+      "tech_domain": "tech_business",
+      "domain_evidence": "partner management, channel sales in tech/SaaS",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:09:28+00:00"
+  },
+  "https://www.stepstone.de/jobs--National-Sales-Manager-Germany-Haematology-Oncology-Berlin-Syneos-Health-Commercial-Germany-GmbH--14645221-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "National Sales Manager Germany",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "pharmaceutical sales leadership",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:09:31+00:00"
+  },
+  "https://www.stepstone.de/jobs--Sr-Regional-Customer-Experience-Manager-DACH-Berlin-Uber-Germany-GmbH--14644051-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Sr. Regional Customer Experience Manager",
+      "is_tech_related": true,
+      "tech_domain": "tech_business",
+      "domain_evidence": "AI tools, product/engineering partnership, CX automation",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluency in German and English.",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:09:33+00:00"
+  },
+  "https://www.stepstone.de/jobs--Head-of-Growth-f-m-x-70190-Stuttgart-Laserhub-GmbH--14642638-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Head of Growth (f/m/x)",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent German and English",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T08:06:03+00:00"
+  },
+  "https://www.stepstone.de/jobs--Storage-Expert-m-f-d-37077-Goettingen-Gesellschaft-fuer-wissenschaftliche-Datenverarbeitung-mbH-Goettingen--14648431-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Master’s degree (or equivalent)",
+      "is_tech_related": true,
+      "tech_domain": "data_ai",
+      "domain_evidence": "high-performance storage technologies",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Very good German skills (C1)",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:09:35+00:00"
+  },
+  "https://www.stepstone.de/jobs--EN-Senior-Sales-Business-Development-Manager-China-Europe-m-f-d-Norderstedt-QMH-Consulting-GmbH--14568436-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Senior Sales & Business Development Manager",
+      "german_requirement": "required",
+      "german_level": "B2",
+      "german_evidence": "good German",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T08:06:07+00:00"
+  },
+  "https://www.stepstone.de/jobs--Business-Development-Manager-m-f-d-80799-Muenchen-Aioneers-GmbH--14648381-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Minimum 4 years of relevant experience",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "supply chain software sales",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "German and English (both fluent)",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:09:38+00:00"
+  },
+  "https://www.stepstone.de/jobs--Business-Development-Manager-m-f-d-68161-Mannheim-Aioneers-GmbH--14648428-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Minimum 4 years of relevant experience",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "supply chain software sales",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Excellent communication and presentation skills in both German and English (both fluent)",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:09:41+00:00"
+  },
+  "https://www.stepstone.de/jobs--Partner-Manager-14532-Kleinmachnow-eBay-GmbH--14644414-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Experience leading and growing strategic partnerships",
+      "is_tech_related": true,
+      "tech_domain": "tech_business",
+      "domain_evidence": "API partnerships and third‑party software integrations",
+      "german_requirement": "nice_to_have",
+      "german_level": "C1",
+      "german_evidence": "Excellent written and verbal German and English preferred",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:09:44+00:00"
+  },
+  "https://www.stepstone.de/jobs--Retail-Area-Manager-Germany-Austria-80331-Muenchen-New-Balance--14644014-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Proven Retail Management experience",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Retail Area Manager – non‑technical retail role",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:09:47+00:00"
+  },
+  "https://www.stepstone.de/jobs--Client-Manager-Enterprise-Accounts-South-m-f-d-Stuttgart-Lenovo-Deutschland-GmbH--14643673-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Client Manager Enterprise Accounts",
+      "is_tech_related": true,
+      "tech_domain": "tech_business",
+      "domain_evidence": "understanding of IT technologies, solutions and emerging trends",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent German and English, both written and spoken",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:09:50+00:00"
+  },
+  "https://www.stepstone.de/jobs--Policy-Advisor-Food-Security-and-Agriculture-70-Berlin-Deutsche-Welthungerhilfe-e-V--14651978-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Experience in policy and advocacy work",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "food security and agriculture",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Very good written and spoken German and English skill",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:09:53+00:00"
+  },
+  "https://www.stepstone.de/jobs--Engineering-Manager-Transaction-Processing-Berlin-PPRO-Holding-GmbH--14651975-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Engineering Manager",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Java and Spring Boot Cloud-native microservices",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:09:55+00:00"
+  },
+  "https://www.stepstone.de/jobs--Senior-Account-Executive-SMB-Outbound-Berlin-PayPal-Deutschland-GmbH--14643864-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Senior Account Executive",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T08:06:23+00:00"
+  },
+  "https://www.stepstone.de/jobs--Cabin-Service-Representative-m-f-d-20095-Hamburg-Platoon-Aviation-GmbH-Co-KG--14645023-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Proven experience as Cabin Crew",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Cabin service role in private aviation, hospitality",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:09:57+00:00"
+  },
+  "https://www.stepstone.de/jobs--Customer-Success-Specialist-m-f-d-France-82110-Germering-DocuWare-GmbH--14642891-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "several years of experience",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "DocuWare solutions",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:10:00+00:00"
+  },
+  "https://www.stepstone.de/jobs--Head-of-Operations-m-w-d-Bonn-Gasfin-Development-GmbH--14354922-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Head of Operations",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "German language skills would be a significant advantage",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T08:06:29+00:00"
+  },
+  "https://www.stepstone.de/jobs--Estimator-MEP-Frankfurt-Germany-D-P-Wirtschaftspruefung-GmbH-Wirtschaftspruefungsges-Steuerberatungsges--14514178-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "4–6 years of experience in MEP estimating",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "mechanical, electrical, plumbing, and fire protection systems",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:10:03+00:00"
+  },
+  "https://www.stepstone.de/jobs--Solutions-Consultant-Insurance-Risk-Vertriebsberater-60306-Frankfurt-am-Main-Clearwater-Analytics-GmbH--14643631-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "4+ years’ relevant experience",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Solutions Consultant - Insurance Risk",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluency in German and English",
+      "ad_language": "mixed",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:10:06+00:00"
+  },
+  "https://www.stepstone.de/jobs--Sales-Director-Large-Networks-DACH-10823-Berlin-VIRTA-International-GmbH--14646203-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Sales Director Large Networks DACH",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent in German and English (written and verbal)",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T08:06:35+00:00"
+  },
+  "https://www.stepstone.de/jobs--Associate-Business-Consultant-Life-Sciences-Consulting-Frankfurt-am-Main-Veeva-Systems-GmbH--14645409-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Associate Business Consultant - Life Sciences Consulting",
+      "is_tech_related": true,
+      "tech_domain": "tech_business",
+      "domain_evidence": "Leverage Veeva’s software and data to pull through tangible business",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent in German (professional level)",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:10:09+00:00"
+  },
+  "https://www.stepstone.de/jobs--Strategic-Finance-Manager-m-f-d-Muenchen-RobCo-GmbH--14643174-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Strategic Finance Manager",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Finance and reporting role, not technical",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "fluent German is required, C1+ level",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:10:12+00:00"
+  },
+  "https://www.stepstone.de/jobs--Senior-Solutions-Engineer-40474-Duesseldorf-AKENEO-GmbH--14643702-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Senior Solutions Engineer",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluency in German and English.",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T08:06:42+00:00"
+  },
+  "https://www.stepstone.de/jobs--Trust-Safety-Lead-Technical-f-m-d-Berlin-Good-Hood-GmbH--14441942-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Trust & Safety Lead (Technical)",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "A plus: German language and German-market moderation context",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T08:06:44+00:00"
+  },
+  "https://www.stepstone.de/jobs--Human-Resources-Business-Partner-60306-Frankfurt-am-Main-NOVA-Biomedical-GmbH--14645668-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "3–5 years of progressive experience",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Human Resources Business Partner",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Full professional fluency in both German and English (written and spoken) is strictly required.",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:10:15+00:00"
+  },
+  "https://www.stepstone.de/jobs--Technical-Project-Coordinator-Electrical-Engineering-m-f-d-Energy-and-Building-Technology-Dortmund-ELC-Schulz-GmbH--14651176-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "you may still be working in the second row today",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "electrical engineering, energy technology, and building technology",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:10:17+00:00"
+  },
+  "https://www.stepstone.de/jobs--Registered-Dental-Hygienist-Baumholder-B-French-Consulting-GmbH--14643341-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Minimum of one (1) year of experience",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Dental hygiene role, not a technology position",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:10:20+00:00"
+  },
+  "https://www.stepstone.de/jobs--Solution-Consultant-Muenchen-EQS-Group-GmbH--14645556-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "experienced Solution Consultant",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "SaaS platform",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "C1-level proficiency in German",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:10:23+00:00"
+  },
+  "https://www.stepstone.de/jobs--Senior-Sales-Operations-Manager-Berlin-Talon-One-GmbH--14645943-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Senior Sales Operations Manager",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T08:06:54+00:00"
+  },
+  "https://www.stepstone.de/jobs--Business-Development-Manager-Berlin-m-f-d-10178-Berlin-B-O-B-Security-GmbH--14646092-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Has at least 2 years of experience",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "hospitality sales professional",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Is fluent in German",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:10:25+00:00"
+  },
+  "https://www.stepstone.de/jobs--Enterprise-Account-Specialist-DACH-German-Speaking-80639-Muenchen-TeamViewer-Germany-GmbH--14648781-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "1-3 years in a quota-carrying or pipeline-generating role",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "SaaS or technology experience is strongly preferred",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent in German and English is required",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:10:27+00:00"
+  },
+  "https://www.stepstone.de/jobs--Business-Development-Representative-German-Speaking-Muenchen-Denodo-Technologies-GmbH--14646317-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "2-5 years of experience",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "enterprise software or high-tech products",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "German (C1)",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:10:31+00:00"
+  },
+  "https://www.stepstone.de/jobs--Billing-Operations-Manager-m-f-d-Heidelberg-Unzer-Group-GmbH--14645780-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Billing Operations Manager",
+      "is_tech_related": true,
+      "tech_domain": "tech_business",
+      "domain_evidence": "billing and finance-related software and systems",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluency in both German and English, written and spoken.",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:10:34+00:00"
+  },
+  "https://www.stepstone.de/jobs--UH-60-A-L-M-Maintenance-Test-Pilot-FAA-Pilot-License-Illesheim-Germany-91471-Illesheim-Ramstein-Air-Base-86-LRS--14648576-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "minimum of 1,000 hours of total PIC time",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Maintenance Test Pilot",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:10:37+00:00"
+  },
+  "https://www.stepstone.de/jobs--Graphic-Designer-Brand-Mansory-Design-Holding-GmbH--14648251-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Graphic Designer",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Graphic design uses creative software, not a tech role",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:10:39+00:00"
+  },
+  "https://www.stepstone.de/jobs--Growth-Marketer-Data-Experimentation-Berlin-Berlin-Tomorrow-Biostasis-GmbH--14026393-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Experience with funnel analysis, cohort analysis",
+      "is_tech_related": true,
+      "tech_domain": "data_ai",
+      "domain_evidence": "Comfortable using BI or analytics tools such as DataStudio, Metabase",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "German is a plus",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:10:42+00:00"
+  },
+  "https://www.stepstone.de/jobs--Business-Development-Director-38440-Wolfsburg-Momenta-Europe-GmbH--14642645-inline.html": {
+    "version": 1,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Business Development Director",
+      "german_requirement": "required",
+      "german_level": "unspecified",
+      "german_evidence": "Proficiency in listening, speaking, reading and writing German and English as a daily working language.",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T08:07:08+00:00"
+  },
+  "https://www.stepstone.de/jobs--Customer-Experience-Centre-Lab-Leader-Duesseldorf-Bio-Techne-GmbH--14644527-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Customer Experience Centre Lab Leader",
+      "is_tech_related": true,
+      "tech_domain": "tech_business",
+      "domain_evidence": "Strong understanding of life science tools and diagnostic workflows",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent in German & English",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:10:46+00:00"
+  },
+  "https://www.stepstone.de/jobs--Junior-Digital-Marketing-Specialist-m-f-d-Limited-Contract-Neu-Isenburg-De%60Longhi-Deutschland-GmbH--14515986-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Junior Digital Marketing Specialist",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Digital Marketing",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "fluent in German and English",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:10:49+00:00"
+  },
+  "https://www.stepstone.de/jobs--Germany-Voyage-Program-March-2027-Food-and-Beverage-80805-Muenchen-Stuttgart-Marriott-Hotel-Sindelfingen-Marriott-International-Inc--14649304-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "graduated with a degree within the last 2 years",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "Fluency in local language may be required",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:10:51+00:00"
+  },
+  "https://www.stepstone.de/jobs--Flight-Physician-66877-Ramstein-Miesenbach-Ramstein-Air-Base-86-LRS--14648525-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Flight Physician",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Flight Physician",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:10:54+00:00"
+  },
+  "https://www.stepstone.de/jobs--Commis-de-Cuisine-m-w-d-JW-Steakhouse-10785-Berlin-Stuttgart-Marriott-Hotel-Sindelfingen-Marriott-International-Inc--14648115-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Commis de Cuisine (m/w/d)",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Food and Beverage & Culinary",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "(Very) good German and good English skills",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:10:57+00:00"
+  },
+  "https://www.stepstone.de/jobs--W1-Juniorprofessorship-in-Numerical-Mathematics-with-tenure-track-W2-Braunschweig-MathHire-org-Inh-Daniel-Luetgehetmann-und-Sebastian-Meinert-GbR--14648490-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "W1 Juniorprofessorship in Numerical Mathematics",
+      "is_tech_related": true,
+      "tech_domain": "data_ai",
+      "domain_evidence": "interdisciplinary topic “Data Science“",
+      "german_requirement": "required",
+      "german_level": "unspecified",
+      "german_evidence": "willingness for teaching in German and English",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:11:00+00:00"
+  },
+  "https://www.workingstudentjobs.de/jobs/bsh-home-appliances-group-internship-agentic-ai-and-test-m-f-83263da8": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "internship",
+      "role_evidence": "Internship - Agentic AI and Test-Driven Development",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Research and experiment with Agentic AI and Test-Driven Development",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:11:03+00:00"
+  },
+  "https://www.workingstudentjobs.de/jobs/idealo-internet-gmbh-working-student-qa-in-mobile-app-m-f-d-b3f267d5": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "working_student",
+      "role_evidence": "Working Student QA in Mobile App Development",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Android and iOS apps",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:11:06+00:00"
+  },
+  "https://www.workingstudentjobs.de/jobs/tensordyne-working-student-llm-inference-performance-626f6fc4": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "working_student",
+      "role_evidence": "Working Student",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "optimize low-level kernels, benchmark performance on real silicon",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:11:09+00:00"
+  },
+  "https://www.workingstudentjobs.de/jobs/bettermile-working-student-ai-automation-support-d-f-m-54ad1d5e": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "working_student",
+      "role_evidence": "Working Student AI Automation & Support",
+      "is_tech_related": true,
+      "tech_domain": "automation_robotics",
+      "domain_evidence": "building workflows in n8n, Make, Zapier",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-02T10:11:12+00:00"
+  },
+  "https://www.stepstone.de/jobs--Industrial-Engineering-Working-Student-Hamburg-Nexperia-Germany-GmbH--14574233-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "working_student",
+      "role_evidence": "Working Student",
+      "is_tech_related": true,
+      "tech_domain": "data_ai",
+      "domain_evidence": "Data analysis on product final test yield Automation of data crunching",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent german or english speaker",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:39:15+00:00"
+  },
+  "https://www.stepstone.de/jobs--Working-Student-Customer-Success-m-w-d-82110-Germering-DocuWare-GmbH--14654207-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "working_student",
+      "role_evidence": "Working Student Customer Success",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "DocuWare systems",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "You speak German and English fluently.",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:39:17+00:00"
+  },
+  "https://www.stepstone.de/jobs--Working-Student-Marketing-Event-Field-m-f-d-81671-Muenchen-UniteLabs-GmbH--14654881-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "working_student",
+      "role_evidence": "Working Student",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Marketing (Event & Field) role",
+      "german_requirement": "required",
+      "german_level": "B2",
+      "german_evidence": "Fluent German (B2+)",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:39:19+00:00"
+  },
+  "https://www.stepstone.de/jobs--Business-Ops-Intern-People-Culture-f-m-x-Munich-4-screen-GmbH--14519079-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "internship",
+      "role_evidence": "Business Ops Intern",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "",
+      "german_requirement": "required",
+      "german_level": "B2",
+      "german_evidence": "Excellent German and English skills (at least B2+)",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:39:21+00:00"
+  },
+  "https://www.stepstone.de/jobs--IT-Business-Analyst-Custom-Apps-m-f-d-Bruehl-Mauser-Packaging-Solutions--14337694-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "At least 1 year of experience",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "custom applications",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent in English and German",
+      "ad_language": "mixed",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:39:24+00:00"
+  },
+  "https://www.stepstone.de/jobs--Working-Student-Innovation-Strategy-m-f-d-x-Ulm-Stuttgart-Mercedes-Benz-Tech-Innovation--14567001-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "working_student",
+      "role_evidence": "Working Student",
+      "is_tech_related": true,
+      "tech_domain": "tech_business",
+      "domain_evidence": "Media Informatics, design tools, strategy and innovation",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "demonstrably excellent German and English skills",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:39:26+00:00"
+  },
+  "https://www.stepstone.de/jobs--Working-Student-Communications-all-genders-Hamburg-Skyborn-Renewables-offshore-solutions-GmbH--14659149-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "working_student",
+      "role_evidence": "Working Student Communications",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "communications, branding, content creation – non‑technical role",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "communicate fluently in German and English",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:39:28+00:00"
+  },
+  "https://www.stepstone.de/jobs--Site-Reliability-Engineer-VMware-Cloud-Muenchen-Brainlab--14574257-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "minimum of 5 years of experience",
+      "is_tech_related": true,
+      "tech_domain": "it_systems",
+      "domain_evidence": "VMware Cloud Foundation rollout and cloud‑native technologies",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "German is a plus",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:39:30+00:00"
+  },
+  "https://www.stepstone.de/jobs--Cloud-Software-Engineer-m-f-d-Ulm-Liebherr-Digital-Development-Center-GmbH--14710552-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "at least 3 years' experience in software development",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "cloud software engineer",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Excellent spoken and written communication skills in German & English",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:39:32+00:00"
+  },
+  "https://www.stepstone.de/jobs--Strategy-Manager-m-w-d-Berlin-Lloyds-Bank-Bank-of-Scotland--14707889-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Strategy Manager",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Strategy Manager role in banking, not technical",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Very good English and German skills, both written and spoken",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:39:35+00:00"
+  },
+  "https://www.stepstone.de/jobs--Operational-Technology-OT-Manager-m-w-d-Wermelskirchen-Interroll-Holding-GmbH--14408940-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Operational Technology (OT) Manager",
+      "is_tech_related": true,
+      "tech_domain": "automation_robotics",
+      "domain_evidence": "oversee installation ... PLC, SCADA, HMI and MES systems",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Min. C1 ... German",
+      "ad_language": "mixed",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:39:37+00:00"
+  },
+  "https://www.stepstone.de/jobs--Development-Engineer-Medium-Voltage-Radeberg-BBC-Cellpack-GmbH--14452952-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Development Engineer Medium Voltage",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "development and testing of medium‑voltage components",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Very good German skills and good English language skills",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:39:39+00:00"
+  },
+  "https://www.stepstone.de/jobs--Executive-Assistant-Business-Operations-Manager-Koeln-Duesseldorf-Barnickel-Fellows-GmbH--14708258-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "at least eight years of practice",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Executive Assistant & Business Operations Manager",
+      "german_requirement": "required",
+      "german_level": "B2",
+      "german_evidence": "German proficiency at B2 or higher is essential",
+      "ad_language": "mixed",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:39:42+00:00"
+  },
+  "https://www.stepstone.de/jobs--Electrical-Manager-f-m-d-Data-Center-Construction-Site-Frankfurt-am-Main-PORR-GmbH-Co-KGaA--13915526-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Electrical Manager",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "complex electrical infrastructures",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "fluent in German and English, both written and spoken",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:39:44+00:00"
+  },
+  "https://www.stepstone.de/jobs--Automobile-Claims-Adjuster-III-m-f-d-Frankfurt-am-Main-USAA-EU-DAC--14272974-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Automobile Claims Adjuster III",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Receiving and recording incoming claim reports from policyholders",
+      "german_requirement": "required",
+      "german_level": "native",
+      "german_evidence": "Fluent German skills in speaking and writing (native speaker level)",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:39:46+00:00"
+  },
+  "https://www.stepstone.de/jobs--Anaplan-Solutions-Architect-m-f-d-Dusseldorf-The-Stepstone-Group-GmbH--14709011-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Several years of professional experience",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "modeling in Anaplan and creation of apps",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:39:48+00:00"
+  },
+  "https://www.stepstone.de/jobs--Site-Manager-Wind-Turbine-Projects-m-f-d-Rostock-Nordex-Group--13869488-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "several years of experience in construction site management",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "wind turbine construction projects",
+      "german_requirement": "required",
+      "german_level": "B1",
+      "german_evidence": "basic German (B1 level)",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:39:50+00:00"
+  },
+  "https://www.stepstone.de/jobs--Project-Engineer-m-f-d-Homologation-Koeln-Rimowa-GmbH--14710866-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "At least 4-5 years of practical work experience",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "focus on Plastic and Metal parts",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent English and German language skills",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:39:52+00:00"
+  },
+  "https://www.stepstone.de/jobs--Industrial-Engineer-m-f-d-Hamburg-Nexperia-Germany-GmbH--14574234-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "3 to 5 Years experience",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "semiconductor manufacturing",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "German language knowledge is a plus",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:39:54+00:00"
+  },
+  "https://www.stepstone.de/jobs--IT-Administrator-Cloud-Infrastructure-m-f-d-Schoeppingen-shopware-AG--14656372-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "several years of professional experience",
+      "is_tech_related": true,
+      "tech_domain": "it_systems",
+      "domain_evidence": "cloud environments, particularly AWS",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluency in German and English (C1)",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:39:57+00:00"
+  },
+  "https://www.stepstone.de/jobs--IT-Business-Systems-Analyst-DE-Frankfurt-am-Main-BYD-Germany-GmbH--14654657-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "5–7 years of experience",
+      "is_tech_related": true,
+      "tech_domain": "it_systems",
+      "domain_evidence": "supporting enterprise applications",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent in English and the local market language",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:39:59+00:00"
+  },
+  "https://www.stepstone.de/jobs--IT-Manager-EMEA-f-m-d-81373-Muenchen-Canadian-Solar-EMEA-GmbH--14656039-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "IT Manager - EMEA",
+      "is_tech_related": true,
+      "tech_domain": "it_systems",
+      "domain_evidence": "enterprise applications such as SAP, Microsoft Dynamics, CRM, ERP",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent German & English",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:40:02+00:00"
+  },
+  "https://www.stepstone.de/jobs--Compliance-Specialist-f-m-d-Mainz-am-Rhein-Randstad-Deutschland-GmbH-Co-KG--14658472-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Bachelor in Business Administration",
+      "is_tech_related": true,
+      "tech_domain": "data_ai",
+      "domain_evidence": "data analytics and data management skills",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "mixed",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:40:04+00:00"
+  },
+  "https://www.stepstone.de/jobs--Service-Employee-m-f-d-Teltow-OD-OS-GmbH--14456339-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Completed vocational training",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "retinal lasers at our customers in hospitals",
+      "german_requirement": "required",
+      "german_level": "B2",
+      "german_evidence": "Good communication skills in German and English",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:40:06+00:00"
+  },
+  "https://www.stepstone.de/jobs--Customer-Service-Agent-%E2%80%94-Investment-Pension-Products-m-f-d-Berlin-Raisin-SE--14658221-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Customer Service Agent",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Customer service role handling inquiries, not technical development",
+      "german_requirement": "required",
+      "german_level": "C2",
+      "german_evidence": "You speak German or Dutch at C2 level, both written and spoken",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:40:08+00:00"
+  },
+  "https://www.stepstone.de/jobs--Forward-Deployed-Engineer-AI-Inference-Intern-Berlin-Internationaler-Lyceum-Club-Berlin-e-V--14653793-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "internship",
+      "role_evidence": "Intern",
+      "is_tech_related": true,
+      "tech_domain": "data_ai",
+      "domain_evidence": "AI inference, LLMs, inference engines, GPUs",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "German",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:40:10+00:00"
+  },
+  "https://www.stepstone.de/jobs--Digital-Marketing-Intern-f-m-d-Berlin-aeyde-GmbH--13978617-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "internship",
+      "role_evidence": "Digital Marketing Intern",
+      "is_tech_related": true,
+      "tech_domain": "tech_business",
+      "domain_evidence": "Instagram, TikTok, Pinterest, LinkedIn",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:40:13+00:00"
+  },
+  "https://www.stepstone.de/jobs--Cybersecurity-Intern-70565-Stuttgart-sereact-GmbH--14656342-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "internship",
+      "role_evidence": "Cybersecurity Intern",
+      "is_tech_related": true,
+      "tech_domain": "it_systems",
+      "domain_evidence": "security and monitoring of cloud infrastructure",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:40:15+00:00"
+  },
+  "https://www.stepstone.de/jobs--Tire-Repair-Specialist-Pirmasens-Ramstein-Air-Base-86-LRS--14654512-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "One (1) to three (3) years of experience",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Performs tire repair replacement on light, heavy, and special purpose vehicles.",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:40:17+00:00"
+  },
+  "https://www.stepstone.de/jobs--Intern-m-f-d-Transaction-Advisory-Group-Swiss-Team-20457-Hamburg-Alvarez-Marsal-Deutschland-GmbH--14657498-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "internship",
+      "role_evidence": "Intern (m/f/d)",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "financial due diligence and M&A research",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent business level in German, English and ideally in French",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:40:19+00:00"
+  },
+  "https://www.stepstone.de/jobs--Customer-Support-Agent-GER-ENG-all-genders-13189-Berlin-Sammelkartenmarkt-GmbH-Co-KG--14657797-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Customer Support Agent",
+      "is_tech_related": true,
+      "tech_domain": "tech_business",
+      "domain_evidence": "support Cardmarket users with a wide range of inquiries",
+      "german_requirement": "required",
+      "german_level": "C2",
+      "german_evidence": "fluent German (C2)",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:40:22+00:00"
+  },
+  "https://www.stepstone.de/jobs--Solution-Architect-m-f-d-Gilching-Quantum-Systems-GmbH--14575185-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Proven experience as a Solution Architect",
+      "is_tech_related": true,
+      "tech_domain": "automation_robotics",
+      "domain_evidence": "unmanned platforms used in demanding defense and security environments",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Business fluency in English and German is required",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:40:25+00:00"
+  },
+  "https://www.stepstone.de/jobs--Product-Manager-Autonomous-Trucking-m-f-d-Gilching-Quantum-Systems-GmbH--14523040-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Multiple years of hands-on experience",
+      "is_tech_related": true,
+      "tech_domain": "automation_robotics",
+      "domain_evidence": "autonomous trucking, robotics, physical AI",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:40:27+00:00"
+  },
+  "https://www.stepstone.de/jobs--Product-Manager-Mission-Payload-Land-m-f-d-Gilching-Quantum-Systems-GmbH--14523041-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Multiple years of hands-on experience",
+      "is_tech_related": true,
+      "tech_domain": "automation_robotics",
+      "domain_evidence": "payload capabilities across our Land Domain Vehicle Portfolio",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "German is a plus",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:40:30+00:00"
+  },
+  "https://www.stepstone.de/jobs--Industrialization-Technician-m-f-d-Gilching-Quantum-Systems-GmbH--14575186-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Professional experience in industrialization",
+      "is_tech_related": true,
+      "tech_domain": "automation_robotics",
+      "domain_evidence": "unmanned aerial systems",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Very good command of German",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:40:32+00:00"
+  },
+  "https://www.stepstone.de/jobs--Industrialization-Technician-m-f-d-Wessling-Quantum-Systems-GmbH--14575187-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Professional experience in industrialization, production, production planning",
+      "is_tech_related": true,
+      "tech_domain": "automation_robotics",
+      "domain_evidence": "assembly and integration of complex technical systems",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Very good command of German",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:40:36+00:00"
+  },
+  "https://www.stepstone.de/jobs--Client-Advisor-24h-October-December-LOEWE-Berlin-Berlin-LOEWE-Alemania-GmbH--14654417-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Client Advisor 24h",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "fashion retail client advisory role",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent in English and German",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:40:38+00:00"
+  },
+  "https://www.stepstone.de/jobs--Social-Media-Marketing-Praktikant-in-Berlin-7NXT-GmbH--14710911-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "internship",
+      "role_evidence": "Social Media Marketing Praktikant:in",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "social media strategy on Instagram, TikTok, and YouTube Shorts",
+      "german_requirement": "required",
+      "german_level": "B2",
+      "german_evidence": "Good German and English language skills, both written and spoken",
+      "ad_language": "mixed",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:40:40+00:00"
+  },
+  "https://www.stepstone.de/jobs--Order-Processing-Specialist-m-w-d-Kaarst-Piab-Vakuum-GmbH--14461136-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "1–2 years of experience",
+      "is_tech_related": true,
+      "tech_domain": "it_systems",
+      "domain_evidence": "Experience working with ERP and CRM systems",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "German language skills would be a strong advantage",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:40:43+00:00"
+  },
+  "https://www.stepstone.de/jobs--Internship-in-Strategic-Procurement-f-m-x-Bonn-Holzlar-Kautex-Textron-GmbH-Co-KG--14293159-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "internship",
+      "role_evidence": "Internship in Strategic Procurement",
+      "is_tech_related": true,
+      "tech_domain": "tech_business",
+      "domain_evidence": "data analysis, digitalization projects, SAP database maintenance",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "Speaking Chinese or German is a plus",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:40:46+00:00"
+  },
+  "https://www.stepstone.de/jobs--Category-Manager-Beauty-m-f-d-Hamburg-Gebr-Heinemann-SE-Co-KG--14659153-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Several years of professional experience",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Category Manager – non‑technical commercial role",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Very good German and English skills",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:40:48+00:00"
+  },
+  "https://www.stepstone.de/jobs--Change-Management-Manager-m-f-d-Karlsruhe-STARTEAM-Global-Germany-GmbH--14708821-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "senior",
+      "role_evidence": "Change Management Manager",
+      "is_tech_related": true,
+      "tech_domain": "tech_business",
+      "domain_evidence": "change lifecycles of digital projects",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:40:50+00:00"
+  },
+  "https://www.stepstone.de/jobs--HR-Coordinator-Stuttgart-International-SOS-GmbH--14338064-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "3–5 years of HR experience",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "HR Coordinator role focusing on HR operations",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent German and English",
+      "ad_language": "mixed",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:40:52+00:00"
+  },
+  "https://www.stepstone.de/jobs--Commercial-Excellence-Professional-m-f-d-Hannover-Clarios-Germany-GmbH-Co-KG--14708410-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Min. 3 years of working experience",
+      "is_tech_related": true,
+      "tech_domain": "data_ai",
+      "domain_evidence": "leverage AI, advanced analytics, automation, next-generation digital tools",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluency in English and German, both written and spoken",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:40:55+00:00"
+  },
+  "https://www.stepstone.de/jobs--AI-Infrastructure-Engineer-f-m-x-Muenchen-BMW-Group--14658838-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "At least four years of professional experience",
+      "is_tech_related": true,
+      "tech_domain": "data_ai",
+      "domain_evidence": "designing, building, and operating modern cloud, AI, or platform infrastructure",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:40:58+00:00"
+  },
+  "https://www.stepstone.de/jobs--Data-Scientist-Data-Engineer-10627-Berlin-80-Beats-Medical-GmbH--14657028-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "5+ years of experience",
+      "is_tech_related": true,
+      "tech_domain": "data_ai",
+      "domain_evidence": "high-frequency physiological and clinical data",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:41:00+00:00"
+  },
+  "https://www.stepstone.de/jobs--Hardware-Development-Engineer-Data-Handling-System-all-genders-10245-Berlin-REFLEX-aerospace-GmbH--14657269-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "3+ years of experience in electronics hardware development",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "Development of electronics for spacecraft sub-systems",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:41:02+00:00"
+  },
+  "https://www.stepstone.de/jobs--Data-Protection-Consultant-German-speaking-all-genders-Limited-Contract-Berlin-Serrala-Group-GmbH--14654628-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Data Protection Consultant",
+      "is_tech_related": true,
+      "tech_domain": "data_ai",
+      "domain_evidence": "privacy and emerging AI-related regulatory requirements",
+      "german_requirement": "required",
+      "german_level": "unspecified",
+      "german_evidence": "Excellent spoken and written German skills",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:41:05+00:00"
+  },
+  "https://www.stepstone.de/jobs--Freelance-Temporary-Role-Data-Scientist-M-F-D-Berlin-Lynx-B-V-Germany-Branch--14653617-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "freelance",
+      "role_evidence": "Freelance Temporary Role",
+      "is_tech_related": true,
+      "tech_domain": "data_ai",
+      "domain_evidence": "Advanced proficiency in Python and SQL",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:41:08+00:00"
+  },
+  "https://www.stepstone.de/jobs--Freelance-Temporary-Role-Data-Scientist-M-F-D-10117-Berlin-Lynx-B-V-Germany-Branch--14654530-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "freelance",
+      "role_evidence": "Freelance Temporary Role",
+      "is_tech_related": true,
+      "tech_domain": "data_ai",
+      "domain_evidence": "Advanced proficiency in Python and SQL",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:41:10+00:00"
+  },
+  "https://www.stepstone.de/jobs--Office-Administrator-Hamburg-Analog-Devices-GmbH--14653129-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Initial professional experience in office management",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Office Administrator (m/f/d)",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent German",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:41:13+00:00"
+  },
+  "https://www.stepstone.de/jobs--Academic-Planning-and-Registration-Assistant-Madrid-Schiller-International-University-Inc--13978757-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "2–3 years of experience in Higher Education",
+      "is_tech_related": true,
+      "tech_domain": "it_systems",
+      "domain_evidence": "Experience with Student Information Systems (SIS) required",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "Additional languages (Spanish, French, or German) are a plus",
+      "ad_language": "en",
+      "country": "Spain"
+    },
+    "screened_at_utc": "2026-11-03T09:41:16+00:00"
+  },
+  "https://www.stepstone.de/jobs--Securities-Services-Depositary-Services-DS-DS-Service-Delivery-Assistant-Associate-all-genders-Frankfurt-am-Main-JPMorgan-Chase-Bank-Frankfurt-Branch--14658275-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Service Delivery Assistant - Associate",
+      "is_tech_related": true,
+      "tech_domain": "data_ai",
+      "domain_evidence": "Strong technology and data skills, including reporting, analytics, and data visualisation tools",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluency in German and English, both written and verbal, is essential",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:41:18+00:00"
+  },
+  "https://www.stepstone.de/jobs--Postal-branch-Operator-m-w-d-mini-job-Berlin-NOVA-Post-DE-GmbH--14225035-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Postal branch Operator (m/w/d) mini-job",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Processing shipments, consulting customers, maintaining accurate records",
+      "german_requirement": "required",
+      "german_level": "B1",
+      "german_evidence": "German language proficiency at B1 level or higher",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:41:21+00:00"
+  },
+  "https://www.stepstone.de/jobs--Database-Administrator-Global-63067-Offenbach-Vantage-Data-Centers-Germany-GmbH--14654274-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "2-4 years of production database administration experience",
+      "is_tech_related": true,
+      "tech_domain": "data_ai",
+      "domain_evidence": "production database administration",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:41:23+00:00"
+  },
+  "https://www.stepstone.de/jobs--Aircraft-Mechanic-2-Sheetmetal-Structures-FCC-or-AP-Illesheim-Germany-91471-Illesheim-Ramstein-Air-Base-86-LRS--14654188-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Five (5) years of recent applicable aircraft maintenance experience",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Inspect, repair, modify structural, mechanical, and electrical aircraft systems",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:41:25+00:00"
+  },
+  "https://www.stepstone.de/jobs--Aircraft-Mechanic-AM2-CH-47-AP-or-FCC-Illesheim-Germany-91471-Illesheim-Ramstein-Air-Base-86-LRS--14654724-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Five (5) years of recent applicable aircraft maintenance experience",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "working knowledge of electrical, electronic, mechanical and associated systems",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:41:28+00:00"
+  },
+  "https://www.stepstone.de/jobs--Autonomous-Driving-Decision-Planning-RD-Intern-71034-Boeblingen-Momenta-Europe-GmbH--14652701-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "internship",
+      "role_evidence": "R&D Intern",
+      "is_tech_related": true,
+      "tech_domain": "data_ai",
+      "domain_evidence": "data mining and training autonomous model",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "German reading/speaking is a plus",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:41:30+00:00"
+  },
+  "https://www.stepstone.de/jobs--Mechatronics-Technician-Apprenticeship-m-f-d-Aachen-EUtech-Scientific-Engineering-GmbH--14658150-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "apprenticeship",
+      "role_evidence": "Mechatronics Technician Apprenticeship",
+      "is_tech_related": true,
+      "tech_domain": "automation_robotics",
+      "domain_evidence": "assembly of complex mechatronic systems",
+      "german_requirement": "required",
+      "german_level": "B2",
+      "german_evidence": "good grades in mathematics, German, and English",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:41:32+00:00"
+  },
+  "https://www.stepstone.de/jobs--Intern-m-f-d-in-Investment-Management-PC-Germany-Commercial-Lines-AZ-Vers-AVK-Pensions-Muenchen-Allianz-Investment-Management-SE--14698037-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "internship",
+      "role_evidence": "Intern (m/f/d) in Investment Management",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "investment analysis and portfolio management",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "German is a plus",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:41:35+00:00"
+  },
+  "https://www.stepstone.de/jobs--Internship-Venture-Development-f-m-x-Muenchen-Marvel-Fusion-GmbH--14653858-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "internship",
+      "role_evidence": "Internship – Venture Development",
+      "is_tech_related": true,
+      "tech_domain": "tech_business",
+      "domain_evidence": "fusion energy company",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "German language skills",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:41:37+00:00"
+  },
+  "https://www.stepstone.de/jobs--Paid-Erasmus-Content-Social-Media-Marketing-Intern-20457-Hamburg-E-FARM-GmbH--14652980-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "internship",
+      "role_evidence": "Content & Social Media Marketing Intern",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Content & Social Media Marketing Intern",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "Any additional European language (e.g. German) is a big plus",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:41:40+00:00"
+  },
+  "https://www.stepstone.de/jobs--Training-apprenticeship-as-a-certified-scaffolder-m-f-d-01558-Grossenhain-Klukas-Gerueste-GmbH--14653571-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "apprenticeship",
+      "role_evidence": "Training / apprenticeship",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "scaffolder",
+      "german_requirement": "required",
+      "german_level": "B1",
+      "german_evidence": "German language level of at least B1/B2",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:41:43+00:00"
+  },
+  "https://www.stepstone.de/jobs--Human-Capital-Business-Partner-10117-Berlin-Guidehouse-Germany-Energy-GmbH--14654662-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "5 or more years of relevant experience",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "HR generalist experience",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Strong command of the German and English language.",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:41:45+00:00"
+  },
+  "https://www.stepstone.de/jobs--Technical-Support-Consultant-gn-Dresden-Instaffo-GmbH--14600063-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Several years of experience",
+      "is_tech_related": true,
+      "tech_domain": "automation_robotics",
+      "domain_evidence": "industrial robots (e.g. KUKA, ABB, FANUC)",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:41:47+00:00"
+  },
+  "https://www.stepstone.de/jobs--SAP-Consultant-FI-CO-SD-m-f-d-SAP-AI-and-Joule-Bad-Soden-Archtexx-Consulting-GmbH--14225179-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "5+ years of professional experience",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "customize SAP solutions",
+      "german_requirement": "required",
+      "german_level": "A2",
+      "german_evidence": "Basic German, spoken and written",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:41:50+00:00"
+  },
+  "https://www.stepstone.de/jobs--Demand-Generation-Manager-m-f-d-Berlin-10119-Berlin-Tilta-Fintech-GmbH--14653895-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "4+ years of relevant experience",
+      "is_tech_related": true,
+      "tech_domain": "tech_business",
+      "domain_evidence": "fast-growing FinTech",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "very good German (C1)",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:41:52+00:00"
+  },
+  "https://www.stepstone.de/jobs--Laser-Scientist-Muenchen-Marvel-Fusion-GmbH--14654774-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Master's degree or PhD in Physics",
+      "is_tech_related": true,
+      "tech_domain": "hardware_iot",
+      "domain_evidence": "ultrafast-laser sources — diode-pumped solid-state, short-pulse and fiber lasers",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:41:54+00:00"
+  },
+  "https://www.stepstone.de/jobs--Software-Designer-High-Tech-Semiconductor-Equipment-PLC-C-C-Erlangen-Sioux-Technologies-GmbH--14657368-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "5–10+ years of experience",
+      "is_tech_related": true,
+      "tech_domain": "automation_robotics",
+      "domain_evidence": "PLC-based machine control",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:41:57+00:00"
+  },
+  "https://www.stepstone.de/jobs--Mathematics-and-Statistics-Ramstein-Undergraduate-School-Adjunct-Faculty-Ramstein-Miesenbach-University-of-Maryland--14654705-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Adjunct Faculty",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Mathematics and Statistics",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:41:59+00:00"
+  },
+  "https://www.stepstone.de/jobs--Healthcare-Administration-Kaiserslautern-Graduate-School-Adjunct-Faculty-Kaiserslautern-University-of-Maryland--14652864-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Adjunct Faculty",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Healthcare Administration teaching role",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:42:01+00:00"
+  },
+  "https://www.stepstone.de/jobs--HITS-Independent-Postdoc-Program-Heidelberg-HITS-gGmbH--14654127-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Independent Postdoc Program",
+      "is_tech_related": true,
+      "tech_domain": "data_ai",
+      "domain_evidence": "computational and data-intensive science",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:42:03+00:00"
+  },
+  "https://www.stepstone.de/jobs--Primary-School-German-Teacher-f-m-d-Kleinmachnow-BBIS-Berlin-Brandenburg-International-School-GmbH--13914310-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "entry_level",
+      "role_evidence": "Primary School German Teacher (f/m/d)",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Teach German to Primary School students",
+      "german_requirement": "required",
+      "german_level": "native",
+      "german_evidence": "Native-level fluency in German and highly proficient communication skills in English",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:42:06+00:00"
+  },
+  "https://www.stepstone.de/jobs--Teacher-of-IB-MYP-and-IB-DP-German-f-m-d-Kleinmachnow-BBIS-Berlin-Brandenburg-International-School-GmbH--13978693-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Experience teaching the IBDP/IBMYP programme",
+      "is_tech_related": false,
+      "tech_domain": "non_tech",
+      "domain_evidence": "Teach IBDP and IBMYP German",
+      "german_requirement": "required",
+      "german_level": "native",
+      "german_evidence": "Native-level fluency in German and highly proficient communication skills in English.",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:42:08+00:00"
+  },
+  "https://www.stepstone.de/jobs--Sales-Manager-Campus-Startup-Programs-f-m-d-Berlin-MotionLab-ML-GmbH--14691015-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Several years of experience (ideally 2–5+ years) in Sales",
+      "is_tech_related": true,
+      "tech_domain": "tech_business",
+      "domain_evidence": "Tech Talent Program Sales (Tech Challenges for SMEs)",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Fluent German (C1+)",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:42:11+00:00"
+  },
+  "https://www.stepstone.de/jobs--Security-Guard-m-w-d-Muenchen-Helsing-Germany-GmbH--14304198-inline.html": {
+    "version": 2,
+    "source": "llm",
+    "classification": {
+      "role_type": "experienced",
+      "role_evidence": "Demonstrate extensive practical expertise in physical security guarding",
+      "is_tech_related": true,
+      "tech_domain": "it_systems",
+      "domain_evidence": "operate and troubleshoot complex security systems and access controls",
+      "german_requirement": "required",
+      "german_level": "C1",
+      "german_evidence": "Communicate fluently in both German and English",
+      "ad_language": "en",
+      "country": "Germany"
+    },
+    "screened_at_utc": "2026-11-03T09:42:14+00:00"
+  },
+  "https://www.workingstudentjobs.de/jobs/dhl-master-data-management-intern-m-f-x-c36a133f": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/dhl-master-data-management-intern-m-f-x-c36a133f",
+    "company": "DHL",
+    "title": "Master Data Management Intern (M/F/X)",
+    "updated_at": "2026-11-16T17:01:47.738978+00:00",
+    "facts": {
+      "role_type": "internship",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/roofline-intern-software-engineer-ai-compilers-363eae0e": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/roofline-intern-software-engineer-ai-compilers-363eae0e",
+    "company": "roofline",
+    "title": "Intern Software Engineer - AI Compilers",
+    "updated_at": "2026-11-16T17:01:47.739441+00:00",
+    "facts": {
+      "role_type": "internship",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/dhl-supply-chain-master-data-management-intern-m-f-x-2b89e49a": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/dhl-supply-chain-master-data-management-intern-m-f-x-2b89e49a",
+    "company": "DHL Supply Chain",
+    "title": "Master Data Management Intern (M/F/X)",
+    "updated_at": "2026-11-16T17:01:47.739857+00:00",
+    "facts": {
+      "role_type": "internship",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/maddox-ai-machine-learning-working-student-m-f-d-66f8ca23": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/maddox-ai-machine-learning-working-student-m-f-d-66f8ca23",
+    "company": "Maddox AI",
+    "title": "Machine Learning Working Student (m/f/d)",
+    "updated_at": "2026-11-16T17:01:47.740140+00:00",
+    "facts": {
+      "role_type": "working_student",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/jawbuddy-quality-data-intern-f8cd6e6c": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/jawbuddy-quality-data-intern-f8cd6e6c",
+    "company": "JawBuddy",
+    "title": "Quality & Data Intern",
+    "updated_at": "2026-11-16T17:01:47.740571+00:00",
+    "facts": {
+      "role_type": "internship",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/henkel-internship-sustainability-adhesive-technologies-f6b1ea16": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/henkel-internship-sustainability-adhesive-technologies-f6b1ea16",
+    "company": "Henkel",
+    "title": "Internship Sustainability Adhesive Technologies",
+    "updated_at": "2026-11-16T17:01:47.740914+00:00",
+    "facts": {
+      "role_type": "internship",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/ericsson-master-thesis-work-on-advanced-ai-topics-in-the-m-f-2e5f0e06": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/ericsson-master-thesis-work-on-advanced-ai-topics-in-the-m-f-2e5f0e06",
+    "company": "Ericsson",
+    "title": "Master Thesis work on advanced AI topics in the Telecom Sector (m/f/d)",
+    "updated_at": "2026-11-16T17:01:47.741368+00:00",
+    "facts": {
+      "role_type": "thesis",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/kia-europe-intern-cx-product-connected-car-all-genders-8a9efade": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/kia-europe-intern-cx-product-connected-car-all-genders-8a9efade",
+    "company": "Kia Europe",
+    "title": "Intern CX Product & Connected Car (All genders welcome)",
+    "updated_at": "2026-11-16T17:01:47.741833+00:00",
+    "facts": {
+      "role_type": "internship",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/sap-working-student-f-m-d-external-certifications-and-audits-8434b0c4": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/sap-working-student-f-m-d-external-certifications-and-audits-8434b0c4",
+    "company": "SAP",
+    "title": "Working Student (f/m/d) - External Certifications and Audits support",
+    "updated_at": "2026-11-16T17:01:47.742325+00:00",
+    "facts": {
+      "role_type": "working_student",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/deutsche-gesellschaft-fuer-internationale-zusammenarbeit-giz-f1002f72": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/deutsche-gesellschaft-fuer-internationale-zusammenarbeit-giz-f1002f72",
+    "company": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+    "title": "Intern in the International Services Division in the Region “Africa”",
+    "updated_at": "2026-11-16T17:01:47.742780+00:00",
+    "facts": {
+      "role_type": "internship",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/vetaion-database-engineering-intern-c575ec84": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/vetaion-database-engineering-intern-c575ec84",
+    "company": "Vetaion",
+    "title": "Database Engineering Intern",
+    "updated_at": "2026-11-16T17:01:47.743093+00:00",
+    "facts": {
+      "role_type": "internship",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/bestsecret-group-business-analyst-intern-strategic-supply-5f7a04cf": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/bestsecret-group-business-analyst-intern-strategic-supply-5f7a04cf",
+    "company": "BESTSECRET Group",
+    "title": "Business Analyst Intern, Strategic Supply Planning (All Genders)",
+    "updated_at": "2026-11-16T17:01:47.743521+00:00",
+    "facts": {
+      "role_type": "internship",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/bosch-internship-in-digital-integrated-production-solutions-76309cf3": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/bosch-internship-in-digital-integrated-production-solutions-76309cf3",
+    "company": "Bosch",
+    "title": "Internship in Digital & Integrated Production Solutions",
+    "updated_at": "2026-11-16T17:01:47.743888+00:00",
+    "facts": {
+      "role_type": "internship",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/whh-uganda-welthungerhilfe-student-assistant-innovation-d7ee1978": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/whh-uganda-welthungerhilfe-student-assistant-innovation-d7ee1978",
+    "company": "WHH Uganda - Welthungerhilfe",
+    "title": "Student Assistant Innovation",
+    "updated_at": "2026-11-16T17:01:47.744424+00:00",
+    "facts": {
+      "role_type": "working_student",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/jedox-working-student-project-management-support-m-f-d-1c6ac24b": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/jedox-working-student-project-management-support-m-f-d-1c6ac24b",
+    "company": "Jedox",
+    "title": "Working Student Project Management Support (m/f/d)",
+    "updated_at": "2026-11-16T17:01:47.745049+00:00",
+    "facts": {
+      "role_type": "working_student",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/airbus-internship-d-f-m-in-payload-data-processing-for-space-36864497": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/airbus-internship-d-f-m-in-payload-data-processing-for-space-36864497",
+    "company": "Airbus",
+    "title": "Internship (d/f/m) in Payload Data Processing for space-borne Instruments",
+    "updated_at": "2026-11-16T17:01:47.745503+00:00",
+    "facts": {
+      "role_type": "internship",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/mercedes-benz-ag-intern-project-management-customer-digital-719de378": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/mercedes-benz-ag-intern-project-management-customer-digital-719de378",
+    "company": "Mercedes-Benz AG",
+    "title": "Intern Project Management – Customer Experience & Digital Solutions (Mandatory Internship)",
+    "updated_at": "2026-11-16T17:01:47.746010+00:00",
+    "facts": {
+      "role_type": "internship",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/european-space-agency-esa-intern-in-the-operations-strategy-67d80187": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/european-space-agency-esa-intern-in-the-operations-strategy-67d80187",
+    "company": "European Space Agency - ESA",
+    "title": "Intern in the Operations Strategy and Coordination Office - Innovation and Knowledge Management",
+    "updated_at": "2026-11-16T17:01:47.746545+00:00",
+    "facts": {
+      "role_type": "internship",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/welthungerhilfe-whh-student-assistant-innovation-762c3297": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/welthungerhilfe-whh-student-assistant-innovation-762c3297",
+    "company": "Welthungerhilfe (WHH)",
+    "title": "Student Assistant Innovation",
+    "updated_at": "2026-11-16T17:01:47.747055+00:00",
+    "facts": {
+      "role_type": "working_student",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/enpal-process-automation-engineer-internship-f-m-d-13eda970": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/enpal-process-automation-engineer-internship-f-m-d-13eda970",
+    "company": "Enpal",
+    "title": "Process Automation Engineer - Internship (f/m/d)",
+    "updated_at": "2026-11-16T17:01:47.747578+00:00",
+    "facts": {
+      "role_type": "internship",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "nice_to_have",
+      "german_level": "unspecified",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/nela-next-economy-lab-internship-beyond-growth-cb585d04": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/nela-next-economy-lab-internship-beyond-growth-cb585d04",
+    "company": "NELA. Next Economy Lab",
+    "title": "Internship – Beyond growth",
+    "updated_at": "2026-11-16T17:26:07.072710+00:00",
+    "facts": {
+      "role_type": "internship",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/e-on-drive-infrastructure-working-student-it-workplace-m-f-d-346a82d8": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/e-on-drive-infrastructure-working-student-it-workplace-m-f-d-346a82d8",
+    "company": "E.ON Drive Infrastructure",
+    "title": "Working Student - IT Workplace Management (m/f/d)",
+    "updated_at": "2026-11-16T17:26:52.957250+00:00",
+    "facts": {
+      "role_type": "working_student",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/sap-working-student-sap-engagement-cloud-f-m-d-ai-product-01cdfa39": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/sap-working-student-sap-engagement-cloud-f-m-d-ai-product-01cdfa39",
+    "company": "SAP",
+    "title": "Working Student SAP Engagement Cloud (f/m/d) – AI Product Builder for Product Brain",
+    "updated_at": "2026-11-16T17:27:38.271573+00:00",
+    "facts": {
+      "role_type": "working_student",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/henkel-internship-ai-sustainability-technology-3d875407": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/henkel-internship-ai-sustainability-technology-3d875407",
+    "company": "Henkel",
+    "title": "Internship AI & Sustainability Technology",
+    "updated_at": "2026-11-16T17:28:22.536252+00:00",
+    "facts": {
+      "role_type": "internship",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/dhl-global-forwarding-intern-new-energy-global-growth-0f655055": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/dhl-global-forwarding-intern-new-energy-global-growth-0f655055",
+    "company": "DHL Global Forwarding",
+    "title": "Intern New Energy Global Growth Initiative",
+    "updated_at": "2026-11-16T17:29:07.251434+00:00",
+    "facts": {
+      "role_type": "internship",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/novanta-inc-working-student-r-d-m-f-d-a13cc691": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/novanta-inc-working-student-r-d-m-f-d-a13cc691",
+    "company": "Novanta Inc.",
+    "title": "Working Student R&D (m/f/d)",
+    "updated_at": "2026-11-16T17:29:50.883273+00:00",
+    "facts": {
+      "role_type": "working_student",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  },
+  "https://www.workingstudentjobs.de/jobs/sap-working-student-f-m-d-cloud-developer-for-sap-document-957bdcb7": {
+    "version": 2,
+    "url": "https://www.workingstudentjobs.de/jobs/sap-working-student-f-m-d-cloud-developer-for-sap-document-957bdcb7",
+    "company": "SAP",
+    "title": "Working Student (f/m/d) - Cloud Developer for SAP Document AI",
+    "updated_at": "2026-11-16T17:30:34.656305+00:00",
+    "facts": {
+      "role_type": "working_student",
+      "role_evidence": "Rule fallback based on title/keywords",
+      "german_requirement": "none",
+      "german_level": "none",
+      "german_evidence": "Keyword match",
+      "ad_language": "en",
+      "country": "Germany",
+      "is_tech_related": true,
+      "tech_domain": "software",
+      "domain_evidence": "Rule fallback"
+    }
+  }
+}

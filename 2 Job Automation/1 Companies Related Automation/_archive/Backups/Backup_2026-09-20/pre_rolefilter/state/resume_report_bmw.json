@@ -1,0 +1,100 @@
+{
+  "generated_at_utc": "2026-09-19T23:42:50+00:00",
+  "engine": "v2",
+  "total_jobs": 1,
+  "results": [
+    {
+      "job_url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.196000.html",
+      "title": "Werkstudent Forschung / Entwicklung Elektromobilität (m/w/x)",
+      "company": "BMW AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\tex\\Werkstudent-Forschung-Entwicklung-Elektromobilität.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-Forschung-Entwicklung-Elektromobilität.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-Forschung-Entwicklung-Elektromobilität.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 58.0,
+      "score_breakdown": {
+        "required_coverage": 8.0,
+        "preferred_coverage": 20.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 2.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.2,
+      "preferred_coverage": 1.0,
+      "gap_report": {
+        "missing_required": [
+          "zuverlässige Arbeitsweise",
+          "KI Anwendungserfahrung",
+          "Deutschkenntnisse",
+          "Englischkenntnisse"
+        ],
+        "missing_preferred": [],
+        "ineligible_criteria": [
+          "Studium Elektrotechnik",
+          "Studium Fahrzeugtechnik",
+          "Eigeninitiative",
+          "MS Office Kenntnisse"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 630,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 7,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=7 repicked=False"
+      },
+      "file_stem": "Werkstudent-Forschung-Entwicklung-Elektromobilität"
+    }
+  ]
+}

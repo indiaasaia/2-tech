@@ -1,0 +1,1044 @@
+{
+  "_comment": [
+    "Keyword sweep lexicon (plan v3 section 4). Every entry: display form -> extra spelling variants.",
+    "The display form itself is always matched. Matching is case-insensitive with tech-aware word",
+    "boundaries (C++, C#, Node.js, CI/CD survive), longest variant first; a matched span is consumed",
+    "so 'Azure OpenAI' does not also yield 'Azure'. Entries listed under case_sensitive only match",
+    "with the exact casing shown (AI, ML, KI, SAP, Excel, Go, Swift); single-letter languages",
+    "(R, C) additionally need list context (comma, slash, parenthesis or 'and'/'or' neighbours).",
+    "german: German JD term -> English equivalent; German ads print 'Datenanalyse (Data Analysis)'.",
+    "Extend this file when a real JD keyword is missed - no code changes needed."
+  ],
+  "categories": {
+    "programming": {
+      "Python": [
+        "Python3"
+      ],
+      "Java": [],
+      "JavaScript": [
+        "Javascript",
+        "ECMAScript"
+      ],
+      "TypeScript": [
+        "Typescript"
+      ],
+      "C++": [
+        "CPP"
+      ],
+      "C#": [
+        "C Sharp"
+      ],
+      "C": [],
+      "Go": [
+        "Golang"
+      ],
+      "Rust": [],
+      "Kotlin": [],
+      "Swift": [],
+      "Scala": [],
+      "R": [],
+      "MATLAB": [
+        "Matlab"
+      ],
+      "PHP": [],
+      "Ruby": [],
+      "Bash": [],
+      "Shell Scripting": [
+        "Shell scripts",
+        "shell script",
+        "Bash scripting"
+      ],
+      "PowerShell": [],
+      "VBA": [],
+      "SQL": [],
+      "HTML": [
+        "HTML5"
+      ],
+      "CSS": [
+        "CSS3"
+      ],
+      "Dart": [],
+      "Julia": [],
+      "Perl": [],
+      "Solidity": [],
+      "Haskell": [],
+      "Lua": [],
+      "Objective-C": [],
+      "ABAP": []
+    },
+    "ml_ai": {
+      "Artificial Intelligence": [],
+      "AI": [],
+      "Machine Learning": [],
+      "ML": [],
+      "Deep Learning": [],
+      "Reinforcement Learning": [],
+      "Neural Networks": [
+        "Neural Network"
+      ],
+      "Natural Language Processing": [],
+      "NLP": [],
+      "Computer Vision": [],
+      "Image Processing": [],
+      "Large Language Models": [
+        "Large Language Model"
+      ],
+      "LLMs": [
+        "LLM"
+      ],
+      "Generative AI": [
+        "GenAI",
+        "Gen AI"
+      ],
+      "Agentic AI": [],
+      "AI Agents": [
+        "AI Agent",
+        "AI-Agents",
+        "autonomous agents"
+      ],
+      "Retrieval-Augmented Generation": [
+        "Retrieval Augmented Generation"
+      ],
+      "RAG": [],
+      "Prompt Engineering": [],
+      "Fine-Tuning": [
+        "Fine Tuning",
+        "finetuning"
+      ],
+      "Embeddings": [],
+      "Vector Databases": [
+        "Vector Database",
+        "vector DB",
+        "vector store"
+      ],
+      "Transformers": [],
+      "Hugging Face": [
+        "HuggingFace"
+      ],
+      "PyTorch": [
+        "Pytorch"
+      ],
+      "TensorFlow": [
+        "Tensorflow"
+      ],
+      "Keras": [],
+      "scikit-learn": [
+        "sklearn",
+        "scikit learn",
+        "Scikit-Learn"
+      ],
+      "XGBoost": [],
+      "LightGBM": [],
+      "OpenCV": [],
+      "YOLO": [],
+      "LangChain": [],
+      "LlamaIndex": [],
+      "LangGraph": [],
+      "OpenAI API": [],
+      "OpenAI": [],
+      "GPT": [],
+      "ChatGPT": [],
+      "GitHub Copilot": [],
+      "Azure OpenAI": [],
+      "Vertex AI": [],
+      "Amazon SageMaker": [
+        "SageMaker"
+      ],
+      "Amazon Bedrock": [
+        "Bedrock"
+      ],
+      "MLOps": [],
+      "MLflow": [],
+      "Kubeflow": [],
+      "Model Deployment": [],
+      "Model Training": [],
+      "Model Evaluation": [],
+      "Time Series": [
+        "Time-Series"
+      ],
+      "Forecasting": [],
+      "Anomaly Detection": [],
+      "Recommender Systems": [
+        "Recommendation Systems",
+        "Recommendation Engines"
+      ],
+      "Speech Recognition": [],
+      "Text-to-Speech": [
+        "Text to Speech",
+        "TTS"
+      ],
+      "OCR": [],
+      "Predictive Modeling": [
+        "Predictive Modelling",
+        "Predictive Analytics"
+      ],
+      "Optimization": [
+        "Optimisation"
+      ],
+      "Mathematics": [
+        "Maths",
+        "Math"
+      ],
+      "Claude": [],
+      "Claude Code": [],
+      "Cursor": [],
+      "Microsoft Copilot": [],
+      "Copilot": [],
+      "Model Context Protocol": [
+        "MCP"
+      ],
+      "Gemini": [],
+      "Mistral": [],
+      "Llama": [],
+      "Ollama": [],
+      "Quantitative Modeling": [
+        "Quantitative Modelling",
+        "Quantitative Analysis",
+        "Quant Models"
+      ]
+    },
+    "data": {
+      "Data Science": [],
+      "Data Analysis": [],
+      "Data Analytics": [],
+      "Exploratory Data Analysis": [
+        "EDA"
+      ],
+      "Statistics": [
+        "Statistical Analysis"
+      ],
+      "Statistical Modeling": [
+        "Statistical Modelling"
+      ],
+      "A/B Testing": [
+        "AB Testing",
+        "A/B Tests"
+      ],
+      "Data Visualization": [
+        "Data Visualisation",
+        "Visualization",
+        "Visualisation"
+      ],
+      "Data Engineering": [],
+      "Data Pipelines": [
+        "Data Pipeline"
+      ],
+      "ETL": [],
+      "ELT": [],
+      "Data Modeling": [
+        "Data Modelling"
+      ],
+      "Data Warehousing": [
+        "Data Warehouse"
+      ],
+      "Data Lake": [
+        "Data Lakes"
+      ],
+      "Data Quality": [],
+      "Data Governance": [],
+      "Big Data": [],
+      "pandas": [
+        "Pandas"
+      ],
+      "NumPy": [
+        "Numpy"
+      ],
+      "SciPy": [
+        "Scipy"
+      ],
+      "Matplotlib": [],
+      "Seaborn": [],
+      "Plotly": [],
+      "Jupyter": [
+        "Jupyter Notebook",
+        "Jupyter Notebooks",
+        "JupyterLab"
+      ],
+      "Apache Spark": [
+        "Spark"
+      ],
+      "PySpark": [],
+      "Hadoop": [],
+      "Apache Kafka": [
+        "Kafka"
+      ],
+      "Apache Airflow": [
+        "Airflow"
+      ],
+      "dbt": [],
+      "Databricks": [],
+      "Snowflake": [],
+      "BigQuery": [],
+      "Amazon Redshift": [
+        "Redshift"
+      ],
+      "Parquet": [],
+      "CSV": [],
+      "JSON": [],
+      "XML": [],
+      "NoSQL": [],
+      "PostgreSQL": [
+        "Postgres"
+      ],
+      "MySQL": [],
+      "SQLite": [],
+      "Microsoft SQL Server": [
+        "MS SQL Server",
+        "SQL Server",
+        "MSSQL"
+      ],
+      "Oracle Database": [
+        "Oracle DB"
+      ],
+      "MongoDB": [
+        "Mongo DB"
+      ],
+      "Redis": [],
+      "Elasticsearch": [
+        "Elastic Search"
+      ],
+      "Cassandra": [],
+      "Neo4j": [],
+      "Databases": [
+        "Database"
+      ],
+      "Power BI": [
+        "PowerBI"
+      ],
+      "Tableau": [],
+      "Looker": [],
+      "Qlik": [
+        "Qlik Sense",
+        "QlikView"
+      ],
+      "Business Intelligence": [],
+      "Web Scraping": [
+        "Data Scraping",
+        "Scraping"
+      ],
+      "Data Preprocessing": [
+        "Data Cleaning",
+        "Data Preparation",
+        "data preprocessing pipelines"
+      ]
+    },
+    "backend_cloud_devops": {
+      "REST APIs": [
+        "REST API",
+        "RESTful APIs",
+        "RESTful API",
+        "RESTful",
+        "REST"
+      ],
+      "APIs": [
+        "API"
+      ],
+      "API Integration": [
+        "API Integrations"
+      ],
+      "GraphQL": [],
+      "gRPC": [],
+      "WebSockets": [
+        "WebSocket"
+      ],
+      "Microservices": [
+        "Microservice",
+        "Micro-services"
+      ],
+      "Backend Development": [
+        "Backend",
+        "Back-end"
+      ],
+      "Frontend Development": [
+        "Frontend",
+        "Front-end"
+      ],
+      "Full-Stack Development": [
+        "Full Stack",
+        "Full-Stack",
+        "Fullstack"
+      ],
+      "Web Development": [],
+      "Mobile Development": [
+        "Mobile App Development"
+      ],
+      "Software Development": [],
+      "Software Engineering": [],
+      "React": [
+        "React.js",
+        "ReactJS"
+      ],
+      "React Native": [
+        "React-Native"
+      ],
+      "Angular": [],
+      "Vue.js": [
+        "Vue",
+        "VueJS"
+      ],
+      "Next.js": [
+        "NextJS",
+        "Next JS"
+      ],
+      "Node.js": [
+        "NodeJS",
+        "Node JS"
+      ],
+      "Express.js": [
+        "Express"
+      ],
+      "Django": [],
+      "Flask": [],
+      "FastAPI": [],
+      "Spring Boot": [
+        "Spring Framework"
+      ],
+      ".NET": [
+        "dotnet",
+        ".NET Core"
+      ],
+      "ASP.NET": [],
+      "Laravel": [],
+      "Ruby on Rails": [
+        "Rails"
+      ],
+      "Svelte": [],
+      "Tailwind CSS": [
+        "Tailwind"
+      ],
+      "Bootstrap": [],
+      "jQuery": [],
+      "Redux": [],
+      "Streamlit": [],
+      "Gradio": [],
+      "Flutter": [],
+      "Electron": [],
+      "Cloud Computing": [
+        "Cloud"
+      ],
+      "AWS": [
+        "Amazon Web Services"
+      ],
+      "Microsoft Azure": [
+        "Azure"
+      ],
+      "Google Cloud": [
+        "GCP",
+        "Google Cloud Platform"
+      ],
+      "AWS Lambda": [
+        "Lambda"
+      ],
+      "Amazon EC2": [
+        "EC2"
+      ],
+      "Amazon S3": [
+        "S3"
+      ],
+      "Serverless": [],
+      "Docker": [],
+      "Kubernetes": [
+        "K8s"
+      ],
+      "Helm": [],
+      "OpenShift": [],
+      "Terraform": [],
+      "Ansible": [],
+      "Infrastructure as Code": [
+        "IaC"
+      ],
+      "CI/CD": [
+        "CI / CD",
+        "CICD",
+        "Continuous Integration",
+        "Continuous Delivery",
+        "Continuous Deployment",
+        "CI CD",
+        "CI pipelines",
+        "CI pipeline"
+      ],
+      "Jenkins": [],
+      "GitHub Actions": [],
+      "GitLab CI": [
+        "GitLab CI/CD"
+      ],
+      "DevOps": [],
+      "Site Reliability Engineering": [
+        "SRE"
+      ],
+      "Linux": [],
+      "Unix": [],
+      "Nginx": [],
+      "Prometheus": [],
+      "Grafana": [],
+      "ELK Stack": [
+        "ELK"
+      ],
+      "Datadog": [],
+      "Monitoring": [],
+      "Distributed Systems": [],
+      "System Design": [],
+      "Real-Time Systems": [
+        "Real-time systems",
+        "Real-Time Processing"
+      ],
+      "Automation": [
+        "Automations",
+        "Automating"
+      ],
+      "Workflow Automation": [
+        "Process Automation",
+        "Automated Workflows",
+        "automated workflow"
+      ],
+      "RPA": [
+        "Robotic Process Automation"
+      ],
+      "UiPath": [],
+      "Power Automate": [],
+      "n8n": [],
+      "Zapier": [],
+      "Low-Code": [
+        "Low Code",
+        "Lowcode"
+      ],
+      "No-Code": [
+        "No Code",
+        "Nocode"
+      ],
+      "Embedded Systems": [],
+      "IoT": [
+        "Internet of Things"
+      ],
+      "Networking": [
+        "Computer Networks"
+      ],
+      "SaaS": [
+        "Software as a Service"
+      ],
+      "PaaS": [],
+      "Multi-Tenancy": [
+        "multi-tenant",
+        "multi tenant"
+      ],
+      "Containerization": [
+        "containers",
+        "containerisation",
+        "container"
+      ],
+      "Command Line": [
+        "CLI",
+        "command-line"
+      ],
+      "Gradle": [],
+      "Maven": [],
+      "asyncio": [],
+      "PyQt": [],
+      "Qt": [],
+      "Shopify": [],
+      "FlutterFlow": [],
+      "PrimeNG": [],
+      "Webhooks": [
+        "webhook"
+      ],
+      "Data Processing": [],
+      "Debugging": [],
+      "Software Testing": [],
+      "Deployment": [],
+      "Payment Gateways": [
+        "Payment Gateway",
+        "payment integration"
+      ],
+      "Design Systems": [
+        "Design System"
+      ],
+      "Component Libraries": [
+        "Component Library"
+      ]
+    },
+    "security": {
+      "Cybersecurity": [
+        "Cyber Security",
+        "Cyber-Security"
+      ],
+      "IT Security": [
+        "Information Security",
+        "InfoSec"
+      ],
+      "Application Security": [
+        "AppSec"
+      ],
+      "Cloud Security": [],
+      "Network Security": [],
+      "Penetration Testing": [
+        "Pentesting",
+        "Pentest",
+        "Pen Testing"
+      ],
+      "Red Teaming": [
+        "Red Team"
+      ],
+      "OWASP": [
+        "OWASP Top 10"
+      ],
+      "Burp Suite": [
+        "Burp"
+      ],
+      "SAST": [],
+      "DAST": [],
+      "SBOM": [],
+      "Software Supply Chain Security": [
+        "Supply Chain Security",
+        "software supply chain"
+      ],
+      "Threat Modeling": [
+        "Threat Modelling"
+      ],
+      "Vulnerability Management": [
+        "Vulnerability Assessment"
+      ],
+      "Incident Response": [],
+      "SIEM": [],
+      "SOC": [],
+      "ISO 27001": [
+        "ISO/IEC 27001"
+      ],
+      "Nmap": [],
+      "Metasploit": [],
+      "Wireshark": [],
+      "Kali Linux": [],
+      "IAM": [
+        "Identity and Access Management"
+      ],
+      "OAuth": [
+        "OAuth2",
+        "OAuth 2.0"
+      ],
+      "Authentication": [],
+      "Authorization": [],
+      "Zero Trust": [],
+      "Cryptography": [],
+      "Social Engineering": [],
+      "Phishing": [],
+      "CTF": [
+        "Capture the Flag"
+      ],
+      "Bug Bounty": [],
+      "Hack The Box": [
+        "HackTheBox"
+      ],
+      "TryHackMe": [],
+      "XSS": [
+        "Cross-Site Scripting"
+      ],
+      "SQL Injection": [],
+      "SSRF": [],
+      "IDOR": [],
+      "GDPR": [
+        "DSGVO"
+      ],
+      "NIS2": [],
+      "Governance, Risk and Compliance": [
+        "GRC",
+        "Governance Risk Compliance"
+      ],
+      "Risk Management": [],
+      "Prompt Injection": [],
+      "Security Controls": [],
+      "Identity Management": []
+    },
+    "tools_methods": {
+      "Git": [],
+      "GitHub": [
+        "Github"
+      ],
+      "GitLab": [
+        "Gitlab"
+      ],
+      "Bitbucket": [],
+      "Version Control": [],
+      "Jira": [
+        "JIRA"
+      ],
+      "Confluence": [],
+      "Agile": [
+        "Agile Development",
+        "Agile Methodologies",
+        "agile methods"
+      ],
+      "Scrum": [],
+      "Kanban": [],
+      "Microsoft Office": [
+        "MS Office",
+        "Office 365",
+        "Microsoft 365",
+        "M365"
+      ],
+      "Excel": [
+        "MS Excel",
+        "Microsoft Excel"
+      ],
+      "PowerPoint": [
+        "MS PowerPoint",
+        "Microsoft PowerPoint"
+      ],
+      "Microsoft Word": [
+        "MS Word"
+      ],
+      "Microsoft Access": [
+        "MS Access"
+      ],
+      "SharePoint": [],
+      "Microsoft Teams": [
+        "MS Teams",
+        "Teams"
+      ],
+      "Google Workspace": [
+        "G Suite"
+      ],
+      "SAP": [],
+      "SAP S/4HANA": [
+        "S/4HANA",
+        "S4HANA"
+      ],
+      "SAP Signavio": [
+        "Signavio"
+      ],
+      "Salesforce": [],
+      "HubSpot": [
+        "Hubspot"
+      ],
+      "ServiceNow": [],
+      "NetSuite": [
+        "Netsuite"
+      ],
+      "ERP": [],
+      "CRM": [],
+      "HRIS": [],
+      "Celonis": [],
+      "Process Mining": [],
+      "BPMN": [],
+      "Process Improvement": [
+        "Process Optimization",
+        "Process Optimisation"
+      ],
+      "Lean": [
+        "Lean Management"
+      ],
+      "Six Sigma": [],
+      "Minitab": [],
+      "JMP": [],
+      "Figma": [],
+      "Miro": [],
+      "Notion": [],
+      "Postman": [],
+      "Swagger": [
+        "OpenAPI"
+      ],
+      "Unit Testing": [
+        "Unit Tests"
+      ],
+      "Test Automation": [
+        "Automated Testing"
+      ],
+      "pytest": [
+        "Pytest",
+        "PyTest"
+      ],
+      "JUnit": [],
+      "Selenium": [],
+      "Playwright": [],
+      "Cypress": [],
+      "Test-Driven Development": [
+        "TDD"
+      ],
+      "Quality Assurance": [
+        "QA"
+      ],
+      "Code Review": [
+        "Code Reviews"
+      ],
+      "Clean Code": [],
+      "Design Patterns": [],
+      "Object-Oriented Programming": [
+        "OOP",
+        "Object Oriented Programming"
+      ],
+      "Data Structures": [],
+      "Algorithms": [
+        "Algorithm"
+      ],
+      "UML": [],
+      "Technical Documentation": [
+        "Documentation"
+      ],
+      "Project Management": [],
+      "Product Management": [],
+      "Requirements Engineering": [
+        "Requirements Analysis"
+      ],
+      "IT Support": [
+        "Technical Support",
+        "Helpdesk",
+        "Help Desk"
+      ],
+      "Troubleshooting": [],
+      "Digital Transformation": [],
+      "Change Management": [],
+      "Procurement": [],
+      "UX/UI Design": [
+        "UX/UI",
+        "UI/UX",
+        "UX Design",
+        "UI Design",
+        "User Experience",
+        "UX",
+        "UI"
+      ],
+      "Prototyping": [],
+      "Product Design": [],
+      "Business Analysis": [],
+      "Kaizen": [],
+      "Static Analysis": [
+        "static code analysis"
+      ]
+    },
+    "soft_skills": {
+      "Communication Skills": [
+        "communication",
+        "communicate",
+        "communicating"
+      ],
+      "Teamwork": [
+        "team player",
+        "team-oriented",
+        "collaborative",
+        "collaboration",
+        "work in a team"
+      ],
+      "Problem Solving": [
+        "problem-solving",
+        "solve problems",
+        "problem solver"
+      ],
+      "Analytical Thinking": [
+        "analytical skills",
+        "analytical mindset",
+        "analytical"
+      ],
+      "Critical Thinking": [],
+      "Attention to Detail": [
+        "detail-oriented",
+        "eye for detail"
+      ],
+      "Independent Work": [
+        "work independently",
+        "working independently",
+        "independently",
+        "self-directed"
+      ],
+      "Self-Motivation": [
+        "self-motivated",
+        "self motivated",
+        "self-driven"
+      ],
+      "Proactive Attitude": [
+        "proactive",
+        "proactively"
+      ],
+      "Ownership": [
+        "take ownership",
+        "sense of ownership"
+      ],
+      "Structured Working": [
+        "structured approach",
+        "structured way of working",
+        "structured working style"
+      ],
+      "Time Management": [],
+      "Organizational Skills": [
+        "organisational skills",
+        "organized",
+        "organised"
+      ],
+      "Adaptability": [
+        "adaptable",
+        "flexibility"
+      ],
+      "Willingness to Learn": [
+        "eager to learn",
+        "willing to learn",
+        "eagerness to learn",
+        "quick learner",
+        "fast learner",
+        "curiosity",
+        "curious"
+      ],
+      "Creativity": [
+        "creative"
+      ],
+      "Stakeholder Management": [
+        "stakeholder communication",
+        "stakeholders"
+      ],
+      "Presentation Skills": [
+        "presenting",
+        "presentations"
+      ],
+      "Leadership": [],
+      "Reliability": [],
+      "Hands-On Mentality": [
+        "hands-on mentality",
+        "hands-on attitude"
+      ],
+      "Customer Focus": [
+        "customer-oriented",
+        "customer orientation",
+        "customer-centric"
+      ],
+      "Intercultural Competence": [
+        "international environment",
+        "intercultural"
+      ],
+      "Taking Initiative": [
+        "take initiative",
+        "takes initiative",
+        "own initiative",
+        "show initiative"
+      ]
+    }
+  },
+  "case_sensitive": [
+    "AI",
+    "API",
+    "Bootstrap",
+    "Burp",
+    "C",
+    "CLI",
+    "Claude",
+    "Copilot",
+    "Cursor",
+    "Dart",
+    "Electron",
+    "Excel",
+    "Express",
+    "GPT",
+    "Gemini",
+    "Go",
+    "Helm",
+    "Julia",
+    "KI",
+    "Lambda",
+    "Lean",
+    "Llama",
+    "ML",
+    "Miro",
+    "Mistral",
+    "Networking",
+    "Notion",
+    "QA",
+    "Qt",
+    "R",
+    "REST",
+    "Rails",
+    "Reliability",
+    "Ruby",
+    "Rust",
+    "SAP",
+    "SOC",
+    "Scala",
+    "Spark",
+    "Swift",
+    "Teams",
+    "UI",
+    "UX",
+    "Vue"
+  ],
+  "list_context_only": [
+    "R",
+    "C",
+    "Go",
+    "Julia",
+    "Ruby"
+  ],
+  "german": {
+    "Künstliche Intelligenz": "Artificial Intelligence",
+    "KI": "AI",
+    "Maschinelles Lernen": "Machine Learning",
+    "Datenanalyse": "Data Analysis",
+    "Datenauswertung": "Data Analysis",
+    "Datenvisualisierung": "Data Visualization",
+    "Datenbanken": "Databases",
+    "Datenbank": "Databases",
+    "Datenverarbeitung": "Data Processing",
+    "Bildverarbeitung": "Image Processing",
+    "Softwareentwicklung": "Software Development",
+    "Webentwicklung": "Web Development",
+    "Programmierung": "Programming",
+    "Programmierkenntnisse": "Programming",
+    "Automatisierung": "Automation",
+    "Prozessoptimierung": "Process Optimization",
+    "Prozessautomatisierung": "Process Automation",
+    "Digitalisierung": "Digital Transformation",
+    "IT-Sicherheit": "IT Security",
+    "Informationssicherheit": "Information Security",
+    "Netzwerktechnik": "Networking",
+    "Statistik": "Statistics",
+    "Mathematik": "Mathematics",
+    "Projektmanagement": "Project Management",
+    "Qualitätssicherung": "Quality Assurance",
+    "Dokumentation": "Technical Documentation",
+    "Anforderungsanalyse": "Requirements Analysis",
+    "Fehlerbehebung": "Troubleshooting",
+    "Teamfähigkeit": "Teamwork",
+    "Kommunikationsfähigkeit": "Communication Skills",
+    "Kommunikationsstärke": "Communication Skills",
+    "Analytisches Denkvermögen": "Analytical Thinking",
+    "Analytisches Denken": "Analytical Thinking",
+    "Selbstständige Arbeitsweise": "Independent Work",
+    "Selbständige Arbeitsweise": "Independent Work",
+    "Strukturierte Arbeitsweise": "Structured Working",
+    "Eigeninitiative": "Taking Initiative",
+    "Eigenverantwortung": "Ownership",
+    "Lernbereitschaft": "Willingness to Learn",
+    "Zuverlässigkeit": "Reliability",
+    "Problemlösungskompetenz": "Problem Solving",
+    "Organisationstalent": "Organizational Skills",
+    "Kundenorientierung": "Customer Focus",
+    "Hands-on-Mentalität": "Hands-On Mentality",
+    "Informatik": "Computer Science",
+    "Wirtschaftsinformatik": "Business Informatics"
+  },
+  "german_categories": {
+    "Künstliche Intelligenz": "ml_ai",
+    "KI": "ml_ai",
+    "Maschinelles Lernen": "ml_ai",
+    "Bildverarbeitung": "ml_ai",
+    "Datenanalyse": "data",
+    "Datenauswertung": "data",
+    "Datenvisualisierung": "data",
+    "Datenbanken": "data",
+    "Datenbank": "data",
+    "Datenverarbeitung": "data",
+    "Statistik": "data",
+    "Mathematik": "ml_ai",
+    "Softwareentwicklung": "backend_cloud_devops",
+    "Webentwicklung": "backend_cloud_devops",
+    "Programmierung": "programming",
+    "Programmierkenntnisse": "programming",
+    "Automatisierung": "backend_cloud_devops",
+    "Prozessautomatisierung": "backend_cloud_devops",
+    "Prozessoptimierung": "tools_methods",
+    "Digitalisierung": "tools_methods",
+    "IT-Sicherheit": "security",
+    "Informationssicherheit": "security",
+    "Netzwerktechnik": "backend_cloud_devops",
+    "Projektmanagement": "tools_methods",
+    "Qualitätssicherung": "tools_methods",
+    "Dokumentation": "tools_methods",
+    "Anforderungsanalyse": "tools_methods",
+    "Fehlerbehebung": "tools_methods",
+    "Informatik": "education_field",
+    "Wirtschaftsinformatik": "education_field"
+  }
+}

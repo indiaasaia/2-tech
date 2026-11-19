@@ -1,0 +1,36 @@
+# API keys — never commit
+sub_program_files/ollama_keys.json
+sub_program_files/active_ollama_keys.json
+
+# logs & caches
+run_overall_err.log
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# generated outputs, dashboards, and run artifacts
+program_files/output/
+program_files/output_v2/
+old_files/data/output/
+data/output/
+data/raw/
+tools/tectonic.exe
+jsdata/
+*.log
+*.err.log
+*_b64.txt
+*_chunk_*.txt
+bw_[0-9]*.txt
+cchunk_[0-9]*.txt
+p5_[0-9]*.txt
+pc_[0-9]*.txt
+r5_[0-9]*.txt
+t1c_[0-9]*.txt
+t1p_[0-9]*.txt
+t1r_[0-9]*.txt
+w5_[0-9]*.txt
+chunk_*.part*
+
+# logs & local tooling
+*.log
+.freebuff/

@@ -1,0 +1,11 @@
+# Job fetching
+pandas>=2.0.0
+requests>=2.31.0,<3.0.0
+selenium>=4.15.0,<5.0.0          # Stepstone (needs Google Chrome installed)
+curl_cffi>=0.7.0                 # optional: workingstudentjobs.de falls back to requests without it
+# Resume + cover letter engine
+pydantic>=2.0.0
+rapidfuzz>=3.0.0
+python-docx>=1.1.0
+pdfplumber>=0.10.0
+# PDF compiler: tools/tectonic.exe is bundled (no install needed)

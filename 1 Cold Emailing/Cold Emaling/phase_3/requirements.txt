@@ -1,0 +1,2 @@
+# Phase 3 uses only the Python standard library (smtplib, email, csv, json).
+# No packages to install.

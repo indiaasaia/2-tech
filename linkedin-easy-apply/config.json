@@ -1,0 +1,68 @@
+{
+  "credentials": {
+    "linkedin_email": "indiaasia99999@gmail.com",
+    "linkedin_password": "Inferno@9827"
+  },
+  "personal_info": {
+    "first_name": "Meetkumar",
+    "last_name": "Raval",
+    "phone_country_code": "Germany (+49)",
+    "phone_number": "015567018163",
+    "city": "Cottbus",
+    "postal_code": "03046",
+    "country": "Germany"
+  },
+  "work_authorization_germany": {
+    "legally_authorized_in_germany": "Yes",
+    "require_visa_sponsorship": "No",
+    "eu_work_permit_status": "No"
+  },
+  "career_details": {
+    "total_years_experience": "3",
+    "expected_salary_eur": "60000",
+    "notice_period_months": "Immediately",
+    "german_proficiency": "A1.2 (Basic)",
+    "english_proficiency": "C2 ( Native)",
+    "university": "BTU Cottbus-Senftenberg",
+    "degree": "Computer Science",
+    "linkedin_profile_url": "https://linkedin.com/in/meetraval",
+    "github_or_portfolio": "https://raval.vercel.app"
+  },
+  "documents": {
+    "resume_path": "RAVAL_MEETKUMAR_RITESHKUMAR.pdf",
+    "cover_letter_path": "RAVAL_MEETKUMAR_RITESHKUMAR.pdf"
+  },
+  "search_settings": {
+    "keywords": [
+      "AI werkstudent English"
+    ],
+    "location": "Germany",
+    "work_style": [],
+    "date_posted": "Past 24 hours",
+    "max_applications_per_run": 50,
+    "dry_run": false
+  },
+  "scheduler_settings": {
+    "enabled": true,
+    "schedule_type": "continuous_sprint_loop",
+    "loop_gap_seconds": 10,
+    "loop_gap_minutes": 0,
+    "applications_per_run": 50,
+    "daily_target": 50,
+    "dashboard_port": 5050
+  },
+  "ai_pipeline": {
+    "min_alignment_score": 7,
+    "sprint_gap_seconds": 10,
+    "only_english_speaking": true,
+    "only_student_and_intern": true,
+    "tailor_resume_and_cl": true,
+    "regular_app_path": "."
+  },
+  "ollama_settings": {
+    "enabled": true,
+    "api_key": "3bf91710a3c6494ebee9ae6d8651895d.Tyq9heyOhZACkdBJbJ4fdPmB",
+    "model": "gpt-oss:120b",
+    "base_url": "https://ollama.com"
+  }
+}

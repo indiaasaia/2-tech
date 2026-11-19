@@ -1,0 +1,70 @@
+{
+  "_guide": "CANDIDATE MOTIVATION INPUT GUIDE: How to define your genuine professional motivation profile in candidate_kb.json.",
+  "_instructions": [
+    "1. Replace the empty motivation_profile in candidate_kb.json with your approved entries, either under the categorized subsections (professional_interests, working_preferences, career_direction) or in the unified 'entries' list.",
+    "2. Each entry must be genuine to you. Do NOT copy placeholder text. Do NOT invent claims not backed by your real interests or background.",
+    "3. Rules for each entry:",
+    "   - 'id': Unique identifier string (e.g. 'quant-algorithmic-systems', 'nlp-llm-research').",
+    "   - 'category': One of 'interest', 'preference', 'direction'.",
+    "   - 'text_de' / 'text_en': Short body sentences in German / English (1-2 sentences, max ~35 words, ZERO digits — numbers are not allowed in cover letter bodies).",
+    "   - 'evidence': Non-empty list of valid KB evidence IDs (e.g. 'soham', 'pantechelearning', 'hft', 'resume_gen', 'vehicle_sharing', 'tradingview', 'sarcasm', 'btu-msc', 'gtu-be', 'master_cv').",
+    "   - 'skills': Existing KB skills you already possess that link this motivation to evidence (must be in your KB skills and not in skills_forbidden of cited evidence).",
+    "   - 'keywords': Relevant terms used by job descriptions in this area for deterministic matching.",
+    "   - 'role_families': Relevant job families (e.g. 'ai', 'ml', 'data', 'backend', 'quant', 'fullstack').",
+    "   - Structured fields for Category A (interest): 'domains', 'problems', 'activities'.",
+    "   - Structured fields for Category B (preference): 'responsibilities', 'approach', 'work_environment'.",
+    "   - Structured fields for Category C (direction): 'target_direction', 'skills_to_develop', 'long_term_objective'.",
+    "4. When finished, set status to 'APPROVED' and 'needs_candidate_input' to false.",
+    "5. Run 'python resume_content_improve_research/knowledge_base/validate_kb.py' to verify the schema before generating letters."
+  ],
+  "motivation_profile_template": {
+    "status": "APPROVED",
+    "needs_candidate_input": false,
+    "professional_interests": [
+      {
+        "id": "TODO_CANDIDATE-interest-id",
+        "category": "interest",
+        "domains": ["TODO_CANDIDATE: e.g. Quantitative Modeling, Artificial Intelligence"],
+        "problems": ["TODO_CANDIDATE: e.g. Real-time decision systems, NLP across multilingual data"],
+        "activities": ["TODO_CANDIDATE: e.g. Algorithm design, backend system integration"],
+        "text_de": "TODO_CANDIDATE: Ein bis zwei Sätze auf Deutsch über Ihre fachlichen Interessen (ohne Zahlen).",
+        "text_en": "TODO_CANDIDATE: One or two sentences in English about your professional interests (no digits).",
+        "evidence": ["TODO_CANDIDATE: e.g. soham, hft, or btu-msc"],
+        "skills": ["TODO_CANDIDATE: e.g. Python, Quantitative Modeling"],
+        "keywords": ["TODO_CANDIDATE: keywords for matching job descriptions"],
+        "role_families": ["TODO_CANDIDATE: e.g. quant, ai, backend"]
+      }
+    ],
+    "working_preferences": [
+      {
+        "id": "TODO_CANDIDATE-preference-id",
+        "category": "preference",
+        "responsibilities": ["TODO_CANDIDATE: e.g. End-to-end component ownership, data preprocessing"],
+        "approach": ["TODO_CANDIDATE: e.g. Analytical problem-solving with rigorous testing"],
+        "work_environment": ["TODO_CANDIDATE: e.g. Collaborative technical teams, agile development"],
+        "text_de": "TODO_CANDIDATE: Ein Satz über Ihre bevorzugte Arbeitsweise oder Verantwortung (ohne Zahlen).",
+        "text_en": "TODO_CANDIDATE: One sentence about your preferred working style or responsibilities (no digits).",
+        "evidence": ["TODO_CANDIDATE: e.g. soham or pantechelearning"],
+        "skills": ["TODO_CANDIDATE: e.g. Python"],
+        "keywords": ["TODO_CANDIDATE: e.g. software engineering, backend"],
+        "role_families": ["TODO_CANDIDATE: e.g. backend, data"]
+      }
+    ],
+    "career_direction": [
+      {
+        "id": "TODO_CANDIDATE-direction-id",
+        "category": "direction",
+        "target_direction": ["TODO_CANDIDATE: e.g. Applied AI engineering in enterprise environments"],
+        "skills_to_develop": ["TODO_CANDIDATE: e.g. Distributed data streaming, cloud deployment"],
+        "long_term_objective": "TODO_CANDIDATE: Longer-term objective if explicitly provided",
+        "text_de": "TODO_CANDIDATE: Ein Satz über Ihre angestrebte fachliche Weiterentwicklung (ohne Zahlen).",
+        "text_en": "TODO_CANDIDATE: One sentence about the professional direction you want to pursue (no digits).",
+        "evidence": ["TODO_CANDIDATE: e.g. btu-msc, resume_gen"],
+        "skills": ["TODO_CANDIDATE: e.g. Machine Learning"],
+        "keywords": ["TODO_CANDIDATE: e.g. machine learning, cloud"],
+        "role_families": ["TODO_CANDIDATE: e.g. ai, ml"]
+      }
+    ],
+    "entries": []
+  }
+}

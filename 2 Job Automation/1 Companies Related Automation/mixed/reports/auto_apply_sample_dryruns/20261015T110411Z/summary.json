@@ -1,0 +1,14 @@
+{
+  "run_id": "20261015T110411Z",
+  "dry_run_only": true,
+  "final_submit_clicked": false,
+  "results": [
+    {
+      "company": "bosch",
+      "sample_key": "bosch",
+      "job_id": "744000151829278",
+      "status": "CAPTCHA_DETECTED",
+      "path": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\reports\\auto_apply_sample_dryruns\\20261015T110411Z\\bosch\\sample_run.json"
+    }
+  ]
+}

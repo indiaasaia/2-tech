@@ -1,0 +1,289 @@
+{
+  "generated_at_utc": "2026-10-13T09:40:52+00:00",
+  "policy": "rank verified resumes by honest-fit score; apply strong-first",
+  "counts": {
+    "verified": 18,
+    "strong": 8,
+    "good": 1,
+    "weak": 3,
+    "poor": 6
+  },
+  "recommendation": "apply to the 8 strong-fit job(s) first; 9 job(s) fall below the 50-point effort line",
+  "jobs": [
+    {
+      "title": "Robotics Software Engineer (Data & AI) – Working Student (m/f/d)",
+      "company": "driveblocks",
+      "job_url": "https://www.workingstudentjobs.de/jobs/driveblocks-robotics-software-engineer-data-ai-working-m-f-d-face8fe8",
+      "score": 95.5,
+      "tier": "strong",
+      "required_coverage": 1.0,
+      "preferred_coverage": 0.875,
+      "top_gaps": [
+        "PyTorch"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Robotics-Software-Engineer-Data-AI-Working-Student.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Robotics-Software-Engineer-Data-AI-Working-Student.docx"
+    },
+    {
+      "title": "HR & Talent Acquisition Internship (f/m/d)",
+      "company": "Alaika Advisory Germany GmbH",
+      "job_url": "https://www.stepstone.de/jobs--HR-Talent-Acquisition-Internship-f-m-d-Muenchen-Bavaria-Germany-Alaika-Advisory-Germany-GmbH--13889636-inline.html",
+      "score": 93.0,
+      "tier": "strong",
+      "required_coverage": 1.0,
+      "preferred_coverage": 1.0,
+      "top_gaps": [],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\HR-Talent-Acquisition-Internship.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\HR-Talent-Acquisition-Internship.docx"
+    },
+    {
+      "title": "Intern / Working student in the Field of Innovation Management (m/f/d/x)",
+      "company": "Mercedes-Benz Tech Innovation",
+      "job_url": "https://www.stepstone.de/jobs--Intern-Working-student-in-the-Field-of-Innovation-Management-m-f-d-x-Berlin-Mercedes-Benz-Tech-Innovation--14393911-inline.html",
+      "score": 93.0,
+      "tier": "strong",
+      "required_coverage": 1.0,
+      "preferred_coverage": 1.0,
+      "top_gaps": [],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Intern-Working-student-in-the-Field-of-Innovation-Management.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Intern-Working-student-in-the-Field-of-Innovation-Management.docx"
+    },
+    {
+      "title": "Space Situational Awareness Internship / Master Thesis",
+      "company": "OKAPI:Orbits GmbH",
+      "job_url": "https://www.stepstone.de/jobs--Space-Situational-Awareness-Internship-Master-Thesis-Germany-Brunswick-OKAPI-Orbits-GmbH--13887252-inline.html",
+      "score": 93.0,
+      "tier": "strong",
+      "required_coverage": 1.0,
+      "preferred_coverage": 1.0,
+      "top_gaps": [],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Space-Situational-Awareness-Internship-Master-Thesis.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Space-Situational-Awareness-Internship-Master-Thesis.docx"
+    },
+    {
+      "title": "Working Student - Workspace Management & Executive Support (f/m/d)",
+      "company": "Alaika Advisory Germany GmbH",
+      "job_url": "https://www.stepstone.de/jobs--Working-Student-Workspace-Management-Executive-Support-f-m-d-Muenchen-Bavaria-Germany-Alaika-Advisory-Germany-GmbH--13889669-inline.html",
+      "score": 93.0,
+      "tier": "strong",
+      "required_coverage": 1.0,
+      "preferred_coverage": 1.0,
+      "top_gaps": [],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student---Workspace-Management-Executive-Support.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student---Workspace-Management-Executive-Support.docx"
+    },
+    {
+      "title": "Working Student – GenAI / LLM Evaluation – Agentic AI / NLP (f/m/d)",
+      "company": "Cinemo GmbH",
+      "job_url": "https://www.stepstone.de/jobs--Working-Student-GenAI-LLM-Evaluation-Agentic-AI-NLP-f-m-d-Karlsruhe-Germany-Cinemo-GmbH--13887266-inline.html",
+      "score": 93.0,
+      "tier": "strong",
+      "required_coverage": 1.0,
+      "preferred_coverage": 1.0,
+      "top_gaps": [],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-GenAI-LLM-Evaluation-Agentic-AI-NLP.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-GenAI-LLM-Evaluation-Agentic-AI-NLP.docx"
+    },
+    {
+      "title": "Internship Advanced Development Implants (f/m/x)",
+      "company": "ZEISS",
+      "job_url": "https://www.stepstone.de/jobs--Internship-Advanced-Development-Implants-f-m-x-ZEISS--14600841-inline.html",
+      "score": 89.4,
+      "tier": "strong",
+      "required_coverage": 0.857,
+      "preferred_coverage": 1.0,
+      "top_gaps": [
+        "hardware components"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Internship-Advanced-Development-Implants.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Internship-Advanced-Development-Implants.docx"
+    },
+    {
+      "title": "Working Student (m/f/d) AI Prototyping & Agent Solutions",
+      "company": "Gebr. Heinemann",
+      "job_url": "https://www.workingstudentjobs.de/jobs/gebr-heinemann-working-student-m-f-d-ai-prototyping-agent-0754ae18",
+      "score": 80.5,
+      "tier": "strong",
+      "required_coverage": 1.0,
+      "preferred_coverage": 0.375,
+      "top_gaps": [
+        "basic understanding Generative AI",
+        "interest building testing",
+        "explaining technical topics",
+        "data protection"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-AI-Prototyping-Agent-Solutions.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-AI-Prototyping-Agent-Solutions.docx"
+    },
+    {
+      "title": "Home Trial Engineer - Internship for Graduates (w/m/d) - with experience in Python (1 year assignment) - Immediate joiners",
+      "company": "Luxoft Germany",
+      "job_url": "https://www.workingstudentjobs.de/jobs/luxoft-germany-home-trial-engineer-internship-for-graduates-caf64042",
+      "score": 76.7,
+      "tier": "good",
+      "required_coverage": 0.75,
+      "preferred_coverage": 0.625,
+      "top_gaps": [
+        "troubleshooting",
+        "attention to detail",
+        "Validation",
+        "Atlassian environment"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Home-Trial-Engineer---Internship-for-Graduates---with-experience-in-Python-1-yea.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Home-Trial-Engineer---Internship-for-Graduates---with-experience-in-Python-1-yea.docx"
+    },
+    {
+      "title": "Working Student Software Engineer (f/m/d)",
+      "company": "Isar Aerospace",
+      "job_url": "https://www.workingstudentjobs.de/jobs/isar-aerospace-working-student-software-engineer-f-m-d-ed991f87",
+      "score": 58.5,
+      "tier": "weak",
+      "required_coverage": 0.5,
+      "preferred_coverage": 0.4,
+      "top_gaps": [
+        "Familiarity with frontend",
+        "team-player mindset",
+        "Familiarity with DevOps practices",
+        "distributed systems"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-Software-Engineer.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-Software-Engineer.docx"
+    },
+    {
+      "title": "Working Student (f/m/d) DevOps & Cloud Engineering",
+      "company": "Siemens",
+      "job_url": "https://www.workingstudentjobs.de/jobs/siemens-working-student-f-m-d-devops-cloud-engineering-70edf1fe",
+      "score": 56.0,
+      "tier": "weak",
+      "required_coverage": 0.4,
+      "preferred_coverage": 0.5,
+      "top_gaps": [
+        "command line proficiency",
+        "initial Python experience",
+        "AWS cloud experience",
+        "Terraform IaC experience"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-DevOps-Cloud-Engineering.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-DevOps-Cloud-Engineering.docx"
+    },
+    {
+      "title": "Internship eCommerce Analytics",
+      "company": "Henkel",
+      "job_url": "https://www.workingstudentjobs.de/jobs/henkel-internship-ecommerce-analytics-83091a5a",
+      "score": 51.3,
+      "tier": "weak",
+      "required_coverage": 0.25,
+      "preferred_coverage": 0.667,
+      "top_gaps": [
+        "business-related studies",
+        "Fluent English",
+        "full-time internship",
+        "international experience"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Internship-eCommerce-Analytics.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Internship-eCommerce-Analytics.docx"
+    },
+    {
+      "title": "Working Student (m/f/d) Global Oncology Alliance Management",
+      "company": "Daiichi Sankyo Europe GmbH",
+      "job_url": "https://www.workingstudentjobs.de/jobs/daiichi-sankyo-europe-gmbh-working-student-m-f-d-global-45125d19",
+      "score": 44.0,
+      "tier": "poor",
+      "required_coverage": 0.2,
+      "preferred_coverage": 0.4,
+      "top_gaps": [
+        "Commercial education completed",
+        "First pharma experience",
+        "High customer service",
+        "Solutions driven approach"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-Global-Oncology-Alliance-Management.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-Global-Oncology-Alliance-Management.docx"
+    },
+    {
+      "title": "Internship Product Management Innovation Footwear",
+      "company": "PUMA Group",
+      "job_url": "https://www.workingstudentjobs.de/jobs/puma-group-internship-product-management-innovation-footwear-bf905eac",
+      "score": 43.0,
+      "tier": "poor",
+      "required_coverage": 0.375,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "whole time internship",
+        "appropriate field of studies",
+        "Ability to work flexibly",
+        "Desire to learn"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Internship-Product-Management-Innovation-Footwear.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Internship-Product-Management-Innovation-Footwear.docx"
+    },
+    {
+      "title": "Working Student - Insights & Analytics",
+      "company": "Suntory Global Spirits",
+      "job_url": "https://www.workingstudentjobs.de/jobs/suntory-global-spirits-working-student-insights-analytics-899bd271",
+      "score": 40.5,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.625,
+      "top_gaps": [
+        "eingeschriebener Student",
+        "Deutschkenntnisse sehr gut",
+        "Englischkenntnisse sehr gut",
+        "Erste Erfahrungen Insights"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student---Insights-Analytics.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student---Insights-Analytics.docx"
+    },
+    {
+      "title": "Working Student / Intern – Battery Project Development & Energy Storage (f/m/d)",
+      "company": "Vattenfall",
+      "job_url": "https://www.workingstudentjobs.de/jobs/vattenfall-working-student-intern-battery-project-energy-f-m-5eeaca0c",
+      "score": 36.0,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.4,
+      "top_gaps": [
+        "English is required",
+        "German language skills",
+        "interest in energy transition",
+        "interest in battery storage"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-Intern-Battery-Project-Development-Energy-Storage.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-Intern-Battery-Project-Development-Energy-Storage.docx"
+    },
+    {
+      "title": "Working Student (m/f/d) AI Enablement & Community",
+      "company": "Gebr. Heinemann",
+      "job_url": "https://www.workingstudentjobs.de/jobs/gebr-heinemann-working-student-m-f-d-ai-enablement-community-6a108f3e",
+      "score": 31.3,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.167,
+      "top_gaps": [
+        "practical experience with Copilot",
+        "community work",
+        "organizing tasks independently",
+        "genuine interest in AI"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-AI-Enablement-Community.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-AI-Enablement-Community.docx"
+    },
+    {
+      "title": "Internship Product Line Management CORE Footwear",
+      "company": "PUMA Group",
+      "job_url": "https://www.workingstudentjobs.de/jobs/puma-group-internship-product-line-management-core-footwear-510e1bda",
+      "score": 28.0,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "relevant field of studies",
+        "organized",
+        "entrepreneurial attitude",
+        "open-minded personality"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Internship-Product-Line-Management-CORE-Footwear.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Internship-Product-Line-Management-CORE-Footwear.docx"
+    }
+  ]
+}

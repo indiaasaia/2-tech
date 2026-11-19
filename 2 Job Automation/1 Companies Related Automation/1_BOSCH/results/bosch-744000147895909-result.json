@@ -1,0 +1,43 @@
+{
+  "status": "FAILED",
+  "company": "Bosch",
+  "job_title": "praktikum-softwareentwicklung-und-datenanalyse",
+  "application_url": "https://jobs.smartrecruiters.com/BoschGroup/744000147895909-praktikum-softwareentwicklung-und-datenanalyse?oga=true",
+  "timestamp": "2026-09-30T12:59:57.346227+00:00",
+  "resume_uploaded": true,
+  "email_filled": false,
+  "questions_completed": false,
+  "consent_completed": false,
+  "attachments_uploaded": [],
+  "submitted": false,
+  "confirmation_message": "",
+  "application_id": "",
+  "error": "Page.evaluate: TypeError: Illegal invocation\n    at eval (eval at evaluate (:311:30), <anonymous>:44:57)\n    at UtilityScript.evaluate (<anonymous>:318:18)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)",
+  "dryRun": false,
+  "startedAt": "2026-09-30T12:59:57.346241+00:00",
+  "finishedAt": "2026-09-30T13:00:24.395364+00:00",
+  "stagesReached": [
+    "job_page",
+    "application_opened",
+    "resume_uploaded"
+  ],
+  "questionsAnswered": {},
+  "unknownQuestions": [],
+  "diagnostics": {
+    "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/BoschGroup/publication/a050a191-dd02-495d-a509-8d5f2a633e23?dcr_ci=BoschGroup",
+    "title": "Einfach Bewerben - Praktikum Softwareentwicklung und Datenanalyse - Bosch Group",
+    "step": "",
+    "visibleErrors": [],
+    "domInfo": "[{\"tag\": \"button\", \"text\": \"Mit Indeed bewerben\", \"disabled\": false, \"type\": \"button\", \"dataQa\": \"\"}, {\"tag\": \"button\", \"text\": \"Apply with SEEK\", \"disabled\": false, \"type\": \"button\", \"dataQa\": \"\"}, {\"tag\": \"button\", \"text\": \"Profilbild hochladen\", \"disabled\": false, \"type\": \"button\", \"dataQa\": \"\"}, {\"tag\": \"a\", \"text\": \"Datenschutzerklärung\", \"disabled\": false, \"type\": \"\", \"dataQa\": \"\"}, {\"tag\": \"a\", \"text\": \"Impressum\", \"disabled\": false, \"type\": \"\", \"dataQa\": \"\"}, {\"tag\": \"button\", \"text\": \"Cookie-Einstellungen\", \"disabled\": false, \"type\": \"\", \"dataQa\": \"\"}, {\"tag\": \"button\", \"text\": \"Ländercode\", \"disabled\": false, \"type\": \"\", \"dataQa\": \"\"}, {\"tag\": \"spl-button\", \"text\": \"Datei löschen\", \"disabled\": false, \"type\": \"tertiary\", \"dataQa\": \"\"}]"
+  },
+  "screenshots": {
+    "01_job_page": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\1_BOSCH\\results\\bosch-744000147895909-01_job_page.png",
+    "02_application_opened": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\1_BOSCH\\results\\bosch-744000147895909-02_application_opened.png",
+    "03_resume_uploaded": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\1_BOSCH\\results\\bosch-744000147895909-03_resume_uploaded.png",
+    "error": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\1_BOSCH\\results\\bosch-744000147895909-error.png"
+  },
+  "notes": [
+    "Real submit requested; unknown questions (if any) will be re-checked at pre-submit validation."
+  ],
+  "durationSeconds": 27.0
+}

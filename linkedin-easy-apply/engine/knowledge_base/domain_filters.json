@@ -1,0 +1,191 @@
+{
+  "_comment": [
+    "Domain-family filter (v2 pre-step). A job is KEPT when its work belongs to any",
+    "family below; otherwise it is ELIMINATED before any resume work starts.",
+    "Families: software, ai_data, automation, hardware_iot, finance.",
+    "tech_business_direct terms are self-sufficient (ERP/CRM/HRIS/SaaS = tech angle).",
+    "tech_business_needs_tech terms count ONLY when another family also signals",
+    "(business administration + AI/software/automation = keep; pure business = out).",
+    "out_identity keys mark other-domain jobs (mechanical/civil/health/hospitality...).",
+    "A job is eliminated when its TITLE carries an out_identity key and no family",
+    "keyword, or when out-identity clearly dominates (out>=2 and family<=1).",
+    "",
+    "SCORED MODE (default): family-less jobs get one more chance - they are kept",
+    "when >= scoring.min_skill_alignment (0.60) of their demanded skills are skills",
+    "the candidate is licensed to claim. Demands are discovered from the JD text:",
+    "KB skills/aliases + GENERIC_SYNONYMS (code) match; demand_tools below are",
+    "demanded-but-unclaimable. A degree requirement counts once (matched when a",
+    "candidate degree field is named). industry_keywords add a bounded bonus for",
+    "tech-adjacent employers. Edit words/numbers here to tune - no code changes.",
+    "--loose-filter on run_step4.py restores keyword-only mode."
+  ],
+  "families": {
+    "software": {
+      "any": [
+        "software", "softwareentwicklung", "software engineering", "software developer",
+        "developer", "entwickler", "full stack", "full-stack", "backend", "front end",
+        "frontend", "web development", "webentwickler", "mobile app", "app development",
+        "devops", "cloud", "aws", "azure", "google cloud", "docker", "kubernetes",
+        "ci/cd", "git", "github", "gitlab", "api", "microservices", "saas", "paas",
+        "database", "sql", "nosql", "mongodb", "postgresql", "mysql", "oracle",
+        "programming", "coding", "code", "programmierung", "java", "javascript",
+        "typescript", "python", "c++", "c#", ".net", "php", "ruby",
+        "react", "angular", "vue", "node", "spring boot", "django", "flask", "fastapi",
+        "react-native", "flutter", "swift", "kotlin", "scala", "rust", "golang",
+        "linux", "unix", "qa", "test automation", "software tester", "quality assurance",
+        "site reliability", "agile", "scrum", "kanban",
+        "information technology", "it-infrastruktur", "it infrastructure", "system administration",
+        "cybersecurity", "cyber security", "information security", "network administration",
+        "data engineering", "etl", "data pipeline", "data engineer", "data warehousing",
+        "informatik", "computer science", "angewandte informatik"
+      ]
+    },
+    "ai_data": {
+      "any": [
+        "artificial intelligence", "künstliche intelligenz", "machine learning",
+        "maschinelles lernen", "deep learning", "neural network", "neurale netze",
+        "large language model", "llm", "gpt", "transformers", "nlp",
+        "natural language processing", "computer vision", "bilderkennung",
+        "generative ai", "genai", "prompt engineering", "ai agent", "agentic",
+        "data science", "data scientist", "data analyst", "data analytics",
+        "datenanalyse", "analytics", "big data", "business intelligence", "power bi",
+        "tableau", "statistics", "statistical", "data mining", "predictive",
+        "forecasting", "algorithm", "algorithmus", "model training", "reinforcement learning",
+        "quantitative research", "pattern recognition", "chatbot", "copilot",
+        "ki-modelle", "ai models", "ki-projekt", "ai project"
+      ]
+    },
+    "automation": {
+      "any": [
+        "automation", "automatisierung", "automate", "automatisieren", "rpa",
+        "robotic process automation", "process automation", "prozessautomatisierung",
+        "workflow automation", "business automation", "industrial automation",
+        "gebäudeautomation", "building automation", "plc", "sps", "scada",
+        "control systems", "steuerungstechnik", "digital automation",
+        "scripting", "makros", "macros", "no-code", "low-code", "zapier",
+        "make.com", "n8n", "power automate"
+      ]
+    },
+    "hardware_iot": {
+      "any": [
+        "hardware", "computer hardware", "embedded", "embedded systems",
+        "microcontroller", "mikrocontroller", "raspberry pi", "arduino", "iot",
+        "internet of things", "sensors", "sensoren", "sensorik", "robotics",
+        "robotik", "robot", "roboter", "mechatronics", "mechatronik", "firmware",
+        "fpga", "pcb", "circuit", "electronics", "elektronik", "eye tracking",
+        "augenbewegung", "human-machine", "mensch-maschine", "hmi", "actuators",
+        "aktuatoren", "control hardware", "edge computing", "embedded software",
+        "electrical engineering", "elektrotechnik"
+      ]
+    },
+    "finance": {
+      "any": [
+        "finance", "finanzen", "financial", "finanz", "banking", "bank",
+        "investment", "investments", "investing", "asset management",
+        "vermögensverwaltung", "wealth management", "portfolio", "trading",
+        "trader", "handel", "hedge fund", "private equity", "venture capital",
+        "capital markets", "kapitalmarkt", "equity", "fixed income", "derivatives",
+        "quant", "quantitative finance", "quantitative analyst", "risk management",
+        "risikomanagement", "accounting", "buchhaltung", "controlling", "audit",
+        "treasury", "fintech", "insurtech", "payments", "zahlungsverkehr",
+        "financial modeling", "valuation", "m&a", "fp&a",
+        "stock", "aktien", "börse", "credit", "kredit", "loan",
+        "financial analysis", "finanzanalyse", "corporate finance"
+      ]
+    },
+    "tech_business_direct": {
+      "any": [
+        "erp", "crm", "sap", "hris", "hr tech", "people tech",
+        "digital transformation", "digitale transformation", "digitalization",
+        "digitalisierung", "e-commerce", "ecommerce", "online marketing",
+        "performance marketing", "seo", "sem", "google ads", "marketing analytics",
+        "product management", "produktmanagement", "product owner",
+        "information systems", "wirtschaftsinformatik", "business process",
+        "geschäftsprozess", "process optimization", "prozessoptimierung",
+        "prozessmanagement", "digital products",
+        "tech company", "technology company", "software company", "startup",
+        "martech", "salesforce", "hubspot", "dynamics 365", "ms dynamics",
+        "people analytics", "hr analytics", "operations research", "data-driven",
+        "datengetrieben", "digital marketing"
+      ]
+    },
+    "tech_business_needs_tech": {
+      "any": [
+        "business development", "project management", "projektmanagement",
+        "business analyst", "business administration", "betriebswirtschaft",
+        "operations manager", "operations coordinator", "consulting", "beratung",
+        "strategy", "strategie", "go-to-market", "growth", "partnerships",
+        "partnership management", "account management", "client success",
+        "customer success", "sales operations", "revenue operations",
+        "b2b", "b2c", "key account", "inside sales",
+        "sales enablement", "presales", "pre-sales", "solutions consultant",
+        "business management", "kaufmännisch", "kaufmännische"
+      ]
+    },
+    "out_identity": {
+      "any": [
+        "mechanical engineering", "maschinenbau", "mechanical design",
+        "konstruktion", "civil engineering", "bauingenieur", "construction site",
+        "baustelle", "architecture", "architektur", "structural",
+        "chemical engineering", "chemieingenieur", "chemistry", "chemie",
+        "coating", "coatings", "beschichtung", "paint", "farbe",
+        "materials science", "werkstoff", "polymer", "composite", "metallurgy",
+        "aerospace", "automotive mechanics", "kraftfahrzeugmechatronik",
+        "car mechanic", "kfz-mechatroniker",
+        "nurse", "nursing", "pflege", "healthcare", "gesundheit", "hospital",
+        "krankenhaus", "clinic", "klinik", "patient", "patienten", "medical device",
+        "medizinprodukt", "pharma", "pharmaceutical", "biotech", "life science",
+        "clinical trial", "laboratory technician", "laborant",
+        "hospitality", "hotel", "restaurant", "gastronomie", "chef", "koch",
+        "culinary", "tourism", "tourismus",
+        "warehouse", "lager", "forklift", "stapler", "driver", "fahrer",
+        "retail store", "einzelhandel", "verkäufer", "shop assistant", "cashier",
+        "electrician", "elektriker", "hvac", "sanitär", "heizung", "klimaanlage",
+        "plumbing", "gardening", "landscaping", "landschaftsbau",
+        "teacher", "lehrer", "social work", "soziale arbeit",
+        "security guard", "dental", "zahnarzt", "veterinary", "tierarzt"
+      ]
+    }
+  },
+  "demand_tools": {
+    "_comment": "JD terms counted as demanded skills the candidate canNOT claim - they lower the alignment ratio honestly. Boundary-matched against the lowercased JD text. Do not list candidate skills here (they are matched via the KB).",
+    "any": [
+      "java", "spring", "spring boot", "php", "laravel", "symfony", "ruby", "rails",
+      "rust", "kotlin", "swift", ".net", "c#", "vue", "angular", "flask",
+      "wordpress", "shopify", "typo3", "joomla",
+      "adobe", "photoshop", "illustrator", "indesign", "figma", "canva", "after effects",
+      "seo", "sem", "google ads", "google analytics", "salesforce", "hubspot",
+      "ms dynamics", "dynamics 365", "crm", "erp", "sap",
+      "matlab", "simulink", "solidworks", "autocad", "catia", "ansys", "comsol",
+      "labview", "plc", "sps", "scada", "spss", "stata",
+      "etl", "informatica", "talend", "snowflake", "databricks", "spark", "hadoop",
+      "kafka", "elasticsearch", "redis", "cassandra", "graphql",
+      "docker", "kubernetes", "k8s", "terraform", "ansible", "jenkins",
+      "aws", "azure", "google cloud", "gcp", "vmware", "citrix",
+      "linux", "devops", "git", "github", "gitlab",
+      "mysql", "sharepoint", "office", "ms office", "microsoft office", "office 365",
+      "power apps", "power automate", "n8n", "zapier", "airtable", "trello", "asana",
+      "confluence", "jira", "excel",
+      "embedded c", "stm32", "rtos", "verilog", "vhdl", "altium", "arduino", "raspberry pi", "cad",
+      "agile", "scrum", "kanban",
+      "business administration", "betriebswirtschaft", "bwl"
+    ]
+  },
+  "industry_keywords": {
+    "_comment": "Tech-adjacent employer/sector signals; each hit adds scoring.industry_weight (capped at scoring.industry_cap) to the alignment score, so a business job at a tech company can still clear the 60% bar.",
+    "any": [
+      "ai-first", "ai first", "deep tech", "deep-tech", "hightech", "high-tech",
+      "technologieunternehmen", "it-dienstleister", "systemhaus",
+      "digital technologies", "technology-driven", "tech-driven", "tech stack",
+      "innovative tech", "innovative technology", "digital innovation",
+      "platform", "plattform", "app", "apps", "internet"
+    ]
+  },
+  "scoring": {
+    "min_skill_alignment": 0.60,
+    "jd_demand_cap": 25,
+    "min_denominator": 4,
+    "industry_weight": 0.5,
+    "industry_cap": 0.5
+  }
+}

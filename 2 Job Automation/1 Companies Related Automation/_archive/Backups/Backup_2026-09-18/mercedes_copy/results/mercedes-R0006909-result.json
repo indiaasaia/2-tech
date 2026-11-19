@@ -1,0 +1,100 @@
+{
+  "requisitionId": "R0006909",
+  "jobUrl": "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/MBTI_JOBPORTAL/details/Werkstudent-fr-Android-Entwicklung--in-car---m-w-d-x-_R0006909/apply",
+  "resume": "E:\\WorkSpace\\2 Tech\\Cold Emaling\\RAVAL_MEETKUMAR_RESUME.pdf",
+  "status": "SUCCESS",
+  "dryRun": false,
+  "startedAt": "2026-09-15T16:39:10.270254+00:00",
+  "finishedAt": "2026-09-15T16:41:01.443348+00:00",
+  "stagesReached": [
+    "job_page",
+    "apply_dialog",
+    "autofill_with_resume",
+    "resume_uploaded",
+    "my_information",
+    "my_experience",
+    "application_questions",
+    "voluntary_disclosures",
+    "review"
+  ],
+  "fields": {
+    "changed": {
+      "givenName": "Meetkumar Riteshkumar",
+      "familyName": "Raval",
+      "street": "Ernestristrasse",
+      "postalCode": "45141",
+      "source": "Mercedes-Benz career portal",
+      "phone": "015567018163"
+    },
+    "verified": {
+      "resume": "RAVAL_MEETKUMAR_RESUME.pdf",
+      "experience": {
+        "documentsShown": "RAVAL_MEETKUMAR_RESUME.pdf",
+        "modified": false
+      },
+      "applicationQuestions": {
+        "entryDate": {
+          "month": "9",
+          "day": "30",
+          "year": "2026"
+        },
+        "disability": "No",
+        "work_permit": "Yes, I have a work and residence permit for Germany, but I am not a citizen of a member state of the EU/Iceland/Liechtenstein/Norway/Switzerland",
+        "data_transfer": "Yes, I agree to the transfer of my data within Mercedes-Benz Tech Innovation and thus have the greatest possible chance of finding a suitable position for me."
+      },
+      "voluntaryDisclosures": {
+        "dateOfBirth": {
+          "month": "2",
+          "day": "28",
+          "year": "2002"
+        },
+        "gender": "Male",
+        "nationality": "India",
+        "pronoun": "He/Him/His",
+        "termsChecked": true
+      }
+    },
+    "problems": []
+  },
+  "successIndicators": {
+    "confirmationMessage": true,
+    "footerSubmitGone": true,
+    "networkResponses": [
+      {
+        "ts": 1789490458797,
+        "url": "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/wday/cxs/mercedesbenztechinnovation/jobapplication/ff513e13209190010c7d2f3d04030000/finalize",
+        "status": 200
+      },
+      {
+        "ts": 1789490458883,
+        "url": "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/MBTI_JOBPORTAL/clientPostData",
+        "status": 302
+      },
+      {
+        "ts": 1789490458938,
+        "url": "https://wd3.myworkday.com/wday/microscope/prelogin/mscp_error_kit_logs?version=v1&level=INFO",
+        "status": 202
+      },
+      {
+        "ts": 1789490459854,
+        "url": "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/wday/cxs/mercedesbenztechinnovation/MBTI_JOBPORTAL/jobs",
+        "status": 200
+      }
+    ]
+  },
+  "errors": [],
+  "screenshots": {
+    "01-job-page": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\mercedes\\results\\R0006909-01-job-page.png",
+    "02-application-start": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\mercedes\\results\\R0006909-02-application-start.png",
+    "03-resume-uploaded": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\mercedes\\results\\R0006909-03-resume-uploaded.png",
+    "04-my-information": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\mercedes\\results\\R0006909-04-my-information.png",
+    "05-my-experience": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\mercedes\\results\\R0006909-05-my-experience.png",
+    "06-application-questions": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\mercedes\\results\\R0006909-06-application-questions.png",
+    "07-voluntary-disclosures": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\mercedes\\results\\R0006909-07-voluntary-disclosures.png",
+    "08-review-before-submit": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\mercedes\\results\\R0006909-08-review-before-submit.png",
+    "09-after-submit": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\mercedes\\results\\R0006909-09-after-submit.png"
+  },
+  "notes": [],
+  "afterSubmitUrl": "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/MBTI_JOBPORTAL?Job_Application_ID=ff513e13209190010c7d2f3d04030000",
+  "durationSeconds": 111.2
+}

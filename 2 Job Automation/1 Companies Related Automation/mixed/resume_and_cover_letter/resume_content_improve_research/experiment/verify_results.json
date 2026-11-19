@@ -1,0 +1,422 @@
+[
+  {
+    "job": "Finance Intern / Working Student",
+    "url": "https://www.stepstone.de/jobs--Finance-Intern-Working-Student-Osnabruck-VisioLab-GmbH--13960810-inline.html",
+    "issues": [
+      "G1: word count 154 outside 200-900 (segmentation/corruption?)",
+      "G2: digit '40%' not in KB evidence (projects)",
+      "G2: digit '28%' not in KB evidence (projects)",
+      "G2: tech token 'excel' not KB-licensed (skills)",
+      "G2: tech token 'hubspot' not KB-licensed (skills)",
+      "G3: literal 'PROJECT-' in artifact (replacement-order collision)",
+      "G3: corrupted section title 'KILLS' in artifact",
+      "G3: apostrophe-year dates present (parser-invisible)"
+    ]
+  },
+  {
+    "job": "n Sales & Client Success (m/f/x)",
+    "url": "https://www.stepstone.de/jobs--Intern-Sales-Client-Success-m-f-x-Munich-CRX-Markets-AG--14208368-inline.html",
+    "issues": [
+      "G1: word count 153 outside 200-900 (segmentation/corruption?)",
+      "G2: tech token 'crm' not KB-licensed (objective)",
+      "G2: tech token 'crm' not KB-licensed (projects)",
+      "G2: tech token 'crm' not KB-licensed (projects)",
+      "G2: tech token 'crm' not KB-licensed (projects)",
+      "G2: tech token 'excel' not KB-licensed (projects)",
+      "G2: tech token 'excel' not KB-licensed (projects)",
+      "G2: tech token 'excel' not KB-licensed (projects)",
+      "G2: tech token 'vba' not KB-licensed (projects)",
+      "G2: digit '20%' not in KB evidence (projects)",
+      "G2: digit '30%' not in KB evidence (projects)",
+      "G2: tech token 'excel' not KB-licensed (skills)",
+      "G2: tech token 'crm' not KB-licensed (skills)",
+      "G3: literal 'PROJECT-' in artifact (replacement-order collision)",
+      "G3: corrupted section title 'KILLS' in artifact",
+      "G3: apostrophe-year dates present (parser-invisible)"
+    ]
+  },
+  {
+    "job": "lopment Foursource Prime (m/f/d)",
+    "url": "https://www.stepstone.de/jobs--Internship-Business-Development-Foursource-Prime-m-f-d-Hamburg-Foursource-Group-Gmbh--14438286-inline.html",
+    "issues": [
+      "G1: word count 154 outside 200-900 (segmentation/corruption?)",
+      "G2: tech token 'excel' not KB-licensed (projects)",
+      "G2: tech token 'crm' not KB-licensed (projects)",
+      "G2: tech token 'excel' not KB-licensed (projects)",
+      "G2: tech token 'crm' not KB-licensed (projects)",
+      "G2: tech token 'excel' not KB-licensed (projects)",
+      "G2: tech token 'powerbi' not KB-licensed (projects)",
+      "G2: digit '15%' not in KB evidence (projects)",
+      "G2: digit '20%' not in KB evidence (projects)",
+      "G2: tech token 'excel' not KB-licensed (skills)",
+      "G2: tech token 'crm' not KB-licensed (skills)",
+      "G3: literal 'PROJECT-' in artifact (replacement-order collision)",
+      "G3: corrupted section title 'KILLS' in artifact",
+      "G3: apostrophe-year dates present (parser-invisible)",
+      "G3: KB skill 'powerbi' in intent but MISSING from artifact"
+    ]
+  },
+  {
+    "job": "ship coating development (f/m/x)",
+    "url": "https://www.stepstone.de/jobs--Internship-coating-development-f-m-x-Oberkochen-bei-Ulm-ZEISS--14503651-inline.html",
+    "issues": [
+      "G1: word count 154 outside 200-900 (segmentation/corruption?)",
+      "G2: digit '100' not in KB evidence (projects)",
+      "G2: digit '12' not in KB evidence (projects)",
+      "G2: tech token 'matlab' not KB-licensed (skills)",
+      "G3: literal 'PROJECT-' in artifact (replacement-order collision)",
+      "G3: corrupted section title 'KILLS' in artifact",
+      "G3: apostrophe-year dates present (parser-invisible)"
+    ]
+  },
+  {
+    "job": "Jobs for Students (f/m)",
+    "url": "https://www.stepstone.de/jobs--Jobs-for-Students-f-m-Berlin-Germany-Programmfabrik-GmbH--12554124-inline.html",
+    "issues": [
+      "G1: word count 155 outside 200-900 (segmentation/corruption?)",
+      "G2: tech token 'api' not KB-licensed (objective)",
+      "G2: tech token 'rest' not KB-licensed (projects)",
+      "G2: tech token 'api' not KB-licensed (projects)",
+      "G2: tech token 'api' not KB-licensed (projects)",
+      "G2: tech token 'javascript' not KB-licensed (projects)",
+      "G2: tech token 'api' not KB-licensed (projects)",
+      "G2: tech token 'linux' not KB-licensed (projects)",
+      "G2: tech token 'javascript' not KB-licensed (projects)",
+      "G2: tech token 'javascript' not KB-licensed (projects)",
+      "G2: digit '12%' not in KB evidence (projects)",
+      "G2: digit '30%' not in KB evidence (projects)",
+      "G2: tech token 'javascript' not KB-licensed (skills)",
+      "G2: tech token 'api' not KB-licensed (skills)",
+      "G2: tech token 'api' not KB-licensed (skills)",
+      "G2: tech token 'linux' not KB-licensed (skills)",
+      "G3: literal 'PROJECT-' in artifact (replacement-order collision)",
+      "G3: corrupted section title 'KILLS' in artifact",
+      "G3: apostrophe-year dates present (parser-invisible)"
+    ]
+  },
+  {
+    "job": "Student HRIS & HR Operations",
+    "url": "https://www.stepstone.de/jobs--Student-HRIS-HR-Operations-Berlin-ProBioGen-AG--14501762-inline.html",
+    "issues": [
+      "G1: word count 152 outside 200-900 (segmentation/corruption?)",
+      "G2: tech token 'hris' not KB-licensed (objective)",
+      "G2: tech token 'hris' not KB-licensed (projects)",
+      "G2: tech token 'hris' not KB-licensed (projects)",
+      "G2: tech token 'rest' not KB-licensed (projects)",
+      "G2: tech token 'apis' not KB-licensed (projects)",
+      "G2: tech token 'rest' not KB-licensed (projects)",
+      "G2: tech token 'apis' not KB-licensed (projects)",
+      "G2: tech token 'servicenow' not KB-licensed (projects)",
+      "G2: digit '20' not in KB evidence (projects)",
+      "G2: digit '20%' not in KB evidence (projects)",
+      "G2: tech token 'hris' not KB-licensed (skills)",
+      "G2: tech token 'hris' not KB-licensed (skills)",
+      "G3: literal 'PROJECT-' in artifact (replacement-order collision)",
+      "G3: corrupted section title 'KILLS' in artifact",
+      "G3: apostrophe-year dates present (parser-invisible)",
+      "G3: KB skill 'servicenow' in intent but MISSING from artifact",
+      "G3: KB skill 'rest' in intent but MISSING from artifact",
+      "G3: KB skill 'apis' in intent but MISSING from artifact"
+    ]
+  },
+  {
+    "job": "ement mit Schwerpunkt KI (m/w/d)",
+    "url": "https://www.stepstone.de/jobs--Werkstudent-Projektmanagement-mit-Schwerpunkt-KI-m-w-d-Eschborn-Deutsche-WertpapierService-Bank-AG--14438170-inline.html",
+    "issues": [
+      "G1: word count 153 outside 200-900 (segmentation/corruption?)",
+      "G2: digit '1' not in KB evidence (objective)",
+      "G2: digit '2' not in KB evidence (objective)",
+      "G2: tech token 'excel' not KB-licensed (projects)",
+      "G2: tech token 'excel' not KB-licensed (projects)",
+      "G2: tech token 'excel' not KB-licensed (projects)",
+      "G2: digit '30%' not in KB evidence (projects)",
+      "G2: digit '30%' not in KB evidence (projects)",
+      "G2: tech token 'excel' not KB-licensed (skills)",
+      "G2: digit '1' not in KB evidence (skills)",
+      "G2: digit '2' not in KB evidence (skills)",
+      "G3: literal 'PROJECT-' in artifact (replacement-order collision)",
+      "G3: corrupted section title 'KILLS' in artifact",
+      "G3: apostrophe-year dates present (parser-invisible)"
+    ]
+  },
+  {
+    "job": "ngineer, Agentic Systems (m/f/d)",
+    "url": "https://www.stepstone.de/jobs--Working-Student-AI-Engineer-Agentic-Systems-m-f-d-Munich-retorio-GmbH--14400893-inline.html",
+    "issues": [
+      "G1: word count 155 outside 200-900 (segmentation/corruption?)",
+      "G2: tech token 'apis' not KB-licensed (experience)",
+      "G2: tech token 'api' not KB-licensed (experience)",
+      "G2: tech token 'apis' not KB-licensed (projects)",
+      "G2: tech token 'ci' not KB-licensed (projects)",
+      "G2: tech token 'cd' not KB-licensed (projects)",
+      "G2: tech token 'gcp' not KB-licensed (projects)",
+      "G2: tech token 'ci' not KB-licensed (projects)",
+      "G2: tech token 'cd' not KB-licensed (projects)",
+      "G2: tech token 'apis' not KB-licensed (projects)",
+      "G2: tech token 'gcp' not KB-licensed (projects)",
+      "G2: tech token 'ci' not KB-licensed (projects)",
+      "G2: tech token 'cd' not KB-licensed (projects)",
+      "G2: digit '18%' not in KB evidence (projects)",
+      "G2: digit '30%' not in KB evidence (projects)",
+      "G2: tech token 'typescript' not KB-licensed (skills)",
+      "G2: tech token 'javascript' not KB-licensed (skills)",
+      "G2: tech token 'gcp' not KB-licensed (skills)",
+      "G2: tech token 'ci' not KB-licensed (skills)",
+      "G2: tech token 'cd' not KB-licensed (skills)",
+      "G3: literal 'PROJECT-' in artifact (replacement-order collision)",
+      "G3: corrupted section title 'KILLS' in artifact",
+      "G3: apostrophe-year dates present (parser-invisible)"
+    ]
+  },
+  {
+    "job": "ment | Sales & Expansion - Spain",
+    "url": "https://www.stepstone.de/jobs--Working-Student-Intern-m-f-d-Business-Development-Sales-Expansion-Spain-Remote-Floy-GmbH--14021281-inline.html",
+    "issues": [
+      "G1: word count 153 outside 200-900 (segmentation/corruption?)",
+      "G2: tech token 'crm' not KB-licensed (projects)",
+      "G2: digit '45' not in KB evidence (projects)",
+      "G2: digit '12' not in KB evidence (projects)",
+      "G2: digit '30%' not in KB evidence (projects)",
+      "G2: tech token 'crm' not KB-licensed (skills)",
+      "G3: literal 'PROJECT-' in artifact (replacement-order collision)",
+      "G3: corrupted section title 'KILLS' in artifact",
+      "G3: apostrophe-year dates present (parser-invisible)"
+    ]
+  },
+  {
+    "job": "orking Student Marketing (m/w/d)",
+    "url": "https://www.stepstone.de/jobs--Working-Student-Marketing-m-w-d-Ismaning-Unsere-Grune-Glasfaser-GmbH-Co-KG--14501194-inline.html",
+    "issues": [
+      "G1: word count 155 outside 200-900 (segmentation/corruption?)",
+      "G2: digit '1' not in KB evidence (projects)",
+      "G2: digit '200' not in KB evidence (projects)",
+      "G2: digit '2' not in KB evidence (projects)",
+      "G2: digit '2' not in KB evidence (projects)",
+      "G2: digit '20' not in KB evidence (projects)",
+      "G3: literal 'PROJECT-' in artifact (replacement-order collision)",
+      "G3: corrupted section title 'KILLS' in artifact",
+      "G3: apostrophe-year dates present (parser-invisible)"
+    ]
+  },
+  {
+    "job": "Student People & Culture (f/m/d)",
+    "url": "https://www.stepstone.de/jobs--Working-Student-People-Culture-f-m-d-Munich-Earlybird-VC-Management-GmbH-Co-KG--14021261-inline.html",
+    "issues": [
+      "G1: word count 154 outside 200-900 (segmentation/corruption?)",
+      "G2: digit '12%' not in KB evidence (projects)",
+      "G3: literal 'PROJECT-' in artifact (replacement-order collision)",
+      "G3: corrupted section title 'KILLS' in artifact",
+      "G3: apostrophe-year dates present (parser-invisible)"
+    ]
+  },
+  {
+    "job": " - Customer Success DACH (m/f/d)",
+    "url": "https://www.stepstone.de/jobs--Working-student-Customer-Success-DACH-m-f-d-Munich-Mollie-B-V--14397501-inline.html",
+    "issues": [
+      "G1: word count 153 outside 200-900 (segmentation/corruption?)",
+      "G2: tech token 'jira' not KB-licensed (projects)",
+      "G2: tech token 'jira' not KB-licensed (projects)",
+      "G2: tech token 'power bi' not KB-licensed (projects)",
+      "G2: tech token 'power bi' not KB-licensed (projects)",
+      "G2: digit '12%' not in KB evidence (projects)",
+      "G2: tech token 'excel' not KB-licensed (skills)",
+      "G2: tech token 'powerbi' not KB-licensed (skills)",
+      "G2: tech token 'salesforce' not KB-licensed (skills)",
+      "G2: tech token 'tableau' not KB-licensed (skills)",
+      "G3: literal 'PROJECT-' in artifact (replacement-order collision)",
+      "G3: corrupted section title 'KILLS' in artifact",
+      "G3: apostrophe-year dates present (parser-invisible)",
+      "G3: KB skill 'jira' in intent but MISSING from artifact"
+    ]
+  },
+  {
+    "job": "for ERS Europe Systems in Lorsch",
+    "url": "https://www.stepstone.de/jobs--Working-student-automation-m-f-d-for-ERS-Europe-Systems-in-Lorsch-64653-Lorsch-Germany-ERS-EuRope-Systems-GmbH--12554103-inline.html",
+    "issues": [
+      "G1: word count 151 outside 200-900 (segmentation/corruption?)",
+      "G2: tech token 'plc' not KB-licensed (objective)",
+      "G2: tech token 'plc' not KB-licensed (projects)",
+      "G2: tech token 'plc' not KB-licensed (projects)",
+      "G2: tech token 'plc' not KB-licensed (projects)",
+      "G2: digit '15%' not in KB evidence (projects)",
+      "G2: digit '15' not in KB evidence (projects)",
+      "G2: tech token 'plc' not KB-licensed (skills)",
+      "G3: literal 'PROJECT-' in artifact (replacement-order collision)",
+      "G3: corrupted section title 'KILLS' in artifact",
+      "G3: apostrophe-year dates present (parser-invisible)"
+    ]
+  },
+  {
+    "job": "o-Market Working Student (m/f/d)",
+    "url": "https://www.workingstudentjobs.de/jobs/1komma5deg-go-to-market-working-student-m-f-d-8f044e05",
+    "issues": [
+      "G1: word count 154 outside 200-900 (segmentation/corruption?)",
+      "G2: tech token 'excel' not KB-licensed (projects)",
+      "G2: digit '12' not in KB evidence (projects)",
+      "G2: digit '40%' not in KB evidence (projects)",
+      "G2: tech token 'excel' not KB-licensed (skills)",
+      "G2: tech token 'powerbi' not KB-licensed (skills)",
+      "G2: tech token 'tableau' not KB-licensed (skills)",
+      "G2: tech token 'agile' not KB-licensed (skills)",
+      "G3: literal 'PROJECT-' in artifact (replacement-order collision)",
+      "G3: corrupted section title 'KILLS' in artifact",
+      "G3: apostrophe-year dates present (parser-invisible)"
+    ]
+  },
+  {
+    "job": " Battery Analytics (all genders)",
+    "url": "https://www.workingstudentjobs.de/jobs/accure-battery-intelligence-internship-or-master-thesis-all-ae235b07",
+    "issues": [
+      "G1: word count 153 outside 200-900 (segmentation/corruption?)",
+      "G2: digit '87%' not in KB evidence (projects)",
+      "G2: digit '28%' not in KB evidence (projects)",
+      "G2: tech token 'matlab' not KB-licensed (skills)",
+      "G3: literal 'PROJECT-' in artifact (replacement-order collision)",
+      "G3: corrupted section title 'KILLS' in artifact",
+      "G3: apostrophe-year dates present (parser-invisible)"
+    ]
+  },
+  {
+    "job": "Working Student",
+    "url": "https://www.workingstudentjobs.de/jobs/flix-working-student-ba9da933",
+    "issues": [
+      "G1: word count 151 outside 200-900 (segmentation/corruption?)",
+      "G2: tech token 'git' not KB-licensed (objective)",
+      "G2: tech token 'airflow' not KB-licensed (projects)",
+      "G2: tech token 'airflow' not KB-licensed (projects)",
+      "G2: tech token 'git' not KB-licensed (projects)",
+      "G2: tech token 'airflow' not KB-licensed (projects)",
+      "G2: tech token 'airflow' not KB-licensed (projects)",
+      "G2: tech token 'git' not KB-licensed (projects)",
+      "G2: digit '30%' not in KB evidence (projects)",
+      "G2: digit '30%' not in KB evidence (projects)",
+      "G2: tech token 'airflow' not KB-licensed (skills)",
+      "G2: tech token 'git' not KB-licensed (skills)",
+      "G3: literal 'PROJECT-' in artifact (replacement-order collision)",
+      "G3: corrupted section title 'KILLS' in artifact",
+      "G3: apostrophe-year dates present (parser-invisible)"
+    ]
+  },
+  {
+    "job": " (part-time) Software QA (m/f/d)",
+    "url": "https://www.workingstudentjobs.de/jobs/korro-ai-working-student-part-time-software-qa-m-f-d-4e0ebddc",
+    "issues": [
+      "G1: word count 152 outside 200-900 (segmentation/corruption?)",
+      "G2: tech token 'jira' not KB-licensed (projects)",
+      "G2: tech token 'jira' not KB-licensed (projects)",
+      "G2: tech token 'jira' not KB-licensed (projects)",
+      "G2: tech token 'jira' not KB-licensed (projects)",
+      "G2: digit '20%' not in KB evidence (projects)",
+      "G2: digit '30%' not in KB evidence (projects)",
+      "G2: tech token 'java' not KB-licensed (skills)",
+      "G2: tech token 'jira' not KB-licensed (skills)",
+      "G3: literal 'PROJECT-' in artifact (replacement-order collision)",
+      "G3: corrupted section title 'KILLS' in artifact",
+      "G3: apostrophe-year dates present (parser-invisible)"
+    ]
+  },
+  {
+    "job": "in Digital & Automation (m/f/d)*",
+    "url": "https://www.workingstudentjobs.de/jobs/munich-re-automation-solutions-working-student-project-in-m-c2e121db",
+    "issues": [
+      "G1: word count 156 outside 200-900 (segmentation/corruption?)",
+      "G2: tech token 'excel' not KB-licensed (objective)",
+      "G2: tech token 'azure' not KB-licensed (objective)",
+      "G2: tech token 'azure' not KB-licensed (projects)",
+      "G2: tech token 'excel' not KB-licensed (projects)",
+      "G2: tech token 'azure' not KB-licensed (projects)",
+      "G2: tech token 'excel' not KB-licensed (projects)",
+      "G2: tech token 'excel' not KB-licensed (projects)",
+      "G2: tech token 'azure' not KB-licensed (projects)",
+      "G2: tech token 'apis' not KB-licensed (projects)",
+      "G2: tech token 'azure' not KB-licensed (projects)",
+      "G2: tech token 'excel' not KB-licensed (projects)",
+      "G2: digit '30%' not in KB evidence (projects)",
+      "G2: tech token 'excel' not KB-licensed (skills)",
+      "G3: literal 'PROJECT-' in artifact (replacement-order collision)",
+      "G3: corrupted section title 'KILLS' in artifact",
+      "G3: apostrophe-year dates present (parser-invisible)",
+      "G3: KB skill 'apis' in intent but MISSING from artifact"
+    ]
+  },
+  {
+    "job": "Working Student (m/f/d)",
+    "url": "https://www.workingstudentjobs.de/jobs/sennheiser-working-student-m-f-d-e71e3347",
+    "issues": [
+      "G1: word count 153 outside 200-900 (segmentation/corruption?)",
+      "G2: tech token 'sap' not KB-licensed (objective)",
+      "G2: tech token 'crm' not KB-licensed (objective)",
+      "G2: tech token 'sap' not KB-licensed (projects)",
+      "G2: tech token 'sap' not KB-licensed (projects)",
+      "G2: tech token 'crm' not KB-licensed (projects)",
+      "G2: tech token 'power bi' not KB-licensed (projects)",
+      "G2: tech token 'sap' not KB-licensed (projects)",
+      "G2: tech token 'crm' not KB-licensed (projects)",
+      "G2: tech token 'excel' not KB-licensed (projects)",
+      "G2: tech token 'crm' not KB-licensed (projects)",
+      "G2: tech token 'crm' not KB-licensed (projects)",
+      "G2: tech token 'crm' not KB-licensed (projects)",
+      "G2: tech token 'excel' not KB-licensed (projects)",
+      "G2: digit '30' not in KB evidence (projects)",
+      "G2: digit '30%' not in KB evidence (projects)",
+      "G2: tech token 'sap' not KB-licensed (skills)",
+      "G2: tech token 'crm' not KB-licensed (skills)",
+      "G2: tech token 'excel' not KB-licensed (skills)",
+      "G2: tech token 'sap' not KB-licensed (skills)",
+      "G2: tech token 'crm' not KB-licensed (skills)",
+      "G2: tech token 'sap' not KB-licensed (skills)",
+      "G2: tech token 'sap' not KB-licensed (skills)",
+      "G3: literal 'PROJECT-' in artifact (replacement-order collision)",
+      "G3: corrupted section title 'KILLS' in artifact",
+      "G3: apostrophe-year dates present (parser-invisible)"
+    ]
+  },
+  {
+    "job": "ineering Intern/ Working Student",
+    "url": "https://www.workingstudentjobs.de/jobs/tenpal-software-engineering-intern-working-student-2b679a7c",
+    "issues": [
+      "G1: word count 153 outside 200-900 (segmentation/corruption?)",
+      "G2: tech token 'apis' not KB-licensed (projects)",
+      "G2: tech token 'rest' not KB-licensed (projects)",
+      "G2: tech token 'react' not KB-licensed (projects)",
+      "G2: tech token 'apis' not KB-licensed (projects)",
+      "G2: tech token 'rest' not KB-licensed (projects)",
+      "G2: tech token 'apis' not KB-licensed (projects)",
+      "G2: tech token 'react' not KB-licensed (projects)",
+      "G2: tech token 'react' not KB-licensed (projects)",
+      "G2: tech token 'fastapi' not KB-licensed (projects)",
+      "G2: tech token 'apis' not KB-licensed (projects)",
+      "G2: tech token 'apis' not KB-licensed (projects)",
+      "G2: tech token 'react' not KB-licensed (projects)",
+      "G2: tech token 'fastapi' not KB-licensed (projects)",
+      "G2: tech token 'rest' not KB-licensed (projects)",
+      "G2: tech token 'apis' not KB-licensed (projects)",
+      "G2: digit '70%' not in KB evidence (projects)",
+      "G2: digit '30%' not in KB evidence (projects)",
+      "G2: tech token 'javascript' not KB-licensed (skills)",
+      "G2: tech token 'typescript' not KB-licensed (skills)",
+      "G2: tech token 'apis' not KB-licensed (skills)",
+      "G3: literal 'PROJECT-' in artifact (replacement-order collision)",
+      "G3: corrupted section title 'KILLS' in artifact",
+      "G3: apostrophe-year dates present (parser-invisible)",
+      "G3: KB skill 'react' in intent but MISSING from artifact",
+      "G3: KB skill 'fastapi' in intent but MISSING from artifact",
+      "G3: KB skill 'rest' in intent but MISSING from artifact"
+    ]
+  },
+  {
+    "job": "ye-Tracking and Robotics (f/m/x)",
+    "url": "https://www.workingstudentjobs.de/jobs/zeiss-group-internship-next-generation-system-interaction-f-58665350",
+    "issues": [
+      "G1: word count 153 outside 200-900 (segmentation/corruption?)",
+      "G2: digit '6' not in KB evidence (projects)",
+      "G2: digit '92' not in KB evidence (projects)",
+      "G2: digit '100' not in KB evidence (projects)",
+      "G2: tech token 'java' not KB-licensed (skills)",
+      "G2: tech token 'matlab' not KB-licensed (skills)",
+      "G3: literal 'PROJECT-' in artifact (replacement-order collision)",
+      "G3: corrupted section title 'KILLS' in artifact",
+      "G3: apostrophe-year dates present (parser-invisible)"
+    ]
+  }
+]

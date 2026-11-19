@@ -1,0 +1,25 @@
+# secrets — never commit
+gemini_keys.json
+phase_1/.env
+phase_2/.env
+phase_3/.env
+streamlit_app/settings.json
+
+# python
+__pycache__/
+*.pyc
+
+# virtualenvs
+.venv/
+
+# generated / runtime data
+phase_1/data/
+phase_2/data/
+phase_3/data/
+phase_3/contacts_to_send.csv
+phase_3/state.json
+phase_3/sent_history.csv
+phase_3/send_log.txt
+
+# backups
+_backup_*/

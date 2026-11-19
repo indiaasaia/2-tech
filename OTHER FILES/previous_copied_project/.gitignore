@@ -1,0 +1,16 @@
+# API keys — never commit
+sub_program_files/ollama_keys.json
+sub_program_files/active_ollama_keys.json
+
+# logs & caches
+run_overall_err.log
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# generated outputs
+program_files/output/
+
+# logs & local tooling
+*.log
+.freebuff/

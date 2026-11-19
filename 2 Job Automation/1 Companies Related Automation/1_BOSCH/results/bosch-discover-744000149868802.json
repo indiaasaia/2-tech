@@ -1,0 +1,949 @@
+{
+  "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/BoschGroup/publication/58fa40bb-633a-4eb3-97a8-082d5ddad383?dcr_ci=BoschGroup",
+  "buttons": [
+    {
+      "tag": "button",
+      "text": "Apply With Indeed",
+      "disabled": false,
+      "type": "button",
+      "dataQa": ""
+    },
+    {
+      "tag": "button",
+      "text": "Apply with SEEK",
+      "disabled": false,
+      "type": "button",
+      "dataQa": ""
+    },
+    {
+      "tag": "button",
+      "text": "Upload profile image",
+      "disabled": false,
+      "type": "button",
+      "dataQa": ""
+    },
+    {
+      "tag": "a",
+      "text": "Privacy Notice",
+      "disabled": false,
+      "type": "",
+      "dataQa": ""
+    },
+    {
+      "tag": "a",
+      "text": "Imprint",
+      "disabled": false,
+      "type": "",
+      "dataQa": ""
+    },
+    {
+      "tag": "button",
+      "text": "Cookie Settings",
+      "disabled": false,
+      "type": "",
+      "dataQa": ""
+    },
+    {
+      "tag": "button",
+      "text": "Country code",
+      "disabled": false,
+      "type": "",
+      "dataQa": ""
+    }
+  ],
+  "fileSections": [
+    {
+      "tag": "input",
+      "type": "file",
+      "id": "",
+      "name": "file-upload-227ac554-352f-45bb-948c-d9048aafab77",
+      "dataQa": "",
+      "placeholder": "",
+      "label": "Upload profile image",
+      "blockPath": "div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-personal-information:nth-of-type(1) > div:nth-of-type(1) > oc-avatar:nth-of-type(1) > div:nth-of-type(1)",
+      "blockText": "",
+      "cssPath": "div:nth-of-type(1) > oc-avatar:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > spl-form-field:nth-of-type(1) > oc-file-upload-button:nth-of-type(1) > div:nth-of-type(1) > input:nth-of-type(1)",
+      "required": false,
+      "value": "",
+      "checked": null,
+      "accept": ".bmp,.gif,.jfif,.jpeg,.jpg,.png,.tif,.tiff,.webp",
+      "inShadow": false,
+      "kind": "unknown"
+    },
+    {
+      "tag": "input",
+      "type": "file",
+      "id": "file-input",
+      "name": "",
+      "dataQa": "",
+      "placeholder": "",
+      "label": "",
+      "blockPath": "div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-easy-apply:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "blockText": "Choose a file or drop it here 10MB size limit or api_key: 86hyj6wojf5e98 extensions:AwliWidget@https://www.linkedin.com/talentwidgets/extensions/apply-with-linkedin-widget-v3 Apply With Indeed Apply with SEEK",
+      "cssPath": "#file-input",
+      "required": false,
+      "value": "",
+      "checked": null,
+      "accept": ".doc, .dot, .rmr, .rsm, .resume, .oxps, .pdf, .p7s, .ai, .rtf, .pages, .gdoc, .gslides, .xls, .xlsm, .pub, .msg, .ppt, .wps, .ods, .odt, .pptx, .ppsx, .xlsx, .docx, .dotx, .sxw, .wpd, .abw, .mp3, .m4a, .wav, .psd, .eml, .ical, .ics, .ifb, .icalendar, .ics_response, .csv, .txt, .text, .vcf, .mp4, .mov, .bmp, .gif, .jfif, .jpeg, .jpg, .png, .tif, .tiff, .webp",
+      "inShadow": true,
+      "kind": "resume"
+    },
+    {
+      "tag": "input",
+      "type": "file",
+      "id": "file-input",
+      "name": "",
+      "dataQa": "",
+      "placeholder": "",
+      "label": "",
+      "blockPath": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-resume-upload:nth-of-type(1) > div:nth-of-type(1)",
+      "blockText": "Resume Choose a file or drop it here 10MB size limit",
+      "cssPath": "#file-input",
+      "required": false,
+      "value": "",
+      "checked": null,
+      "accept": ".doc, .dot, .rmr, .rsm, .resume, .oxps, .pdf, .p7s, .ai, .rtf, .pages, .gdoc, .gslides, .xls, .xlsm, .pub, .msg, .ppt, .wps, .ods, .odt, .pptx, .ppsx, .xlsx, .docx, .dotx, .sxw, .wpd, .abw, .mp3, .m4a, .wav, .psd, .eml, .ical, .ics, .ifb, .icalendar, .ics_response, .csv, .txt, .text, .vcf, .mp4, .mov, .bmp, .gif, .jfif, .jpeg, .jpg, .png, .tif, .tiff, .webp",
+      "inShadow": true,
+      "kind": "resume"
+    }
+  ],
+  "questions": {
+    "matched": [],
+    "unknown": [
+      {
+        "blockPath": "main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-personal-information:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(1)",
+        "blockText": "First name*",
+        "controls": [
+          {
+            "tag": "input",
+            "type": "text",
+            "id": "first-name-input",
+            "name": "",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "",
+            "blockPath": "main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-personal-information:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(1)",
+            "blockText": "First name*",
+            "cssPath": "#first-name-input",
+            "required": true,
+            "value": "",
+            "checked": null,
+            "accept": "",
+            "inShadow": true
+          }
+        ]
+      },
+      {
+        "blockPath": "main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-personal-information:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > oc-input:nth-of-type(1)",
+        "blockText": "Last name*",
+        "controls": [
+          {
+            "tag": "input",
+            "type": "text",
+            "id": "last-name-input",
+            "name": "",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "",
+            "blockPath": "main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-personal-information:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > oc-input:nth-of-type(1)",
+            "blockText": "Last name*",
+            "cssPath": "#last-name-input",
+            "required": true,
+            "value": "",
+            "checked": null,
+            "accept": "",
+            "inShadow": true
+          }
+        ]
+      },
+      {
+        "blockPath": "div >> nth=87",
+        "blockText": "City",
+        "controls": [
+          {
+            "tag": "input",
+            "type": "text",
+            "id": "spl-form-element_10",
+            "name": "",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "",
+            "blockPath": "div >> nth=87",
+            "blockText": "City",
+            "cssPath": "#spl-form-element_10",
+            "required": false,
+            "value": "",
+            "checked": null,
+            "accept": "",
+            "inShadow": true
+          }
+        ]
+      },
+      {
+        "blockPath": "div >> nth=104",
+        "blockText": "Country code Afghanistan Afghanistan Afghanistan +93 Åland Islands Åland Islands Åland Islands +358 Albania Albania Albania +355 Algeria Algeria Algeria +213 American Samoa American Samoa American Samoa +1 Andorra Andorra Andorra +376 Angola Angola Angola +244 Anguilla Anguilla Anguilla +1 Antigua & Barbuda Antigua & Barbuda Antigua & Barbuda +1 Argentina Argentina Argentina +54 Armenia Armenia Armenia +374 Aruba Aruba Aruba +297 Ascension Island Ascension Island Ascension Island +247 Australia Australia Australia +61 Austria Austria Austria +43 Azerbaijan Azerbaijan Azerbaijan +994 Bahamas Bahamas Bahamas +1 Bahrain Bahrain Bahrain +973 Bangladesh Bangladesh Bangladesh +880 Barbados Barbados Barbados +1 Belarus Belarus Belarus +375 Belgium Belgium Belgium +32 Belize Belize Belize +501 Benin Benin Benin +229 Bermuda Bermuda Bermuda +1 Bhutan Bhutan Bhutan +975 Bolivia Bolivia Bolivia +591 Bosnia & Herzegovina Bosnia & Herzegovina Bosnia & Herzegovina +387 Botswana Botswana Botswana +267 Brazil Brazil Brazil +55 British Indian Ocean Territory British Indian Ocean Territory British Indian Ocean Territory +246 British Virgin Islands British Virgin Islands British Virgin Islands +1 Brunei Brunei Brunei +673 Bulgaria Bulgaria Bulgaria +359 Burkina Faso Burkina Faso Burkina Faso +226 Burundi Burundi Burundi +257 Cambodia Cambodia Cambodia +855 Cameroon Cameroon Cameroon +237 Canada Canada Canada +1 Cape Verde Cape Verde Cape Verde +238 Caribbean Netherlands Caribbean Netherlands Caribbean Netherlands +599 Cayman Islands Cayman Islands Cayman Islands +1 Central African Republic Central African Republic Central African Republic +236 Chad Chad Chad +235 Chile Chile Chile +56 China China China +86 Christmas Island Christmas Island Christmas Island +61 Cocos (Keeling) Islands Cocos (Keeling) Islands Cocos (Keeling) Islands +61 Colombia Colombia Colombia +57 Comoros Comoros Comoros +269 Congo - Brazzaville Congo - Brazzaville Congo - Brazzaville +242 Congo - Kinshasa Congo - Kinshasa Congo - Kinshasa +243 Cook Islands Cook Islands Cook Islands +682 Costa Rica Costa Rica Costa Rica +506 Côte d’Ivoire Côte d’Ivoire Côte d’Ivoire +225 Croatia Croatia Croatia +385 Cuba Cuba Cuba +53 Curaçao Curaçao Curaçao +599 Cyprus Cyprus Cyprus +357 Czech Republic Czech Republic Czech Republic +420 Denmark Denmark Denmark +45 Djibouti Djibouti Djibouti +253 Dominica Dominica Dominica +1 Dominican Republic Dominican Republic Dominican Republic +1 Ecuador Ecuador Ecuador +593 Egypt Egypt Egypt +20 El Salvador El Salvador El Salvador +503 Equatorial Guinea Equatorial Guinea Equatorial Guinea +240 Eritrea Eritrea Eritrea +291 Estonia Estonia Estonia +372 Ethiopia Ethiopia Ethiopia +251 Falkland Islands Falkland Islands Falkland Islands +500 Faroe Islands Faroe Islands Faroe Islands +298 Fiji Fiji Fiji +679 Finland Finland Finland +358 France France France +33 French Guiana French Guiana French Guiana +594 French Polynesia French Polynesia French Polynesia +689 Gabon Gabon Gabon +241 Gambia Gambia Gambia +220 Georgia Georgia Georgia +995 Germany Germany Germany +49 Ghana Ghana Ghana +233 Gibraltar Gibraltar Gibraltar +350 Greece Greece Greece +30 Greenland Greenland Greenland +299 Grenada Grenada Grenada +1 Guadeloupe Guadeloupe Guadeloupe +590 Guam Guam Guam +1 Guatemala Guatemala Guatemala +502 Guernsey Guernsey Guernsey +44 Guinea Guinea Guinea +224 Guinea-Bissau Guinea-Bissau Guinea-Bissau +245 Guyana Guyana Guyana +592 Haiti Haiti Haiti +509 Honduras Honduras Honduras +504 Hong Kong Hong Kong Hong Kong +852 Hungary Hungary Hungary +36 Iceland Iceland Iceland +354 India India India +91 Indonesia Indonesia Indonesia +62 Iran Iran Iran +98 Iraq Iraq Iraq +964 Ireland Ireland Ireland +353 Isle of Man Isle of Man Isle of Man +44 Israel Israel Israel +972 Italy Italy Italy +39 Jamaica Jamaica Jamaica +1 Japan Japan Japan +81 Jersey Jersey Jersey +44 Jordan Jordan Jordan +962 Kazakhstan Kazakhstan Kazakhstan +7 Kenya Kenya Kenya +254 Kiribati Kiribati Kiribati +686 Kosovo Kosovo Kosovo +383 Kuwait Kuwait Kuwait +965 Kyrgyzstan Kyrgyzstan Kyrgyzstan +996 Laos Laos Laos +856 Latvia Latvia Latvia +371 Lebanon Lebanon Lebanon +961 Lesotho Lesotho Lesotho +266 Liberia Liberia Liberia +231 Libya Libya Libya +218 Liechtenstein Liechtenstein Liechtenstein +423 Lithuania Lithuania Lithuania +370 Luxembourg Luxembourg Luxembourg +352 Macau Macau Macau +853 Macedonia Macedonia Macedonia +389 Madagascar Madagascar Madagascar +261 Malawi Malawi Malawi +265 Malaysia Malaysia Malaysia +60 Maldives Maldives Maldives +960 Mali Mali Mali +223 Malta Malta Malta +356 Marshall Islands Marshall Islands Marshall Islands +692 Martinique Martinique Martinique +596 Mauritania Mauritania Mauritania +222 Mauritius Mauritius Mauritius +230 Mayotte Mayotte Mayotte +262 Mexico Mexico Mexico +52 Micronesia Micronesia Micronesia +691 Moldova Moldova Moldova +373 Monaco Monaco Monaco +377 Mongolia Mongolia Mongolia +976 Montenegro Montenegro Montenegro +382 Montserrat Montserrat Montserrat +1 Morocco Morocco Morocco +212 Mozambique Mozambique Mozambique +258 Myanmar (Burma) Myanmar (Burma) Myanmar (Burma) +95 Namibia Namibia Namibia +264 Nauru Nauru Nauru +674 Nepal Nepal Nepal +977 Netherlands Netherlands Netherlands +31 New Caledonia New Caledonia New Caledonia +687 New Zealand New Zealand New Zealand +64 Nicaragua Nicaragua Nicaragua +505 Niger Niger Niger +227 Nigeria Nigeria Nigeria +234 Niue Niue Niue +683 Norfolk Island Norfolk Island Norfolk Island +672 North Korea North Korea North Korea +850 Northern Mariana Islands Northern Mariana Islands Northern Mariana Islands +1 Norway Norway Norway +47 Oman Oman Oman +968 Pakistan Pakistan Pakistan +92 Palau Palau Palau +680 Palestinian Territories Palestinian Territories Palestinian Territories +970 Panama Panama Panama +507 Papua New Guinea Papua New Guinea Papua New Guinea +675 Paraguay Paraguay Paraguay +595 Peru Peru Peru +51 Philippines Philippines Philippines +63 Poland Poland Poland +48 Portugal Portugal Portugal +351 Puerto Rico Puerto Rico Puerto Rico +1 Qatar Qatar Qatar +974 Réunion Réunion Réunion +262 Romania Romania Romania +40 Russia Russia Russia +7 Rwanda Rwanda Rwanda +250 Samoa Samoa Samoa +685 San Marino San Marino San Marino +378 São Tomé & Príncipe São Tomé & Príncipe São Tomé & Príncipe +239 Saudi Arabia Saudi Arabia Saudi Arabia +966 Senegal Senegal Senegal +221 Serbia Serbia Serbia +381 Seychelles Seychelles Seychelles +248 Sierra Leone Sierra Leone Sierra Leone +232 Singapore Singapore Singapore +65 Sint Maarten Sint Maarten Sint Maarten +1 Slovakia Slovakia Slovakia +421 Slovenia Slovenia Slovenia +386 Solomon Islands Solomon Islands Solomon Islands +677 Somalia Somalia Somalia +252 South Africa South Africa South Africa +27 South Korea South Korea South Korea +82 South Sudan South Sudan South Sudan +211 Spain Spain Spain +34 Sri Lanka Sri Lanka Sri Lanka +94 St Barthélemy St Barthélemy St Barthélemy +590 St Helena St Helena St Helena +290 St Kitts & Nevis St Kitts & Nevis St Kitts & Nevis +1 St Lucia St Lucia St Lucia +1 St Martin St Martin St Martin +590 St Pierre & Miquelon St Pierre & Miquelon St Pierre & Miquelon +508 St Vincent & Grenadines St Vincent & Grenadines St Vincent & Grenadines +1 Sudan Sudan Sudan +249 Suriname Suriname Suriname +597 Svalbard & Jan Mayen Svalbard & Jan Mayen Svalbard & Jan Mayen +47 Swaziland Swaziland Swaziland +268 Sweden Sweden Sweden +46 Switzerland Switzerland Switzerland +41 Syria Syria Syria +963 Taiwan Taiwan Taiwan +886 Tajikistan Tajikistan Tajikistan +992 Tanzania Tanzania Tanzania +255 Thailand Thailand Thailand +66 Timor-Leste Timor-Leste Timor-Leste +670 Togo Togo Togo +228 Tokelau Tokelau Tokelau +690 Tonga Tonga Tonga +676 Trinidad & Tobago Trinidad & Tobago Trinidad & Tobago +1 Tristan da Cunha Tristan da Cunha Tristan da Cunha +290 Tunisia Tunisia Tunisia +216 Turkey Turkey Turkey +90 Turkmenistan Turkmenistan Turkmenistan +993 Turks & Caicos Islands Turks & Caicos Islands Turks & Caicos Islands +1 Tuvalu Tuvalu Tuvalu +688 Uganda Uganda Uganda +256 Ukraine Ukraine Ukraine +380 United Arab Emirates United Arab Emirates United Arab Emirates +971 United Kingdom United Kingdom United Kingdom +44 United States United States United States +1 Uruguay Uruguay Uruguay +598 US Virgin Islands US Virgin Islands US Virgin Islands +1 Uzbekistan Uzbekistan Uzbekistan +998 Vanuatu Vanuatu Vanuatu +678 Vatican City Vatican City Vatican City +39 Venezuela Venezuela Venezuela +58 Vietnam Vietnam Vietnam +84 Wallis & Futuna Wallis & Futuna Wallis & Futuna +681 Western Sahara Western Sahara Western Sahara +212 Yemen Yemen Yemen +967 Zambia Zambia Zambia +260 Zimbabwe Zimbabwe Zimbabwe +263 +49 Phone number",
+        "controls": [
+          {
+            "tag": "button",
+            "type": "combobox",
+            "id": "spl-form-element_12",
+            "name": "",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "Country code",
+            "blockPath": "div >> nth=104",
+            "blockText": "Country code Afghanistan Afghanistan Afghanistan +93 Åland Islands Åland Islands Åland Islands +358 Albania Albania Albania +355 Algeria Algeria Algeria +213 American Samoa American Samoa American Samoa +1 Andorra Andorra Andorra +376 Angola Angola Angola +244 Anguilla Anguilla Anguilla +1 Antigua & Barbuda Antigua & Barbuda Antigua & Barbuda +1 Argentina Argentina Argentina +54 Armenia Armenia Armenia +374 Aruba Aruba Aruba +297 Ascension Island Ascension Island Ascension Island +247 Australia Australia Australia +61 Austria Austria Austria +43 Azerbaijan Azerbaijan Azerbaijan +994 Bahamas Bahamas Bahamas +1 Bahrain Bahrain Bahrain +973 Bangladesh Bangladesh Bangladesh +880 Barbados Barbados Barbados +1 Belarus Belarus Belarus +375 Belgium Belgium Belgium +32 Belize Belize Belize +501 Benin Benin Benin +229 Bermuda Bermuda Bermuda +1 Bhutan Bhutan Bhutan +975 Bolivia Bolivia Bolivia +591 Bosnia & Herzegovina Bosnia & Herzegovina Bosnia & Herzegovina +387 Botswana Botswana Botswana +267 Brazil Brazil Brazil +55 British Indian Ocean Territory British Indian Ocean Territory British Indian Ocean Territory +246 British Virgin Islands British Virgin Islands British Virgin Islands +1 Brunei Brunei Brunei +673 Bulgaria Bulgaria Bulgaria +359 Burkina Faso Burkina Faso Burkina Faso +226 Burundi Burundi Burundi +257 Cambodia Cambodia Cambodia +855 Cameroon Cameroon Cameroon +237 Canada Canada Canada +1 Cape Verde Cape Verde Cape Verde +238 Caribbean Netherlands Caribbean Netherlands Caribbean Netherlands +599 Cayman Islands Cayman Islands Cayman Islands +1 Central African Republic Central African Republic Central African Republic +236 Chad Chad Chad +235 Chile Chile Chile +56 China China China +86 Christmas Island Christmas Island Christmas Island +61 Cocos (Keeling) Islands Cocos (Keeling) Islands Cocos (Keeling) Islands +61 Colombia Colombia Colombia +57 Comoros Comoros Comoros +269 Congo - Brazzaville Congo - Brazzaville Congo - Brazzaville +242 Congo - Kinshasa Congo - Kinshasa Congo - Kinshasa +243 Cook Islands Cook Islands Cook Islands +682 Costa Rica Costa Rica Costa Rica +506 Côte d’Ivoire Côte d’Ivoire Côte d’Ivoire +225 Croatia Croatia Croatia +385 Cuba Cuba Cuba +53 Curaçao Curaçao Curaçao +599 Cyprus Cyprus Cyprus +357 Czech Republic Czech Republic Czech Republic +420 Denmark Denmark Denmark +45 Djibouti Djibouti Djibouti +253 Dominica Dominica Dominica +1 Dominican Republic Dominican Republic Dominican Republic +1 Ecuador Ecuador Ecuador +593 Egypt Egypt Egypt +20 El Salvador El Salvador El Salvador +503 Equatorial Guinea Equatorial Guinea Equatorial Guinea +240 Eritrea Eritrea Eritrea +291 Estonia Estonia Estonia +372 Ethiopia Ethiopia Ethiopia +251 Falkland Islands Falkland Islands Falkland Islands +500 Faroe Islands Faroe Islands Faroe Islands +298 Fiji Fiji Fiji +679 Finland Finland Finland +358 France France France +33 French Guiana French Guiana French Guiana +594 French Polynesia French Polynesia French Polynesia +689 Gabon Gabon Gabon +241 Gambia Gambia Gambia +220 Georgia Georgia Georgia +995 Germany Germany Germany +49 Ghana Ghana Ghana +233 Gibraltar Gibraltar Gibraltar +350 Greece Greece Greece +30 Greenland Greenland Greenland +299 Grenada Grenada Grenada +1 Guadeloupe Guadeloupe Guadeloupe +590 Guam Guam Guam +1 Guatemala Guatemala Guatemala +502 Guernsey Guernsey Guernsey +44 Guinea Guinea Guinea +224 Guinea-Bissau Guinea-Bissau Guinea-Bissau +245 Guyana Guyana Guyana +592 Haiti Haiti Haiti +509 Honduras Honduras Honduras +504 Hong Kong Hong Kong Hong Kong +852 Hungary Hungary Hungary +36 Iceland Iceland Iceland +354 India India India +91 Indonesia Indonesia Indonesia +62 Iran Iran Iran +98 Iraq Iraq Iraq +964 Ireland Ireland Ireland +353 Isle of Man Isle of Man Isle of Man +44 Israel Israel Israel +972 Italy Italy Italy +39 Jamaica Jamaica Jamaica +1 Japan Japan Japan +81 Jersey Jersey Jersey +44 Jordan Jordan Jordan +962 Kazakhstan Kazakhstan Kazakhstan +7 Kenya Kenya Kenya +254 Kiribati Kiribati Kiribati +686 Kosovo Kosovo Kosovo +383 Kuwait Kuwait Kuwait +965 Kyrgyzstan Kyrgyzstan Kyrgyzstan +996 Laos Laos Laos +856 Latvia Latvia Latvia +371 Lebanon Lebanon Lebanon +961 Lesotho Lesotho Lesotho +266 Liberia Liberia Liberia +231 Libya Libya Libya +218 Liechtenstein Liechtenstein Liechtenstein +423 Lithuania Lithuania Lithuania +370 Luxembourg Luxembourg Luxembourg +352 Macau Macau Macau +853 Macedonia Macedonia Macedonia +389 Madagascar Madagascar Madagascar +261 Malawi Malawi Malawi +265 Malaysia Malaysia Malaysia +60 Maldives Maldives Maldives +960 Mali Mali Mali +223 Malta Malta Malta +356 Marshall Islands Marshall Islands Marshall Islands +692 Martinique Martinique Martinique +596 Mauritania Mauritania Mauritania +222 Mauritius Mauritius Mauritius +230 Mayotte Mayotte Mayotte +262 Mexico Mexico Mexico +52 Micronesia Micronesia Micronesia +691 Moldova Moldova Moldova +373 Monaco Monaco Monaco +377 Mongolia Mongolia Mongolia +976 Montenegro Montenegro Montenegro +382 Montserrat Montserrat Montserrat +1 Morocco Morocco Morocco +212 Mozambique Mozambique Mozambique +258 Myanmar (Burma) Myanmar (Burma) Myanmar (Burma) +95 Namibia Namibia Namibia +264 Nauru Nauru Nauru +674 Nepal Nepal Nepal +977 Netherlands Netherlands Netherlands +31 New Caledonia New Caledonia New Caledonia +687 New Zealand New Zealand New Zealand +64 Nicaragua Nicaragua Nicaragua +505 Niger Niger Niger +227 Nigeria Nigeria Nigeria +234 Niue Niue Niue +683 Norfolk Island Norfolk Island Norfolk Island +672 North Korea North Korea North Korea +850 Northern Mariana Islands Northern Mariana Islands Northern Mariana Islands +1 Norway Norway Norway +47 Oman Oman Oman +968 Pakistan Pakistan Pakistan +92 Palau Palau Palau +680 Palestinian Territories Palestinian Territories Palestinian Territories +970 Panama Panama Panama +507 Papua New Guinea Papua New Guinea Papua New Guinea +675 Paraguay Paraguay Paraguay +595 Peru Peru Peru +51 Philippines Philippines Philippines +63 Poland Poland Poland +48 Portugal Portugal Portugal +351 Puerto Rico Puerto Rico Puerto Rico +1 Qatar Qatar Qatar +974 Réunion Réunion Réunion +262 Romania Romania Romania +40 Russia Russia Russia +7 Rwanda Rwanda Rwanda +250 Samoa Samoa Samoa +685 San Marino San Marino San Marino +378 São Tomé & Príncipe São Tomé & Príncipe São Tomé & Príncipe +239 Saudi Arabia Saudi Arabia Saudi Arabia +966 Senegal Senegal Senegal +221 Serbia Serbia Serbia +381 Seychelles Seychelles Seychelles +248 Sierra Leone Sierra Leone Sierra Leone +232 Singapore Singapore Singapore +65 Sint Maarten Sint Maarten Sint Maarten +1 Slovakia Slovakia Slovakia +421 Slovenia Slovenia Slovenia +386 Solomon Islands Solomon Islands Solomon Islands +677 Somalia Somalia Somalia +252 South Africa South Africa South Africa +27 South Korea South Korea South Korea +82 South Sudan South Sudan South Sudan +211 Spain Spain Spain +34 Sri Lanka Sri Lanka Sri Lanka +94 St Barthélemy St Barthélemy St Barthélemy +590 St Helena St Helena St Helena +290 St Kitts & Nevis St Kitts & Nevis St Kitts & Nevis +1 St Lucia St Lucia St Lucia +1 St Martin St Martin St Martin +590 St Pierre & Miquelon St Pierre & Miquelon St Pierre & Miquelon +508 St Vincent & Grenadines St Vincent & Grenadines St Vincent & Grenadines +1 Sudan Sudan Sudan +249 Suriname Suriname Suriname +597 Svalbard & Jan Mayen Svalbard & Jan Mayen Svalbard & Jan Mayen +47 Swaziland Swaziland Swaziland +268 Sweden Sweden Sweden +46 Switzerland Switzerland Switzerland +41 Syria Syria Syria +963 Taiwan Taiwan Taiwan +886 Tajikistan Tajikistan Tajikistan +992 Tanzania Tanzania Tanzania +255 Thailand Thailand Thailand +66 Timor-Leste Timor-Leste Timor-Leste +670 Togo Togo Togo +228 Tokelau Tokelau Tokelau +690 Tonga Tonga Tonga +676 Trinidad & Tobago Trinidad & Tobago Trinidad & Tobago +1 Tristan da Cunha Tristan da Cunha Tristan da Cunha +290 Tunisia Tunisia Tunisia +216 Turkey Turkey Turkey +90 Turkmenistan Turkmenistan Turkmenistan +993 Turks & Caicos Islands Turks & Caicos Islands Turks & Caicos Islands +1 Tuvalu Tuvalu Tuvalu +688 Uganda Uganda Uganda +256 Ukraine Ukraine Ukraine +380 United Arab Emirates United Arab Emirates United Arab Emirates +971 United Kingdom United Kingdom United Kingdom +44 United States United States United States +1 Uruguay Uruguay Uruguay +598 US Virgin Islands US Virgin Islands US Virgin Islands +1 Uzbekistan Uzbekistan Uzbekistan +998 Vanuatu Vanuatu Vanuatu +678 Vatican City Vatican City Vatican City +39 Venezuela Venezuela Venezuela +58 Vietnam Vietnam Vietnam +84 Wallis & Futuna Wallis & Futuna Wallis & Futuna +681 Western Sahara Western Sahara Western Sahara +212 Yemen Yemen Yemen +967 Zambia Zambia Zambia +260 Zimbabwe Zimbabwe Zimbabwe +263 +49 Phone number",
+            "cssPath": "#spl-form-element_12",
+            "required": false,
+            "value": "",
+            "checked": null,
+            "accept": "",
+            "inShadow": true
+          }
+        ]
+      },
+      {
+        "blockPath": "spl-tooltip >> nth=1",
+        "blockText": "Phone number",
+        "controls": [
+          {
+            "tag": "input",
+            "type": "tel",
+            "id": "spl-form-element_5",
+            "name": "",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "Phone number",
+            "blockPath": "spl-tooltip >> nth=1",
+            "blockText": "Phone number",
+            "cssPath": "#spl-form-element_5",
+            "required": true,
+            "value": "",
+            "checked": null,
+            "accept": "",
+            "inShadow": true
+          }
+        ]
+      },
+      {
+        "blockPath": "div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-web:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(1)",
+        "blockText": "LinkedIn",
+        "controls": [
+          {
+            "tag": "input",
+            "type": "text",
+            "id": "linkedin-input",
+            "name": "",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "",
+            "blockPath": "div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-web:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(1)",
+            "blockText": "LinkedIn",
+            "cssPath": "#linkedin-input",
+            "required": false,
+            "value": "",
+            "checked": null,
+            "accept": "",
+            "inShadow": true
+          }
+        ]
+      },
+      {
+        "blockPath": "div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-web:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(2)",
+        "blockText": "Facebook",
+        "controls": [
+          {
+            "tag": "input",
+            "type": "text",
+            "id": "facebook-input",
+            "name": "",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "",
+            "blockPath": "div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-web:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(2)",
+            "blockText": "Facebook",
+            "cssPath": "#facebook-input",
+            "required": false,
+            "value": "",
+            "checked": null,
+            "accept": "",
+            "inShadow": true
+          }
+        ]
+      },
+      {
+        "blockPath": "div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-web:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(3)",
+        "blockText": "X (fka Twitter)",
+        "controls": [
+          {
+            "tag": "input",
+            "type": "text",
+            "id": "twitter-input",
+            "name": "",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "",
+            "blockPath": "div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-web:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(3)",
+            "blockText": "X (fka Twitter)",
+            "cssPath": "#twitter-input",
+            "required": false,
+            "value": "",
+            "checked": null,
+            "accept": "",
+            "inShadow": true
+          }
+        ]
+      },
+      {
+        "blockPath": "div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-web:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(4)",
+        "blockText": "Website",
+        "controls": [
+          {
+            "tag": "input",
+            "type": "text",
+            "id": "website-input",
+            "name": "",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "",
+            "blockPath": "div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-web:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(4)",
+            "blockText": "Website",
+            "cssPath": "#website-input",
+            "required": false,
+            "value": "",
+            "checked": null,
+            "accept": "",
+            "inShadow": true
+          }
+        ]
+      },
+      {
+        "blockPath": "div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-hiring-manager-message:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "blockText": "Let the company know about your interest working there",
+        "controls": [
+          {
+            "tag": "textarea",
+            "type": "",
+            "id": "hiring-manager-message-input",
+            "name": "",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "",
+            "blockPath": "div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-hiring-manager-message:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+            "blockText": "Let the company know about your interest working there",
+            "cssPath": "#hiring-manager-message-input",
+            "required": false,
+            "value": "",
+            "checked": null,
+            "accept": "",
+            "inShadow": true
+          }
+        ]
+      }
+    ],
+    "groups": [
+      {
+        "blockPath": "div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-personal-information:nth-of-type(1) > div:nth-of-type(1) > oc-avatar:nth-of-type(1) > div:nth-of-type(1)",
+        "blockText": "",
+        "controls": [
+          {
+            "tag": "input",
+            "type": "file",
+            "id": "",
+            "name": "file-upload-227ac554-352f-45bb-948c-d9048aafab77",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "Upload profile image",
+            "blockPath": "div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-personal-information:nth-of-type(1) > div:nth-of-type(1) > oc-avatar:nth-of-type(1) > div:nth-of-type(1)",
+            "blockText": "",
+            "cssPath": "div:nth-of-type(1) > oc-avatar:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > spl-form-field:nth-of-type(1) > oc-file-upload-button:nth-of-type(1) > div:nth-of-type(1) > input:nth-of-type(1)",
+            "required": false,
+            "value": "",
+            "checked": null,
+            "accept": ".bmp,.gif,.jfif,.jpeg,.jpg,.png,.tif,.tiff,.webp",
+            "inShadow": false
+          }
+        ]
+      },
+      {
+        "blockPath": "div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-easy-apply:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "blockText": "Choose a file or drop it here 10MB size limit or api_key: 86hyj6wojf5e98 extensions:AwliWidget@https://www.linkedin.com/talentwidgets/extensions/apply-with-linkedin-widget-v3 Apply With Indeed Apply with SEEK",
+        "controls": [
+          {
+            "tag": "input",
+            "type": "file",
+            "id": "file-input",
+            "name": "",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "",
+            "blockPath": "div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-easy-apply:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+            "blockText": "Choose a file or drop it here 10MB size limit or api_key: 86hyj6wojf5e98 extensions:AwliWidget@https://www.linkedin.com/talentwidgets/extensions/apply-with-linkedin-widget-v3 Apply With Indeed Apply with SEEK",
+            "cssPath": "#file-input",
+            "required": false,
+            "value": "",
+            "checked": null,
+            "accept": ".doc, .dot, .rmr, .rsm, .resume, .oxps, .pdf, .p7s, .ai, .rtf, .pages, .gdoc, .gslides, .xls, .xlsm, .pub, .msg, .ppt, .wps, .ods, .odt, .pptx, .ppsx, .xlsx, .docx, .dotx, .sxw, .wpd, .abw, .mp3, .m4a, .wav, .psd, .eml, .ical, .ics, .ifb, .icalendar, .ics_response, .csv, .txt, .text, .vcf, .mp4, .mov, .bmp, .gif, .jfif, .jpeg, .jpg, .png, .tif, .tiff, .webp",
+            "inShadow": true
+          }
+        ]
+      },
+      {
+        "blockPath": "main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-personal-information:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(1)",
+        "blockText": "First name*",
+        "controls": [
+          {
+            "tag": "input",
+            "type": "text",
+            "id": "first-name-input",
+            "name": "",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "",
+            "blockPath": "main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-personal-information:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(1)",
+            "blockText": "First name*",
+            "cssPath": "#first-name-input",
+            "required": true,
+            "value": "",
+            "checked": null,
+            "accept": "",
+            "inShadow": true
+          }
+        ]
+      },
+      {
+        "blockPath": "main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-personal-information:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > oc-input:nth-of-type(1)",
+        "blockText": "Last name*",
+        "controls": [
+          {
+            "tag": "input",
+            "type": "text",
+            "id": "last-name-input",
+            "name": "",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "",
+            "blockPath": "main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-personal-information:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > oc-input:nth-of-type(1)",
+            "blockText": "Last name*",
+            "cssPath": "#last-name-input",
+            "required": true,
+            "value": "",
+            "checked": null,
+            "accept": "",
+            "inShadow": true
+          }
+        ]
+      },
+      {
+        "blockPath": "spl-internal-form-field >> nth=4",
+        "blockText": "Email*",
+        "controls": [
+          {
+            "tag": "input",
+            "type": "email",
+            "id": "email-input",
+            "name": "",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "",
+            "blockPath": "spl-internal-form-field >> nth=4",
+            "blockText": "Email*",
+            "cssPath": "#email-input",
+            "required": true,
+            "value": "",
+            "checked": null,
+            "accept": "",
+            "inShadow": true
+          }
+        ]
+      },
+      {
+        "blockPath": "spl-internal-form-field >> nth=5",
+        "blockText": "Confirm your email*",
+        "controls": [
+          {
+            "tag": "input",
+            "type": "email",
+            "id": "confirm-email-input",
+            "name": "",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "",
+            "blockPath": "spl-internal-form-field >> nth=5",
+            "blockText": "Confirm your email*",
+            "cssPath": "#confirm-email-input",
+            "required": true,
+            "value": "",
+            "checked": null,
+            "accept": "",
+            "inShadow": true
+          }
+        ]
+      },
+      {
+        "blockPath": "div >> nth=87",
+        "blockText": "City",
+        "controls": [
+          {
+            "tag": "input",
+            "type": "text",
+            "id": "spl-form-element_10",
+            "name": "",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "",
+            "blockPath": "div >> nth=87",
+            "blockText": "City",
+            "cssPath": "#spl-form-element_10",
+            "required": false,
+            "value": "",
+            "checked": null,
+            "accept": "",
+            "inShadow": true
+          }
+        ]
+      },
+      {
+        "blockPath": "div >> nth=104",
+        "blockText": "Country code Afghanistan Afghanistan Afghanistan +93 Åland Islands Åland Islands Åland Islands +358 Albania Albania Albania +355 Algeria Algeria Algeria +213 American Samoa American Samoa American Samoa +1 Andorra Andorra Andorra +376 Angola Angola Angola +244 Anguilla Anguilla Anguilla +1 Antigua & Barbuda Antigua & Barbuda Antigua & Barbuda +1 Argentina Argentina Argentina +54 Armenia Armenia Armenia +374 Aruba Aruba Aruba +297 Ascension Island Ascension Island Ascension Island +247 Australia Australia Australia +61 Austria Austria Austria +43 Azerbaijan Azerbaijan Azerbaijan +994 Bahamas Bahamas Bahamas +1 Bahrain Bahrain Bahrain +973 Bangladesh Bangladesh Bangladesh +880 Barbados Barbados Barbados +1 Belarus Belarus Belarus +375 Belgium Belgium Belgium +32 Belize Belize Belize +501 Benin Benin Benin +229 Bermuda Bermuda Bermuda +1 Bhutan Bhutan Bhutan +975 Bolivia Bolivia Bolivia +591 Bosnia & Herzegovina Bosnia & Herzegovina Bosnia & Herzegovina +387 Botswana Botswana Botswana +267 Brazil Brazil Brazil +55 British Indian Ocean Territory British Indian Ocean Territory British Indian Ocean Territory +246 British Virgin Islands British Virgin Islands British Virgin Islands +1 Brunei Brunei Brunei +673 Bulgaria Bulgaria Bulgaria +359 Burkina Faso Burkina Faso Burkina Faso +226 Burundi Burundi Burundi +257 Cambodia Cambodia Cambodia +855 Cameroon Cameroon Cameroon +237 Canada Canada Canada +1 Cape Verde Cape Verde Cape Verde +238 Caribbean Netherlands Caribbean Netherlands Caribbean Netherlands +599 Cayman Islands Cayman Islands Cayman Islands +1 Central African Republic Central African Republic Central African Republic +236 Chad Chad Chad +235 Chile Chile Chile +56 China China China +86 Christmas Island Christmas Island Christmas Island +61 Cocos (Keeling) Islands Cocos (Keeling) Islands Cocos (Keeling) Islands +61 Colombia Colombia Colombia +57 Comoros Comoros Comoros +269 Congo - Brazzaville Congo - Brazzaville Congo - Brazzaville +242 Congo - Kinshasa Congo - Kinshasa Congo - Kinshasa +243 Cook Islands Cook Islands Cook Islands +682 Costa Rica Costa Rica Costa Rica +506 Côte d’Ivoire Côte d’Ivoire Côte d’Ivoire +225 Croatia Croatia Croatia +385 Cuba Cuba Cuba +53 Curaçao Curaçao Curaçao +599 Cyprus Cyprus Cyprus +357 Czech Republic Czech Republic Czech Republic +420 Denmark Denmark Denmark +45 Djibouti Djibouti Djibouti +253 Dominica Dominica Dominica +1 Dominican Republic Dominican Republic Dominican Republic +1 Ecuador Ecuador Ecuador +593 Egypt Egypt Egypt +20 El Salvador El Salvador El Salvador +503 Equatorial Guinea Equatorial Guinea Equatorial Guinea +240 Eritrea Eritrea Eritrea +291 Estonia Estonia Estonia +372 Ethiopia Ethiopia Ethiopia +251 Falkland Islands Falkland Islands Falkland Islands +500 Faroe Islands Faroe Islands Faroe Islands +298 Fiji Fiji Fiji +679 Finland Finland Finland +358 France France France +33 French Guiana French Guiana French Guiana +594 French Polynesia French Polynesia French Polynesia +689 Gabon Gabon Gabon +241 Gambia Gambia Gambia +220 Georgia Georgia Georgia +995 Germany Germany Germany +49 Ghana Ghana Ghana +233 Gibraltar Gibraltar Gibraltar +350 Greece Greece Greece +30 Greenland Greenland Greenland +299 Grenada Grenada Grenada +1 Guadeloupe Guadeloupe Guadeloupe +590 Guam Guam Guam +1 Guatemala Guatemala Guatemala +502 Guernsey Guernsey Guernsey +44 Guinea Guinea Guinea +224 Guinea-Bissau Guinea-Bissau Guinea-Bissau +245 Guyana Guyana Guyana +592 Haiti Haiti Haiti +509 Honduras Honduras Honduras +504 Hong Kong Hong Kong Hong Kong +852 Hungary Hungary Hungary +36 Iceland Iceland Iceland +354 India India India +91 Indonesia Indonesia Indonesia +62 Iran Iran Iran +98 Iraq Iraq Iraq +964 Ireland Ireland Ireland +353 Isle of Man Isle of Man Isle of Man +44 Israel Israel Israel +972 Italy Italy Italy +39 Jamaica Jamaica Jamaica +1 Japan Japan Japan +81 Jersey Jersey Jersey +44 Jordan Jordan Jordan +962 Kazakhstan Kazakhstan Kazakhstan +7 Kenya Kenya Kenya +254 Kiribati Kiribati Kiribati +686 Kosovo Kosovo Kosovo +383 Kuwait Kuwait Kuwait +965 Kyrgyzstan Kyrgyzstan Kyrgyzstan +996 Laos Laos Laos +856 Latvia Latvia Latvia +371 Lebanon Lebanon Lebanon +961 Lesotho Lesotho Lesotho +266 Liberia Liberia Liberia +231 Libya Libya Libya +218 Liechtenstein Liechtenstein Liechtenstein +423 Lithuania Lithuania Lithuania +370 Luxembourg Luxembourg Luxembourg +352 Macau Macau Macau +853 Macedonia Macedonia Macedonia +389 Madagascar Madagascar Madagascar +261 Malawi Malawi Malawi +265 Malaysia Malaysia Malaysia +60 Maldives Maldives Maldives +960 Mali Mali Mali +223 Malta Malta Malta +356 Marshall Islands Marshall Islands Marshall Islands +692 Martinique Martinique Martinique +596 Mauritania Mauritania Mauritania +222 Mauritius Mauritius Mauritius +230 Mayotte Mayotte Mayotte +262 Mexico Mexico Mexico +52 Micronesia Micronesia Micronesia +691 Moldova Moldova Moldova +373 Monaco Monaco Monaco +377 Mongolia Mongolia Mongolia +976 Montenegro Montenegro Montenegro +382 Montserrat Montserrat Montserrat +1 Morocco Morocco Morocco +212 Mozambique Mozambique Mozambique +258 Myanmar (Burma) Myanmar (Burma) Myanmar (Burma) +95 Namibia Namibia Namibia +264 Nauru Nauru Nauru +674 Nepal Nepal Nepal +977 Netherlands Netherlands Netherlands +31 New Caledonia New Caledonia New Caledonia +687 New Zealand New Zealand New Zealand +64 Nicaragua Nicaragua Nicaragua +505 Niger Niger Niger +227 Nigeria Nigeria Nigeria +234 Niue Niue Niue +683 Norfolk Island Norfolk Island Norfolk Island +672 North Korea North Korea North Korea +850 Northern Mariana Islands Northern Mariana Islands Northern Mariana Islands +1 Norway Norway Norway +47 Oman Oman Oman +968 Pakistan Pakistan Pakistan +92 Palau Palau Palau +680 Palestinian Territories Palestinian Territories Palestinian Territories +970 Panama Panama Panama +507 Papua New Guinea Papua New Guinea Papua New Guinea +675 Paraguay Paraguay Paraguay +595 Peru Peru Peru +51 Philippines Philippines Philippines +63 Poland Poland Poland +48 Portugal Portugal Portugal +351 Puerto Rico Puerto Rico Puerto Rico +1 Qatar Qatar Qatar +974 Réunion Réunion Réunion +262 Romania Romania Romania +40 Russia Russia Russia +7 Rwanda Rwanda Rwanda +250 Samoa Samoa Samoa +685 San Marino San Marino San Marino +378 São Tomé & Príncipe São Tomé & Príncipe São Tomé & Príncipe +239 Saudi Arabia Saudi Arabia Saudi Arabia +966 Senegal Senegal Senegal +221 Serbia Serbia Serbia +381 Seychelles Seychelles Seychelles +248 Sierra Leone Sierra Leone Sierra Leone +232 Singapore Singapore Singapore +65 Sint Maarten Sint Maarten Sint Maarten +1 Slovakia Slovakia Slovakia +421 Slovenia Slovenia Slovenia +386 Solomon Islands Solomon Islands Solomon Islands +677 Somalia Somalia Somalia +252 South Africa South Africa South Africa +27 South Korea South Korea South Korea +82 South Sudan South Sudan South Sudan +211 Spain Spain Spain +34 Sri Lanka Sri Lanka Sri Lanka +94 St Barthélemy St Barthélemy St Barthélemy +590 St Helena St Helena St Helena +290 St Kitts & Nevis St Kitts & Nevis St Kitts & Nevis +1 St Lucia St Lucia St Lucia +1 St Martin St Martin St Martin +590 St Pierre & Miquelon St Pierre & Miquelon St Pierre & Miquelon +508 St Vincent & Grenadines St Vincent & Grenadines St Vincent & Grenadines +1 Sudan Sudan Sudan +249 Suriname Suriname Suriname +597 Svalbard & Jan Mayen Svalbard & Jan Mayen Svalbard & Jan Mayen +47 Swaziland Swaziland Swaziland +268 Sweden Sweden Sweden +46 Switzerland Switzerland Switzerland +41 Syria Syria Syria +963 Taiwan Taiwan Taiwan +886 Tajikistan Tajikistan Tajikistan +992 Tanzania Tanzania Tanzania +255 Thailand Thailand Thailand +66 Timor-Leste Timor-Leste Timor-Leste +670 Togo Togo Togo +228 Tokelau Tokelau Tokelau +690 Tonga Tonga Tonga +676 Trinidad & Tobago Trinidad & Tobago Trinidad & Tobago +1 Tristan da Cunha Tristan da Cunha Tristan da Cunha +290 Tunisia Tunisia Tunisia +216 Turkey Turkey Turkey +90 Turkmenistan Turkmenistan Turkmenistan +993 Turks & Caicos Islands Turks & Caicos Islands Turks & Caicos Islands +1 Tuvalu Tuvalu Tuvalu +688 Uganda Uganda Uganda +256 Ukraine Ukraine Ukraine +380 United Arab Emirates United Arab Emirates United Arab Emirates +971 United Kingdom United Kingdom United Kingdom +44 United States United States United States +1 Uruguay Uruguay Uruguay +598 US Virgin Islands US Virgin Islands US Virgin Islands +1 Uzbekistan Uzbekistan Uzbekistan +998 Vanuatu Vanuatu Vanuatu +678 Vatican City Vatican City Vatican City +39 Venezuela Venezuela Venezuela +58 Vietnam Vietnam Vietnam +84 Wallis & Futuna Wallis & Futuna Wallis & Futuna +681 Western Sahara Western Sahara Western Sahara +212 Yemen Yemen Yemen +967 Zambia Zambia Zambia +260 Zimbabwe Zimbabwe Zimbabwe +263 +49 Phone number",
+        "controls": [
+          {
+            "tag": "button",
+            "type": "combobox",
+            "id": "spl-form-element_12",
+            "name": "",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "Country code",
+            "blockPath": "div >> nth=104",
+            "blockText": "Country code Afghanistan Afghanistan Afghanistan +93 Åland Islands Åland Islands Åland Islands +358 Albania Albania Albania +355 Algeria Algeria Algeria +213 American Samoa American Samoa American Samoa +1 Andorra Andorra Andorra +376 Angola Angola Angola +244 Anguilla Anguilla Anguilla +1 Antigua & Barbuda Antigua & Barbuda Antigua & Barbuda +1 Argentina Argentina Argentina +54 Armenia Armenia Armenia +374 Aruba Aruba Aruba +297 Ascension Island Ascension Island Ascension Island +247 Australia Australia Australia +61 Austria Austria Austria +43 Azerbaijan Azerbaijan Azerbaijan +994 Bahamas Bahamas Bahamas +1 Bahrain Bahrain Bahrain +973 Bangladesh Bangladesh Bangladesh +880 Barbados Barbados Barbados +1 Belarus Belarus Belarus +375 Belgium Belgium Belgium +32 Belize Belize Belize +501 Benin Benin Benin +229 Bermuda Bermuda Bermuda +1 Bhutan Bhutan Bhutan +975 Bolivia Bolivia Bolivia +591 Bosnia & Herzegovina Bosnia & Herzegovina Bosnia & Herzegovina +387 Botswana Botswana Botswana +267 Brazil Brazil Brazil +55 British Indian Ocean Territory British Indian Ocean Territory British Indian Ocean Territory +246 British Virgin Islands British Virgin Islands British Virgin Islands +1 Brunei Brunei Brunei +673 Bulgaria Bulgaria Bulgaria +359 Burkina Faso Burkina Faso Burkina Faso +226 Burundi Burundi Burundi +257 Cambodia Cambodia Cambodia +855 Cameroon Cameroon Cameroon +237 Canada Canada Canada +1 Cape Verde Cape Verde Cape Verde +238 Caribbean Netherlands Caribbean Netherlands Caribbean Netherlands +599 Cayman Islands Cayman Islands Cayman Islands +1 Central African Republic Central African Republic Central African Republic +236 Chad Chad Chad +235 Chile Chile Chile +56 China China China +86 Christmas Island Christmas Island Christmas Island +61 Cocos (Keeling) Islands Cocos (Keeling) Islands Cocos (Keeling) Islands +61 Colombia Colombia Colombia +57 Comoros Comoros Comoros +269 Congo - Brazzaville Congo - Brazzaville Congo - Brazzaville +242 Congo - Kinshasa Congo - Kinshasa Congo - Kinshasa +243 Cook Islands Cook Islands Cook Islands +682 Costa Rica Costa Rica Costa Rica +506 Côte d’Ivoire Côte d’Ivoire Côte d’Ivoire +225 Croatia Croatia Croatia +385 Cuba Cuba Cuba +53 Curaçao Curaçao Curaçao +599 Cyprus Cyprus Cyprus +357 Czech Republic Czech Republic Czech Republic +420 Denmark Denmark Denmark +45 Djibouti Djibouti Djibouti +253 Dominica Dominica Dominica +1 Dominican Republic Dominican Republic Dominican Republic +1 Ecuador Ecuador Ecuador +593 Egypt Egypt Egypt +20 El Salvador El Salvador El Salvador +503 Equatorial Guinea Equatorial Guinea Equatorial Guinea +240 Eritrea Eritrea Eritrea +291 Estonia Estonia Estonia +372 Ethiopia Ethiopia Ethiopia +251 Falkland Islands Falkland Islands Falkland Islands +500 Faroe Islands Faroe Islands Faroe Islands +298 Fiji Fiji Fiji +679 Finland Finland Finland +358 France France France +33 French Guiana French Guiana French Guiana +594 French Polynesia French Polynesia French Polynesia +689 Gabon Gabon Gabon +241 Gambia Gambia Gambia +220 Georgia Georgia Georgia +995 Germany Germany Germany +49 Ghana Ghana Ghana +233 Gibraltar Gibraltar Gibraltar +350 Greece Greece Greece +30 Greenland Greenland Greenland +299 Grenada Grenada Grenada +1 Guadeloupe Guadeloupe Guadeloupe +590 Guam Guam Guam +1 Guatemala Guatemala Guatemala +502 Guernsey Guernsey Guernsey +44 Guinea Guinea Guinea +224 Guinea-Bissau Guinea-Bissau Guinea-Bissau +245 Guyana Guyana Guyana +592 Haiti Haiti Haiti +509 Honduras Honduras Honduras +504 Hong Kong Hong Kong Hong Kong +852 Hungary Hungary Hungary +36 Iceland Iceland Iceland +354 India India India +91 Indonesia Indonesia Indonesia +62 Iran Iran Iran +98 Iraq Iraq Iraq +964 Ireland Ireland Ireland +353 Isle of Man Isle of Man Isle of Man +44 Israel Israel Israel +972 Italy Italy Italy +39 Jamaica Jamaica Jamaica +1 Japan Japan Japan +81 Jersey Jersey Jersey +44 Jordan Jordan Jordan +962 Kazakhstan Kazakhstan Kazakhstan +7 Kenya Kenya Kenya +254 Kiribati Kiribati Kiribati +686 Kosovo Kosovo Kosovo +383 Kuwait Kuwait Kuwait +965 Kyrgyzstan Kyrgyzstan Kyrgyzstan +996 Laos Laos Laos +856 Latvia Latvia Latvia +371 Lebanon Lebanon Lebanon +961 Lesotho Lesotho Lesotho +266 Liberia Liberia Liberia +231 Libya Libya Libya +218 Liechtenstein Liechtenstein Liechtenstein +423 Lithuania Lithuania Lithuania +370 Luxembourg Luxembourg Luxembourg +352 Macau Macau Macau +853 Macedonia Macedonia Macedonia +389 Madagascar Madagascar Madagascar +261 Malawi Malawi Malawi +265 Malaysia Malaysia Malaysia +60 Maldives Maldives Maldives +960 Mali Mali Mali +223 Malta Malta Malta +356 Marshall Islands Marshall Islands Marshall Islands +692 Martinique Martinique Martinique +596 Mauritania Mauritania Mauritania +222 Mauritius Mauritius Mauritius +230 Mayotte Mayotte Mayotte +262 Mexico Mexico Mexico +52 Micronesia Micronesia Micronesia +691 Moldova Moldova Moldova +373 Monaco Monaco Monaco +377 Mongolia Mongolia Mongolia +976 Montenegro Montenegro Montenegro +382 Montserrat Montserrat Montserrat +1 Morocco Morocco Morocco +212 Mozambique Mozambique Mozambique +258 Myanmar (Burma) Myanmar (Burma) Myanmar (Burma) +95 Namibia Namibia Namibia +264 Nauru Nauru Nauru +674 Nepal Nepal Nepal +977 Netherlands Netherlands Netherlands +31 New Caledonia New Caledonia New Caledonia +687 New Zealand New Zealand New Zealand +64 Nicaragua Nicaragua Nicaragua +505 Niger Niger Niger +227 Nigeria Nigeria Nigeria +234 Niue Niue Niue +683 Norfolk Island Norfolk Island Norfolk Island +672 North Korea North Korea North Korea +850 Northern Mariana Islands Northern Mariana Islands Northern Mariana Islands +1 Norway Norway Norway +47 Oman Oman Oman +968 Pakistan Pakistan Pakistan +92 Palau Palau Palau +680 Palestinian Territories Palestinian Territories Palestinian Territories +970 Panama Panama Panama +507 Papua New Guinea Papua New Guinea Papua New Guinea +675 Paraguay Paraguay Paraguay +595 Peru Peru Peru +51 Philippines Philippines Philippines +63 Poland Poland Poland +48 Portugal Portugal Portugal +351 Puerto Rico Puerto Rico Puerto Rico +1 Qatar Qatar Qatar +974 Réunion Réunion Réunion +262 Romania Romania Romania +40 Russia Russia Russia +7 Rwanda Rwanda Rwanda +250 Samoa Samoa Samoa +685 San Marino San Marino San Marino +378 São Tomé & Príncipe São Tomé & Príncipe São Tomé & Príncipe +239 Saudi Arabia Saudi Arabia Saudi Arabia +966 Senegal Senegal Senegal +221 Serbia Serbia Serbia +381 Seychelles Seychelles Seychelles +248 Sierra Leone Sierra Leone Sierra Leone +232 Singapore Singapore Singapore +65 Sint Maarten Sint Maarten Sint Maarten +1 Slovakia Slovakia Slovakia +421 Slovenia Slovenia Slovenia +386 Solomon Islands Solomon Islands Solomon Islands +677 Somalia Somalia Somalia +252 South Africa South Africa South Africa +27 South Korea South Korea South Korea +82 South Sudan South Sudan South Sudan +211 Spain Spain Spain +34 Sri Lanka Sri Lanka Sri Lanka +94 St Barthélemy St Barthélemy St Barthélemy +590 St Helena St Helena St Helena +290 St Kitts & Nevis St Kitts & Nevis St Kitts & Nevis +1 St Lucia St Lucia St Lucia +1 St Martin St Martin St Martin +590 St Pierre & Miquelon St Pierre & Miquelon St Pierre & Miquelon +508 St Vincent & Grenadines St Vincent & Grenadines St Vincent & Grenadines +1 Sudan Sudan Sudan +249 Suriname Suriname Suriname +597 Svalbard & Jan Mayen Svalbard & Jan Mayen Svalbard & Jan Mayen +47 Swaziland Swaziland Swaziland +268 Sweden Sweden Sweden +46 Switzerland Switzerland Switzerland +41 Syria Syria Syria +963 Taiwan Taiwan Taiwan +886 Tajikistan Tajikistan Tajikistan +992 Tanzania Tanzania Tanzania +255 Thailand Thailand Thailand +66 Timor-Leste Timor-Leste Timor-Leste +670 Togo Togo Togo +228 Tokelau Tokelau Tokelau +690 Tonga Tonga Tonga +676 Trinidad & Tobago Trinidad & Tobago Trinidad & Tobago +1 Tristan da Cunha Tristan da Cunha Tristan da Cunha +290 Tunisia Tunisia Tunisia +216 Turkey Turkey Turkey +90 Turkmenistan Turkmenistan Turkmenistan +993 Turks & Caicos Islands Turks & Caicos Islands Turks & Caicos Islands +1 Tuvalu Tuvalu Tuvalu +688 Uganda Uganda Uganda +256 Ukraine Ukraine Ukraine +380 United Arab Emirates United Arab Emirates United Arab Emirates +971 United Kingdom United Kingdom United Kingdom +44 United States United States United States +1 Uruguay Uruguay Uruguay +598 US Virgin Islands US Virgin Islands US Virgin Islands +1 Uzbekistan Uzbekistan Uzbekistan +998 Vanuatu Vanuatu Vanuatu +678 Vatican City Vatican City Vatican City +39 Venezuela Venezuela Venezuela +58 Vietnam Vietnam Vietnam +84 Wallis & Futuna Wallis & Futuna Wallis & Futuna +681 Western Sahara Western Sahara Western Sahara +212 Yemen Yemen Yemen +967 Zambia Zambia Zambia +260 Zimbabwe Zimbabwe Zimbabwe +263 +49 Phone number",
+            "cssPath": "#spl-form-element_12",
+            "required": false,
+            "value": "",
+            "checked": null,
+            "accept": "",
+            "inShadow": true
+          }
+        ]
+      },
+      {
+        "blockPath": "spl-tooltip >> nth=1",
+        "blockText": "Phone number",
+        "controls": [
+          {
+            "tag": "input",
+            "type": "tel",
+            "id": "spl-form-element_5",
+            "name": "",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "Phone number",
+            "blockPath": "spl-tooltip >> nth=1",
+            "blockText": "Phone number",
+            "cssPath": "#spl-form-element_5",
+            "required": true,
+            "value": "",
+            "checked": null,
+            "accept": "",
+            "inShadow": true
+          }
+        ]
+      },
+      {
+        "blockPath": "div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-web:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(1)",
+        "blockText": "LinkedIn",
+        "controls": [
+          {
+            "tag": "input",
+            "type": "text",
+            "id": "linkedin-input",
+            "name": "",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "",
+            "blockPath": "div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-web:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(1)",
+            "blockText": "LinkedIn",
+            "cssPath": "#linkedin-input",
+            "required": false,
+            "value": "",
+            "checked": null,
+            "accept": "",
+            "inShadow": true
+          }
+        ]
+      },
+      {
+        "blockPath": "div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-web:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(2)",
+        "blockText": "Facebook",
+        "controls": [
+          {
+            "tag": "input",
+            "type": "text",
+            "id": "facebook-input",
+            "name": "",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "",
+            "blockPath": "div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-web:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(2)",
+            "blockText": "Facebook",
+            "cssPath": "#facebook-input",
+            "required": false,
+            "value": "",
+            "checked": null,
+            "accept": "",
+            "inShadow": true
+          }
+        ]
+      },
+      {
+        "blockPath": "div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-web:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(3)",
+        "blockText": "X (fka Twitter)",
+        "controls": [
+          {
+            "tag": "input",
+            "type": "text",
+            "id": "twitter-input",
+            "name": "",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "",
+            "blockPath": "div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-web:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(3)",
+            "blockText": "X (fka Twitter)",
+            "cssPath": "#twitter-input",
+            "required": false,
+            "value": "",
+            "checked": null,
+            "accept": "",
+            "inShadow": true
+          }
+        ]
+      },
+      {
+        "blockPath": "div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-web:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(4)",
+        "blockText": "Website",
+        "controls": [
+          {
+            "tag": "input",
+            "type": "text",
+            "id": "website-input",
+            "name": "",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "",
+            "blockPath": "div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-web:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(4)",
+            "blockText": "Website",
+            "cssPath": "#website-input",
+            "required": false,
+            "value": "",
+            "checked": null,
+            "accept": "",
+            "inShadow": true
+          }
+        ]
+      },
+      {
+        "blockPath": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-resume-upload:nth-of-type(1) > div:nth-of-type(1)",
+        "blockText": "Resume Choose a file or drop it here 10MB size limit",
+        "controls": [
+          {
+            "tag": "input",
+            "type": "file",
+            "id": "file-input",
+            "name": "",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "",
+            "blockPath": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-resume-upload:nth-of-type(1) > div:nth-of-type(1)",
+            "blockText": "Resume Choose a file or drop it here 10MB size limit",
+            "cssPath": "#file-input",
+            "required": false,
+            "value": "",
+            "checked": null,
+            "accept": ".doc, .dot, .rmr, .rsm, .resume, .oxps, .pdf, .p7s, .ai, .rtf, .pages, .gdoc, .gslides, .xls, .xlsm, .pub, .msg, .ppt, .wps, .ods, .odt, .pptx, .ppsx, .xlsx, .docx, .dotx, .sxw, .wpd, .abw, .mp3, .m4a, .wav, .psd, .eml, .ical, .ics, .ifb, .icalendar, .ics_response, .csv, .txt, .text, .vcf, .mp4, .mov, .bmp, .gif, .jfif, .jpeg, .jpg, .png, .tif, .tiff, .webp",
+            "inShadow": true
+          }
+        ]
+      },
+      {
+        "blockPath": "div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-hiring-manager-message:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "blockText": "Let the company know about your interest working there",
+        "controls": [
+          {
+            "tag": "textarea",
+            "type": "",
+            "id": "hiring-manager-message-input",
+            "name": "",
+            "dataQa": "",
+            "placeholder": "",
+            "label": "",
+            "blockPath": "div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-hiring-manager-message:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+            "blockText": "Let the company know about your interest working there",
+            "cssPath": "#hiring-manager-message-input",
+            "required": false,
+            "value": "",
+            "checked": null,
+            "accept": "",
+            "inShadow": true
+          }
+        ]
+      }
+    ]
+  },
+  "inventory": [
+    {
+      "tag": "input",
+      "type": "file",
+      "id": "",
+      "name": "file-upload-227ac554-352f-45bb-948c-d9048aafab77",
+      "dataQa": "",
+      "placeholder": "",
+      "label": "Upload profile image",
+      "blockPath": "div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-personal-information:nth-of-type(1) > div:nth-of-type(1) > oc-avatar:nth-of-type(1) > div:nth-of-type(1)",
+      "blockText": "",
+      "cssPath": "div:nth-of-type(1) > oc-avatar:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > spl-form-field:nth-of-type(1) > oc-file-upload-button:nth-of-type(1) > div:nth-of-type(1) > input:nth-of-type(1)",
+      "required": false,
+      "value": "",
+      "checked": null,
+      "accept": ".bmp,.gif,.jfif,.jpeg,.jpg,.png,.tif,.tiff,.webp",
+      "inShadow": false
+    },
+    {
+      "tag": "input",
+      "type": "file",
+      "id": "file-input",
+      "name": "",
+      "dataQa": "",
+      "placeholder": "",
+      "label": "",
+      "blockPath": "div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-easy-apply:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "blockText": "Choose a file or drop it here 10MB size limit or api_key: 86hyj6wojf5e98 extensions:AwliWidget@https://www.linkedin.com/talentwidgets/extensions/apply-with-linkedin-widget-v3 Apply With Indeed Apply with SEEK",
+      "cssPath": "#file-input",
+      "required": false,
+      "value": "",
+      "checked": null,
+      "accept": ".doc, .dot, .rmr, .rsm, .resume, .oxps, .pdf, .p7s, .ai, .rtf, .pages, .gdoc, .gslides, .xls, .xlsm, .pub, .msg, .ppt, .wps, .ods, .odt, .pptx, .ppsx, .xlsx, .docx, .dotx, .sxw, .wpd, .abw, .mp3, .m4a, .wav, .psd, .eml, .ical, .ics, .ifb, .icalendar, .ics_response, .csv, .txt, .text, .vcf, .mp4, .mov, .bmp, .gif, .jfif, .jpeg, .jpg, .png, .tif, .tiff, .webp",
+      "inShadow": true
+    },
+    {
+      "tag": "input",
+      "type": "text",
+      "id": "first-name-input",
+      "name": "",
+      "dataQa": "",
+      "placeholder": "",
+      "label": "",
+      "blockPath": "main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-personal-information:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(1)",
+      "blockText": "First name*",
+      "cssPath": "#first-name-input",
+      "required": true,
+      "value": "",
+      "checked": null,
+      "accept": "",
+      "inShadow": true
+    },
+    {
+      "tag": "input",
+      "type": "text",
+      "id": "last-name-input",
+      "name": "",
+      "dataQa": "",
+      "placeholder": "",
+      "label": "",
+      "blockPath": "main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-personal-information:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > oc-input:nth-of-type(1)",
+      "blockText": "Last name*",
+      "cssPath": "#last-name-input",
+      "required": true,
+      "value": "",
+      "checked": null,
+      "accept": "",
+      "inShadow": true
+    },
+    {
+      "tag": "input",
+      "type": "email",
+      "id": "email-input",
+      "name": "",
+      "dataQa": "",
+      "placeholder": "",
+      "label": "",
+      "blockPath": "spl-internal-form-field >> nth=4",
+      "blockText": "Email*",
+      "cssPath": "#email-input",
+      "required": true,
+      "value": "",
+      "checked": null,
+      "accept": "",
+      "inShadow": true
+    },
+    {
+      "tag": "input",
+      "type": "email",
+      "id": "confirm-email-input",
+      "name": "",
+      "dataQa": "",
+      "placeholder": "",
+      "label": "",
+      "blockPath": "spl-internal-form-field >> nth=5",
+      "blockText": "Confirm your email*",
+      "cssPath": "#confirm-email-input",
+      "required": true,
+      "value": "",
+      "checked": null,
+      "accept": "",
+      "inShadow": true
+    },
+    {
+      "tag": "input",
+      "type": "text",
+      "id": "spl-form-element_10",
+      "name": "",
+      "dataQa": "",
+      "placeholder": "",
+      "label": "",
+      "blockPath": "div >> nth=87",
+      "blockText": "City",
+      "cssPath": "#spl-form-element_10",
+      "required": false,
+      "value": "",
+      "checked": null,
+      "accept": "",
+      "inShadow": true
+    },
+    {
+      "tag": "button",
+      "type": "combobox",
+      "id": "spl-form-element_12",
+      "name": "",
+      "dataQa": "",
+      "placeholder": "",
+      "label": "Country code",
+      "blockPath": "div >> nth=104",
+      "blockText": "Country code Afghanistan Afghanistan Afghanistan +93 Åland Islands Åland Islands Åland Islands +358 Albania Albania Albania +355 Algeria Algeria Algeria +213 American Samoa American Samoa American Samoa +1 Andorra Andorra Andorra +376 Angola Angola Angola +244 Anguilla Anguilla Anguilla +1 Antigua & Barbuda Antigua & Barbuda Antigua & Barbuda +1 Argentina Argentina Argentina +54 Armenia Armenia Armenia +374 Aruba Aruba Aruba +297 Ascension Island Ascension Island Ascension Island +247 Australia Australia Australia +61 Austria Austria Austria +43 Azerbaijan Azerbaijan Azerbaijan +994 Bahamas Bahamas Bahamas +1 Bahrain Bahrain Bahrain +973 Bangladesh Bangladesh Bangladesh +880 Barbados Barbados Barbados +1 Belarus Belarus Belarus +375 Belgium Belgium Belgium +32 Belize Belize Belize +501 Benin Benin Benin +229 Bermuda Bermuda Bermuda +1 Bhutan Bhutan Bhutan +975 Bolivia Bolivia Bolivia +591 Bosnia & Herzegovina Bosnia & Herzegovina Bosnia & Herzegovina +387 Botswana Botswana Botswana +267 Brazil Brazil Brazil +55 British Indian Ocean Territory British Indian Ocean Territory British Indian Ocean Territory +246 British Virgin Islands British Virgin Islands British Virgin Islands +1 Brunei Brunei Brunei +673 Bulgaria Bulgaria Bulgaria +359 Burkina Faso Burkina Faso Burkina Faso +226 Burundi Burundi Burundi +257 Cambodia Cambodia Cambodia +855 Cameroon Cameroon Cameroon +237 Canada Canada Canada +1 Cape Verde Cape Verde Cape Verde +238 Caribbean Netherlands Caribbean Netherlands Caribbean Netherlands +599 Cayman Islands Cayman Islands Cayman Islands +1 Central African Republic Central African Republic Central African Republic +236 Chad Chad Chad +235 Chile Chile Chile +56 China China China +86 Christmas Island Christmas Island Christmas Island +61 Cocos (Keeling) Islands Cocos (Keeling) Islands Cocos (Keeling) Islands +61 Colombia Colombia Colombia +57 Comoros Comoros Comoros +269 Congo - Brazzaville Congo - Brazzaville Congo - Brazzaville +242 Congo - Kinshasa Congo - Kinshasa Congo - Kinshasa +243 Cook Islands Cook Islands Cook Islands +682 Costa Rica Costa Rica Costa Rica +506 Côte d’Ivoire Côte d’Ivoire Côte d’Ivoire +225 Croatia Croatia Croatia +385 Cuba Cuba Cuba +53 Curaçao Curaçao Curaçao +599 Cyprus Cyprus Cyprus +357 Czech Republic Czech Republic Czech Republic +420 Denmark Denmark Denmark +45 Djibouti Djibouti Djibouti +253 Dominica Dominica Dominica +1 Dominican Republic Dominican Republic Dominican Republic +1 Ecuador Ecuador Ecuador +593 Egypt Egypt Egypt +20 El Salvador El Salvador El Salvador +503 Equatorial Guinea Equatorial Guinea Equatorial Guinea +240 Eritrea Eritrea Eritrea +291 Estonia Estonia Estonia +372 Ethiopia Ethiopia Ethiopia +251 Falkland Islands Falkland Islands Falkland Islands +500 Faroe Islands Faroe Islands Faroe Islands +298 Fiji Fiji Fiji +679 Finland Finland Finland +358 France France France +33 French Guiana French Guiana French Guiana +594 French Polynesia French Polynesia French Polynesia +689 Gabon Gabon Gabon +241 Gambia Gambia Gambia +220 Georgia Georgia Georgia +995 Germany Germany Germany +49 Ghana Ghana Ghana +233 Gibraltar Gibraltar Gibraltar +350 Greece Greece Greece +30 Greenland Greenland Greenland +299 Grenada Grenada Grenada +1 Guadeloupe Guadeloupe Guadeloupe +590 Guam Guam Guam +1 Guatemala Guatemala Guatemala +502 Guernsey Guernsey Guernsey +44 Guinea Guinea Guinea +224 Guinea-Bissau Guinea-Bissau Guinea-Bissau +245 Guyana Guyana Guyana +592 Haiti Haiti Haiti +509 Honduras Honduras Honduras +504 Hong Kong Hong Kong Hong Kong +852 Hungary Hungary Hungary +36 Iceland Iceland Iceland +354 India India India +91 Indonesia Indonesia Indonesia +62 Iran Iran Iran +98 Iraq Iraq Iraq +964 Ireland Ireland Ireland +353 Isle of Man Isle of Man Isle of Man +44 Israel Israel Israel +972 Italy Italy Italy +39 Jamaica Jamaica Jamaica +1 Japan Japan Japan +81 Jersey Jersey Jersey +44 Jordan Jordan Jordan +962 Kazakhstan Kazakhstan Kazakhstan +7 Kenya Kenya Kenya +254 Kiribati Kiribati Kiribati +686 Kosovo Kosovo Kosovo +383 Kuwait Kuwait Kuwait +965 Kyrgyzstan Kyrgyzstan Kyrgyzstan +996 Laos Laos Laos +856 Latvia Latvia Latvia +371 Lebanon Lebanon Lebanon +961 Lesotho Lesotho Lesotho +266 Liberia Liberia Liberia +231 Libya Libya Libya +218 Liechtenstein Liechtenstein Liechtenstein +423 Lithuania Lithuania Lithuania +370 Luxembourg Luxembourg Luxembourg +352 Macau Macau Macau +853 Macedonia Macedonia Macedonia +389 Madagascar Madagascar Madagascar +261 Malawi Malawi Malawi +265 Malaysia Malaysia Malaysia +60 Maldives Maldives Maldives +960 Mali Mali Mali +223 Malta Malta Malta +356 Marshall Islands Marshall Islands Marshall Islands +692 Martinique Martinique Martinique +596 Mauritania Mauritania Mauritania +222 Mauritius Mauritius Mauritius +230 Mayotte Mayotte Mayotte +262 Mexico Mexico Mexico +52 Micronesia Micronesia Micronesia +691 Moldova Moldova Moldova +373 Monaco Monaco Monaco +377 Mongolia Mongolia Mongolia +976 Montenegro Montenegro Montenegro +382 Montserrat Montserrat Montserrat +1 Morocco Morocco Morocco +212 Mozambique Mozambique Mozambique +258 Myanmar (Burma) Myanmar (Burma) Myanmar (Burma) +95 Namibia Namibia Namibia +264 Nauru Nauru Nauru +674 Nepal Nepal Nepal +977 Netherlands Netherlands Netherlands +31 New Caledonia New Caledonia New Caledonia +687 New Zealand New Zealand New Zealand +64 Nicaragua Nicaragua Nicaragua +505 Niger Niger Niger +227 Nigeria Nigeria Nigeria +234 Niue Niue Niue +683 Norfolk Island Norfolk Island Norfolk Island +672 North Korea North Korea North Korea +850 Northern Mariana Islands Northern Mariana Islands Northern Mariana Islands +1 Norway Norway Norway +47 Oman Oman Oman +968 Pakistan Pakistan Pakistan +92 Palau Palau Palau +680 Palestinian Territories Palestinian Territories Palestinian Territories +970 Panama Panama Panama +507 Papua New Guinea Papua New Guinea Papua New Guinea +675 Paraguay Paraguay Paraguay +595 Peru Peru Peru +51 Philippines Philippines Philippines +63 Poland Poland Poland +48 Portugal Portugal Portugal +351 Puerto Rico Puerto Rico Puerto Rico +1 Qatar Qatar Qatar +974 Réunion Réunion Réunion +262 Romania Romania Romania +40 Russia Russia Russia +7 Rwanda Rwanda Rwanda +250 Samoa Samoa Samoa +685 San Marino San Marino San Marino +378 São Tomé & Príncipe São Tomé & Príncipe São Tomé & Príncipe +239 Saudi Arabia Saudi Arabia Saudi Arabia +966 Senegal Senegal Senegal +221 Serbia Serbia Serbia +381 Seychelles Seychelles Seychelles +248 Sierra Leone Sierra Leone Sierra Leone +232 Singapore Singapore Singapore +65 Sint Maarten Sint Maarten Sint Maarten +1 Slovakia Slovakia Slovakia +421 Slovenia Slovenia Slovenia +386 Solomon Islands Solomon Islands Solomon Islands +677 Somalia Somalia Somalia +252 South Africa South Africa South Africa +27 South Korea South Korea South Korea +82 South Sudan South Sudan South Sudan +211 Spain Spain Spain +34 Sri Lanka Sri Lanka Sri Lanka +94 St Barthélemy St Barthélemy St Barthélemy +590 St Helena St Helena St Helena +290 St Kitts & Nevis St Kitts & Nevis St Kitts & Nevis +1 St Lucia St Lucia St Lucia +1 St Martin St Martin St Martin +590 St Pierre & Miquelon St Pierre & Miquelon St Pierre & Miquelon +508 St Vincent & Grenadines St Vincent & Grenadines St Vincent & Grenadines +1 Sudan Sudan Sudan +249 Suriname Suriname Suriname +597 Svalbard & Jan Mayen Svalbard & Jan Mayen Svalbard & Jan Mayen +47 Swaziland Swaziland Swaziland +268 Sweden Sweden Sweden +46 Switzerland Switzerland Switzerland +41 Syria Syria Syria +963 Taiwan Taiwan Taiwan +886 Tajikistan Tajikistan Tajikistan +992 Tanzania Tanzania Tanzania +255 Thailand Thailand Thailand +66 Timor-Leste Timor-Leste Timor-Leste +670 Togo Togo Togo +228 Tokelau Tokelau Tokelau +690 Tonga Tonga Tonga +676 Trinidad & Tobago Trinidad & Tobago Trinidad & Tobago +1 Tristan da Cunha Tristan da Cunha Tristan da Cunha +290 Tunisia Tunisia Tunisia +216 Turkey Turkey Turkey +90 Turkmenistan Turkmenistan Turkmenistan +993 Turks & Caicos Islands Turks & Caicos Islands Turks & Caicos Islands +1 Tuvalu Tuvalu Tuvalu +688 Uganda Uganda Uganda +256 Ukraine Ukraine Ukraine +380 United Arab Emirates United Arab Emirates United Arab Emirates +971 United Kingdom United Kingdom United Kingdom +44 United States United States United States +1 Uruguay Uruguay Uruguay +598 US Virgin Islands US Virgin Islands US Virgin Islands +1 Uzbekistan Uzbekistan Uzbekistan +998 Vanuatu Vanuatu Vanuatu +678 Vatican City Vatican City Vatican City +39 Venezuela Venezuela Venezuela +58 Vietnam Vietnam Vietnam +84 Wallis & Futuna Wallis & Futuna Wallis & Futuna +681 Western Sahara Western Sahara Western Sahara +212 Yemen Yemen Yemen +967 Zambia Zambia Zambia +260 Zimbabwe Zimbabwe Zimbabwe +263 +49 Phone number",
+      "cssPath": "#spl-form-element_12",
+      "required": false,
+      "value": "",
+      "checked": null,
+      "accept": "",
+      "inShadow": true
+    },
+    {
+      "tag": "input",
+      "type": "tel",
+      "id": "spl-form-element_5",
+      "name": "",
+      "dataQa": "",
+      "placeholder": "",
+      "label": "Phone number",
+      "blockPath": "spl-tooltip >> nth=1",
+      "blockText": "Phone number",
+      "cssPath": "#spl-form-element_5",
+      "required": true,
+      "value": "",
+      "checked": null,
+      "accept": "",
+      "inShadow": true
+    },
+    {
+      "tag": "input",
+      "type": "text",
+      "id": "linkedin-input",
+      "name": "",
+      "dataQa": "",
+      "placeholder": "",
+      "label": "",
+      "blockPath": "div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-web:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(1)",
+      "blockText": "LinkedIn",
+      "cssPath": "#linkedin-input",
+      "required": false,
+      "value": "",
+      "checked": null,
+      "accept": "",
+      "inShadow": true
+    },
+    {
+      "tag": "input",
+      "type": "text",
+      "id": "facebook-input",
+      "name": "",
+      "dataQa": "",
+      "placeholder": "",
+      "label": "",
+      "blockPath": "div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-web:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(2)",
+      "blockText": "Facebook",
+      "cssPath": "#facebook-input",
+      "required": false,
+      "value": "",
+      "checked": null,
+      "accept": "",
+      "inShadow": true
+    },
+    {
+      "tag": "input",
+      "type": "text",
+      "id": "twitter-input",
+      "name": "",
+      "dataQa": "",
+      "placeholder": "",
+      "label": "",
+      "blockPath": "div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-web:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(3)",
+      "blockText": "X (fka Twitter)",
+      "cssPath": "#twitter-input",
+      "required": false,
+      "value": "",
+      "checked": null,
+      "accept": "",
+      "inShadow": true
+    },
+    {
+      "tag": "input",
+      "type": "text",
+      "id": "website-input",
+      "name": "",
+      "dataQa": "",
+      "placeholder": "",
+      "label": "",
+      "blockPath": "div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-web:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > oc-input:nth-of-type(4)",
+      "blockText": "Website",
+      "cssPath": "#website-input",
+      "required": false,
+      "value": "",
+      "checked": null,
+      "accept": "",
+      "inShadow": true
+    },
+    {
+      "tag": "input",
+      "type": "file",
+      "id": "file-input",
+      "name": "",
+      "dataQa": "",
+      "placeholder": "",
+      "label": "",
+      "blockPath": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-resume-upload:nth-of-type(1) > div:nth-of-type(1)",
+      "blockText": "Resume Choose a file or drop it here 10MB size limit",
+      "cssPath": "#file-input",
+      "required": false,
+      "value": "",
+      "checked": null,
+      "accept": ".doc, .dot, .rmr, .rsm, .resume, .oxps, .pdf, .p7s, .ai, .rtf, .pages, .gdoc, .gslides, .xls, .xlsm, .pub, .msg, .ppt, .wps, .ods, .odt, .pptx, .ppsx, .xlsx, .docx, .dotx, .sxw, .wpd, .abw, .mp3, .m4a, .wav, .psd, .eml, .ical, .ics, .ifb, .icalendar, .ics_response, .csv, .txt, .text, .vcf, .mp4, .mov, .bmp, .gif, .jfif, .jpeg, .jpg, .png, .tif, .tiff, .webp",
+      "inShadow": true
+    },
+    {
+      "tag": "textarea",
+      "type": "",
+      "id": "hiring-manager-message-input",
+      "name": "",
+      "dataQa": "",
+      "placeholder": "",
+      "label": "",
+      "blockPath": "div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > oc-oneclick-form:nth-of-type(1) > div:nth-of-type(1) > oc-hiring-manager-message:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "blockText": "Let the company know about your interest working there",
+      "cssPath": "#hiring-manager-message-input",
+      "required": false,
+      "value": "",
+      "checked": null,
+      "accept": "",
+      "inShadow": true
+    }
+  ]
+}

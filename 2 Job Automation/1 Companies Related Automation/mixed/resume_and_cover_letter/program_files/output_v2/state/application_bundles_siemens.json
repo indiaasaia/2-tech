@@ -1,0 +1,27 @@
+{
+  "generated_at_utc": "2026-10-14T10:41:53+00:00",
+  "total": 1,
+  "complete": 1,
+  "bundles": [
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522286",
+      "title": "Werkstudent (w/m/d) Softwareentwicklung",
+      "company": "Siemens Mobility GmbH",
+      "portal": "unknown",
+      "letter_language": "de",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Siemens-Mobility-GmbH_Werkstudent-Softwareentwicklung.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Siemens-Mobility-GmbH_Werkstudent-Softwareentwicklung.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Siemens-Mobility-GmbH_Werkstudent-Softwareentwicklung.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Siemens-Mobility-GmbH_Werkstudent-Softwareentwicklung.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Werkstudent-Softwareentwicklung.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Werkstudent-Softwareentwicklung.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "missing": [],
+      "artifacts_complete": true
+    }
+  ]
+}

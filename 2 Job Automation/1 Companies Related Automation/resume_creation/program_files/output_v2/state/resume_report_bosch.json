@@ -1,0 +1,1905 @@
+{
+  "generated_at_utc": "2026-09-30T07:09:46+00:00",
+  "engine": "v2",
+  "total_jobs": 19,
+  "results": [
+    {
+      "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000149868802-mandatory-internship-model-based-systems-engineering-?oga=true",
+      "title": "Mandatory Internship Model Based Systems Engineering",
+      "company": "Bosch Thermotechnik GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Mandatory-Internship-Model-Based-Systems-Engineering.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Mandatory-Internship-Model-Based-Systems-Engineering.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Mandatory-Internship-Model-Based-Systems-Engineering.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 76.3,
+      "score_breakdown": {
+        "required_coverage": 33.3,
+        "preferred_coverage": 10.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 5.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.833,
+      "preferred_coverage": 0.5,
+      "gap_report": {
+        "missing_required": [
+          "good grades"
+        ],
+        "missing_preferred": [
+          "fast-paced environments",
+          "renewable energy",
+          "heat pump systems",
+          "design department"
+        ],
+        "ineligible_criteria": [
+          "Master studies"
+        ],
+        "language_gaps": [
+          "German very good required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (fluent)",
+          "German (very good)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 610,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 8,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=8 repicked=False"
+      },
+      "file_stem": "Mandatory-Internship-Model-Based-Systems-Engineering"
+    },
+    {
+      "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000149861229-pflichtpraktikum-data-engineering-data-analytics-im-akustik-testing?oga=true",
+      "title": "Pflichtpraktikum Data Engineering & Data Analytics im Akustik-Testing",
+      "company": "Robert Bosch GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Pflichtpraktikum-Data-Engineering-Data-Analytics-im-Akustik-Testing.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Pflichtpraktikum-Data-Engineering-Data-Analytics-im-Akustik-Testing.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Pflichtpraktikum-Data-Engineering-Data-Analytics-im-Akustik-Testing.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 29.7,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 1.7,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "gute Programmierkenntnisse Python",
+          "erste Erfahrungen Databricks",
+          "verhandlungssicheres Deutsch",
+          "verhandlungssicheres Englisch",
+          "Immatrikulation Hochschule",
+          "Anwesenheit Büro"
+        ],
+        "missing_preferred": [
+          "Machine-Learning von Vorteil",
+          "selbstständig arbeiten",
+          "motiviert arbeiten",
+          "Teamfähigkeit",
+          "technisch begeistert"
+        ],
+        "ineligible_criteria": [
+          "technisches Studium"
+        ],
+        "language_gaps": [
+          "German fluent required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (fluent)",
+          "German (fluent)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 607,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "Machine-Learning"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [
+          "experience:Python",
+          "project:Python"
+        ],
+        "area_labels": {
+          "area_1": "Backend Development -> Python"
+        },
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 4,
+        "summary": "mirror=1 dormant_added=0 desc_insertions=2 labels=1 reorder=0 recased=4 repicked=False"
+      },
+      "file_stem": "Pflichtpraktikum-Data-Engineering-Data-Analytics-im-Akustik-Testing"
+    },
+    {
+      "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000147895909-praktikum-softwareentwicklung-und-datenanalyse?oga=true",
+      "title": "Praktikum Softwareentwicklung und Datenanalyse",
+      "company": "Robert Bosch GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Praktikum-Softwareentwicklung-und-Datenanalyse.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Praktikum-Softwareentwicklung-und-Datenanalyse.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Praktikum-Softwareentwicklung-und-Datenanalyse.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 55.5,
+      "score_breakdown": {
+        "required_coverage": 10.0,
+        "preferred_coverage": 17.5,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.25,
+      "preferred_coverage": 0.875,
+      "gap_report": {
+        "missing_required": [
+          "Softwareentwicklung",
+          "Elektrotechnik",
+          "Informatik"
+        ],
+        "missing_preferred": [
+          "Datenbankkenntnisse"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "English",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 608,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "XML",
+          "PHP"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [
+          "experience:Python",
+          "project:Python"
+        ],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 1,
+        "skills_recased": 3,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=2 labels=0 reorder=1 recased=3 repicked=False"
+      },
+      "file_stem": "Praktikum-Softwareentwicklung-und-Datenanalyse"
+    },
+    {
+      "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000141846890-werkstudent-in-der-digitalen-bildung-webbasierte-trainings-w-m-div-?oga=true",
+      "title": "Werkstudent in der Digitalen Bildung - webbasierte Trainings (w/m/div.)",
+      "company": "Robert Bosch GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Werkstudent-in-der-Digitalen-Bildung---webbasierte-Trainings-wmdiv.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-in-der-Digitalen-Bildung---webbasierte-Trainings-wmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-in-der-Digitalen-Bildung---webbasierte-Trainings-wmdiv.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 28.0,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "Erstellung von Trainingsmaterialien",
+          "Immatrikulation an einer Hochschule"
+        ],
+        "missing_preferred": [
+          "Projekt- oder Qualitätsmanagement",
+          "Kommunikative Fähigkeiten",
+          "mobile Arbeiten",
+          "regelmäßige Präsenz",
+          "Deutsch und Englisch"
+        ],
+        "ineligible_criteria": [
+          "Studium im Bereich",
+          "MS Office"
+        ],
+        "language_gaps": [
+          "German very good required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (very good)",
+          "German (very good)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 587,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 7,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=7 repicked=False"
+      },
+      "file_stem": "Werkstudent-in-der-Digitalen-Bildung---webbasierte-Trainings-wmdiv"
+    },
+    {
+      "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000136441454-werkstudent-im-bereich-software-quality-engineering-software-testing-w-m-div-?oga=true",
+      "title": "Werkstudent im Bereich Software Quality Engineering / Software Testing (w/m/div.)",
+      "company": "Bosch Service Solutions GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Werkstudent-im-Bereich-Software-Quality-Engineering-Software-Testing-wmdiv.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-im-Bereich-Software-Quality-Engineering-Software-Testing-wmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-im-Bereich-Software-Quality-Engineering-Software-Testing-wmdiv.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 62.9,
+      "score_breakdown": {
+        "required_coverage": 20.0,
+        "preferred_coverage": 15.0,
+        "parse_fidelity": 14.9,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.5,
+      "preferred_coverage": 0.75,
+      "gap_report": {
+        "missing_required": [
+          "Immatrikulation Hochschule"
+        ],
+        "missing_preferred": [
+          "Wirtschaftsinformatik",
+          "BWL"
+        ],
+        "ineligible_criteria": [
+          "Informatik Studium"
+        ],
+        "language_gaps": [
+          "German business required — candidate has A2"
+        ],
+        "languages_required": [
+          "German (business)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 619,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "PHP-Applikationen",
+          "CI/CD-Pipelines"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 4,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=4 repicked=False"
+      },
+      "file_stem": "Werkstudent-im-Bereich-Software-Quality-Engineering-Software-Testing-wmdiv"
+    },
+    {
+      "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000151829278-praktikum-fertigungsplanung-automatisierte-optische-prufung-?oga=true",
+      "title": "Praktikum – Fertigungsplanung – Automatisierte Optische Prüfung",
+      "company": "Robert Bosch GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Praktikum-Fertigungsplanung-Automatisierte-Optische-Prüfung.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Praktikum-Fertigungsplanung-Automatisierte-Optische-Prüfung.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Praktikum-Fertigungsplanung-Automatisierte-Optische-Prüfung.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 32.9,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 5.0,
+        "parse_fidelity": 14.9,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.25,
+      "gap_report": {
+        "missing_required": [
+          "Immatrikulation an einer Hochschule",
+          "Deutsch- und Englischkenntnisse",
+          "technische Grundkenntnisse"
+        ],
+        "missing_preferred": [
+          "analytisches Grundverständnis",
+          "eigenverantwortlich",
+          "teamfähig",
+          "selbstständig",
+          "belastbar",
+          "zuverlässig"
+        ],
+        "ineligible_criteria": [
+          "Studium im Bereich",
+          "MS Office"
+        ],
+        "language_gaps": [
+          "German very good required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (very good)",
+          "German (very good)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 587,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [
+          "experience:Python"
+        ],
+        "area_labels": {},
+        "project_repick": [
+          "hft",
+          "resume_gen"
+        ],
+        "gate_findings": [],
+        "rows_reordered": 1,
+        "skills_recased": 6,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=1 labels=0 reorder=1 recased=6 repicked=True"
+      },
+      "file_stem": "Praktikum-Fertigungsplanung-Automatisierte-Optische-Prüfung"
+    },
+    {
+      "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000151816009-praktikum-im-bereich-sales-performance-management?oga=true",
+      "title": "Praktikum im Bereich Sales Performance Management",
+      "company": "Bosch Industriekessel GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Praktikum-im-Bereich-Sales-Performance-Management.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Praktikum-im-Bereich-Sales-Performance-Management.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Praktikum-im-Bereich-Sales-Performance-Management.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 38.0,
+      "score_breakdown": {
+        "required_coverage": 8.9,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 1.1,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.222,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "Verhandlungssicheres Englisch",
+          "Vertriebskennzahlen Verständnis",
+          "Kommunikationsfähigkeit",
+          "Analytisches Denken",
+          "Selbstständiges Arbeiten",
+          "Lösungsorientierung",
+          "Immatrikulation erforderlich"
+        ],
+        "missing_preferred": [
+          "Hybrid Arbeit",
+          "Markttrends Recherche",
+          "Kundenpotenzial Analyse",
+          "Wettbewerbsanalyse",
+          "Performance Dashboards",
+          "Abweichungsanalyse",
+          "Ad-hoc Berichte",
+          "Sales Enablement"
+        ],
+        "ineligible_criteria": [
+          "MS Office"
+        ],
+        "language_gaps": [
+          "German fluent required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (fluent)",
+          "German (fluent)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 604,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 6,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+      },
+      "file_stem": "Praktikum-im-Bereich-Sales-Performance-Management"
+    },
+    {
+      "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000151810599-abschlussarbeit-kreislaufwirtschaft?oga=true",
+      "title": "Abschlussarbeit Kreislaufwirtschaft",
+      "company": "Robert Bosch GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Abschlussarbeit-Kreislaufwirtschaft.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Abschlussarbeit-Kreislaufwirtschaft.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Abschlussarbeit-Kreislaufwirtschaft.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 35.4,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 7.5,
+        "parse_fidelity": 14.9,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.375,
+      "gap_report": {
+        "missing_required": [
+          "Umweltschutztechnik",
+          "Verfahrenstechnik",
+          "Chemieingenieurwesen",
+          "Umweltingenieurwissenschaften",
+          "Abfall- und Gefahrstoffrecht",
+          "Präsenz vor Ort",
+          "verhandlungssicheres Deutsch",
+          "Immatrikulation an einer Hochschule"
+        ],
+        "missing_preferred": [
+          "regenerative Energien",
+          "Lebenszykluskostenanalyse",
+          "Emissionen",
+          "Fluorwasserstoff",
+          "BImSchG"
+        ],
+        "ineligible_criteria": [
+          "Studium im Bereich Umweltschutz",
+          "MS Office"
+        ],
+        "language_gaps": [
+          "German verhandlungssicher required — candidate has A2"
+        ],
+        "languages_required": [
+          "German (verhandlungssicher)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 600,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "MS Office",
+          "Wirbelschichtanlagen"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 3,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=3 repicked=False"
+      },
+      "file_stem": "Abschlussarbeit-Kreislaufwirtschaft"
+    },
+    {
+      "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000151791635-pflichtpraktikum-sap-prozessablaufe-in-s-4?oga=true",
+      "title": "Pflichtpraktikum SAP-Prozessabläufe in S/4",
+      "company": "Bosch Rexroth AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Pflichtpraktikum-SAP-Prozessabläufe-in-S4.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Pflichtpraktikum-SAP-Prozessabläufe-in-S4.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Pflichtpraktikum-SAP-Prozessabläufe-in-S4.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 75.4,
+      "score_breakdown": {
+        "required_coverage": 30.0,
+        "preferred_coverage": 10.0,
+        "parse_fidelity": 14.9,
+        "format_checks": 10.0,
+        "experience_relevance": 7.5,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.75,
+      "preferred_coverage": 0.5,
+      "gap_report": {
+        "missing_required": [
+          "IT-Affinität"
+        ],
+        "missing_preferred": [
+          "Erfahrungen SAP",
+          "Prozessaffinität"
+        ],
+        "ineligible_criteria": [
+          "Studium Wirtschaftsinformatik",
+          "Sicherer Umgang MS Office"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 623,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 4,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=4 repicked=False"
+      },
+      "file_stem": "Pflichtpraktikum-SAP-Prozessabläufe-in-S4"
+    },
+    {
+      "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000151774684-premaster-programm-technologie-und-innovationsmanagement?oga=true",
+      "title": "PreMaster Programm – Technologie- und Innovationsmanagement",
+      "company": "Robert Bosch GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\PreMaster-Programm-Technologie--und-Innovationsmanagement.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\PreMaster-Programm-Technologie--und-Innovationsmanagement.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\PreMaster-Programm-Technologie--und-Innovationsmanagement.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 28.0,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "Maschinenbau",
+          "Mechatronik",
+          "Wirtschaftsingenieurwesen",
+          "Technologie- oder Innovationsmanagement"
+        ],
+        "missing_preferred": [
+          "technisches Grundverständnis",
+          "erste einschlägige Praxiserfahrungen",
+          "kontaktfreudige Art",
+          "eigenständig arbeiten",
+          "proaktive Ideen",
+          "kritisch hinterfragen",
+          "agiles Arbeitsumfeld"
+        ],
+        "ineligible_criteria": [
+          "Hochschulstudium (Bachelor)",
+          "Masterstudium aufzunehmen"
+        ],
+        "language_gaps": [
+          "German very good required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (very good)",
+          "German (very good)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 596,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 6,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+      },
+      "file_stem": "PreMaster-Programm-Technologie--und-Innovationsmanagement"
+    },
+    {
+      "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000151766620-pflichtpraktikum-in-der-fertigungsplanung-komponenten?oga=true",
+      "title": "Pflichtpraktikum in der Fertigungsplanung Komponenten",
+      "company": "Robert Bosch GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Pflichtpraktikum-in-der-Fertigungsplanung-Komponenten.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Pflichtpraktikum-in-der-Fertigungsplanung-Komponenten.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Pflichtpraktikum-in-der-Fertigungsplanung-Komponenten.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 33.0,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 5.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.25,
+      "gap_report": {
+        "missing_required": [
+          "verhandlungssicheres Deutsch",
+          "gutes Englisch",
+          "Immatrikulation Hochschule",
+          "erste Kenntnisse Produktion"
+        ],
+        "missing_preferred": [
+          "Wertstromkoordination",
+          "Projektleitung",
+          "Teamplayer",
+          "Kommunikativ",
+          "Kreative Ideen",
+          "Interdisziplinäre Zusammenarbeit"
+        ],
+        "ineligible_criteria": [
+          "Studium Produktionstechnik",
+          "Wirtschaftsingenieurwesen Studium",
+          "Maschinenbau Studium",
+          "MS Office"
+        ],
+        "language_gaps": [
+          "German fluent required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (business)",
+          "German (fluent)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 608,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "Industrie 4.0"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 4,
+        "summary": "mirror=1 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=4 repicked=False"
+      },
+      "file_stem": "Pflichtpraktikum-in-der-Fertigungsplanung-Komponenten"
+    },
+    {
+      "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000151766019-pflichtpraktikum-wertstrom-und-materialflussplanung-in-der-komponentenfertigung?oga=true",
+      "title": "Pflichtpraktikum Wertstrom- und Materialflussplanung in der Komponentenfertigung",
+      "company": "Robert Bosch GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Pflichtpraktikum-Wertstrom--und-Materialflussplanung-in-der-Komponentenfertigung.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Pflichtpraktikum-Wertstrom--und-Materialflussplanung-in-der-Komponentenfertigung.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Pflichtpraktikum-Wertstrom--und-Materialflussplanung-in-der-Komponentenfertigung.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 35.5,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 7.5,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.375,
+      "gap_report": {
+        "missing_required": [
+          "verhandlungssicheres Deutsch",
+          "gutes Englisch",
+          "Immatrikulation an Hochschule"
+        ],
+        "missing_preferred": [
+          "Digitalisierung",
+          "Fahrerlose Transportfahrzeuge",
+          "Supermärkte",
+          "eKanban-Systeme",
+          "Optimierungsprojekte Materialfluss"
+        ],
+        "ineligible_criteria": [
+          "Studium im Bereich",
+          "sicherer Umgang MS Office"
+        ],
+        "language_gaps": [
+          "German verhandlungssicher required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (good)",
+          "German (verhandlungssicher)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 596,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "MS Office",
+          "RFID"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 6,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+      },
+      "file_stem": "Pflichtpraktikum-Wertstrom--und-Materialflussplanung-in-der-Komponentenfertigung"
+    },
+    {
+      "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000151760339-praktikum-defektdichte-technologie?oga=true",
+      "title": "Praktikum Defektdichte Technologie",
+      "company": "Robert Bosch Semiconductor Manufacturing Dresden GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Praktikum-Defektdichte-Technologie.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Praktikum-Defektdichte-Technologie.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Praktikum-Defektdichte-Technologie.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 38.0,
+      "score_breakdown": {
+        "required_coverage": 8.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 2.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.2,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "gutes Englisch",
+          "Immatrikulation an Hochschule",
+          "Präsenz vor Ort",
+          "erste Kenntnisse Halbleitertechnologie"
+        ],
+        "missing_preferred": [
+          "Begeisterung für IT-Tools",
+          "Teamarbeit",
+          "strukturierte Arbeitsweise",
+          "hohe Qualitätsansprüche"
+        ],
+        "ineligible_criteria": [
+          "Bachelorstudium technischer Bereich"
+        ],
+        "language_gaps": [
+          "German fluent required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (good)",
+          "German (fluent)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 616,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 5,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=False"
+      },
+      "file_stem": "Praktikum-Defektdichte-Technologie"
+    },
+    {
+      "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000151610609-praktikum-in-der-logistikplanung?oga=true",
+      "title": "Praktikum in der Logistikplanung",
+      "company": "Robert Bosch GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Praktikum-in-der-Logistikplanung.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Praktikum-in-der-Logistikplanung.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Praktikum-in-der-Logistikplanung.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 48.0,
+      "score_breakdown": {
+        "required_coverage": 16.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 4.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.4,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "Immatrikulation an Hochschule",
+          "Büroarbeit erforderlich",
+          "6‑Monate Praktikum"
+        ],
+        "missing_preferred": [
+          "Affinität zur IT",
+          "Kommunikativer Teamplayer",
+          "Analytisch",
+          "Eigeninitiativ",
+          "Erfahrung mit SAP",
+          "Erfahrung mit Access",
+          "Erfahrung mit Excel",
+          "Marktanalyse"
+        ],
+        "ineligible_criteria": [
+          "Studium Wirtschaftsingenieurwesen",
+          "Studium BWL",
+          "Studium Wirtschaftsinformatik",
+          "Studium Logistik",
+          "sicherer Umgang MS Office"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 628,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "Excel",
+          "Access"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 7,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=7 repicked=False"
+      },
+      "file_stem": "Praktikum-in-der-Logistikplanung"
+    },
+    {
+      "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000151601899-praktikum-im-bereich-human-resources-bei-bosch-smart-home?oga=true",
+      "title": "Praktikum im Bereich Human Resources bei Bosch Smart Home",
+      "company": "Robert Bosch Smart Home GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Praktikum-im-Bereich-Human-Resources-bei-Bosch-Smart-Home.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Praktikum-im-Bereich-Human-Resources-bei-Bosch-Smart-Home.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Praktikum-im-Bereich-Human-Resources-bei-Bosch-Smart-Home.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 28.0,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "studierst aktuell",
+          "vergleichbaren Studiengang",
+          "Gute Deutsch- und Englischkenntnisse",
+          "Immatrikulation an einer Hochschule"
+        ],
+        "missing_preferred": [
+          "erste Erfahrungen im HR-Bereich",
+          "Kreativität bei Teamevents",
+          "Recruiting-Prozesse",
+          "Teamgeist",
+          "Selbstständige Arbeitsweise"
+        ],
+        "ineligible_criteria": [
+          "gute Kenntnisse in MS-Office"
+        ],
+        "language_gaps": [
+          "German good required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (good)",
+          "German (good)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 601,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "MS-Office"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 5,
+        "summary": "mirror=1 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=False"
+      },
+      "file_stem": "Praktikum-im-Bereich-Human-Resources-bei-Bosch-Smart-Home"
+    },
+    {
+      "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000151563196-praktikum-im-bereich-international-sales-bei-bosch-ebike-systems?oga=true",
+      "title": "Praktikum im Bereich International Sales bei Bosch eBike Systems",
+      "company": "Robert Bosch GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Praktikum-im-Bereich-International-Sales-bei-Bosch-eBike-Systems.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Praktikum-im-Bereich-International-Sales-bei-Bosch-eBike-Systems.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Praktikum-im-Bereich-International-Sales-bei-Bosch-eBike-Systems.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 27.9,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 14.9,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "sehr gutes Deutsch",
+          "gutes Englisch",
+          "Immatrikulation an Hochschule",
+          "6‑Monate Praktikum"
+        ],
+        "missing_preferred": [
+          "erste Vertriebserfahrung",
+          "Verantwortungsbereitschaft",
+          "offene Kommunikation",
+          "selbstständiges Arbeiten",
+          "strukturierte Zielsetzung"
+        ],
+        "ineligible_criteria": [
+          "Betriebswirtschaftslehre Studium",
+          "Wirtschaftsingenieurwesen Studium",
+          "MS Office"
+        ],
+        "language_gaps": [
+          "German very good required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (good)",
+          "German (very good)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 585,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 4,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=4 repicked=False"
+      },
+      "file_stem": "Praktikum-im-Bereich-International-Sales-bei-Bosch-eBike-Systems"
+    },
+    {
+      "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000151544369-pflichtpraktikum-im-vertrieb-customer-team-bmw-automotive-w-m-div-?oga=true",
+      "title": "Pflichtpraktikum im Vertrieb – Customer Team BMW Automotive (w/m/div.)",
+      "company": "Robert Bosch GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Pflichtpraktikum-im-Vertrieb-Customer-Team-BMW-Automotive-wmdiv.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Pflichtpraktikum-im-Vertrieb-Customer-Team-BMW-Automotive-wmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Pflichtpraktikum-im-Vertrieb-Customer-Team-BMW-Automotive-wmdiv.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 46.0,
+      "score_breakdown": {
+        "required_coverage": 16.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 2.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.4,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "6 Monate",
+          "Englisch- und Deutschkenntnisse",
+          "technisches Verständnis"
+        ],
+        "missing_preferred": [
+          "Erfahrung im Automobilsektor",
+          "Software & Services",
+          "analytische Flexibilität",
+          "kollaborative Teams",
+          "Innovations- und Projektmanagement",
+          "proaktive Verantwortung",
+          "hybrides Setup"
+        ],
+        "ineligible_criteria": [
+          "Umgang mit MS Office"
+        ],
+        "language_gaps": [
+          "German very good required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (very good)",
+          "German (very good)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 616,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 6,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+      },
+      "file_stem": "Pflichtpraktikum-im-Vertrieb-Customer-Team-BMW-Automotive-wmdiv"
+    },
+    {
+      "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000149827009-praktikum-im-bereich-machine-learning-fur-pradiktive-zuverlassigkeitsanalytik-warmepumpen-w-m-div-?oga=true",
+      "title": "Praktikum im Bereich Machine Learning für prädiktive Zuverlässigkeitsanalytik – Wärmepumpen (w/m/div.)",
+      "company": "Bosch Thermotechnik GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Praktikum-im-Bereich-Machine-Learning-für-prädiktive-Zuverlässigkeitsanalytik-Wä.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Praktikum-im-Bereich-Machine-Learning-für-prädiktive-Zuverlässigkeitsanalytik-Wä.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Praktikum-im-Bereich-Machine-Learning-für-prädiktive-Zuverlässigkeitsanalytik-Wä.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 48.2,
+      "score_breakdown": {
+        "required_coverage": 5.0,
+        "preferred_coverage": 11.4,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 3.8,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.125,
+      "preferred_coverage": 0.571,
+      "gap_report": {
+        "missing_required": [
+          "Sehr gute Python-Kenntnisse",
+          "Erfahrung mit Databricks",
+          "Immatrikulation an Hochschule",
+          "Sehr gute Englischkenntnisse",
+          "Praktische Kenntnisse Machine Learning",
+          "Modellevaluierung",
+          "Datenvorverarbeitung"
+        ],
+        "missing_preferred": [
+          "Datenvisualisierungen",
+          "Kurze Präsentationen",
+          "Technische Dokumentation"
+        ],
+        "ineligible_criteria": [
+          "Masterstudium Data Science"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 631,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "PySpark",
+          "IoT-Daten"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [
+          "experience:Python",
+          "project:Python and Machine Learning"
+        ],
+        "area_labels": {
+          "area_1": "Data Engineering & Modeling -> Python & Feature Engineering"
+        },
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 1,
+        "skills_recased": 7,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=2 labels=1 reorder=1 recased=7 repicked=False"
+      },
+      "file_stem": "Praktikum-im-Bereich-Machine-Learning-für-prädiktive-Zuverlässigkeitsanalytik-Wä"
+    },
+    {
+      "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000149826650-internship-machine-learning-for-predictive-reliability-analytics-heat-pumps?oga=true",
+      "title": "Internship Machine Learning for Predictive Reliability Analytics - Heat Pumps",
+      "company": "Bosch Thermotechnik GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Internship-Machine-Learning-for-Predictive-Reliability-Analytics---Heat-Pumps.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Internship-Machine-Learning-for-Predictive-Reliability-Analytics---Heat-Pumps.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Internship-Machine-Learning-for-Predictive-Reliability-Analytics---Heat-Pumps.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 76.3,
+      "score_breakdown": {
+        "required_coverage": 40.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 8.3,
+        "naturalness": 3.0
+      },
+      "required_coverage": 1.0,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [],
+        "missing_preferred": [
+          "Generative AI applications",
+          "hybrid setup",
+          "technical documentation",
+          "data visualizations",
+          "short presentations",
+          "high clarity",
+          "regular presence in Wernau"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "English (very good)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 628,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [
+          "project:Machine Learning and Python",
+          "experience:Data Preprocessing"
+        ],
+        "area_labels": {
+          "area_1": "Core Programming -> Data Preprocessing & Python",
+          "area_2": "AI & Modeling -> Machine Learning"
+        },
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 3,
+        "skills_recased": 3,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=2 labels=2 reorder=3 recased=3 repicked=False"
+      },
+      "file_stem": "Internship-Machine-Learning-for-Predictive-Reliability-Analytics---Heat-Pumps"
+    }
+  ]
+}

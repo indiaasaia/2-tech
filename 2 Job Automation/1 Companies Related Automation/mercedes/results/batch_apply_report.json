@@ -1,0 +1,126 @@
+{
+  "generated_at": "2026-09-30T08:48:57+00:00",
+  "mode": "dry-run",
+  "results": [
+    {
+      "title": "Werkstudent (w/m/d) Infothek PKW Verkauf in der Mercedes-Benz Niederlassung Frankfurt",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-w-m-d-infothek-pkw-verkauf-in-der-mercedes-benz-niederlassung-frankfurt-240231-MER000482G",
+      "apply_url": "https://tas-DAIMLER.taleo.net/careersection/ex/jobapply.ftl?job=MER000482G&lang=de",
+      "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume_mercedes\\pdf\\Werkstudent-Infothek-PKW-Verkauf-in-der-Mercedes-Benz-Niederlassung-Frankfurt.pdf",
+      "tier": "strong",
+      "score": 85.5,
+      "portal": "taleo",
+      "dry_run_status": "NEEDS_CREDENTIALS",
+      "submit_status": "",
+      "attempts": 1,
+      "notes": [
+        "Taleo login required; set TALEO_USERNAME/TALEO_PASSWORD env vars or taleo_username/taleo_password in config/candidate.json"
+      ]
+    },
+    {
+      "title": "Werkstudent*in Fahrerassistenzsysteme und Basissoftwareentwicklung",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-fahrerassistenzsysteme-und-basissoftwareentwicklung-238411-MER00048ED",
+      "apply_url": "https://tas-DAIMLER.taleo.net/careersection/ex/jobapply.ftl?job=MER00048ED&lang=de",
+      "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume_mercedes\\pdf\\Werkstudentin-Fahrerassistenzsysteme-und-Basissoftwareentwicklung.pdf",
+      "tier": "strong",
+      "score": 82.9,
+      "portal": "taleo",
+      "dry_run_status": "NEEDS_CREDENTIALS",
+      "submit_status": "",
+      "attempts": 1,
+      "notes": [
+        "Taleo login required; set TALEO_USERNAME/TALEO_PASSWORD env vars or taleo_username/taleo_password in config/candidate.json"
+      ]
+    },
+    {
+      "title": "Werkstudent*in EE-Integration Gesamtfahrzeug",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-ee-integration-gesamtfahrzeug-237356-MER0004852",
+      "apply_url": "https://tas-DAIMLER.taleo.net/careersection/ex/jobapply.ftl?job=MER0004852&lang=de",
+      "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume_mercedes\\pdf\\Werkstudentin-EE-Integration-Gesamtfahrzeug.pdf",
+      "tier": "good",
+      "score": 78.0,
+      "portal": "taleo",
+      "dry_run_status": "NEEDS_CREDENTIALS",
+      "submit_status": "",
+      "attempts": 1,
+      "notes": [
+        "Taleo login required; set TALEO_USERNAME/TALEO_PASSWORD env vars or taleo_username/taleo_password in config/candidate.json"
+      ]
+    },
+    {
+      "title": "Werkstudent*in Charging & HV-System",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-charging-hv-system-237370-MER0004849",
+      "apply_url": "https://tas-DAIMLER.taleo.net/careersection/ex/jobapply.ftl?job=MER0004849&lang=de",
+      "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume_mercedes\\pdf\\Werkstudentin-Charging-HV-System.pdf",
+      "tier": "weak",
+      "score": 55.4,
+      "portal": "taleo",
+      "dry_run_status": "NEEDS_CREDENTIALS",
+      "submit_status": "",
+      "attempts": 1,
+      "notes": [
+        "Taleo login required; set TALEO_USERNAME/TALEO_PASSWORD env vars or taleo_username/taleo_password in config/candidate.json"
+      ]
+    },
+    {
+      "title": "Werkstudent*in Data Engineering/ Data Science/ Softwareentwicklung",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-data-engineering-data-science-softwareentwicklung-238606-MER00047A0",
+      "apply_url": "https://tas-DAIMLER.taleo.net/careersection/ex/jobapply.ftl?job=MER00047A0&lang=de",
+      "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume_mercedes\\pdf\\Werkstudentin-Data-Engineering-Data-Science-Softwareentwicklung.pdf",
+      "tier": "poor",
+      "score": 48.0,
+      "portal": "taleo",
+      "dry_run_status": "NEEDS_CREDENTIALS",
+      "submit_status": "",
+      "attempts": 1,
+      "notes": [
+        "Taleo login required; set TALEO_USERNAME/TALEO_PASSWORD env vars or taleo_username/taleo_password in config/candidate.json"
+      ]
+    },
+    {
+      "title": "Werkstudent*in DLP-3D-Druck und Prozesskettentechnologie",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-dlp-3d-druck-und-prozesskettentechnologie-240055-MER00048T3",
+      "apply_url": "https://tas-DAIMLER.taleo.net/careersection/ex/jobapply.ftl?job=MER00048T3&lang=de",
+      "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume_mercedes\\pdf\\Werkstudentin-DLP-3D-Druck-und-Prozesskettentechnologie.pdf",
+      "tier": "poor",
+      "score": 46.4,
+      "portal": "taleo",
+      "dry_run_status": "NEEDS_CREDENTIALS",
+      "submit_status": "",
+      "attempts": 1,
+      "notes": [
+        "Taleo login required; set TALEO_USERNAME/TALEO_PASSWORD env vars or taleo_username/taleo_password in config/candidate.json"
+      ]
+    },
+    {
+      "title": "Werkstudent*in Engineering IT",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-engineering-it-237893-MER00048AN",
+      "apply_url": "https://tas-DAIMLER.taleo.net/careersection/ex/jobapply.ftl?job=MER00048AN&lang=de",
+      "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume_mercedes\\pdf\\Werkstudentin-Engineering-IT.pdf",
+      "tier": "poor",
+      "score": 40.5,
+      "portal": "taleo",
+      "dry_run_status": "NEEDS_CREDENTIALS",
+      "submit_status": "",
+      "attempts": 1,
+      "notes": [
+        "Taleo login required; set TALEO_USERNAME/TALEO_PASSWORD env vars or taleo_username/taleo_password in config/candidate.json"
+      ]
+    },
+    {
+      "title": "Werkstudent*in im Center Karosserieentwicklung Rohbau / Bereichscontrolling - Toolentwicklung",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-im-center-karosserieentwicklung-rohbau-bereichscontrolling---toolentwicklung--240112-MER00048U4",
+      "apply_url": "https://tas-DAIMLER.taleo.net/careersection/ex/jobapply.ftl?job=MER00048U4&lang=de",
+      "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume_mercedes\\pdf\\Werkstudentin-im-Center-Karosserieentwicklung-Rohbau-Bereichscontrolling---Toole.pdf",
+      "tier": "poor",
+      "score": 38.0,
+      "portal": "taleo",
+      "dry_run_status": "NEEDS_CREDENTIALS",
+      "submit_status": "",
+      "attempts": 1,
+      "notes": [
+        "Taleo login required; set TALEO_USERNAME/TALEO_PASSWORD env vars or taleo_username/taleo_password in config/candidate.json"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1868 @@
+{
+  "generated_at_utc": "2026-09-30T09:06:43+00:00",
+  "engine": "v2",
+  "total_jobs": 19,
+  "results": [
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971880480",
+      "title": "Werkstudent - Technisches Gebäudemanagement (w/m/div)",
+      "company": "Unknown",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Werkstudent---Technisches-Gebäudemanagement-wmdiv.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent---Technisches-Gebäudemanagement-wmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent---Technisches-Gebäudemanagement-wmdiv.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 42.2,
+      "score_breakdown": {
+        "required_coverage": 11.4,
+        "preferred_coverage": 2.9,
+        "parse_fidelity": 14.9,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.286,
+      "preferred_coverage": 0.143,
+      "gap_report": {
+        "missing_required": [
+          "maximal 20 Stunden",
+          "sehr gute Deutschkenntnisse",
+          "Umwelttechnik",
+          "erste praktische Erfahrungen",
+          "selbstständige, strukturierte Arbeitsweise"
+        ],
+        "missing_preferred": [
+          "effiziente Arbeitsabläufe",
+          "teamfähigkeit",
+          "Zuverlässigkeit",
+          "Bestandsaufnahmen durchführen",
+          "technische Anlagen analysieren",
+          "nachhaltige Effizienzsteigerungen"
+        ],
+        "ineligible_criteria": [
+          "ordentlich immatrikulierte Studierende",
+          "nicht im Urlaubssemester",
+          "Bachelor- oder Masterstudium"
+        ],
+        "language_gaps": [
+          "German fluent required — candidate has A2"
+        ],
+        "languages_required": [
+          "German (fluent)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 610,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "CAFM-System"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 7,
+        "summary": "mirror=1 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=7 repicked=False"
+      },
+      "file_stem": "Werkstudent---Technisches-Gebäudemanagement-wmdiv"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971794202",
+      "title": "Working Student - Foundry Supplier Market Intelligence & Data Management (f/m/div)",
+      "company": "Unknown",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Working-Student---Foundry-Supplier-Market-Intelligence-Data-Management-fmdiv.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Working-Student---Foundry-Supplier-Market-Intelligence-Data-Management-fmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Working-Student---Foundry-Supplier-Market-Intelligence-Data-Management-fmdiv.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 50.4,
+      "score_breakdown": {
+        "required_coverage": 8.0,
+        "preferred_coverage": 12.5,
+        "parse_fidelity": 14.9,
+        "format_checks": 10.0,
+        "experience_relevance": 2.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.2,
+      "preferred_coverage": 0.625,
+      "gap_report": {
+        "missing_required": [
+          "analytical and research capabilities",
+          "attention to detail",
+          "proper students",
+          "not completed all exams"
+        ],
+        "missing_preferred": [
+          "basic knowledge semiconductor manufacturing",
+          "strategic sourcing",
+          "global supply chains"
+        ],
+        "ineligible_criteria": [
+          "currently enrolled",
+          "communication skills in English",
+          "enrolled at a university",
+          "maximum 20 hours"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 615,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "AI tools",
+          "business intelligence"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [
+          "experience:Data Analytics",
+          "project:Data Analytics"
+        ],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 3,
+        "skills_recased": 4,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=2 labels=0 reorder=3 recased=4 repicked=False"
+      },
+      "file_stem": "Working-Student---Foundry-Supplier-Market-Intelligence-Data-Management-fmdiv"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971793447",
+      "title": "Internship - Legal Compliance in the area of ESH&E (f/m/div)",
+      "company": "Unknown",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Internship---Legal-Compliance-in-the-area-of-ESHE-fmdiv.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Internship---Legal-Compliance-in-the-area-of-ESHE-fmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Internship---Legal-Compliance-in-the-area-of-ESHE-fmdiv.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 89.4,
+      "score_breakdown": {
+        "required_coverage": 34.3,
+        "preferred_coverage": 20.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 7.1,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.857,
+      "preferred_coverage": 1.0,
+      "gap_report": {
+        "missing_required": [
+          "Economics"
+        ],
+        "missing_preferred": [],
+        "ineligible_criteria": [
+          "Bachelor or Master"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 617,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 5,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=False"
+      },
+      "file_stem": "Internship---Legal-Compliance-in-the-area-of-ESHE-fmdiv"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971906944",
+      "title": "Internship - Project Management Support (f/m/div)",
+      "company": "Unknown",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Internship---Project-Management-Support-fmdiv.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Internship---Project-Management-Support-fmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Internship---Project-Management-Support-fmdiv.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 83.8,
+      "score_breakdown": {
+        "required_coverage": 35.0,
+        "preferred_coverage": 13.3,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 7.5,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.875,
+      "preferred_coverage": 0.667,
+      "gap_report": {
+        "missing_required": [
+          "Precise"
+        ],
+        "missing_preferred": [
+          "Related tools experience"
+        ],
+        "ineligible_criteria": [
+          "Proactive",
+          "Structured"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English (fluent)",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 594,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 4,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=4 repicked=False"
+      },
+      "file_stem": "Internship---Project-Management-Support-fmdiv"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971620732",
+      "title": "Internship - Lab Verification Engineer in the AMS Lab of the Development Center Villach (f/m/div)",
+      "company": "Unknown",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Internship---Lab-Verification-Engineer-in-the-AMS-Lab-of-the-Development-Center-.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Internship---Lab-Verification-Engineer-in-the-AMS-Lab-of-the-Development-Center-.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Internship---Lab-Verification-Engineer-in-the-AMS-Lab-of-the-Development-Center-.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 79.0,
+      "score_breakdown": {
+        "required_coverage": 40.0,
+        "preferred_coverage": 5.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 6.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 1.0,
+      "preferred_coverage": 0.25,
+      "gap_report": {
+        "missing_required": [],
+        "missing_preferred": [
+          "Board assembly",
+          "Soldering",
+          "Debugging skills",
+          "Data automation",
+          "Post-processing",
+          "High precision oscillators"
+        ],
+        "ineligible_criteria": [
+          "Enrolled as student",
+          "Internship 6 months",
+          "Flexible working hours"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English (good)",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 613,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {
+          "skills_area_1": [
+            "automation"
+          ]
+        },
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 1,
+        "skills_recased": 4,
+        "summary": "mirror=0 dormant_added=1 desc_insertions=0 labels=0 reorder=1 recased=4 repicked=False"
+      },
+      "file_stem": "Internship---Lab-Verification-Engineer-in-the-AMS-Lab-of-the-Development-Center-"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971118853",
+      "title": "Internship - High Speed and RF LAB Validation Engineer in Development Center Villach (f/m/div)",
+      "company": "Unknown",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Internship---High-Speed-and-RF-LAB-Validation-Engineer-in-Development-Center-Vil.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Internship---High-Speed-and-RF-LAB-Validation-Engineer-in-Development-Center-Vil.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Internship---High-Speed-and-RF-LAB-Validation-Engineer-in-Development-Center-Vil.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 65.9,
+      "score_breakdown": {
+        "required_coverage": 30.0,
+        "preferred_coverage": 2.9,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 5.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.75,
+      "preferred_coverage": 0.143,
+      "gap_report": {
+        "missing_required": [
+          "Mathematical concepts",
+          "circuit analysis"
+        ],
+        "missing_preferred": [
+          "Mixed-Signal High-Speed",
+          "Radar applications",
+          "PCB design",
+          "Automation",
+          "Data post-processing",
+          "Validation flow"
+        ],
+        "ineligible_criteria": [
+          "Pursuing a degree"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English (good)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 633,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "Matlab",
+          "mmWave equipment"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 6,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+      },
+      "file_stem": "Internship---High-Speed-and-RF-LAB-Validation-Engineer-in-Development-Center-Vil"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971879852",
+      "title": "Working Student - Supplier Sustainability (f/m/div)",
+      "company": "Unknown",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Working-Student---Supplier-Sustainability-fmdiv.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Working-Student---Supplier-Sustainability-fmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Working-Student---Supplier-Sustainability-fmdiv.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 60.9,
+      "score_breakdown": {
+        "required_coverage": 20.0,
+        "preferred_coverage": 8.0,
+        "parse_fidelity": 14.9,
+        "format_checks": 10.0,
+        "experience_relevance": 5.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.5,
+      "preferred_coverage": 0.4,
+      "gap_report": {
+        "missing_required": [
+          "Fluency in English",
+          "Study field sustainability"
+        ],
+        "missing_preferred": [
+          "German would be a plus",
+          "practical experience sustainability",
+          "flexibility"
+        ],
+        "ineligible_criteria": [
+          "Enrolled at university",
+          "On-site 12 months"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English (fluent)",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 605,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 6,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+      },
+      "file_stem": "Working-Student---Supplier-Sustainability-fmdiv"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808959893172",
+      "title": "Internships, working student position and theses at the Warstein site",
+      "company": "Unknown",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Internships-working-student-position-and-theses-at-the-Warstein-site.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Internships-working-student-position-and-theses-at-the-Warstein-site.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Internships-working-student-position-and-theses-at-the-Warstein-site.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 77.9,
+      "score_breakdown": {
+        "required_coverage": 25.0,
+        "preferred_coverage": 20.0,
+        "parse_fidelity": 14.9,
+        "format_checks": 10.0,
+        "experience_relevance": 5.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.625,
+      "preferred_coverage": 1.0,
+      "gap_report": {
+        "missing_required": [
+          "technical affinity",
+          "independent way of working",
+          "work in a team"
+        ],
+        "missing_preferred": [],
+        "ineligible_criteria": [
+          "confident communication in German",
+          "confident communication in English"
+        ],
+        "language_gaps": [
+          "German confident required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (confident)",
+          "German (confident)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 603,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 5,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=False"
+      },
+      "file_stem": "Internships-working-student-position-and-theses-at-the-Warstein-site"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971991308",
+      "title": "Pool Position - Praktika, Werkstudententätigkeiten und Abschlussarbeiten bei MOTEON GmbH in Ilmenau",
+      "company": "Unknown",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Pool-Position---Praktika-Werkstudententätigkeiten-und-Abschlussarbeiten-bei-MOTE.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Pool-Position---Praktika-Werkstudententätigkeiten-und-Abschlussarbeiten-bei-MOTE.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Pool-Position---Praktika-Werkstudententätigkeiten-und-Abschlussarbeiten-bei-MOTE.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 33.6,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 5.7,
+        "parse_fidelity": 14.9,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.286,
+      "gap_report": {
+        "missing_required": [
+          "Technischer Studiengang",
+          "Deutschkenntnisse",
+          "Englischkenntnisse",
+          "Technische Affinität",
+          "selbstständige Arbeitsweise",
+          "Teamfähigkeit"
+        ],
+        "missing_preferred": [
+          "Regelungstechnik",
+          "Mechatronik",
+          "Electrical Engineering",
+          "Produktmarketing",
+          "Finance"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "English",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 595,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 3,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=3 repicked=False"
+      },
+      "file_stem": "Pool-Position---Praktika-Werkstudententätigkeiten-und-Abschlussarbeiten-bei-MOTE"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808972052110",
+      "title": "Werkstudent - Qualitätsmanagement im Zuverlässigkeitslabor (w/m/div)",
+      "company": "Unknown",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Werkstudent---Qualitätsmanagement-im-Zuverlässigkeitslabor-wmdiv.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent---Qualitätsmanagement-im-Zuverlässigkeitslabor-wmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent---Qualitätsmanagement-im-Zuverlässigkeitslabor-wmdiv.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 28.0,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "technischen Studiengang",
+          "analytische Fähigkeiten",
+          "Teamarbeit",
+          "Deutsch (C1)",
+          "Englisch in Wort",
+          "maximal 20 Stunden",
+          "nahe am Einsatzort"
+        ],
+        "missing_preferred": [
+          "Stresstests mechanische Zuverlässigkeit",
+          "Funktionsmessungen",
+          "Verifikation Fehlerbilder",
+          "Datenanalyse Produktionsmessungen",
+          "logistische Handhabung Labormustern"
+        ],
+        "ineligible_criteria": [
+          "MS-Office Kenntnisse",
+          "immatrikulierte Studierende",
+          "nicht im Urlaubssemester"
+        ],
+        "language_gaps": [
+          "German C1 required — candidate has A2"
+        ],
+        "languages_required": [
+          "English",
+          "German (C1)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 626,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "MS-Office",
+          "Stresstests"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 5,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=False"
+      },
+      "file_stem": "Werkstudent---Qualitätsmanagement-im-Zuverlässigkeitslabor-wmdiv"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971922747",
+      "title": "Werkstudent - Logistik / Supply Chain (w/m/div)",
+      "company": "Unknown",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Werkstudent---Logistik-Supply-Chain-wmdiv.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent---Logistik-Supply-Chain-wmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent---Logistik-Supply-Chain-wmdiv.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 28.0,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "Wirtschaftswissenschaften",
+          "Betriebswirtschaftslehre",
+          "Wirtschaftsinformatik",
+          "gute Deutsch- und Englischkenntnisse",
+          "maximal 20 Stunden",
+          "mindestens 6 Monate"
+        ],
+        "missing_preferred": [
+          "hohe Lernbereitschaft",
+          "Teamfähigkeit",
+          "Supply Chain Management",
+          "Logistik spezialisiert",
+          "Projektmanagement",
+          "interessierst dich für Logistik"
+        ],
+        "ineligible_criteria": [
+          "ordentlich immatrikulierte Studierende",
+          "nicht im Urlaubssemester"
+        ],
+        "language_gaps": [
+          "German good required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (good)",
+          "German (good)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 587,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 7,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=7 repicked=False"
+      },
+      "file_stem": "Werkstudent---Logistik-Supply-Chain-wmdiv"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971959592",
+      "title": "Werkstudent - Wafer Sorting und Wafer Packing (w/m/div)",
+      "company": "Unknown",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Werkstudent---Wafer-Sorting-und-Wafer-Packing-wmdiv.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent---Wafer-Sorting-und-Wafer-Packing-wmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent---Wafer-Sorting-und-Wafer-Packing-wmdiv.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 76.0,
+      "score_breakdown": {
+        "required_coverage": 40.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 8.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 1.0,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [],
+        "missing_preferred": [
+          "grundlegendes Datenbankwissen",
+          "Büro und Reinraum",
+          "Abwechslung im Arbeitsalltag",
+          "nahe am Einsatzort"
+        ],
+        "ineligible_criteria": [
+          "immatrikuliert",
+          "mindestens zwei Semester",
+          "nicht im Urlaubssemester"
+        ],
+        "language_gaps": [
+          "German very good required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (good)",
+          "German (very good)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 615,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 7,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=7 repicked=False"
+      },
+      "file_stem": "Werkstudent---Wafer-Sorting-und-Wafer-Packing-wmdiv"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971904127",
+      "title": "Werkstudent - Business Continuity (w/m/div)",
+      "company": "Unknown",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Werkstudent---Business-Continuity-wmdiv.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent---Business-Continuity-wmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent---Business-Continuity-wmdiv.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 39.2,
+      "score_breakdown": {
+        "required_coverage": 5.0,
+        "preferred_coverage": 5.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 1.2,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.125,
+      "preferred_coverage": 0.25,
+      "gap_report": {
+        "missing_required": [
+          "Wirtschaftsingenieurwesen",
+          "artverwandten Studiengang",
+          "Organisationstalent",
+          "strukturierte Arbeitsweise",
+          "selbstständige Arbeitsweise",
+          "hohes Maß an Diskretion",
+          "Deutsch- und Englischkenntnisse"
+        ],
+        "missing_preferred": [
+          "PowerPoint Präsentationen",
+          "Excel Darstellung",
+          "Audits Unterstützung"
+        ],
+        "ineligible_criteria": [
+          "MS Office-Anwendungen",
+          "immatrikulierte Studierende"
+        ],
+        "language_gaps": [
+          "German very good required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (very good)",
+          "German (very good)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 603,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "PowerPoint"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 5,
+        "summary": "mirror=1 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=False"
+      },
+      "file_stem": "Werkstudent---Business-Continuity-wmdiv"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808972088501",
+      "title": "Werkstudent – Human Resources - Early Career Talent Acquisition & Hochschulmarketing (w/m/div)",
+      "company": "Unknown",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Werkstudent-Human-Resources---Early-Career-Talent-Acquisition-Hochschulmarketing.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-Human-Resources---Early-Career-Talent-Acquisition-Hochschulmarketing.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-Human-Resources---Early-Career-Talent-Acquisition-Hochschulmarketing.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 59.2,
+      "score_breakdown": {
+        "required_coverage": 25.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 6.2,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.625,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "Sehr gute Deutschkenntnisse",
+          "Sehr gute Englischkenntnisse",
+          "Mindestens 16 Stunden"
+        ],
+        "missing_preferred": [
+          "erste Recruiting Erfahrung",
+          "Personalmarketing Erfahrung",
+          "Selbstständige Arbeitsweise",
+          "Zuverlässige Arbeitsweise",
+          "lösungsorientiertes Denken",
+          "Kommunikationsstärke",
+          "Verantwortungsbewusstsein",
+          "Eventorganisation"
+        ],
+        "ineligible_criteria": [
+          "MS Office"
+        ],
+        "language_gaps": [
+          "German very good required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (very good)",
+          "German (very good)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 619,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 4,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=4 repicked=False"
+      },
+      "file_stem": "Werkstudent-Human-Resources---Early-Career-Talent-Acquisition-Hochschulmarketing"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808972055420",
+      "title": "Werkstudent - Labormessungen an neuartigem Synchron-Induktionsmotor (w/m/div)",
+      "company": "Unknown",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Werkstudent---Labormessungen-an-neuartigem-Synchron-Induktionsmotor-wmdiv.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent---Labormessungen-an-neuartigem-Synchron-Induktionsmotor-wmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent---Labormessungen-an-neuartigem-Synchron-Induktionsmotor-wmdiv.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 30.9,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 2.9,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.143,
+      "gap_report": {
+        "missing_required": [
+          "vergleichbarer Studiengang",
+          "mindestens 3 Monate",
+          "sehr gute Deutschkenntnisse",
+          "selbstständige Arbeitsweise",
+          "Verständnis Asynchronmaschine",
+          "Kenntnisse digitale Signalverarbeitung"
+        ],
+        "missing_preferred": [
+          "Englischkenntnisse von Vorteil",
+          "Nähe zum Einsatzort",
+          "Teilzeit 20 Stunden",
+          "Erfahrung Messungen",
+          "Datenanalyse Erfahrung",
+          "Teamintegration"
+        ],
+        "ineligible_criteria": [
+          "Master Elektrotechnik",
+          "Master Mechatronik",
+          "immatrikuliert an Hochschule",
+          "nicht im Urlaubssemester"
+        ],
+        "language_gaps": [
+          "German very good required — candidate has A2"
+        ],
+        "languages_required": [
+          "English",
+          "German (very good)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 622,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 6,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+      },
+      "file_stem": "Werkstudent---Labormessungen-an-neuartigem-Synchron-Induktionsmotor-wmdiv"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971792696",
+      "title": "Werkstudent - Facility Management in Automatisierungstechnik / Elektrotechnik (w/m/div)",
+      "company": "Unknown",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Werkstudent---Facility-Management-in-Automatisierungstechnik-Elektrotechnik-wmdi.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent---Facility-Management-in-Automatisierungstechnik-Elektrotechnik-wmdi.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent---Facility-Management-in-Automatisierungstechnik-Elektrotechnik-wmdi.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 34.7,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 6.7,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.333,
+      "gap_report": {
+        "missing_required": [
+          "gute Deutschkenntnisse"
+        ],
+        "missing_preferred": [
+          "erweiterte Kenntnisse PCS7",
+          "interesse technische Infrastruktur",
+          "Teamfähigkeit",
+          "Kommunikationsstärke"
+        ],
+        "ineligible_criteria": [
+          "laufenden Studium Elektrotechnik",
+          "laufenden Studium Automatisierungstechnik",
+          "immatrikulierte Studierende",
+          "MS Office"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 629,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "TIA-Portal",
+          "Simatic Manager"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 8,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=8 repicked=False"
+      },
+      "file_stem": "Werkstudent---Facility-Management-in-Automatisierungstechnik-Elektrotechnik-wmdi"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971831069",
+      "title": "Werkstudent - Technisches Marketing (w/m/div)",
+      "company": "Unknown",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Werkstudent---Technisches-Marketing-wmdiv.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent---Technisches-Marketing-wmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent---Technisches-Marketing-wmdiv.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 35.5,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 7.5,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.375,
+      "gap_report": {
+        "missing_required": [
+          "Elektrotechnik",
+          "Informationstechnik",
+          "erste Erfahrung Softwareentwicklung",
+          "fließend Deutsch",
+          "fließend Englisch"
+        ],
+        "missing_preferred": [
+          "Embedded Applikationen",
+          "AI-basierte Tools",
+          "Datenbanken",
+          "Präsentationen",
+          "Spread-Sheets"
+        ],
+        "ineligible_criteria": [
+          "sicherer Umgang MS-Office",
+          "ordentlich immatrikulierte Studierende",
+          "nicht im Urlaubssemester"
+        ],
+        "language_gaps": [
+          "German fließend required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (fließend)",
+          "German (fließend)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 588,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "Web-basierende Tools",
+          "MS-Office"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 5,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=False"
+      },
+      "file_stem": "Werkstudent---Technisches-Marketing-wmdiv"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808972041838",
+      "title": "Working Student - Automotive Project Office (f/m/div)",
+      "company": "Unknown",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Working-Student---Automotive-Project-Office-fmdiv.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Working-Student---Automotive-Project-Office-fmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Working-Student---Automotive-Project-Office-fmdiv.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 62.0,
+      "score_breakdown": {
+        "required_coverage": 26.7,
+        "preferred_coverage": 4.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 3.3,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.667,
+      "preferred_coverage": 0.2,
+      "gap_report": {
+        "missing_required": [
+          "Fluency in English",
+          "not completed exams"
+        ],
+        "missing_preferred": [
+          "German language plus",
+          "generative AI interest",
+          "self‑driven personality",
+          "analytical mind"
+        ],
+        "ineligible_criteria": [
+          "master's degree program",
+          "enrolled at university",
+          "maximum 20 hours"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English (fluent)",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 622,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 5,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=False"
+      },
+      "file_stem": "Working-Student---Automotive-Project-Office-fmdiv"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808972009600",
+      "title": "Working Student - AI-Assisted Embedded Software Development (f/m/div)",
+      "company": "Unknown",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Working-Student---AI-Assisted-Embedded-Software-Development-fmdiv.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Working-Student---AI-Assisted-Embedded-Software-Development-fmdiv.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Working-Student---AI-Assisted-Embedded-Software-Development-fmdiv.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 69.2,
+      "score_breakdown": {
+        "required_coverage": 35.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 6.2,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.875,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "AI coding assistants"
+        ],
+        "missing_preferred": [
+          "experimenting with new tech",
+          "teamwork",
+          "prototype scripts",
+          "AI-supported workflows",
+          "documentation of findings",
+          "research trends",
+          "close to site"
+        ],
+        "ineligible_criteria": [
+          "enrolled university student"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English (very good)",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 616,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "debugging tools",
+          "version control systems"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 2,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=2 repicked=False"
+      },
+      "file_stem": "Working-Student---AI-Assisted-Embedded-Software-Development-fmdiv"
+    }
+  ]
+}

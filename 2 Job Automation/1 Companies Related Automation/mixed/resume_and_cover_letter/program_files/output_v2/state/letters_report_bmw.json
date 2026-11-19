@@ -1,0 +1,30 @@
+{
+  "generated_at_utc": "2026-10-14T10:30:50+00:00",
+  "engine": "v2",
+  "total_jobs": 1,
+  "results": [
+    {
+      "job_url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.196000.html",
+      "title": "Werkstudent Forschung / Entwicklung Elektromobilität (m/w/x)",
+      "company": "BMW AG",
+      "resume_status": "gated_ok",
+      "letter": null,
+      "letter_gates": null,
+      "letter_gates_passed": false,
+      "artifacts": {
+        "letter_tex": "",
+        "letter_pdf": "",
+        "letter_docx": "",
+        "letter_txt": "",
+        "resume_pdf": "",
+        "resume_docx": ""
+      },
+      "upload_slot": "",
+      "notes": "",
+      "bundle_missing": [],
+      "artifacts_complete": false,
+      "letter_error": "no letter_input on the record — re-run step 4",
+      "llm_calls": 0
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+Dear Hiring Team,
+
+I am applying for the Working Student position in AI Engineering and Data Science. I am pursuing an M.Sc. in Artificial Intelligence at Brandenburgische Technische Universität Cottbus-Senftenberg and can regularly work from SAP’s Walldorf office.
+
+My experience combines applied machine learning with practical data workflows. During my Machine Learning internship at Pantechelearning, I implemented models for text-to-speech and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation. At Soham Infotech, I developed quantitative models, modular API endpoints, and automated data-transformation pipelines for trading operations. In my own work, I built a Python-based document-generation system using structured datasets and open-source language models, and I am conducting research on large language models for sarcasm detection in Indic languages.
+
+I am especially interested in contributing to applied AI work across data exploration, model development, evaluation, and deployment while learning from SAP’s data science and engineering teams. I would welcome the opportunity to discuss how my background could support the Enterprise AI Center of Excellence.
+
+Kind regards,
+Meetkumar Riteshkumar Raval

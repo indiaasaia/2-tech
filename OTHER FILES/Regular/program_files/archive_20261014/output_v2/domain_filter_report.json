@@ -1,0 +1,1362 @@
+[
+  {
+    "title": "Master Thesis on Closed-Loop Reasoning in LLM Agents for Evaluating HEMS Parameter Effects Using Time-Series Foundation Models via MCP",
+    "company": "Bosch",
+    "job_url": "https://www.workingstudentjobs.de/jobs/bosch-master-thesis-on-closed-loop-reasoning-in-llm-agents-00907833",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, hardware_iot, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "computer science",
+        "python",
+        "software",
+        "software engineering"
+      ],
+      "ai_data": [
+        "agentic",
+        "data science",
+        "forecasting",
+        "large language model",
+        "llm",
+        "machine learning",
+        "predictive"
+      ],
+      "hardware_iot": [
+        "electrical engineering"
+      ],
+      "finance": [
+        "valuation"
+      ],
+      "tech_business_direct": [
+        "sem"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Working Student - AI Automation, Procurement (m/f/d)",
+    "company": "Quantum-Systems GmbH",
+    "job_url": "https://www.stepstone.de/jobs--Working-Student-AI-Automation-Procurement-m-f-d-Gilching-Bayern-Germany-Quantum-Systems-GmbH--14549160-inline.html",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, finance, hardware_iot, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "finance",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "api",
+        "code",
+        "computer science",
+        "programming",
+        "python",
+        "rust",
+        "scala",
+        "software"
+      ],
+      "ai_data": [
+        "ai agent",
+        "data science",
+        "generative ai"
+      ],
+      "automation": [
+        "automation",
+        "low-code",
+        "process automation",
+        "workflow automation"
+      ],
+      "hardware_iot": [
+        "hardware",
+        "robot",
+        "robotics"
+      ],
+      "finance": [
+        "portfolio",
+        "quant"
+      ],
+      "tech_business_direct": [
+        "erp"
+      ],
+      "tech_business_needs_tech": [
+        "business administration",
+        "growth"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Working Student Data Science (m/f/d)",
+    "company": "SIXT",
+    "job_url": "https://www.workingstudentjobs.de/jobs/sixt-working-student-data-science-m-f-d-0f39b005",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, finance, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "finance",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "api",
+        "computer science",
+        "python"
+      ],
+      "ai_data": [
+        "artificial intelligence",
+        "data science",
+        "data scientist",
+        "gpt",
+        "machine learning",
+        "predictive",
+        "statistical",
+        "statistics"
+      ],
+      "automation": [
+        "automate"
+      ],
+      "finance": [
+        "valuation"
+      ],
+      "tech_business_needs_tech": [
+        "strategy"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "driver",
+      "restaurant"
+    ],
+    "score": null
+  },
+  {
+    "title": "Working Student / Intern: Offensive Security Engineer (Red Team & AppSec) (f/m/x)",
+    "company": "iLert GmbH",
+    "job_url": "https://www.stepstone.de/jobs--Working-Student-Intern-Offensive-Security-Engineer-Red-Team-AppSec-f-m-x-Cologne-iLert-GmbH--14431296-inline.html",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, software",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "api",
+        "ci/cd",
+        "cloud",
+        "code",
+        "computer science",
+        "cyber security",
+        "java",
+        "kubernetes",
+        "react",
+        "rust",
+        "saas",
+        "scala",
+        "software",
+        "typescript"
+      ],
+      "ai_data": [
+        "agentic",
+        "llm"
+      ],
+      "automation": [
+        "automate"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Working Student (f/m/d) - SAP Signavio Product Excellence",
+    "company": "SAP",
+    "job_url": "https://www.workingstudentjobs.de/jobs/sap-working-student-f-m-d-sap-signavio-product-excellence-266053e0",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, finance, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "finance",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "cloud",
+        "computer science",
+        "database",
+        "programming",
+        "saas",
+        "scala",
+        "software"
+      ],
+      "ai_data": [
+        "analytics",
+        "copilot",
+        "gpt",
+        "llm"
+      ],
+      "automation": [
+        "automation"
+      ],
+      "finance": [
+        "quant"
+      ],
+      "tech_business_direct": [
+        "data-driven",
+        "erp",
+        "product management",
+        "sap"
+      ],
+      "tech_business_needs_tech": [
+        "business management",
+        "growth",
+        "strategie",
+        "strategy"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Working Student (d/f/m) in the area of Mass Properties",
+    "company": "Airbus",
+    "job_url": "https://www.workingstudentjobs.de/jobs/airbus-working-student-d-f-m-in-the-area-of-mass-properties-96595b89",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, finance, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "finance",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "code",
+        "computer science",
+        "database",
+        "git",
+        "mysql",
+        "postgresql",
+        "programming",
+        "python",
+        "quality assurance",
+        "software",
+        "software engineering",
+        "sql"
+      ],
+      "ai_data": [
+        "data science",
+        "large language model",
+        "llm"
+      ],
+      "automation": [
+        "automate",
+        "automation",
+        "workflow automation"
+      ],
+      "finance": [
+        "controlling"
+      ],
+      "tech_business_needs_tech": [
+        "growth",
+        "project management"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "aerospace",
+      "architecture",
+      "structural"
+    ],
+    "score": null
+  },
+  {
+    "title": "Working Student Full-Stack Development (Angular/Java) (m/f/d)",
+    "company": "OKAPI:Orbits GmbH",
+    "job_url": "https://www.stepstone.de/jobs--Working-Student-Full-Stack-Development-Angular-Java-m-f-d-Munich-OKAPI-Orbits-GmbH--13883870-inline.html",
+    "decision": "keep",
+    "reason": "family signal: automation, software",
+    "families_matched": [
+      "automation",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "angular",
+        "api",
+        "backend",
+        "code",
+        "computer science",
+        "developer",
+        "frontend",
+        "full-stack",
+        "git",
+        "java",
+        "quality assurance",
+        "software",
+        "software engineering",
+        "typescript"
+      ],
+      "automation": [
+        "automation"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Internship (f/m/x) in Technology, Data & Innovation 2027 - Berlin",
+    "company": "Deutsche Bank AG",
+    "job_url": "https://www.stepstone.de/jobs--Internship-f-m-x-in-Technology-Data-Innovation-2027-Berlin-Berlin-Deutsche-Bank-AG--14603749-inline.html",
+    "decision": "keep",
+    "reason": "family signal: automation, finance, hardware_iot, software, tech_business",
+    "families_matched": [
+      "automation",
+      "finance",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "agile",
+        "backend",
+        "computer science",
+        "devops",
+        "frontend",
+        "full stack",
+        "git",
+        "programming",
+        "qa",
+        "software"
+      ],
+      "automation": [
+        "automation"
+      ],
+      "hardware_iot": [
+        "hardware"
+      ],
+      "finance": [
+        "bank",
+        "finance",
+        "financial"
+      ],
+      "tech_business_direct": [
+        "erp"
+      ],
+      "tech_business_needs_tech": [
+        "business analyst"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "STUDENT ASSISTANT (all genders) - DATA SPACE INFRASTRUCTURE DEVELOPMENT",
+    "company": "Fraunhofer IESE",
+    "job_url": "https://www.workingstudentjobs.de/jobs/fraunhofer-iese-student-assistant-all-genders-data-space-ba652aca",
+    "decision": "keep",
+    "reason": "family signal: automation, software, tech_business",
+    "families_matched": [
+      "automation",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "api",
+        "code",
+        "computer science",
+        "git",
+        "github",
+        "gitlab",
+        "java",
+        "kubernetes",
+        "software",
+        "software engineering"
+      ],
+      "automation": [
+        "automation"
+      ],
+      "tech_business_direct": [
+        "sem"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "architecture"
+    ],
+    "score": null
+  },
+  {
+    "title": "Backend Engineer - Internship (6 months)",
+    "company": "Qonto",
+    "job_url": "https://www.workingstudentjobs.de/jobs/qonto-backend-engineer-internship-6-months-8436e927",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, hardware_iot, software",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "hardware_iot",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "backend",
+        "code",
+        "coding",
+        "programming",
+        "ruby",
+        "rust",
+        "sql"
+      ],
+      "ai_data": [
+        "copilot"
+      ],
+      "hardware_iot": [
+        "embedded"
+      ],
+      "finance": [
+        "bank",
+        "banking",
+        "finance",
+        "financial"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "App Full-stack Development Intern",
+    "company": "proceedit | AI Market Analytics",
+    "job_url": "https://www.workingstudentjobs.de/jobs/proceedit-ai-market-analytics-app-full-stack-development-8cab49d3",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, finance, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "finance",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "agile",
+        "code",
+        "computer science",
+        "developer",
+        "flutter",
+        "full-stack",
+        "java",
+        "javascript",
+        "paas",
+        "programming",
+        "software",
+        "software engineering",
+        "web development"
+      ],
+      "ai_data": [
+        "algorithm",
+        "analytics"
+      ],
+      "automation": [
+        "automation",
+        "process automation"
+      ],
+      "finance": [
+        "investment"
+      ],
+      "tech_business_direct": [
+        "business process",
+        "data-driven"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Process Improvement Specialist Intern - 2027",
+    "company": "Amazon",
+    "job_url": "https://www.workingstudentjobs.de/jobs/amazon-process-improvement-specialist-intern-2027-a3c2da19",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, finance, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "finance",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "api",
+        "git",
+        "python",
+        "sql"
+      ],
+      "ai_data": [
+        "analytics",
+        "data analytics",
+        "llm"
+      ],
+      "automation": [
+        "automate",
+        "automation",
+        "macros",
+        "scripting"
+      ],
+      "finance": [
+        "audit"
+      ],
+      "tech_business_needs_tech": [
+        "growth"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "driver",
+      "warehouse"
+    ],
+    "score": null
+  },
+  {
+    "title": "Process Improvement Specialist Intern - 2027",
+    "company": "Amazon",
+    "job_url": "https://www.workingstudentjobs.de/jobs/amazon-process-improvement-specialist-intern-2027-43828660",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, finance, software",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "finance",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "api",
+        "git",
+        "python",
+        "sql"
+      ],
+      "ai_data": [
+        "analytics",
+        "data analytics"
+      ],
+      "automation": [
+        "automate",
+        "automation",
+        "macros",
+        "scripting"
+      ],
+      "finance": [
+        "audit"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "driver"
+    ],
+    "score": null
+  },
+  {
+    "title": "Process Improvement Specialist Intern - 2027",
+    "company": "Amazon",
+    "job_url": "https://www.workingstudentjobs.de/jobs/amazon-process-improvement-specialist-intern-2027-e81e98af",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, finance, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "finance",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "api",
+        "git",
+        "python",
+        "sql"
+      ],
+      "ai_data": [
+        "analytics",
+        "data analytics",
+        "llm"
+      ],
+      "automation": [
+        "automate",
+        "automation",
+        "macros",
+        "scripting"
+      ],
+      "finance": [
+        "audit"
+      ],
+      "tech_business_needs_tech": [
+        "growth"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "driver",
+      "warehouse"
+    ],
+    "score": null
+  },
+  {
+    "title": "Internship (f/m/x) in Technology, Data & Innovation 2027 - Frankfurt am Main",
+    "company": "Deutsche Bank AG",
+    "job_url": "https://www.stepstone.de/jobs--Internship-f-m-x-in-Technology-Data-Innovation-2027-Frankfurt-am-Main-Frankfurt-Main-Deutsche-Bank-AG--14603752-inline.html",
+    "decision": "keep",
+    "reason": "family signal: finance, hardware_iot, software, tech_business",
+    "families_matched": [
+      "finance",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "computer science",
+        "cyber security",
+        "information security",
+        "programming",
+        "quality assurance",
+        "software"
+      ],
+      "hardware_iot": [
+        "hardware"
+      ],
+      "finance": [
+        "bank",
+        "financial"
+      ],
+      "tech_business_direct": [
+        "business process",
+        "sem"
+      ],
+      "tech_business_needs_tech": [
+        "strategy"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Process Improvement Specialist Intern - 2027",
+    "company": "Amazon",
+    "job_url": "https://www.workingstudentjobs.de/jobs/amazon-process-improvement-specialist-intern-2027-ad22c69f",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, finance, software",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "finance",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "api",
+        "git",
+        "python",
+        "sql"
+      ],
+      "ai_data": [
+        "analytics",
+        "data analytics",
+        "llm"
+      ],
+      "automation": [
+        "automate",
+        "automation",
+        "macros",
+        "scripting"
+      ],
+      "finance": [
+        "audit"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "driver",
+      "warehouse"
+    ],
+    "score": null
+  },
+  {
+    "title": "Working Student - AI / Digital Transformation & Adoption (m/f/d)",
+    "company": "Linde",
+    "job_url": "https://www.workingstudentjobs.de/jobs/linde-working-student-ai-digital-transformation-adoption-m-f-29d08735",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, hardware_iot, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "computer science",
+        "git"
+      ],
+      "ai_data": [
+        "copilot",
+        "generative ai"
+      ],
+      "hardware_iot": [
+        "electronics"
+      ],
+      "finance": [
+        "valuation"
+      ],
+      "tech_business_direct": [
+        "digital transformation",
+        "digitalization",
+        "erp",
+        "information systems",
+        "sem"
+      ],
+      "tech_business_needs_tech": [
+        "growth"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "healthcare",
+      "restaurant"
+    ],
+    "score": null
+  },
+  {
+    "title": "Working Student IT-Support (m/f/x)",
+    "company": "Scalable Capital",
+    "job_url": "https://www.workingstudentjobs.de/jobs/scalable-capital-working-student-it-support-m-f-x-556ab834",
+    "decision": "keep",
+    "reason": "family signal: finance, hardware_iot, software, tech_business",
+    "families_matched": [
+      "finance",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "api",
+        "computer science",
+        "information technology",
+        "scala",
+        "software"
+      ],
+      "hardware_iot": [
+        "hardware"
+      ],
+      "finance": [
+        "fintech"
+      ],
+      "tech_business_direct": [
+        "startup"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Working Student Information Security - Governance, Risk & Compliance (m/f/x)",
+    "company": "Scalable Capital",
+    "job_url": "https://www.workingstudentjobs.de/jobs/scalable-capital-working-student-information-security-risk-m-19a6bb28",
+    "decision": "keep",
+    "reason": "family signal: finance, hardware_iot, software, tech_business",
+    "families_matched": [
+      "finance",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "api",
+        "information security",
+        "scala"
+      ],
+      "hardware_iot": [
+        "hardware"
+      ],
+      "finance": [
+        "fintech",
+        "valuation"
+      ],
+      "tech_business_direct": [
+        "startup"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Internship (m/f/x) in Risk 2027",
+    "company": "Deutsche Bank AG",
+    "job_url": "https://www.stepstone.de/jobs--Internship-m-f-x-in-Risk-2027-Berlin-Bonn-Duesseldorf-Essen-Frankfurt-Main-Hamburg-Stuttgart-Deutsche-Bank-AG--14603549-inline.html",
+    "decision": "keep",
+    "reason": "family signal: automation, finance, software, tech_business",
+    "families_matched": [
+      "automation",
+      "finance",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "computer science"
+      ],
+      "automation": [
+        "automation"
+      ],
+      "finance": [
+        "bank",
+        "banking",
+        "credit",
+        "finance",
+        "financial",
+        "quant",
+        "risk management",
+        "treasury",
+        "valuation"
+      ],
+      "tech_business_direct": [
+        "erp",
+        "process optimization",
+        "sem"
+      ],
+      "tech_business_needs_tech": [
+        "business administration",
+        "project management"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Internship (f/m/x) in Group Strategic Analytics 2027",
+    "company": "Deutsche Bank AG",
+    "job_url": "https://www.stepstone.de/jobs--Internship-f-m-x-in-Group-Strategic-Analytics-2027-Frankfurt-am-Main-Berlin-Bonn-Deutsche-Bank-AG--14603399-inline.html",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "python",
+        "software"
+      ],
+      "ai_data": [
+        "analytics",
+        "statistical",
+        "statistics"
+      ],
+      "finance": [
+        "bank",
+        "finance",
+        "financial",
+        "quant"
+      ],
+      "tech_business_direct": [
+        "sem"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Internship (f/m/x) in Investment Bank: Global Markets (Sales/ Trading/ Structuring/ Financing) 2027",
+    "company": "Deutsche Bank AG",
+    "job_url": "https://www.stepstone.de/jobs--Internship-f-m-x-in-Investment-Bank-Global-Markets-Sales-Trading-Structuring-Financing-2027-Frankfurt-am-Main-Deutsche-Bank-AG--14603612-inline.html",
+    "decision": "keep",
+    "reason": "family signal: finance",
+    "families_matched": [
+      "finance"
+    ],
+    "family_hits": {
+      "finance": [
+        "bank",
+        "banking",
+        "financial",
+        "investment",
+        "quant",
+        "trading"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Working Student - Project Management Office (f/m/div)",
+    "company": "Infineon Technologies",
+    "job_url": "https://www.workingstudentjobs.de/jobs/infineon-technologies-working-student-project-management-f-m-4b1c32cf",
+    "decision": "keep",
+    "reason": "family signal: ai_data, hardware_iot, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "git",
+        "rust"
+      ],
+      "ai_data": [
+        "analytics",
+        "artificial intelligence",
+        "data analytics",
+        "llm"
+      ],
+      "hardware_iot": [
+        "iot"
+      ],
+      "tech_business_direct": [
+        "data-driven",
+        "digital transformation",
+        "digitalization",
+        "erp",
+        "sem"
+      ],
+      "tech_business_needs_tech": [
+        "customer success",
+        "project management"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Working Student Photography (m/f/d)",
+    "company": "Montredo GmbH",
+    "job_url": "https://www.stepstone.de/jobs--Working-Student-Photography-m-f-d-Berlin-Montredo-GmbH--14606191-inline.html",
+    "decision": "keep",
+    "reason": "family signal: finance, software, tech_business",
+    "families_matched": [
+      "finance",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "api"
+      ],
+      "finance": [
+        "portfolio"
+      ],
+      "tech_business_direct": [
+        "e-commerce"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Internship Sales Process Management Start date: February 2027; duration: 6 months",
+    "company": "Lufthansa Technik",
+    "job_url": "https://www.workingstudentjobs.de/jobs/lufthansa-technik-internship-sales-process-management-start-28c1d64a",
+    "decision": "keep",
+    "reason": "family signal: ai_data, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "git",
+        "software"
+      ],
+      "ai_data": [
+        "analytics",
+        "data analytics",
+        "llm",
+        "tableau"
+      ],
+      "tech_business_direct": [
+        "digitalization",
+        "process optimization",
+        "sem"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Praktikum Product Design & UX Research (Pflichtpraktikum, m/w/d), Berlin",
+    "company": "Calypso Ventures GmbH",
+    "job_url": "https://www.stepstone.de/jobs--Praktikum-Product-Design-UX-Research-Pflichtpraktikum-m-w-d-Berlin-Berlin-Calypso-Ventures-GmbH--13913974-inline.html",
+    "decision": "keep",
+    "reason": "family signal: finance, software",
+    "families_matched": [
+      "finance",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "software"
+      ],
+      "finance": [
+        "portfolio",
+        "trader"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "architecture"
+    ],
+    "score": null
+  },
+  {
+    "title": "Visiting Analyst (F/M/D) - Summer 2027",
+    "company": "XDECK GmbH",
+    "job_url": "https://www.stepstone.de/jobs--Visiting-Analyst-F-M-D-Summer-2027-Cologne-XDECK-GmbH--14394448-inline.html",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, finance, tech_business",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "finance",
+      "tech_business"
+    ],
+    "family_hits": {
+      "ai_data": [
+        "genai"
+      ],
+      "automation": [
+        "automate"
+      ],
+      "finance": [
+        "investment"
+      ],
+      "tech_business_direct": [
+        "startup"
+      ],
+      "tech_business_needs_tech": [
+        "consulting",
+        "growth"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Working Student Product Management Energy Storage (f/m/d)",
+    "company": "Canadian Solar",
+    "job_url": "https://www.stepstone.de/jobs--Working-Student-Product-Management-Energy-Storage-f-m-d-Muenchen-Canadian-Solar--14606051-inline.html",
+    "decision": "keep",
+    "reason": "family signal: hardware_iot, software, tech_business",
+    "families_matched": [
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "information technology"
+      ],
+      "hardware_iot": [
+        "electrical engineering"
+      ],
+      "tech_business_direct": [
+        "erp",
+        "product management",
+        "sem"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Working Student (m/f/d) Dangerous Goods Strategy & Steering",
+    "company": "Hapag-Lloyd AG",
+    "job_url": "https://www.workingstudentjobs.de/jobs/hapag-lloyd-ag-working-student-m-f-d-dangerous-goods-c188c7a4",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, tech_business",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "tech_business"
+    ],
+    "family_hits": {
+      "ai_data": [
+        "analytics"
+      ],
+      "finance": [
+        "controlling",
+        "investment",
+        "investments",
+        "portfolio"
+      ],
+      "tech_business_direct": [
+        "erp"
+      ],
+      "tech_business_needs_tech": [
+        "strategy"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "restaurant"
+    ],
+    "score": null
+  },
+  {
+    "title": "Internship Content Creator & Social Media Manager (m/f/d) | starting March 2027",
+    "company": "STAN STUDIOS GmbH & CO. KG",
+    "job_url": "https://www.stepstone.de/jobs--Internship-Content-Creator-Social-Media-Manager-m-f-d-starting-March-2027-Stuttgart-STAN-STUDIOS-GmbH-CO-KG--14606041-inline.html",
+    "decision": "keep",
+    "reason": "family signal: software, tech_business",
+    "families_matched": [
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "cloud"
+      ],
+      "tech_business_needs_tech": [
+        "growth",
+        "strategy"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Internship – Venture Development (f/m/x)",
+    "company": "Marvel Fusion GmbH",
+    "job_url": "https://www.stepstone.de/jobs--Internship-Venture-Development-f-m-x-Muenchen-Marvel-Fusion-GmbH--14605955-inline.html",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, hardware_iot, tech_business",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "hardware_iot",
+      "tech_business"
+    ],
+    "family_hits": {
+      "ai_data": [
+        "llm"
+      ],
+      "hardware_iot": [
+        "embedded"
+      ],
+      "finance": [
+        "bank",
+        "banking",
+        "financial",
+        "investment"
+      ],
+      "tech_business_direct": [
+        "process optimization",
+        "startup"
+      ],
+      "tech_business_needs_tech": [
+        "consulting",
+        "strategy"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Internship – Venture Development (f/m/x)",
+    "company": "Marvel Fusion GmbH",
+    "job_url": "https://www.stepstone.de/jobs--Internship-Venture-Development-f-m-x-Muenchen-Marvel-Fusion-GmbH--14605917-inline.html",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, hardware_iot, tech_business",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "hardware_iot",
+      "tech_business"
+    ],
+    "family_hits": {
+      "ai_data": [
+        "llm"
+      ],
+      "hardware_iot": [
+        "embedded"
+      ],
+      "finance": [
+        "bank",
+        "banking",
+        "financial",
+        "investment"
+      ],
+      "tech_business_direct": [
+        "process optimization",
+        "startup"
+      ],
+      "tech_business_needs_tech": [
+        "consulting",
+        "strategy"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Investment Banking, Q2 2026 M&A Intern (Frankfurt, Germany)",
+    "company": "ALANTRA Deutschland GmbH",
+    "job_url": "https://www.stepstone.de/jobs--Investment-Banking-Q2-2026-MA-Intern-Frankfurt-Germany-Germany-Frankfurt-ALANTRA-Deutschland-GmbH--13418589-inline.html",
+    "decision": "keep",
+    "reason": "family signal: finance, tech_business",
+    "families_matched": [
+      "finance",
+      "tech_business"
+    ],
+    "family_hits": {
+      "finance": [
+        "accounting",
+        "bank",
+        "banking",
+        "corporate finance",
+        "finance",
+        "financial",
+        "investment",
+        "m&a",
+        "valuation"
+      ],
+      "tech_business_direct": [
+        "erp"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Intern (m/f/d) in the Field of End-to-End (E2E) Business Process Modeling, IT",
+    "company": "Autoliv B.V. & Co. KG",
+    "job_url": "https://www.stepstone.de/jobs--Intern-m-f-d-in-the-Field-of-End-to-End-E2E-Business-Process-Modeling-IT-Dachau-Autoliv-B-V-Co-KG--14606098-inline.html",
+    "decision": "keep",
+    "reason": "family signal: tech_business",
+    "families_matched": [
+      "tech_business"
+    ],
+    "family_hits": {
+      "tech_business_direct": [
+        "business process"
+      ],
+      "tech_business_needs_tech": [
+        "business analyst"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "mechanical engineering"
+    ],
+    "score": null
+  },
+  {
+    "title": "Intern near field antenna measurement algorithms (m/f/d)",
+    "company": "Rohde & Schwarz GmbH & Co. KG",
+    "job_url": "https://www.stepstone.de/jobs--Intern-near-field-antenna-measurement-algorithms-m-f-d-Muenchen-Rohde-Schwarz-GmbH-Co-KG--14606310-inline.html",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, hardware_iot, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "programming",
+        "software"
+      ],
+      "ai_data": [
+        "algorithm"
+      ],
+      "hardware_iot": [
+        "electrical engineering"
+      ],
+      "finance": [
+        "valuation"
+      ],
+      "tech_business_direct": [
+        "hris"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Internship Revenue Management Internship start: March 2027, duration: 6 months",
+    "company": "Lufthansa",
+    "job_url": "https://www.workingstudentjobs.de/jobs/lufthansa-internship-revenue-management-internship-start-6-9fdc8a33",
+    "decision": "keep",
+    "reason": "family signal: ai_data, tech_business",
+    "families_matched": [
+      "ai_data",
+      "tech_business"
+    ],
+    "family_hits": {
+      "ai_data": [
+        "forecasting",
+        "llm"
+      ],
+      "tech_business_direct": [
+        "sem"
+      ],
+      "tech_business_needs_tech": [
+        "strategie"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  }
+]

@@ -1,0 +1,387 @@
+{
+  "generated_at_utc": "2026-10-14T11:52:11+00:00",
+  "total": 19,
+  "complete": 19,
+  "bundles": [
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152629140/executive-gm-canberra/",
+      "title": "Executive GM — Canberra",
+      "company": "SAP",
+      "portal": "unknown",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_Executive-GM-Canberra.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_Executive-GM-Canberra.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_Executive-GM-Canberra.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_Executive-GM-Canberra.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Executive-GM-Canberra.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Executive-GM-Canberra.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152628469/senior-account-executive/",
+      "title": "Senior Account Executive",
+      "company": "SAP",
+      "portal": "unknown",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_Senior-Account-Executive.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_Senior-Account-Executive.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_Senior-Account-Executive.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_Senior-Account-Executive.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Senior-Account-Executive.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Senior-Account-Executive.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152611519/sap-ixp-intern-it-end-user-support-specialist-deal-support-coe-l2c-euas/",
+      "title": "SAP iXp Intern - IT End User Support Specialist, Deal Support CoE L2C EU/AS",
+      "company": "SAP",
+      "portal": "unknown",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_SAP-iXp-Intern---IT-End-User-Support-Spe.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_SAP-iXp-Intern---IT-End-User-Support-Spe.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_SAP-iXp-Intern---IT-End-User-Support-Spe.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_SAP-iXp-Intern---IT-End-User-Support-Spe.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\SAP-iXp-Intern---IT-End-User-Support-Specialist-Deal-Support-CoE-L2C-EUAS.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\SAP-iXp-Intern---IT-End-User-Support-Specialist-Deal-Support-CoE-L2C-EUAS.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152603549/senior-account-executive/",
+      "title": "Senior Account Executive",
+      "company": "SAP",
+      "portal": "unknown",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_Senior-Account-Executive-2.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_Senior-Account-Executive-2.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_Senior-Account-Executive-2.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_Senior-Account-Executive-2.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Senior-Account-Executive-2.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Senior-Account-Executive-2.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152600039/general-administration-persons-with-disabilities-%E4%B8%80%E8%88%AC%E4%BA%8B%E5%8B%99%E8%81%B7-%E9%9A%9C%E3%81%8C%E3%81%84%E8%80%85%E6%8E%A1%E7%94%A8/",
+      "title": "General Administration - Persons with Disabilities（一般事務職／障がい者採用）",
+      "company": "SAP",
+      "portal": "unknown",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_General-Administration---Persons-with-Di.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_General-Administration---Persons-with-Di.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_General-Administration---Persons-with-Di.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_General-Administration---Persons-with-Di.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\General-Administration---Persons-with-Disabilities一般事務職障がい者採用.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\General-Administration---Persons-with-Disabilities一般事務職障がい者採用.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152592429/technical-quality-manager-services-south-korea/",
+      "title": "Technical Quality Manager-Services, South Korea",
+      "company": "SAP",
+      "portal": "unknown",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_Technical-Quality-Manager-Services-South.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_Technical-Quality-Manager-Services-South.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_Technical-Quality-Manager-Services-South.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_Technical-Quality-Manager-Services-South.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Technical-Quality-Manager-Services-South-Korea.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Technical-Quality-Manager-Services-South-Korea.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152541819/digital-solution-advisor-baip-specialist-for-sap-digital-hub-sap-next-gen/",
+      "title": "Digital Solution Advisor, BAIP Specialist for SAP Digital Hub – SAP Next Gen",
+      "company": "SAP",
+      "portal": "unknown",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_Digital-Solution-Advisor-BAIP-Specialist.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_Digital-Solution-Advisor-BAIP-Specialist.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_Digital-Solution-Advisor-BAIP-Specialist.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_Digital-Solution-Advisor-BAIP-Specialist.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Digital-Solution-Advisor-BAIP-Specialist-for-SAP-Digital-Hub-SAP-Next-Gen.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Digital-Solution-Advisor-BAIP-Specialist-for-SAP-Digital-Hub-SAP-Next-Gen.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000152531179/services-account-executive-oil-gas/",
+      "title": "Services Account Executive (Oil & Gas)",
+      "company": "SAP",
+      "portal": "unknown",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_Services-Account-Executive-Oil-Gas-2.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_Services-Account-Executive-Oil-Gas-2.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_Services-Account-Executive-Oil-Gas-2.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_Services-Account-Executive-Oil-Gas-2.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Services-Account-Executive-Oil-Gas-2.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Services-Account-Executive-Oil-Gas-2.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://jobs.sap.com/job/Walldorf-Working-Student-%28fmd%29-HR-Learning-&-Development-69190/1437947533/",
+      "title": "Working Student (f/m/d) - HR Learning & Development",
+      "company": "SAP",
+      "portal": "unknown",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_Working-Student---HR-Learning-Developmen.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_Working-Student---HR-Learning-Developmen.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_Working-Student---HR-Learning-Developmen.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_Working-Student---HR-Learning-Developmen.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---HR-Learning-Development.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---HR-Learning-Development.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://jobs.sap.com/job/St_-Leon-Rot-Working-Student-%28fmd%29-Machine-TranslationNatural-Language-Processing-68789/1437176333/",
+      "title": "Working Student (f/m/d) - Machine Translation/Natural Language Processing",
+      "company": "SAP",
+      "portal": "unknown",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_Working-Student---Machine-TranslationNat.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_Working-Student---Machine-TranslationNat.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_Working-Student---Machine-TranslationNat.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_Working-Student---Machine-TranslationNat.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---Machine-TranslationNatural-Language-Processing.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---Machine-TranslationNatural-Language-Processing.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://jobs.sap.com/job/Walldorf-Working-Student-%28fmd%29-IT-Portfolio-69190/1435713633/",
+      "title": "Working Student (f/m/d) - IT Portfolio",
+      "company": "SAP",
+      "portal": "unknown",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_Working-Student---IT-Portfolio.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_Working-Student---IT-Portfolio.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_Working-Student---IT-Portfolio.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_Working-Student---IT-Portfolio.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---IT-Portfolio.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---IT-Portfolio.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://jobs.sap.com/job/Garching-bei-M%C3%BCnchen-%28Munich%29-Working-Student-%28fmd%29-SAI-native-Software-Development-85748/1437848533/",
+      "title": "Working Student (f/m/d) - SAI-native Software Development",
+      "company": "SAP",
+      "portal": "unknown",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_Working-Student---SAI-native-Software-De.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_Working-Student---SAI-native-Software-De.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_Working-Student---SAI-native-Software-De.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_Working-Student---SAI-native-Software-De.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---SAI-native-Software-Development.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---SAI-native-Software-Development.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://jobs.sap.com/job/Garching-bei-M%C3%BCnchen-%28Munich%29-Working-Student-%28fmd%29-AI-Software-Engineer-85748/1437976633/",
+      "title": "Working Student (f/m/d) - AI Software Engineer",
+      "company": "SAP",
+      "portal": "unknown",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_Working-Student---AI-Software-Engineer.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_Working-Student---AI-Software-Engineer.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_Working-Student---AI-Software-Engineer.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_Working-Student---AI-Software-Engineer.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---AI-Software-Engineer.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---AI-Software-Engineer.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://jobs.sap.com/job/Walldorf-Working-Student-%28fmd%29-for-Agentic-AI-and-Robot-Learning-Research-in-Cooperation-with-KIT-69190/1439977333/",
+      "title": "Working Student (f/m/d) for Agentic AI and Robot Learning Research in Cooperation with KIT",
+      "company": "SAP",
+      "portal": "unknown",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP_Working-Student-for-Agentic-AI-and-Robot.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP_Working-Student-for-Agentic-AI-and-Robot.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP_Working-Student-for-Agentic-AI-and-Robot.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP_Working-Student-for-Agentic-AI-and-Robot.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student-for-Agentic-AI-and-Robot-Learning-Research-in-Cooperation-with-K.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student-for-Agentic-AI-and-Robot-Learning-Research-in-Cooperation-with-K.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155471839/it-business-services-consultant/",
+      "title": "IT Business Services Consultant",
+      "company": "SAP SE",
+      "portal": "successfactors",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP-SE_IT-Business-Services-Consultant.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP-SE_IT-Business-Services-Consultant.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP-SE_IT-Business-Services-Consultant.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP-SE_IT-Business-Services-Consultant.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\IT-Business-Services-Consultant.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\IT-Business-Services-Consultant.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155471239/diploma-student-intern-business-transformation-intern/",
+      "title": "Diploma Student / Intern - Business Transformation Intern",
+      "company": "SAP SE",
+      "portal": "successfactors",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP-SE_Diploma-Student-Intern---Business-Transf.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP-SE_Diploma-Student-Intern---Business-Transf.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP-SE_Diploma-Student-Intern---Business-Transf.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP-SE_Diploma-Student-Intern---Business-Transf.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Diploma-Student-Intern---Business-Transformation-Intern.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Diploma-Student-Intern---Business-Transformation-Intern.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155408689/diploma-student-intern/",
+      "title": "Diploma Student / Intern",
+      "company": "SAP SE",
+      "portal": "successfactors",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP-SE_Diploma-Student-Intern-2.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP-SE_Diploma-Student-Intern-2.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP-SE_Diploma-Student-Intern-2.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP-SE_Diploma-Student-Intern-2.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Diploma-Student-Intern-2.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Diploma-Student-Intern-2.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155365399/sap-ixp-intern-technical-quality-manager-services-engagement/",
+      "title": "SAP iXp Intern - Technical Quality Manager | Services Engagement",
+      "company": "SAP SE",
+      "portal": "successfactors",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP-SE_SAP-iXp-Intern---Technical-Quality-Manag.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP-SE_SAP-iXp-Intern---Technical-Quality-Manag.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP-SE_SAP-iXp-Intern---Technical-Quality-Manag.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP-SE_SAP-iXp-Intern---Technical-Quality-Manag.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\SAP-iXp-Intern---Technical-Quality-Manager-Services-Engagement.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\SAP-iXp-Intern---Technical-Quality-Manager-Services-Engagement.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://jobs.sap.com/en/jobs/744000155306107/ui-developer/",
+      "title": "UI Developer",
+      "company": "SAP SE",
+      "portal": "successfactors",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_SAP-SE_UI-Developer.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SAP-SE_UI-Developer.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_SAP-SE_UI-Developer.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SAP-SE_UI-Developer.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\UI-Developer.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\UI-Developer.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "missing": [],
+      "artifacts_complete": true
+    }
+  ]
+}

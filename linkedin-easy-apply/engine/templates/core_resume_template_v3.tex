@@ -1,0 +1,80 @@
+% core_resume_template_v3.tex - ATS resume, plan v3 (2026-10-17).
+%
+% Single column, standard section headers on their own line, no columns or
+% tables (Textkernel quality codes 151/433), <= 2 pages (German norm).
+% Font recipe validated on this repo's tectonic (2026-10-17 test): cfr-lm under
+% XeTeX dropped U+2014/U+2019 ("Software Engineer Soham Infotech", "Runners Up");
+% Pagella alone merged words in extraction ("efficientoffice"). Only Pagella +
+% Ligatures=NoCommon + \raggedright + \spaceskip 0.34em extracts cleanly.
+% Every token is pre-rendered by templates/render.py (fill.py never escapes).
+\documentclass[a4paper,10pt]{article}
+
+\usepackage[left=1.5cm,right=1.5cm,top=1.2cm,bottom=1.2cm]{geometry}
+\usepackage{fontspec}
+\setmainfont{texgyrepagella}[Ligatures=NoCommon, Extension=.otf, UprightFont=*-regular, BoldFont=*-bold, ItalicFont=*-italic, BoldItalicFont=*-bolditalic]
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+\hypersetup{pdftitle={@@PDF_TITLE@@}, pdfauthor={@@NAME@@}}
+
+\pagestyle{empty}
+\raggedright
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\spaceskip}{0.34em plus 0.08em minus 0.02em}
+\setlength{\xspaceskip}{0.34em plus 0.08em minus 0.02em}
+
+\setlist[itemize]{leftmargin=1.2em,nosep,topsep=1pt,itemsep=1pt,parsep=0pt}
+\titleformat{\section}{\large\bfseries}{}{0pt}{}[\vspace{-5pt}\rule{\textwidth}{0.5pt}]
+\titlespacing*{\section}{0pt}{8pt}{4pt}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE\bfseries @@NAME@@}\par\vspace{3pt}
+  {\large @@HEADLINE@@}\par\vspace{3pt}
+  {\small @@CONTACT_LINE@@}\par\vspace{2pt}
+  {\small @@AVAILABILITY@@}\par
+\end{center}
+
+\section*{Profile}
+@@PROFILE@@\par
+
+\section*{Technical Skills}
+\begin{itemize}
+@@SKILLS_ROWS@@
+\end{itemize}
+
+\section*{Work Experience}
+@@EXPERIENCE@@
+
+\section*{Projects}
+@@PROJECTS@@
+
+\section*{Education}
+@@EDUCATION@@
+
+\section*{Research}
+\begin{itemize}
+@@RESEARCH@@
+\end{itemize}
+
+\section*{Achievements}
+\begin{itemize}
+@@ACHIEVEMENTS@@
+\end{itemize}
+
+\section*{Certifications}
+\begin{itemize}
+@@CERTIFICATIONS@@
+\end{itemize}
+
+\section*{Additional Projects}
+\begin{itemize}
+@@ADDITIONAL_PROJECTS@@
+\end{itemize}
+
+\section*{Languages}
+@@SPOKEN_LANGUAGES@@\par
+
+\end{document}

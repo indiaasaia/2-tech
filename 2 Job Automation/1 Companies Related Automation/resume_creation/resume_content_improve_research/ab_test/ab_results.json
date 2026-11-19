@@ -1,0 +1,1440 @@
+{
+  "generated_at_utc": "2026-09-19T10:03:47.928779+00:00",
+  "method": "one neutral judge (v2 verification stack) on both engines' shipped PDFs; yardstick = v2 analyst JD criteria for both",
+  "provenance": [
+    {
+      "file": "Student-HRIS-HR-Operations.pdf",
+      "identical": true
+    },
+    {
+      "file": "Working-student-automation-for-ERS-Europe-Systems-in-Lorsch.pdf",
+      "identical": true
+    },
+    {
+      "file": "Working-Student-AI-Engineer-Agentic-Systems.pdf",
+      "identical": true
+    },
+    {
+      "file": "Working-Student-Intern-Business-Development-Sales-Expansion---Spain.pdf",
+      "identical": true
+    },
+    {
+      "file": "Finance-Intern-Working-Student.pdf",
+      "identical": true
+    },
+    {
+      "file": "Intern-Sales-Client-Success-mfx.pdf",
+      "identical": true
+    },
+    {
+      "file": "Jobs-for-Students.pdf",
+      "identical": true
+    },
+    {
+      "file": "Working-Student-People-Culture.pdf",
+      "identical": true
+    },
+    {
+      "file": "Working-student---Customer-Success-DACH.pdf",
+      "identical": true
+    },
+    {
+      "file": "Working-Student-Marketing.pdf",
+      "identical": true
+    },
+    {
+      "file": "Internship-coating-development.pdf",
+      "identical": true
+    },
+    {
+      "file": "Internship-Business-Development-Foursource-Prime.pdf",
+      "identical": true
+    },
+    {
+      "file": "Werkstudent-Projektmanagement-mit-Schwerpunkt-KI.pdf",
+      "identical": true
+    },
+    {
+      "file": "Working-Student-Project-Product-Management-in-Digital-Automation.pdf",
+      "identical": true
+    },
+    {
+      "file": "Software-Engineering-Intern-Working-Student.pdf",
+      "identical": true
+    },
+    {
+      "file": "Working-Student.pdf",
+      "identical": true
+    },
+    {
+      "file": "Go-to-Market-Working-Student.pdf",
+      "identical": true
+    },
+    {
+      "file": "Internship-or-Master-Thesis-Battery-Analytics-all-genders.pdf",
+      "identical": true
+    },
+    {
+      "file": "Internship-Next-Generation-System-Interaction-with-Eye-Tracking-and-Robotics.pdf",
+      "identical": true
+    },
+    {
+      "file": "Working-Student-2.pdf",
+      "identical": true
+    },
+    {
+      "file": "Working-Student-part-time-Software-QA.pdf",
+      "identical": true
+    }
+  ],
+  "selected": [
+    {
+      "job_url": "https://www.stepstone.de/jobs--Working-Student-Intern-m-f-d-Business-Development-Sales-Expansion-Spain-Remote-Floy-GmbH--14021281-inline.html",
+      "title": "Working Student / Intern (m/f/d) – Business Development | Sales & Expansion - Spain",
+      "company": "Floy GmbH",
+      "v2_reported_score": 93.0
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Finance-Intern-Working-Student-Osnabruck-VisioLab-GmbH--13960810-inline.html",
+      "title": "Finance Intern / Working Student",
+      "company": "VisioLab GmbH",
+      "v2_reported_score": 93.0
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Intern-Sales-Client-Success-m-f-x-Munich-CRX-Markets-AG--14208368-inline.html",
+      "title": "Intern Sales & Client Success (m/f/x)",
+      "company": "CRX Markets AG",
+      "v2_reported_score": 93.0
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Werkstudent-Projektmanagement-mit-Schwerpunkt-KI-m-w-d-Eschborn-Deutsche-WertpapierService-Bank-AG--14438170-inline.html",
+      "title": "Werkstudent Projektmanagement mit Schwerpunkt KI (m/w/d)",
+      "company": "Deutsche WertpapierService Bank AG",
+      "v2_reported_score": 93.0
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Working-student-Customer-Success-DACH-m-f-d-Munich-Mollie-B-V--14397501-inline.html",
+      "title": "Working student - Customer Success DACH (m/f/d)",
+      "company": "Mollie B.V.",
+      "v2_reported_score": 92.9
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/flix-working-student-ba9da933",
+      "title": "Working Student",
+      "company": "Flix",
+      "v2_reported_score": 88.0
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Working-student-automation-m-f-d-for-ERS-Europe-Systems-in-Lorsch-64653-Lorsch-Germany-ERS-EuRope-Systems-GmbH--12554103-inline.html",
+      "title": "Working student automation (m/f/d) for ERS Europe Systems in Lorsch",
+      "company": "ERS EuRope-Systems GmbH",
+      "v2_reported_score": 85.2
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/munich-re-automation-solutions-working-student-project-in-m-c2e121db",
+      "title": "Working Student Project & Product Management in Digital & Automation (m/f/d)*",
+      "company": "Munich Re Automation Solutions",
+      "v2_reported_score": 70.7
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Student-HRIS-HR-Operations-Berlin-ProBioGen-AG--14501762-inline.html",
+      "title": "Student HRIS & HR Operations",
+      "company": "ProBioGen AG",
+      "v2_reported_score": 64.6
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Working-Student-AI-Engineer-Agentic-Systems-m-f-d-Munich-retorio-GmbH--14400893-inline.html",
+      "title": "Working Student: AI Engineer, Agentic Systems (m/f/d)",
+      "company": "retorio GmbH",
+      "v2_reported_score": 50.5
+    }
+  ],
+  "results": [
+    {
+      "job_url": "https://www.stepstone.de/jobs--Working-Student-Intern-m-f-d-Business-Development-Sales-Expansion-Spain-Remote-Floy-GmbH--14021281-inline.html",
+      "title": "Working Student / Intern (m/f/d) – Business Development | Sales & Expansion - Spain",
+      "company": "Floy GmbH",
+      "v1": {
+        "pdf": "Working-Student-Intern-Business-Development-Sales-Expansion---Spain.pdf",
+        "composite_score": 86.3,
+        "breakdown": {
+          "required_coverage": 40.0,
+          "preferred_coverage": 20.0,
+          "parse_fidelity": 11.6,
+          "format_checks": 6.7,
+          "experience_relevance": 5.0,
+          "naturalness": 3.0
+        },
+        "required_coverage": 1.0,
+        "preferred_coverage": 1.0,
+        "required_missing": [],
+        "ineligible_criteria": [],
+        "g1_parse_findings": [
+          "G1: word count 173 outside 200-800 (segmentation/corruption?)"
+        ],
+        "g3_integrity_findings": [
+          "G3: literal 'PROJECT-' in text (replacement-order collision class)",
+          "G3: apostrophe-year date present (Dec'23 style; parser-invisible)"
+        ],
+        "fabrication_audit": {
+          "unlicensed_tech_or_digit_findings": [
+            "G2: tech token 'Flask' is not in the claimable set",
+            "G2: tech token 'Flask' is not in the claimable set",
+            "G2: tech token 'CRM' is not in the claimable set",
+            "G2: number '4915565468731' is not KB-licensed",
+            "G2: number '93' is not KB-licensed",
+            "G2: number '97' is not KB-licensed",
+            "G2: number '23' is not KB-licensed",
+            "G2: number '25' is not KB-licensed",
+            "G2: number '21' is not KB-licensed",
+            "G2: number '22' is not KB-licensed"
+          ],
+          "percentages_in_artifact": [],
+          "finding_count": 10
+        },
+        "fabricated_project_titles": [
+          "Cross-Border Radiology Partner Outreach Initiative",
+          "International Market Entry Analytics Platform"
+        ],
+        "apostrophe_dates": [
+          "Dec’23",
+          "Jan’25",
+          "Dec’21",
+          "Feb’22"
+        ],
+        "ligatures": 0,
+        "sections_found": [
+          "DECLARATION"
+        ],
+        "word_count": 173,
+        "name_email_phone": [
+          true,
+          true,
+          true
+        ]
+      },
+      "v2": {
+        "pdf": "Working-Student-Intern-Business-Development-Sales-Expansion---Spain.pdf",
+        "composite_score": 93.0,
+        "breakdown": {
+          "required_coverage": 40.0,
+          "preferred_coverage": 20.0,
+          "parse_fidelity": 15.0,
+          "format_checks": 10.0,
+          "experience_relevance": 5.0,
+          "naturalness": 3.0
+        },
+        "required_coverage": 1.0,
+        "preferred_coverage": 1.0,
+        "required_missing": [],
+        "ineligible_criteria": [],
+        "g1_parse_findings": [],
+        "g3_integrity_findings": [],
+        "fabrication_audit": {
+          "unlicensed_tech_or_digit_findings": [
+            "G2: tech token 'TensorFlow' is not in the claimable set",
+            "G2: number '49' is not KB-licensed",
+            "G2: number '15565' is not KB-licensed",
+            "G2: number '468731' is not KB-licensed",
+            "G2: number '93' is not KB-licensed",
+            "G2: number '97' is not KB-licensed"
+          ],
+          "percentages_in_artifact": [],
+          "finding_count": 6
+        },
+        "fabricated_project_titles": [],
+        "apostrophe_dates": [],
+        "ligatures": 0,
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "word_count": 594,
+        "name_email_phone": [
+          true,
+          true,
+          true
+        ]
+      },
+      "delta": {
+        "composite": 6.7,
+        "required_coverage": 0.0,
+        "fabrication_findings_removed": 4
+      }
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Finance-Intern-Working-Student-Osnabruck-VisioLab-GmbH--13960810-inline.html",
+      "title": "Finance Intern / Working Student",
+      "company": "VisioLab GmbH",
+      "v1": {
+        "pdf": "Finance-Intern-Working-Student.pdf",
+        "composite_score": 86.8,
+        "breakdown": {
+          "required_coverage": 40.0,
+          "preferred_coverage": 20.0,
+          "parse_fidelity": 12.1,
+          "format_checks": 6.7,
+          "experience_relevance": 5.0,
+          "naturalness": 3.0
+        },
+        "required_coverage": 1.0,
+        "preferred_coverage": 1.0,
+        "required_missing": [],
+        "ineligible_criteria": [],
+        "g1_parse_findings": [
+          "G1: word count 174 outside 200-800 (segmentation/corruption?)"
+        ],
+        "g3_integrity_findings": [
+          "G3: literal 'PROJECT-' in text (replacement-order collision class)",
+          "G3: apostrophe-year date present (Dec'23 style; parser-invisible)"
+        ],
+        "fabrication_audit": {
+          "unlicensed_tech_or_digit_findings": [
+            "G2: tech token 'Flask' is not in the claimable set",
+            "G2: tech token 'Flask' is not in the claimable set",
+            "G2: tech token 'Excel' is not in the claimable set",
+            "G2: tech token 'HubSpot' is not in the claimable set",
+            "G2: number '4915565468731' is not KB-licensed",
+            "G2: number '93' is not KB-licensed",
+            "G2: number '97' is not KB-licensed",
+            "G2: number '23' is not KB-licensed",
+            "G2: number '25' is not KB-licensed",
+            "G2: number '21' is not KB-licensed",
+            "G2: number '22' is not KB-licensed"
+          ],
+          "percentages_in_artifact": [],
+          "finding_count": 11
+        },
+        "fabricated_project_titles": [
+          "Automated Budget vs Actuals Reporting System",
+          "Integrated Asset Inventory & ESG Tracking System"
+        ],
+        "apostrophe_dates": [
+          "Dec’23",
+          "Jan’25",
+          "Dec’21",
+          "Feb’22"
+        ],
+        "ligatures": 0,
+        "sections_found": [
+          "DECLARATION"
+        ],
+        "word_count": 174,
+        "name_email_phone": [
+          true,
+          true,
+          true
+        ]
+      },
+      "v2": {
+        "pdf": "Finance-Intern-Working-Student.pdf",
+        "composite_score": 93.0,
+        "breakdown": {
+          "required_coverage": 40.0,
+          "preferred_coverage": 20.0,
+          "parse_fidelity": 15.0,
+          "format_checks": 10.0,
+          "experience_relevance": 5.0,
+          "naturalness": 3.0
+        },
+        "required_coverage": 1.0,
+        "preferred_coverage": 1.0,
+        "required_missing": [],
+        "ineligible_criteria": [],
+        "g1_parse_findings": [],
+        "g3_integrity_findings": [],
+        "fabrication_audit": {
+          "unlicensed_tech_or_digit_findings": [
+            "G2: tech token 'TensorFlow' is not in the claimable set",
+            "G2: number '49' is not KB-licensed",
+            "G2: number '15565' is not KB-licensed",
+            "G2: number '468731' is not KB-licensed",
+            "G2: number '93' is not KB-licensed",
+            "G2: number '97' is not KB-licensed"
+          ],
+          "percentages_in_artifact": [],
+          "finding_count": 6
+        },
+        "fabricated_project_titles": [
+          "Automated Resume Generation System"
+        ],
+        "apostrophe_dates": [],
+        "ligatures": 0,
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "word_count": 604,
+        "name_email_phone": [
+          true,
+          true,
+          true
+        ]
+      },
+      "delta": {
+        "composite": 6.2,
+        "required_coverage": 0.0,
+        "fabrication_findings_removed": 5
+      }
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Intern-Sales-Client-Success-m-f-x-Munich-CRX-Markets-AG--14208368-inline.html",
+      "title": "Intern Sales & Client Success (m/f/x)",
+      "company": "CRX Markets AG",
+      "v1": {
+        "pdf": "Intern-Sales-Client-Success-mfx.pdf",
+        "composite_score": 86.3,
+        "breakdown": {
+          "required_coverage": 40.0,
+          "preferred_coverage": 20.0,
+          "parse_fidelity": 11.6,
+          "format_checks": 6.7,
+          "experience_relevance": 5.0,
+          "naturalness": 3.0
+        },
+        "required_coverage": 1.0,
+        "preferred_coverage": 1.0,
+        "required_missing": [],
+        "ineligible_criteria": [],
+        "g1_parse_findings": [
+          "G1: word count 173 outside 200-800 (segmentation/corruption?)"
+        ],
+        "g3_integrity_findings": [
+          "G3: literal 'PROJECT-' in text (replacement-order collision class)",
+          "G3: apostrophe-year date present (Dec'23 style; parser-invisible)"
+        ],
+        "fabrication_audit": {
+          "unlicensed_tech_or_digit_findings": [
+            "G2: tech token 'Flask' is not in the claimable set",
+            "G2: tech token 'Flask' is not in the claimable set",
+            "G2: tech token 'Excel' is not in the claimable set",
+            "G2: number '4915565468731' is not KB-licensed",
+            "G2: number '93' is not KB-licensed",
+            "G2: number '97' is not KB-licensed",
+            "G2: number '23' is not KB-licensed",
+            "G2: number '25' is not KB-licensed",
+            "G2: number '21' is not KB-licensed",
+            "G2: number '22' is not KB-licensed"
+          ],
+          "percentages_in_artifact": [],
+          "finding_count": 10
+        },
+        "fabricated_project_titles": [
+          "Integrated CRM & Market Forecasting Solution",
+          "Automated Pitch Deck & Financial Modeling Platform"
+        ],
+        "apostrophe_dates": [
+          "Dec’23",
+          "Jan’25",
+          "Dec’21",
+          "Feb’22"
+        ],
+        "ligatures": 0,
+        "sections_found": [
+          "DECLARATION"
+        ],
+        "word_count": 173,
+        "name_email_phone": [
+          true,
+          true,
+          true
+        ]
+      },
+      "v2": {
+        "pdf": "Intern-Sales-Client-Success-mfx.pdf",
+        "composite_score": 93.0,
+        "breakdown": {
+          "required_coverage": 40.0,
+          "preferred_coverage": 20.0,
+          "parse_fidelity": 15.0,
+          "format_checks": 10.0,
+          "experience_relevance": 5.0,
+          "naturalness": 3.0
+        },
+        "required_coverage": 1.0,
+        "preferred_coverage": 1.0,
+        "required_missing": [],
+        "ineligible_criteria": [],
+        "g1_parse_findings": [],
+        "g3_integrity_findings": [],
+        "fabrication_audit": {
+          "unlicensed_tech_or_digit_findings": [
+            "G2: tech token 'TensorFlow' is not in the claimable set",
+            "G2: number '49' is not KB-licensed",
+            "G2: number '15565' is not KB-licensed",
+            "G2: number '468731' is not KB-licensed",
+            "G2: number '93' is not KB-licensed",
+            "G2: number '97' is not KB-licensed"
+          ],
+          "percentages_in_artifact": [],
+          "finding_count": 6
+        },
+        "fabricated_project_titles": [],
+        "apostrophe_dates": [],
+        "ligatures": 0,
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "word_count": 588,
+        "name_email_phone": [
+          true,
+          true,
+          true
+        ]
+      },
+      "delta": {
+        "composite": 6.7,
+        "required_coverage": 0.0,
+        "fabrication_findings_removed": 4
+      }
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Werkstudent-Projektmanagement-mit-Schwerpunkt-KI-m-w-d-Eschborn-Deutsche-WertpapierService-Bank-AG--14438170-inline.html",
+      "title": "Werkstudent Projektmanagement mit Schwerpunkt KI (m/w/d)",
+      "company": "Deutsche WertpapierService Bank AG",
+      "v1": {
+        "pdf": "Werkstudent-Projektmanagement-mit-Schwerpunkt-KI.pdf",
+        "composite_score": 86.3,
+        "breakdown": {
+          "required_coverage": 40.0,
+          "preferred_coverage": 20.0,
+          "parse_fidelity": 11.6,
+          "format_checks": 6.7,
+          "experience_relevance": 5.0,
+          "naturalness": 3.0
+        },
+        "required_coverage": 1.0,
+        "preferred_coverage": 1.0,
+        "required_missing": [],
+        "ineligible_criteria": [],
+        "g1_parse_findings": [
+          "G1: word count 173 outside 200-800 (segmentation/corruption?)"
+        ],
+        "g3_integrity_findings": [
+          "G3: literal 'PROJECT-' in text (replacement-order collision class)",
+          "G3: apostrophe-year date present (Dec'23 style; parser-invisible)"
+        ],
+        "fabrication_audit": {
+          "unlicensed_tech_or_digit_findings": [
+            "G2: tech token 'Flask' is not in the claimable set",
+            "G2: tech token 'Flask' is not in the claimable set",
+            "G2: tech token 'Excel' is not in the claimable set",
+            "G2: number '4915565468731' is not KB-licensed",
+            "G2: number '93' is not KB-licensed",
+            "G2: number '97' is not KB-licensed",
+            "G2: number '23' is not KB-licensed",
+            "G2: number '25' is not KB-licensed",
+            "G2: number '21' is not KB-licensed",
+            "G2: number '22' is not KB-licensed"
+          ],
+          "percentages_in_artifact": [],
+          "finding_count": 10
+        },
+        "fabricated_project_titles": [
+          "KI Use-Case Portfolio Management System",
+          "AI Regulatory Compliance Tracker"
+        ],
+        "apostrophe_dates": [
+          "Dec’23",
+          "Jan’25",
+          "Dec’21",
+          "Feb’22"
+        ],
+        "ligatures": 0,
+        "sections_found": [
+          "DECLARATION"
+        ],
+        "word_count": 173,
+        "name_email_phone": [
+          true,
+          true,
+          true
+        ]
+      },
+      "v2": {
+        "pdf": "Werkstudent-Projektmanagement-mit-Schwerpunkt-KI.pdf",
+        "composite_score": 93.0,
+        "breakdown": {
+          "required_coverage": 40.0,
+          "preferred_coverage": 20.0,
+          "parse_fidelity": 15.0,
+          "format_checks": 10.0,
+          "experience_relevance": 5.0,
+          "naturalness": 3.0
+        },
+        "required_coverage": 1.0,
+        "preferred_coverage": 1.0,
+        "required_missing": [],
+        "ineligible_criteria": [],
+        "g1_parse_findings": [],
+        "g3_integrity_findings": [],
+        "fabrication_audit": {
+          "unlicensed_tech_or_digit_findings": [
+            "G2: tech token 'TensorFlow' is not in the claimable set",
+            "G2: number '49' is not KB-licensed",
+            "G2: number '15565' is not KB-licensed",
+            "G2: number '468731' is not KB-licensed",
+            "G2: number '93' is not KB-licensed",
+            "G2: number '97' is not KB-licensed"
+          ],
+          "percentages_in_artifact": [],
+          "finding_count": 6
+        },
+        "fabricated_project_titles": [],
+        "apostrophe_dates": [],
+        "ligatures": 0,
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "word_count": 595,
+        "name_email_phone": [
+          true,
+          true,
+          true
+        ]
+      },
+      "delta": {
+        "composite": 6.7,
+        "required_coverage": 0.0,
+        "fabrication_findings_removed": 4
+      }
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Working-student-Customer-Success-DACH-m-f-d-Munich-Mollie-B-V--14397501-inline.html",
+      "title": "Working student - Customer Success DACH (m/f/d)",
+      "company": "Mollie B.V.",
+      "v1": {
+        "pdf": "Working-student---Customer-Success-DACH.pdf",
+        "composite_score": 86.5,
+        "breakdown": {
+          "required_coverage": 40.0,
+          "preferred_coverage": 20.0,
+          "parse_fidelity": 11.8,
+          "format_checks": 6.7,
+          "experience_relevance": 5.0,
+          "naturalness": 3.0
+        },
+        "required_coverage": 1.0,
+        "preferred_coverage": 1.0,
+        "required_missing": [],
+        "ineligible_criteria": [],
+        "g1_parse_findings": [
+          "G1: word count 173 outside 200-800 (segmentation/corruption?)"
+        ],
+        "g3_integrity_findings": [
+          "G3: literal 'PROJECT-' in text (replacement-order collision class)",
+          "G3: apostrophe-year date present (Dec'23 style; parser-invisible)"
+        ],
+        "fabrication_audit": {
+          "unlicensed_tech_or_digit_findings": [
+            "G2: tech token 'Flask' is not in the claimable set",
+            "G2: tech token 'Flask' is not in the claimable set",
+            "G2: tech token 'Excel' is not in the claimable set",
+            "G2: tech token 'PowerBI' is not in the claimable set",
+            "G2: tech token 'Salesforce' is not in the claimable set",
+            "G2: tech token 'Tableau' is not in the claimable set",
+            "G2: number '4915565468731' is not KB-licensed",
+            "G2: number '93' is not KB-licensed",
+            "G2: number '97' is not KB-licensed",
+            "G2: number '23' is not KB-licensed",
+            "G2: number '25' is not KB-licensed",
+            "G2: number '21' is not KB-licensed",
+            "G2: number '22' is not KB-licensed"
+          ],
+          "percentages_in_artifact": [],
+          "finding_count": 13
+        },
+        "fabricated_project_titles": [
+          "Unified Merchant Feedback Management System",
+          "Merchant Performance Analytics Dashboard"
+        ],
+        "apostrophe_dates": [
+          "Dec’23",
+          "Jan’25",
+          "Dec’21",
+          "Feb’22"
+        ],
+        "ligatures": 0,
+        "sections_found": [
+          "DECLARATION"
+        ],
+        "word_count": 173,
+        "name_email_phone": [
+          true,
+          true,
+          true
+        ]
+      },
+      "v2": {
+        "pdf": "Working-student---Customer-Success-DACH.pdf",
+        "composite_score": 93.0,
+        "breakdown": {
+          "required_coverage": 40.0,
+          "preferred_coverage": 20.0,
+          "parse_fidelity": 15.0,
+          "format_checks": 10.0,
+          "experience_relevance": 5.0,
+          "naturalness": 3.0
+        },
+        "required_coverage": 1.0,
+        "preferred_coverage": 1.0,
+        "required_missing": [],
+        "ineligible_criteria": [],
+        "g1_parse_findings": [],
+        "g3_integrity_findings": [],
+        "fabrication_audit": {
+          "unlicensed_tech_or_digit_findings": [
+            "G2: tech token 'TensorFlow' is not in the claimable set",
+            "G2: number '49' is not KB-licensed",
+            "G2: number '15565' is not KB-licensed",
+            "G2: number '468731' is not KB-licensed",
+            "G2: number '93' is not KB-licensed",
+            "G2: number '97' is not KB-licensed"
+          ],
+          "percentages_in_artifact": [],
+          "finding_count": 6
+        },
+        "fabricated_project_titles": [],
+        "apostrophe_dates": [],
+        "ligatures": 0,
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "word_count": 610,
+        "name_email_phone": [
+          true,
+          true,
+          true
+        ]
+      },
+      "delta": {
+        "composite": 6.5,
+        "required_coverage": 0.0,
+        "fabrication_findings_removed": 7
+      }
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/flix-working-student-ba9da933",
+      "title": "Working Student",
+      "company": "Flix",
+      "v1": {
+        "pdf": "Working-Student.pdf",
+        "composite_score": 34.1,
+        "breakdown": {
+          "required_coverage": 0.0,
+          "preferred_coverage": 7.5,
+          "parse_fidelity": 11.9,
+          "format_checks": 6.7,
+          "experience_relevance": 5.0,
+          "naturalness": 3.0
+        },
+        "required_coverage": 0.0,
+        "preferred_coverage": 0.375,
+        "required_missing": [
+          "Solid foundational SQL knowledge",
+          "Working knowledge of Git"
+        ],
+        "ineligible_criteria": [
+          "Currently enrolled",
+          "3 semesters completed",
+          "Fluent in English"
+        ],
+        "g1_parse_findings": [
+          "G1: word count 171 outside 200-800 (segmentation/corruption?)"
+        ],
+        "g3_integrity_findings": [
+          "G3: literal 'PROJECT-' in text (replacement-order collision class)",
+          "G3: apostrophe-year date present (Dec'23 style; parser-invisible)"
+        ],
+        "fabrication_audit": {
+          "unlicensed_tech_or_digit_findings": [
+            "G2: tech token 'Flask' is not in the claimable set",
+            "G2: tech token 'Flask' is not in the claimable set",
+            "G2: number '4915565468731' is not KB-licensed",
+            "G2: number '93' is not KB-licensed",
+            "G2: number '97' is not KB-licensed",
+            "G2: number '23' is not KB-licensed",
+            "G2: number '25' is not KB-licensed",
+            "G2: number '21' is not KB-licensed",
+            "G2: number '22' is not KB-licensed"
+          ],
+          "percentages_in_artifact": [],
+          "finding_count": 9
+        },
+        "fabricated_project_titles": [
+          "Product Feature Success Analytics Dashboard",
+          "Snowflake Data Quality Automation Pipeline"
+        ],
+        "apostrophe_dates": [
+          "Dec’23",
+          "Jan’25",
+          "Dec’21",
+          "Feb’22"
+        ],
+        "ligatures": 0,
+        "sections_found": [
+          "DECLARATION"
+        ],
+        "word_count": 171,
+        "name_email_phone": [
+          true,
+          true,
+          true
+        ]
+      },
+      "v2": {
+        "pdf": "Working-Student.pdf",
+        "composite_score": 35.5,
+        "breakdown": {
+          "required_coverage": 0.0,
+          "preferred_coverage": 2.5,
+          "parse_fidelity": 15.0,
+          "format_checks": 10.0,
+          "experience_relevance": 5.0,
+          "naturalness": 3.0
+        },
+        "required_coverage": 0.0,
+        "preferred_coverage": 0.125,
+        "required_missing": [
+          "Solid foundational SQL knowledge",
+          "Working knowledge of Git"
+        ],
+        "ineligible_criteria": [
+          "Currently enrolled",
+          "3 semesters completed",
+          "Fluent in English"
+        ],
+        "g1_parse_findings": [],
+        "g3_integrity_findings": [],
+        "fabrication_audit": {
+          "unlicensed_tech_or_digit_findings": [
+            "G2: tech token 'SAP' is not in the claimable set",
+            "G2: tech token 'CRM' is not in the claimable set",
+            "G2: tech token 'TensorFlow' is not in the claimable set",
+            "G2: number '49' is not KB-licensed",
+            "G2: number '15565' is not KB-licensed",
+            "G2: number '468731' is not KB-licensed",
+            "G2: number '93' is not KB-licensed",
+            "G2: number '97' is not KB-licensed"
+          ],
+          "percentages_in_artifact": [],
+          "finding_count": 8
+        },
+        "fabricated_project_titles": [],
+        "apostrophe_dates": [],
+        "ligatures": 0,
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "word_count": 603,
+        "name_email_phone": [
+          true,
+          true,
+          true
+        ]
+      },
+      "delta": {
+        "composite": 1.4,
+        "required_coverage": 0.0,
+        "fabrication_findings_removed": 1
+      }
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Working-student-automation-m-f-d-for-ERS-Europe-Systems-in-Lorsch-64653-Lorsch-Germany-ERS-EuRope-Systems-GmbH--12554103-inline.html",
+      "title": "Working student automation (m/f/d) for ERS Europe Systems in Lorsch",
+      "company": "ERS EuRope-Systems GmbH",
+      "v1": {
+        "pdf": "Working-student-automation-for-ERS-Europe-Systems-in-Lorsch.pdf",
+        "composite_score": 62.3,
+        "breakdown": {
+          "required_coverage": 11.4,
+          "preferred_coverage": 20.0,
+          "parse_fidelity": 11.2,
+          "format_checks": 6.7,
+          "experience_relevance": 10.0,
+          "naturalness": 3.0
+        },
+        "required_coverage": 0.286,
+        "preferred_coverage": 1.0,
+        "required_missing": [
+          "robot-based automation",
+          "automation concepts",
+          "test runs",
+          "error analysis",
+          "design automation components"
+        ],
+        "ineligible_criteria": [],
+        "g1_parse_findings": [
+          "G1: word count 171 outside 200-800 (segmentation/corruption?)"
+        ],
+        "g3_integrity_findings": [
+          "G3: literal 'PROJECT-' in text (replacement-order collision class)",
+          "G3: apostrophe-year date present (Dec'23 style; parser-invisible)"
+        ],
+        "fabrication_audit": {
+          "unlicensed_tech_or_digit_findings": [
+            "G2: tech token 'Flask' is not in the claimable set",
+            "G2: tech token 'Flask' is not in the claimable set",
+            "G2: number '4915565468731' is not KB-licensed",
+            "G2: number '93' is not KB-licensed",
+            "G2: number '97' is not KB-licensed",
+            "G2: number '23' is not KB-licensed",
+            "G2: number '25' is not KB-licensed",
+            "G2: number '21' is not KB-licensed",
+            "G2: number '22' is not KB-licensed"
+          ],
+          "percentages_in_artifact": [],
+          "finding_count": 9
+        },
+        "fabricated_project_titles": [
+          "Modular PLC-Based Automation Cell",
+          "Collaborative Robot Pick-and-Place Integration"
+        ],
+        "apostrophe_dates": [
+          "Dec’23",
+          "Jan’25",
+          "Dec’21",
+          "Feb’22"
+        ],
+        "ligatures": 0,
+        "sections_found": [
+          "DECLARATION"
+        ],
+        "word_count": 171,
+        "name_email_phone": [
+          true,
+          true,
+          true
+        ]
+      },
+      "v2": {
+        "pdf": "Working-student-automation-for-ERS-Europe-Systems-in-Lorsch.pdf",
+        "composite_score": 85.2,
+        "breakdown": {
+          "required_coverage": 28.6,
+          "preferred_coverage": 20.0,
+          "parse_fidelity": 15.0,
+          "format_checks": 10.0,
+          "experience_relevance": 8.6,
+          "naturalness": 3.0
+        },
+        "required_coverage": 0.714,
+        "preferred_coverage": 1.0,
+        "required_missing": [
+          "error analysis",
+          "design automation components"
+        ],
+        "ineligible_criteria": [],
+        "g1_parse_findings": [],
+        "g3_integrity_findings": [],
+        "fabrication_audit": {
+          "unlicensed_tech_or_digit_findings": [
+            "G2: tech token 'TensorFlow' is not in the claimable set",
+            "G2: number '49' is not KB-licensed",
+            "G2: number '15565' is not KB-licensed",
+            "G2: number '468731' is not KB-licensed",
+            "G2: number '93' is not KB-licensed",
+            "G2: number '97' is not KB-licensed"
+          ],
+          "percentages_in_artifact": [],
+          "finding_count": 6
+        },
+        "fabricated_project_titles": [],
+        "apostrophe_dates": [],
+        "ligatures": 0,
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "word_count": 595,
+        "name_email_phone": [
+          true,
+          true,
+          true
+        ]
+      },
+      "delta": {
+        "composite": 22.9,
+        "required_coverage": 0.428,
+        "fabrication_findings_removed": 3
+      }
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/munich-re-automation-solutions-working-student-project-in-m-c2e121db",
+      "title": "Working Student Project & Product Management in Digital & Automation (m/f/d)*",
+      "company": "Munich Re Automation Solutions",
+      "v1": {
+        "pdf": "Working-Student-Project-Product-Management-in-Digital-Automation.pdf",
+        "composite_score": 48.5,
+        "breakdown": {
+          "required_coverage": 24.0,
+          "preferred_coverage": 3.3,
+          "parse_fidelity": 11.5,
+          "format_checks": 6.7,
+          "experience_relevance": 0.0,
+          "naturalness": 3.0
+        },
+        "required_coverage": 0.6,
+        "preferred_coverage": 0.167,
+        "required_missing": [
+          "university student",
+          "German residence permit"
+        ],
+        "ineligible_criteria": [
+          "full-time availability",
+          "6 months availability",
+          "master's degree not completed"
+        ],
+        "g1_parse_findings": [
+          "G1: word count 176 outside 200-800 (segmentation/corruption?)"
+        ],
+        "g3_integrity_findings": [
+          "G3: literal 'PROJECT-' in text (replacement-order collision class)",
+          "G3: apostrophe-year date present (Dec'23 style; parser-invisible)"
+        ],
+        "fabrication_audit": {
+          "unlicensed_tech_or_digit_findings": [
+            "G2: tech token 'Flask' is not in the claimable set",
+            "G2: tech token 'Flask' is not in the claimable set",
+            "G2: number '4915565468731' is not KB-licensed",
+            "G2: number '93' is not KB-licensed",
+            "G2: number '97' is not KB-licensed",
+            "G2: number '23' is not KB-licensed",
+            "G2: number '25' is not KB-licensed",
+            "G2: number '21' is not KB-licensed",
+            "G2: number '22' is not KB-licensed"
+          ],
+          "percentages_in_artifact": [],
+          "finding_count": 9
+        },
+        "fabricated_project_titles": [
+          "Digital Project Tracking Automation",
+          "Product Financial & Risk Management Dashboard"
+        ],
+        "apostrophe_dates": [
+          "Dec’23",
+          "Jan’25",
+          "Dec’21",
+          "Feb’22"
+        ],
+        "ligatures": 0,
+        "sections_found": [
+          "DECLARATION"
+        ],
+        "word_count": 176,
+        "name_email_phone": [
+          true,
+          true,
+          true
+        ]
+      },
+      "v2": {
+        "pdf": "Working-Student-Project-Product-Management-in-Digital-Automation.pdf",
+        "composite_score": 70.7,
+        "breakdown": {
+          "required_coverage": 32.0,
+          "preferred_coverage": 6.7,
+          "parse_fidelity": 15.0,
+          "format_checks": 10.0,
+          "experience_relevance": 4.0,
+          "naturalness": 3.0
+        },
+        "required_coverage": 0.8,
+        "preferred_coverage": 0.333,
+        "required_missing": [
+          "Excel experience"
+        ],
+        "ineligible_criteria": [
+          "full-time availability",
+          "6 months availability",
+          "master's degree not completed"
+        ],
+        "g1_parse_findings": [],
+        "g3_integrity_findings": [],
+        "fabrication_audit": {
+          "unlicensed_tech_or_digit_findings": [
+            "G2: tech token 'TensorFlow' is not in the claimable set",
+            "G2: number '49' is not KB-licensed",
+            "G2: number '15565' is not KB-licensed",
+            "G2: number '468731' is not KB-licensed",
+            "G2: number '93' is not KB-licensed",
+            "G2: number '97' is not KB-licensed"
+          ],
+          "percentages_in_artifact": [],
+          "finding_count": 6
+        },
+        "fabricated_project_titles": [
+          "Automated Resume Generation System"
+        ],
+        "apostrophe_dates": [],
+        "ligatures": 0,
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "word_count": 611,
+        "name_email_phone": [
+          true,
+          true,
+          true
+        ]
+      },
+      "delta": {
+        "composite": 22.2,
+        "required_coverage": 0.2,
+        "fabrication_findings_removed": 3
+      }
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Student-HRIS-HR-Operations-Berlin-ProBioGen-AG--14501762-inline.html",
+      "title": "Student HRIS & HR Operations",
+      "company": "ProBioGen AG",
+      "v1": {
+        "pdf": "Student-HRIS-HR-Operations.pdf",
+        "composite_score": 46.3,
+        "breakdown": {
+          "required_coverage": 0.0,
+          "preferred_coverage": 20.0,
+          "parse_fidelity": 11.0,
+          "format_checks": 6.7,
+          "experience_relevance": 5.6,
+          "naturalness": 3.0
+        },
+        "required_coverage": 0.0,
+        "preferred_coverage": 1.0,
+        "required_missing": [
+          "digitization HR processes",
+          "automation HR processes",
+          "personnel management system rexx",
+          "digital HR tools",
+          "self-service solutions",
+          "administrative HRIS tasks",
+          "high data quality",
+          "system updates",
+          "role permission concepts"
+        ],
+        "ineligible_criteria": [
+          "master data"
+        ],
+        "g1_parse_findings": [
+          "G1: word count 172 outside 200-800 (segmentation/corruption?)"
+        ],
+        "g3_integrity_findings": [
+          "G3: literal 'PROJECT-' in text (replacement-order collision class)",
+          "G3: apostrophe-year date present (Dec'23 style; parser-invisible)"
+        ],
+        "fabrication_audit": {
+          "unlicensed_tech_or_digit_findings": [
+            "G2: tech token 'Flask' is not in the claimable set",
+            "G2: tech token 'Flask' is not in the claimable set",
+            "G2: number '4915565468731' is not KB-licensed",
+            "G2: number '93' is not KB-licensed",
+            "G2: number '97' is not KB-licensed",
+            "G2: number '23' is not KB-licensed",
+            "G2: number '25' is not KB-licensed",
+            "G2: number '21' is not KB-licensed",
+            "G2: number '22' is not KB-licensed"
+          ],
+          "percentages_in_artifact": [],
+          "finding_count": 9
+        },
+        "fabricated_project_titles": [
+          "HRIS Workflow Automation & Data Quality Platform",
+          "Employee Self-Service Portal Integration"
+        ],
+        "apostrophe_dates": [
+          "Dec’23",
+          "Jan’25",
+          "Dec’21",
+          "Feb’22"
+        ],
+        "ligatures": 0,
+        "sections_found": [
+          "DECLARATION"
+        ],
+        "word_count": 172,
+        "name_email_phone": [
+          true,
+          true,
+          true
+        ]
+      },
+      "v2": {
+        "pdf": "Student-HRIS-HR-Operations.pdf",
+        "composite_score": 64.6,
+        "breakdown": {
+          "required_coverage": 13.3,
+          "preferred_coverage": 20.0,
+          "parse_fidelity": 15.0,
+          "format_checks": 10.0,
+          "experience_relevance": 3.3,
+          "naturalness": 3.0
+        },
+        "required_coverage": 0.333,
+        "preferred_coverage": 1.0,
+        "required_missing": [
+          "digitization HR processes",
+          "automation HR processes",
+          "personnel management system rexx",
+          "digital HR tools",
+          "administrative HRIS tasks",
+          "role permission concepts"
+        ],
+        "ineligible_criteria": [
+          "master data"
+        ],
+        "g1_parse_findings": [],
+        "g3_integrity_findings": [],
+        "fabrication_audit": {
+          "unlicensed_tech_or_digit_findings": [
+            "G2: tech token 'TensorFlow' is not in the claimable set",
+            "G2: number '49' is not KB-licensed",
+            "G2: number '15565' is not KB-licensed",
+            "G2: number '468731' is not KB-licensed",
+            "G2: number '93' is not KB-licensed",
+            "G2: number '97' is not KB-licensed"
+          ],
+          "percentages_in_artifact": [],
+          "finding_count": 6
+        },
+        "fabricated_project_titles": [],
+        "apostrophe_dates": [],
+        "ligatures": 0,
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "word_count": 597,
+        "name_email_phone": [
+          true,
+          true,
+          true
+        ]
+      },
+      "delta": {
+        "composite": 18.3,
+        "required_coverage": 0.333,
+        "fabrication_findings_removed": 3
+      }
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Working-Student-AI-Engineer-Agentic-Systems-m-f-d-Munich-retorio-GmbH--14400893-inline.html",
+      "title": "Working Student: AI Engineer, Agentic Systems (m/f/d)",
+      "company": "retorio GmbH",
+      "v1": {
+        "pdf": "Working-Student-AI-Engineer-Agentic-Systems.pdf",
+        "composite_score": 42.7,
+        "breakdown": {
+          "required_coverage": 15.0,
+          "preferred_coverage": 0.0,
+          "parse_fidelity": 11.8,
+          "format_checks": 6.7,
+          "experience_relevance": 6.2,
+          "naturalness": 3.0
+        },
+        "required_coverage": 0.375,
+        "preferred_coverage": 0.0,
+        "required_missing": [
+          "GCP Cloud Run",
+          "CI/CD pipelines",
+          "backend services",
+          "database schema design",
+          "agentic systems design"
+        ],
+        "ineligible_criteria": [],
+        "g1_parse_findings": [
+          "G1: word count 175 outside 200-800 (segmentation/corruption?)"
+        ],
+        "g3_integrity_findings": [
+          "G3: literal 'PROJECT-' in text (replacement-order collision class)",
+          "G3: apostrophe-year date present (Dec'23 style; parser-invisible)"
+        ],
+        "fabrication_audit": {
+          "unlicensed_tech_or_digit_findings": [
+            "G2: tech token 'Flask' is not in the claimable set",
+            "G2: tech token 'Flask' is not in the claimable set",
+            "G2: tech token 'Flask' is not in the claimable set",
+            "G2: tech token 'Flask' is not in the claimable set",
+            "G2: tech token 'TypeScript' is not in the claimable set",
+            "G2: number '4915565468731' is not KB-licensed",
+            "G2: number '93' is not KB-licensed",
+            "G2: number '97' is not KB-licensed",
+            "G2: number '23' is not KB-licensed",
+            "G2: number '25' is not KB-licensed",
+            "G2: number '21' is not KB-licensed",
+            "G2: number '22' is not KB-licensed"
+          ],
+          "percentages_in_artifact": [],
+          "finding_count": 12
+        },
+        "fabricated_project_titles": [
+          "Scalable Multi-Step LLM Agent Platform",
+          "Agentic Evaluation & Observability Platform"
+        ],
+        "apostrophe_dates": [
+          "Dec’23",
+          "Jan’25",
+          "Dec’21",
+          "Feb’22"
+        ],
+        "ligatures": 0,
+        "sections_found": [
+          "DECLARATION"
+        ],
+        "word_count": 175,
+        "name_email_phone": [
+          true,
+          true,
+          true
+        ]
+      },
+      "v2": {
+        "pdf": "Working-Student-AI-Engineer-Agentic-Systems.pdf",
+        "composite_score": 50.5,
+        "breakdown": {
+          "required_coverage": 20.0,
+          "preferred_coverage": 0.0,
+          "parse_fidelity": 15.0,
+          "format_checks": 10.0,
+          "experience_relevance": 2.5,
+          "naturalness": 3.0
+        },
+        "required_coverage": 0.5,
+        "preferred_coverage": 0.0,
+        "required_missing": [
+          "containerization",
+          "backend services",
+          "database schema design",
+          "agentic systems design"
+        ],
+        "ineligible_criteria": [],
+        "g1_parse_findings": [],
+        "g3_integrity_findings": [],
+        "fabrication_audit": {
+          "unlicensed_tech_or_digit_findings": [
+            "G2: tech token 'TensorFlow' is not in the claimable set",
+            "G2: number '49' is not KB-licensed",
+            "G2: number '15565' is not KB-licensed",
+            "G2: number '468731' is not KB-licensed",
+            "G2: number '93' is not KB-licensed",
+            "G2: number '97' is not KB-licensed"
+          ],
+          "percentages_in_artifact": [],
+          "finding_count": 6
+        },
+        "fabricated_project_titles": [],
+        "apostrophe_dates": [],
+        "ligatures": 0,
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "word_count": 590,
+        "name_email_phone": [
+          true,
+          true,
+          true
+        ]
+      },
+      "delta": {
+        "composite": 7.8,
+        "required_coverage": 0.125,
+        "fabrication_findings_removed": 6
+      }
+    }
+  ]
+}

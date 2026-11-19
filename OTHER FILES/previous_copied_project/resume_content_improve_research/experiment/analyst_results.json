@@ -1,0 +1,93 @@
+{
+  "english_jd": {
+    "title": "Student HRIS & HR Operations",
+    "latency_s": 5.6,
+    "json_ok": true,
+    "schema_ok": true,
+    "error": "",
+    "data": {
+      "title_core": "Student HRIS & HR Operations",
+      "language": "en",
+      "required": [
+        "digitization and automation of HR processes",
+        "introduction, further development, and maintenance of digital HR tools and self-service solutions",
+        "administrative tasks in the HRIS",
+        "ensure high data quality and system updates",
+        "maintain master data, workflows, role and permission concepts, as well as system-related documentation"
+      ],
+      "preferred": [],
+      "tools": [
+        "rexx"
+      ],
+      "languages_required": [],
+      "years_experience": null,
+      "domain": "Human Resources",
+      "responsibilities": [
+        "digitization and automation of HR processes",
+        "introduction, further development, and maintenance of digital HR tools and self-service solutions",
+        "administrative tasks in the HRIS",
+        "ensure high data quality and system updates",
+        "maintain master data, workflows, role and permission concepts, as well as system-related documentation"
+      ]
+    },
+    "raw_len": 967
+  },
+  "german_jd": {
+    "title": "Working Student: AI Engineer, Agentic Systems (m/f/d)",
+    "latency_s": 5.3,
+    "json_ok": true,
+    "schema_ok": true,
+    "error": "",
+    "data": {
+      "title_core": "Working Student: AI Engineer, Agentic Systems",
+      "language": "en",
+      "required": [
+        "Python",
+        "GCP",
+        "Cloud Run",
+        "CI/CD",
+        "containerize",
+        "backend services",
+        "APIs",
+        "streaming interfaces",
+        "database",
+        "DevOps",
+        "LLM",
+        "agentic systems",
+        "multi-step reasoning",
+        "tool calling",
+        "MCP",
+        "memory",
+        "retrieval",
+        "structured outputs",
+        "A/B tests",
+        "tracing",
+        "dashboards"
+      ],
+      "preferred": [],
+      "tools": [
+        "Python",
+        "Google Cloud Platform",
+        "Cloud Run",
+        "CI/CD",
+        "Docker"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "Artificial Intelligence",
+      "responsibilities": [
+        "Design and build agentic systems",
+        "Run the research loop",
+        "Evaluate rigorously",
+        "Build the backend around the agents",
+        "Own the DevOps"
+      ]
+    },
+    "raw_len": 947
+  }
+}

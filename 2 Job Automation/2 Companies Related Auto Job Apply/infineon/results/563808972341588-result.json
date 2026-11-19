@@ -1,0 +1,51 @@
+{
+ "status": "DRY_RUN",
+ "job_id": "563808972341588",
+ "job_url": "https://jobs.infineon.com/careers/apply?pid=563808972341588",
+ "resume": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\auto-job-apply\\infineon\\sub_program_files\\output\\resume\\pdf\\Working-Student---Quality-Assurance-Software-Testing-fmdiv.pdf",
+ "mode": "dry-run",
+ "timestamp": "2026-11-16T17:44:54+00:00",
+ "screenshots": {
+  "01-application-loaded": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\auto-job-apply\\infineon\\results\\01-application-loaded-563808972341588.png",
+  "02-resume-uploaded": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\auto-job-apply\\infineon\\results\\02-resume-uploaded-563808972341588.png",
+  "03-resume-processing-complete": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\auto-job-apply\\infineon\\results\\03-resume-processing-complete-563808972341588.png",
+  "04-contact-information": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\auto-job-apply\\infineon\\results\\04-contact-information-563808972341588.png",
+  "05-additional-information": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\auto-job-apply\\infineon\\results\\05-additional-information-563808972341588.png",
+  "06-germany-specific-information": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\auto-job-apply\\infineon\\results\\06-germany-specific-information-563808972341588.png",
+  "07-before-submit": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\auto-job-apply\\infineon\\results\\07-before-submit-563808972341588.png"
+ },
+ "contact_information": {
+  "first_name": "Raval",
+  "last_name": "Meetkumar",
+  "email": "ravalmeett@gmail.com",
+  "phone": "15565468731",
+  "phone_country_code": "🇩🇪 (+49) Germany"
+ },
+ "errors": [],
+ "confirmation": "",
+ "cookie_banner": true,
+ "resume_confirm_clicked": true,
+ "resume_processing": {
+  "chip_seen": true,
+  "autofill_window_waited": true
+ },
+ "popup": "not-present",
+ "location": {
+  "field_found": true,
+  "value": "Munich",
+  "status": "preselected-aria"
+ },
+ "additional_information": {
+  "^gender\\b": "Male",
+  "country\\s+of\\s+residence": "Germany",
+  "language\\s+of\\s+application": "English"
+ },
+ "start_date": "01 Oct 2026",
+ "disability": "No selection",
+ "position_specific": {
+  "employment_interest": "not present",
+  "availability": "not present"
+ },
+ "validation_errors": [],
+ "submit_button_found": true
+}

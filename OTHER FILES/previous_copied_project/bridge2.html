@@ -1,0 +1,29 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>bridge2</title></head>
+<body>bridge2 ready
+<script>
+(function(){
+  // Generalized bridge: ?m=manifest.json  -> manifest: {"files":[{"path":"/jsdata/x.txt","name":"Resume.pdf"}, ...]}
+  // Fetches each file from this origin, hashes, postMessages all to opener.
+  var q = new URLSearchParams(location.search);
+  var mpath = q.get('m') || '/jsdata/manifest_default.json';
+  function hv(x){var h=5381;for(var i=0;i<x.length;i++){h=((h*33)+x.charCodeAt(i))>>>0;}return h;}
+  function b64len(b){ return Math.floor(b.length*3/4) - (b.endsWith('==')?2:(b.endsWith('=')?1:0)); }
+  fetch(mpath,{cache:'no-store'}).then(function(r){return r.json();}).then(function(man){
+    var files = man.files || [];
+    return Promise.all(files.map(function(f){
+      return fetch(f.path,{cache:'no-store'}).then(function(r){return r.text();}).then(function(txt){
+        var b64 = txt.trim();
+        return {name: f.name, b64: b64, bytes: b64len(b64), hash: hv(b64)};
+      });
+    }));
+  }).then(function(payload){
+    var msg = {type:'BRIDGE_FILES', files: payload};
+    window.opener.postMessage(msg, '*');
+    var sum = payload.map(function(p){return p.name+':'+p.bytes+'B';}).join(', ');
+    document.title = 'sent '+payload.length+' files';
+    document.body.textContent = 'sent: ' + sum;
+  }).catch(function(e){ document.title = 'bridge error'; document.body.textContent = 'error: '+e.message; });
+})();
+</script>
+</body></html>

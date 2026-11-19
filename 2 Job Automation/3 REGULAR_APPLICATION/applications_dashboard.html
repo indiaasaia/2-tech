@@ -1,0 +1,945 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Job Application Command Center | Meetkumar Raval</title>
+<style>
+  :root {
+    --bg: #0b0f19;
+    --surface: #111827;
+    --surface-elevated: #1f2937;
+    --surface-hover: #263346;
+    --border: #242f42;
+    --border-light: #334155;
+    --text: #f8fafc;
+    --text-muted: #94a3b8;
+    --text-dim: #64748b;
+    --primary: #3b82f6;
+    --primary-hover: #2563eb;
+    --primary-dim: rgba(59, 130, 246, 0.12);
+    --success: #10b981;
+    --success-dim: rgba(16, 185, 129, 0.12);
+    --warning: #f59e0b;
+    --warning-dim: rgba(245, 158, 11, 0.12);
+    --danger: #ef4444;
+    --purple: #8b5cf6;
+    --purple-dim: rgba(139, 92, 246, 0.12);
+    --radius-sm: 6px;
+    --radius-md: 10px;
+    --radius-lg: 14px;
+    --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    --mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: var(--font);
+    background-color: var(--bg);
+    color: var(--text);
+    line-height: 1.5;
+    padding: 24px;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .container {
+    max-width: 1540px;
+    margin: 0 auto;
+  }
+
+  /* Header banner */
+  header {
+    background: linear-gradient(180deg, #162032 0%, #111827 100%);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 22px 26px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+  }
+
+  .header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin-bottom: 18px;
+  }
+
+  .header-title h1 {
+    font-size: 23px;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .header-title p {
+    color: var(--text-muted);
+    font-size: 13.5px;
+    margin-top: 3px;
+  }
+
+  .badge-tag {
+    display: inline-flex;
+    align-items: center;
+    padding: 3px 9px;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border-radius: 999px;
+    background: var(--primary-dim);
+    color: #60a5fa;
+    border: 1px solid rgba(96,165,250,0.3);
+  }
+
+  /* Fast Quick-Copy Toolbar */
+  .quick-copy-bar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    background: rgba(0,0,0,0.3);
+    border: 1px solid var(--border);
+    padding: 12px 14px;
+    border-radius: var(--radius-md);
+  }
+
+  .quick-copy-title {
+    width: 100%;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--text-dim);
+    margin-bottom: 4px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .btn-copy {
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-light);
+    color: var(--text);
+    padding: 6px 12px;
+    font-size: 12px;
+    font-weight: 500;
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    transition: all 0.15s ease;
+    user-select: none;
+  }
+
+  .btn-copy:hover {
+    background: var(--surface-hover);
+    border-color: var(--primary);
+    color: #fff;
+    transform: translateY(-1px);
+  }
+
+  .btn-copy:active {
+    transform: translateY(0);
+  }
+
+  /* Metrics summary cards */
+  .metrics-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+
+  .metric-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: 14px 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .metric-label {
+    font-size: 11.5px;
+    color: var(--text-muted);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
+  .metric-value {
+    font-size: 24px;
+    font-weight: 700;
+    color: #fff;
+    margin-top: 4px;
+    display: flex;
+    align-items: baseline;
+    gap: 6px;
+  }
+
+  .metric-sub {
+    font-size: 11.5px;
+    color: var(--text-dim);
+    font-weight: 400;
+  }
+
+  /* Controls & Search */
+  .controls-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 14px;
+  }
+
+  .filter-tabs {
+    display: flex;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: 3px;
+    gap: 3px;
+  }
+
+  .tab-btn {
+    background: transparent;
+    border: none;
+    color: var(--text-muted);
+    padding: 6px 14px;
+    font-size: 12.5px;
+    font-weight: 500;
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+
+  .tab-btn:hover {
+    color: var(--text);
+  }
+
+  .tab-btn.active {
+    background: var(--primary);
+    color: #fff;
+    font-weight: 600;
+  }
+
+  .search-box {
+    position: relative;
+    min-width: 290px;
+  }
+
+  .search-box input {
+    width: 100%;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: 8px 14px 8px 34px;
+    color: #fff;
+    font-size: 13px;
+    outline: none;
+    transition: border 0.15s ease;
+  }
+
+  .search-box input:focus {
+    border-color: var(--primary);
+    box-shadow: 0 0 0 2px var(--primary-dim);
+  }
+
+  .search-icon {
+    position: absolute;
+    left: 11px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 14px;
+    height: 14px;
+    opacity: 0.5;
+    pointer-events: none;
+  }
+
+  /* Table styling */
+  .table-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.25);
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+    font-size: 13px;
+  }
+
+  thead th {
+    background: #141b27;
+    color: var(--text-dim);
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 13px 16px;
+    border-bottom: 1px solid var(--border);
+    user-select: none;
+    white-space: nowrap;
+  }
+
+  tbody tr {
+    border-bottom: 1px solid var(--border);
+    transition: background 0.12s ease;
+  }
+
+  tbody tr:hover {
+    background: rgba(255,255,255,0.02);
+  }
+
+  tbody tr.is-applied {
+    opacity: 0.55;
+    background: rgba(16, 185, 129, 0.02);
+  }
+
+  td {
+    padding: 12px 16px;
+    vertical-align: middle;
+  }
+
+  .col-status { width: 120px; }
+  .col-company { width: 220px; }
+  .col-title { min-width: 270px; }
+  .col-fit { width: 140px; text-align: center; }
+  .col-docs { width: 240px; }
+  .col-actions { width: 170px; text-align: right; }
+
+  /* Status Dropdown */
+  .status-select {
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-light);
+    color: var(--text);
+    font-size: 11.5px;
+    font-weight: 600;
+    padding: 4px 7px;
+    border-radius: var(--radius-sm);
+    outline: none;
+    cursor: pointer;
+  }
+
+  .status-select.to-apply { color: #60a5fa; border-color: rgba(96,165,250,0.4); }
+  .status-select.applied { color: #34d399; border-color: rgba(52,211,153,0.4); background: rgba(52,211,153,0.1); }
+  .status-select.interview { color: #fbbf24; border-color: rgba(251,191,36,0.4); background: rgba(251,191,36,0.1); }
+  .status-select.skipped { color: var(--text-dim); border-color: var(--border); }
+
+  /* Company & Role */
+  .company-cell {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+  }
+
+  .company-name {
+    font-weight: 600;
+    color: #fff;
+    font-size: 13.5px;
+  }
+
+  .portal-pill {
+    display: inline-flex;
+    align-items: center;
+    width: fit-content;
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: rgba(255,255,255,0.06);
+    color: var(--text-dim);
+  }
+
+  .role-title {
+    font-weight: 600;
+    color: #e2e8f0;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    transition: color 0.15s;
+  }
+
+  .role-title:hover {
+    color: var(--primary);
+    text-decoration: underline;
+  }
+
+  .role-sub {
+    font-size: 11.5px;
+    color: var(--text-dim);
+    margin-top: 2px;
+  }
+
+  /* Fit Tiers */
+  .tier-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3px 10px;
+    border-radius: 999px;
+    font-size: 10.5px;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  .tier-strong {
+    background: var(--success-dim);
+    color: #34d399;
+    border: 1px solid rgba(52,211,153,0.3);
+  }
+
+  .tier-good {
+    background: var(--primary-dim);
+    color: #60a5fa;
+    border: 1px solid rgba(96,165,250,0.3);
+  }
+
+  .tier-stretch {
+    background: var(--warning-dim);
+    color: #fbbf24;
+    border: 1px solid rgba(251,191,36,0.3);
+  }
+
+  .fit-numbers {
+    font-size: 11px;
+    color: var(--text-dim);
+    margin-top: 3px;
+    font-family: var(--mono);
+  }
+
+  /* Document link buttons */
+  .doc-btn-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+  }
+
+  .doc-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 4px 7px;
+    font-size: 11.5px;
+    font-weight: 600;
+    border-radius: var(--radius-sm);
+    text-decoration: none;
+    transition: all 0.15s ease;
+    border: 1px solid transparent;
+  }
+
+  .doc-btn-pdf {
+    background: rgba(239, 68, 68, 0.12);
+    color: #f87171;
+    border-color: rgba(239, 68, 68, 0.25);
+  }
+  .doc-btn-pdf:hover {
+    background: rgba(239, 68, 68, 0.22);
+    color: #fca5a5;
+  }
+
+  .doc-btn-docx {
+    background: rgba(59, 130, 246, 0.12);
+    color: #60a5fa;
+    border-color: rgba(59, 130, 246, 0.25);
+  }
+  .doc-btn-docx:hover {
+    background: rgba(59, 130, 246, 0.22);
+    color: #93c5fd;
+  }
+
+  .doc-btn-prep {
+    background: rgba(139, 92, 246, 0.12);
+    color: #a78bfa;
+    border-color: rgba(139, 92, 246, 0.25);
+  }
+  .doc-btn-prep:hover {
+    background: rgba(139, 92, 246, 0.22);
+    color: #c4b5fd;
+  }
+
+  /* Action buttons */
+  .action-col {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 6px;
+  }
+
+  .btn-copy-letter {
+    background: #2563eb;
+    color: #fff;
+    border: none;
+    padding: 6px 10px;
+    font-size: 11.5px;
+    font-weight: 600;
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    transition: all 0.15s ease;
+    white-space: nowrap;
+  }
+
+  .btn-copy-letter:hover {
+    background: #1d4ed8;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(37,99,235,0.4);
+  }
+
+  .btn-details {
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-light);
+    color: var(--text-muted);
+    padding: 6px 9px;
+    font-size: 12px;
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+
+  .btn-details:hover {
+    color: #fff;
+    background: var(--surface-hover);
+  }
+
+  /* Drawer / Detail View */
+  .drawer-row {
+    background: #0d121c;
+    border-bottom: 2px solid var(--border);
+  }
+
+  .drawer-content {
+    padding: 18px 22px;
+    display: grid;
+    grid-template-columns: 1.1fr 0.9fr;
+    gap: 20px;
+  }
+
+  .drawer-box {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: 16px;
+  }
+
+  .drawer-box-title {
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-muted);
+    margin-bottom: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .letter-preview {
+    background: #090d15;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 14px;
+    font-family: var(--mono);
+    font-size: 11.5px;
+    color: #cbd5e1;
+    max-height: 280px;
+    overflow-y: auto;
+    white-space: pre-wrap;
+    line-height: 1.6;
+  }
+
+  .prep-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 6px;
+  }
+
+  .prep-tag {
+    background: rgba(245, 158, 11, 0.12);
+    border: 1px solid rgba(245, 158, 11, 0.25);
+    color: #fcd34d;
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: 500;
+  }
+
+  .notice-banner {
+    background: rgba(59, 130, 246, 0.08);
+    border-left: 3px solid var(--primary);
+    padding: 10px 14px;
+    font-size: 12.5px;
+    color: #93c5fd;
+    border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+    margin-bottom: 12px;
+  }
+
+  /* Toast Notification */
+  .toast {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    background: #10b981;
+    color: #fff;
+    padding: 12px 20px;
+    border-radius: var(--radius-md);
+    font-size: 13.5px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+    transform: translateY(100px);
+    opacity: 0;
+    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+    z-index: 1000;
+  }
+
+  .toast.show {
+    transform: translateY(0);
+    opacity: 1;
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+
+  <!-- Header -->
+  <header>
+    <div class="header-top">
+      <div class="header-title">
+        <h1>
+          <span>⚡ Application Command Center</span>
+          <span class="badge-tag">24H Verified</span>
+        </h1>
+        <p>Candidate: <strong>Meetkumar Riteshkumar Raval</strong> | MSc Artificial Intelligence @ BTU Cottbus-Senftenberg | Valid Permit until Dec 2028</p>
+      </div>
+      <div>
+        <a href="documents/certificate_of_enrolment_small.pdf" target="_blank" class="btn-copy" style="background: rgba(16,185,129,0.12); border-color: rgba(16,185,129,0.3); color: #34d399; font-weight:600;">
+          📄 View Enrolment Certificate
+        </a>
+      </div>
+    </div>
+
+    <!-- Quick Copy Hub -->
+    <div class="quick-copy-bar">
+      <div class="quick-copy-title">
+        <span>⚡ 1-Click Form Autofill (Click to copy exact info for online portals - Zero Typos)</span>
+        <span style="color:var(--text-dim)">Click any button to copy</span>
+      </div>
+      <button class="btn-copy" onclick="copyText('Meetkumar Riteshkumar Raval', 'Full Name')">👤 Name</button>
+      <button class="btn-copy" onclick="copyText('ravalmeett@gmail.com', 'Email')">✉️ Email</button>
+      <button class="btn-copy" onclick="copyText('+49 15565 468731', 'Phone')">📱 Phone</button>
+      <button class="btn-copy" onclick="copyText('Ernestinenstraße 21, 45141 Essen, Germany', 'Address')">📍 Address</button>
+      <button class="btn-copy" onclick="copyText('https://www.linkedin.com/in/meetraval/', 'LinkedIn URL')">🔗 LinkedIn</button>
+      <button class="btn-copy" onclick="copyText('https://github.com/ravalmeet', 'GitHub URL')">🐙 GitHub</button>
+      <button class="btn-copy" onclick="copyText('https://raval.vercel.app/', 'Portfolio URL')">🌐 Portfolio</button>
+      <button class="btn-copy" onclick="copyText('Student residence permit valid until December 2028 - eligible for working-student jobs and internships in Germany', 'Work Authorization Note')">🛡️ Work Permit Note</button>
+      <button class="btn-copy" onclick="copyText('20 h/week during lecture periods, up to 40 h/week in semester breaks or internships', 'Availability Note')">⏱️ Hours & Availability</button>
+    </div>
+  </header>
+
+  <!-- Metrics Cards -->
+  <div class="metrics-grid">
+    <div class="metric-card">
+      <span class="metric-label">Verified Postings</span>
+      <div class="metric-value">10 <span class="metric-sub">last 24h</span></div>
+    </div>
+    <div class="metric-card" style="border-left: 3px solid #10b981;">
+      <span class="metric-label" style="color: #34d399;">Strong Fit (&ge;60% KB)</span>
+      <div class="metric-value" style="color: #34d399;">2 <span class="metric-sub">apply first</span></div>
+    </div>
+    <div class="metric-card" style="border-left: 3px solid #3b82f6;">
+      <span class="metric-label" style="color: #60a5fa;">Good Fit (&ge;40% KB)</span>
+      <div class="metric-value" style="color: #60a5fa;">3 <span class="metric-sub">solid match</span></div>
+    </div>
+    <div class="metric-card" style="border-left: 3px solid #f59e0b;">
+      <span class="metric-label" style="color: #fbbf24;">Stretch (&lt;40% KB)</span>
+      <div class="metric-value" style="color: #fbbf24;">5 <span class="metric-sub">prep required</span></div>
+    </div>
+    <div class="metric-card">
+      <span class="metric-label">ATS Keyword Guarantee</span>
+      <div class="metric-value" style="color: #10b981;">100% <span class="metric-sub">all resumes</span></div>
+    </div>
+  </div>
+
+  <!-- Filters & Controls -->
+  <div class="controls-bar">
+    <div class="filter-tabs">
+      <button class="tab-btn active" onclick="setFilter('all', this)">All Jobs (10)</button>
+      <button class="tab-btn" onclick="setFilter('strong', this)">Strong Fit</button>
+      <button class="tab-btn" onclick="setFilter('good', this)">Good Fit</button>
+      <button class="tab-btn" onclick="setFilter('stretch', this)">Stretch</button>
+      <button class="tab-btn" onclick="setFilter('to-apply', this)">To Apply</button>
+      <button class="tab-btn" onclick="setFilter('applied', this)">Applied</button>
+    </div>
+    <div class="search-box">
+      <svg class="search-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+      <input type="text" id="searchInput" placeholder="Search company, title, or skills..." oninput="handleSearch()">
+    </div>
+  </div>
+
+  <!-- Main Table -->
+  <div class="table-card">
+    <table>
+      <thead>
+        <tr>
+          <th class="col-status">Status</th>
+          <th class="col-company">Company</th>
+          <th class="col-title">Role / Posting</th>
+          <th class="col-fit">Fit &amp; Match</th>
+          <th class="col-docs">Tailored Documents</th>
+          <th class="col-actions">Quick Actions</th>
+        </tr>
+      </thead>
+      <tbody id="jobsTableBody">
+        <!-- Rendered via JavaScript -->
+      </tbody>
+    </table>
+  </div>
+
+</div>
+
+<!-- Toast element -->
+<div id="toast" class="toast">
+  <span>✓ Copied to clipboard!</span>
+</div>
+
+<script>
+const JOBS = [{"id": 1, "title": "Working Student QA in Mobile App Development (m|f|d)", "company": "idealo internet GmbH", "job_url": "https://www.workingstudentjobs.de/jobs/idealo-internet-gmbh-working-student-qa-in-mobile-app-m-f-d-b3f267d5", "portal": "workingstudentjobs", "fit_tier": "strong", "score": 46.0, "kb_backed_share": 0.75, "keyword_coverage": 1.0, "prep_terms": ["QA", "Test Automation"], "top_gaps": ["practical QA experience", "investigate technical issues", "analytical mindset", "integration testing"], "notes": "PDF upload; if the form has a message field, paste the .txt version.", "upload_slot": "Cover letter / Anschreiben upload", "missing": [], "requested_documents": [], "res_pdf": "output/applications/resume/pdf/Meetkumar_Raval_CV_idealo-internet-GmbH_Working-Student-QA-in-Mobile-App.pdf", "res_docx": "output/applications/resume/docx/Meetkumar_Raval_CV_idealo-internet-GmbH_Working-Student-QA-in-Mobile-App.docx", "let_pdf": "output/applications/letters/pdf/Meetkumar_Raval_Cover_Letter_idealo-internet-GmbH_Working-Student-QA-in-Mobile-App.pdf", "let_docx": "output/applications/letters/docx/Meetkumar_Raval_Cover_Letter_idealo-internet-GmbH_Working-Student-QA-in-Mobile-App.docx", "let_txt": "output/applications/letters/textfield/Meetkumar_Raval_Cover_Letter_idealo-internet-GmbH_Working-Student-QA-in-Mobile-App.txt", "letter_content": "Meetkumar Riteshkumar Raval\nErnestinenstraße 21, 45141 Essen, Germany\n+49 15565 468731 | ravalmeett@gmail.com\nhttps://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/\n\nidealo internet GmbH\nBerlin, DE\n\nEssen, 02.11.2026\n\nApplication for Working Student QA in Mobile App Development (m|f|d)\n\nDear Hiring Team,\n\nI am applying for the Working Student QA in Mobile App Development position at idealo internet GmbH. My MSc in Artificial Intelligence and my experience as a Software Engineer match the role's focus on REST APIs.\nAt Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles. My toolkit also includes Test Automation, Software Development and frontend.\nI am driven by connecting software engineering with AI agents to automate structured code and text transformations. I would bring my hands-on experience with REST APIs to the responsibilities in the posting and keep developing it in your team.\nI am enrolled in the MSc Artificial Intelligence at BTU Cottbus-Senftenberg until October 2027 and available immediately: 20 hours per week during lecture periods and up to 40 hours per week in semester breaks or for an internship, with no fixed end date. My student residence permit is valid until December 2028. I would be glad to discuss my application in a personal or video interview.\n\nKind regards\n\nMeetkumar Riteshkumar Raval\n", "prep_file": "output/applications/prep/idealo-internet-GmbH_Working-Student-QA-in-Mobile-App-Development-mfd.md", "letter_source": "fallback"}, {"id": 2, "title": "Internship - Agentic AI and Test-Driven Development (m/f/d)", "company": "BSH Home Appliances Group", "job_url": "https://www.workingstudentjobs.de/jobs/bsh-home-appliances-group-internship-agentic-ai-and-test-m-f-83263da8", "portal": "workingstudentjobs", "fit_tier": "strong", "score": 88.0, "kb_backed_share": 0.647, "keyword_coverage": 1.0, "prep_terms": ["Data Science", "Software Testing", "CI/CD pipelines", "Test-Driven Development (TDD)", "Claude Code", "Debugging"], "top_gaps": ["Strong programming skills", "generative AI applications"], "notes": "PDF upload; if the form has a message field, paste the .txt version.", "upload_slot": "Cover letter / Anschreiben upload", "missing": [], "requested_documents": [], "res_pdf": "output/applications/resume/pdf/Meetkumar_Raval_CV_BSH-Home-Appliances-Group_Internship-Agentic-AI-and-Test-Driven.pdf", "res_docx": "output/applications/resume/docx/Meetkumar_Raval_CV_BSH-Home-Appliances-Group_Internship-Agentic-AI-and-Test-Driven.docx", "let_pdf": "output/applications/letters/pdf/Meetkumar_Raval_Cover_Letter_BSH-Home-Appliances-Group_Internship-Agentic-AI-and-Test-Driven.pdf", "let_docx": "output/applications/letters/docx/Meetkumar_Raval_Cover_Letter_BSH-Home-Appliances-Group_Internship-Agentic-AI-and-Test-Driven.docx", "let_txt": "output/applications/letters/textfield/Meetkumar_Raval_Cover_Letter_BSH-Home-Appliances-Group_Internship-Agentic-AI-and-Test-Driven.txt", "letter_content": "Meetkumar Riteshkumar Raval\nErnestinenstraße 21, 45141 Essen, Germany\n+49 15565 468731 | ravalmeett@gmail.com\nhttps://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/\n\nBSH Home Appliances Group\nMunich, DE\n\nEssen, 02.11.2026\n\nApplication for Internship - Agentic AI and Test-Driven Development (m/f/d) - Reference: 76048341\n\nDear Hiring Team,\n\nI am applying for the Internship - Agentic AI and Test-Driven Development position at BSH Home Appliances Group. My MSc in Artificial Intelligence and my experience as a Software Engineer match the role's focus on Python and Artificial Intelligence.\nAt Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles. My toolkit also includes Data Science, Software Testing, CI/CD pipelines, Test-Driven Development (TDD) and Git.\nI am driven by connecting software engineering with AI agents to automate structured code and text transformations. I would bring my hands-on experience with Python, Artificial Intelligence and AI Agents to the responsibilities in the posting and keep developing it in your team.\nI am enrolled in the MSc Artificial Intelligence at BTU Cottbus-Senftenberg until October 2027 and available immediately: 20 hours per week during lecture periods and up to 40 hours per week in semester breaks or for an internship, with no fixed end date. My degree includes a mandatory internship, which this position could fulfil. My student residence permit is valid until December 2028. I would be glad to discuss my application in a personal or video interview.\n\nKind regards\n\nMeetkumar Riteshkumar Raval\n", "prep_file": "output/applications/prep/BSH-Home-Appliances-Group_Internship-Agentic-AI-and-Test-Driven-Development.md", "letter_source": "fallback"}, {"id": 3, "title": "Working Student - LLM Inference Performance", "company": "Tensordyne", "job_url": "https://www.workingstudentjobs.de/jobs/tensordyne-working-student-llm-inference-performance-626f6fc4", "portal": "workingstudentjobs", "fit_tier": "good", "score": 95.5, "kb_backed_share": 0.467, "keyword_coverage": 1.0, "prep_terms": ["AI coding agents", "Python SDK", "Rust", "trace visualizations", "LLM inference", "AI accelerator programming", "Embedded Systems", "Optimization"], "top_gaps": ["GPU programming"], "notes": "PDF upload; if the form has a message field, paste the .txt version.", "upload_slot": "Cover letter / Anschreiben upload", "missing": [], "requested_documents": [], "res_pdf": "output/applications/resume/pdf/Meetkumar_Raval_CV_Tensordyne_Working-Student-LLM-Inference.pdf", "res_docx": "output/applications/resume/docx/Meetkumar_Raval_CV_Tensordyne_Working-Student-LLM-Inference.docx", "let_pdf": "output/applications/letters/pdf/Meetkumar_Raval_Cover_Letter_Tensordyne_Working-Student-LLM-Inference.pdf", "let_docx": "output/applications/letters/docx/Meetkumar_Raval_Cover_Letter_Tensordyne_Working-Student-LLM-Inference.docx", "let_txt": "output/applications/letters/textfield/Meetkumar_Raval_Cover_Letter_Tensordyne_Working-Student-LLM-Inference.txt", "letter_content": "Meetkumar Riteshkumar Raval\nErnestinenstraße 21, 45141 Essen, Germany\n+49 15565 468731 | ravalmeett@gmail.com\nhttps://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/\n\nTensordyne\nMunich, DE\n\nEssen, 02.11.2026\n\nApplication for Working Student - LLM Inference Performance\n\nDear Hiring Team,\n\nI am applying for the Working Student - LLM Inference Performance position at Tensordyne. My MSc in Artificial Intelligence and my experience as a Software Engineer match the role's focus on Python and C++.\nAt Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles. My toolkit also includes AI coding agents, Python SDK, Rust, trace visualizations, AI accelerator programming and Embedded Systems.\nI am driven by connecting software engineering with AI agents to automate structured code and text transformations. I would bring my hands-on experience with Python, C++ and AI to the responsibilities in the posting and keep developing it in your team.\nI am enrolled in the MSc Artificial Intelligence at BTU Cottbus-Senftenberg until October 2027 and available immediately: 20 hours per week during lecture periods and up to 40 hours per week in semester breaks or for an internship, with no fixed end date. My student residence permit is valid until December 2028. I would be glad to discuss my application in a personal or video interview.\n\nKind regards\n\nMeetkumar Riteshkumar Raval\n", "prep_file": "output/applications/prep/Tensordyne_Working-Student-LLM-Inference-Performance.md", "letter_source": "fallback"}, {"id": 4, "title": "Working Student AI Automation & Support (d/f/m)", "company": "Bettermile", "job_url": "https://www.workingstudentjobs.de/jobs/bettermile-working-student-ai-automation-support-d-f-m-54ad1d5e", "portal": "workingstudentjobs", "fit_tier": "good", "score": 82.7, "kb_backed_share": 0.429, "keyword_coverage": 1.0, "prep_terms": ["n8n", "Zapier", "SaaS", "Documentation"], "top_gaps": ["self‑sufficient", "ownership of work", "accuracy focus"], "notes": "PDF upload; if the form has a message field, paste the .txt version.", "upload_slot": "Cover letter / Anschreiben upload", "missing": [], "requested_documents": [], "res_pdf": "output/applications/resume/pdf/Meetkumar_Raval_CV_Bettermile_Working-Student-AI-Automation-Support.pdf", "res_docx": "output/applications/resume/docx/Meetkumar_Raval_CV_Bettermile_Working-Student-AI-Automation-Support.docx", "let_pdf": "output/applications/letters/pdf/Meetkumar_Raval_Cover_Letter_Bettermile_Working-Student-AI-Automation-Support.pdf", "let_docx": "output/applications/letters/docx/Meetkumar_Raval_Cover_Letter_Bettermile_Working-Student-AI-Automation-Support.docx", "let_txt": "output/applications/letters/textfield/Meetkumar_Raval_Cover_Letter_Bettermile_Working-Student-AI-Automation-Support.txt", "letter_content": "Meetkumar Riteshkumar Raval\nErnestinenstraße 21, 45141 Essen, Germany\n+49 15565 468731 | ravalmeett@gmail.com\nhttps://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/\n\nBettermile\nBerlin, DE\n\nEssen, 02.11.2026\n\nApplication for Working Student AI Automation & Support (d/f/m)\n\nDear Hiring Team,\n\nI am applying for the Working Student AI Automation & Support position at Bettermile. My MSc in Artificial Intelligence and my Automated Resume Generation project, which employed large language models, AI agents and automated workflows, align directly with the role's focus.\nI have built automated data pipelines and workflows at Soham Infotech, which I can apply to create robust automation solutions. In my Automated Resume Generation project I integrated large language models and AI agents, preparing me to develop AI-driven features. My toolkit also includes n8n, Zapier, SaaS, and Documentation, LLMs and AI Agent.\nI am drawn to Bettermile's supportive environment that offers autonomy and professional growth. Contributing to the User Insights & Support team will let me apply my AI automation skills to enhance user experiences.\nI am enrolled in the MSc Artificial Intelligence at BTU Cottbus-Senftenberg until October 2027 and available immediately: 20 hours per week during lecture periods and up to 40 hours per week in semester breaks or for an internship, with no fixed end date. My student residence permit is valid until December 2028. I would be glad to discuss my application in a personal or video interview.\n\nKind regards\n\nMeetkumar Riteshkumar Raval\n", "prep_file": "output/applications/prep/Bettermile_Working-Student-AI-Automation-Support.md", "letter_source": "llm"}, {"id": 5, "title": "Working Student - Software Engineering (m/f/d)", "company": "Quantum-Systems GmbH", "job_url": "https://www.stepstone.de/jobs--Working-Student-Software-Engineering-m-f-d-Gilching-Quantum-Systems-GmbH--14315638-inline.html", "portal": "stepstone", "fit_tier": "good", "score": 98.0, "kb_backed_share": 0.4, "keyword_coverage": 1.0, "prep_terms": ["CUDA optimization", "NumPy", "PyTorch", "TensorFlow", "OpenCV", "pytest", "Quality Assurance", "Unit Tests", "Embedded Systems", "Deployment", "Fine-Tuning", "Documentation"], "top_gaps": [], "notes": "Upload the PDF in the Anschreiben slot during the online application.", "upload_slot": "Anschreiben / Cover letter document slot", "missing": [], "requested_documents": [], "res_pdf": "output/applications/resume/pdf/Meetkumar_Raval_CV_Quantum-Systems-GmbH_Working-Student-Software-Engineering.pdf", "res_docx": "output/applications/resume/docx/Meetkumar_Raval_CV_Quantum-Systems-GmbH_Working-Student-Software-Engineering.docx", "let_pdf": "output/applications/letters/pdf/Meetkumar_Raval_Cover_Letter_Quantum-Systems-GmbH_Working-Student-Software-Engineering.pdf", "let_docx": "output/applications/letters/docx/Meetkumar_Raval_Cover_Letter_Quantum-Systems-GmbH_Working-Student-Software-Engineering.docx", "let_txt": "output/applications/letters/textfield/Meetkumar_Raval_Cover_Letter_Quantum-Systems-GmbH_Working-Student-Software-Engineering.txt", "letter_content": "Meetkumar Riteshkumar Raval\nErnestinenstraße 21, 45141 Essen, Germany\n+49 15565 468731 | ravalmeett@gmail.com\nhttps://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/\n\nQuantum-Systems GmbH\nGilching\n\nEssen, 02.11.2026\n\nApplication for Working Student - Software Engineering (m/f/d)\n\nDear Hiring Team,\n\nI am applying for the Working Student - Software Engineering position at Quantum-Systems GmbH. My MSc in Artificial Intelligence and my experience as a Software Engineer match the role's focus on Python and C++.\nDuring my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles. My toolkit also includes CUDA optimization, NumPy, PyTorch, TensorFlow and OpenCV.\nI am driven by connecting software engineering with AI agents to automate structured code and text transformations. I am particularly motivated by developing reusable UI components and modular design systems based on modern web standards. In this role I want to apply my hands-on experience with Python, C++ and Computer Vision directly.\nI am enrolled in the MSc Artificial Intelligence at BTU Cottbus-Senftenberg until October 2027 and available immediately: 20 hours per week during lecture periods and up to 40 hours per week in semester breaks or for an internship, with no fixed end date. My student residence permit is valid until December 2028. I would be glad to discuss my application in a personal or video interview.\n\nKind regards\n\nMeetkumar Riteshkumar Raval\n", "prep_file": "output/applications/prep/Quantum-Systems-GmbH_Working-Student-Software-Engineering.md", "letter_source": "fallback"}, {"id": 6, "title": "Working Student Operations (m/f/d)", "company": "Peak & Peak GmbH", "job_url": "https://www.stepstone.de/jobs--Working-Student-Operations-m-f-d-Berlin-Germany-Peak-Peak-GmbH--13909996-inline.html", "portal": "stepstone", "fit_tier": "stretch", "score": 78.0, "kb_backed_share": 0.286, "keyword_coverage": 1.0, "prep_terms": ["n8n", "Google Workspace", "Zapier", "Salesforce", "Jira", "SaaS", "Project Management", "Troubleshooting", "Cybersecurity", "Documentation"], "top_gaps": ["detail-oriented", "experience with HR tools", "interest in consulting"], "notes": "Upload the PDF in the Anschreiben slot during the online application.", "upload_slot": "Anschreiben / Cover letter document slot", "missing": [], "requested_documents": [], "res_pdf": "output/applications/resume/pdf/Meetkumar_Raval_CV_Peak-Peak-GmbH_Working-Student-Operations.pdf", "res_docx": "output/applications/resume/docx/Meetkumar_Raval_CV_Peak-Peak-GmbH_Working-Student-Operations.docx", "let_pdf": "output/applications/letters/pdf/Meetkumar_Raval_Cover_Letter_Peak-Peak-GmbH_Working-Student-Operations.pdf", "let_docx": "output/applications/letters/docx/Meetkumar_Raval_Cover_Letter_Peak-Peak-GmbH_Working-Student-Operations.docx", "let_txt": "output/applications/letters/textfield/Meetkumar_Raval_Cover_Letter_Peak-Peak-GmbH_Working-Student-Operations.txt", "letter_content": "Meetkumar Riteshkumar Raval\nErnestinenstraße 21, 45141 Essen, Germany\n+49 15565 468731 | ravalmeett@gmail.com\nhttps://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/\n\nPeak & Peak GmbH\nBerlin, Germany\n\nEssen, 02.11.2026\n\nApplication for Working Student Operations (m/f/d)\n\nDear Hiring Team,\n\nI am applying for the Working Student Operations position at Peak & Peak GmbH. My MSc in Artificial Intelligence and my experience as a Software Engineer match the role's focus on Python and JavaScript.\nAt Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation. My toolkit also includes Data Quality, n8n, Google Workspace, Zapier, Salesforce and Jira.\nI would bring my hands-on experience with Python and JavaScript to the responsibilities in the posting and keep developing it in your team.\nI am enrolled in the MSc Artificial Intelligence at BTU Cottbus-Senftenberg until October 2027 and available immediately: 20 hours per week during lecture periods and up to 40 hours per week in semester breaks or for an internship, with no fixed end date. My student residence permit is valid until December 2028. I would be glad to discuss my application in a personal or video interview.\n\nKind regards\n\nMeetkumar Riteshkumar Raval\n", "prep_file": "output/applications/prep/Peak-Peak-GmbH_Working-Student-Operations.md", "letter_source": "fallback"}, {"id": 7, "title": "Product Marketing Intern", "company": "sereact GmbH", "job_url": "https://www.stepstone.de/jobs--Product-Marketing-Intern-70565-Stuttgart-sereact-GmbH--14643901-inline.html", "portal": "stepstone", "fit_tier": "stretch", "score": 72.6, "kb_backed_share": 0.25, "keyword_coverage": 1.0, "prep_terms": ["Notion", "logistics automation", "Documentation"], "top_gaps": ["strong interest technology", "German language", "collaboration skills", "detail oriented"], "notes": "Upload the PDF in the Anschreiben slot during the online application.", "upload_slot": "Anschreiben / Cover letter document slot", "missing": [], "requested_documents": [], "res_pdf": "output/applications/resume/pdf/Meetkumar_Raval_CV_sereact-GmbH_Product-Marketing-Intern.pdf", "res_docx": "output/applications/resume/docx/Meetkumar_Raval_CV_sereact-GmbH_Product-Marketing-Intern.docx", "let_pdf": "output/applications/letters/pdf/Meetkumar_Raval_Cover_Letter_sereact-GmbH_Product-Marketing-Intern.pdf", "let_docx": "output/applications/letters/docx/Meetkumar_Raval_Cover_Letter_sereact-GmbH_Product-Marketing-Intern.docx", "let_txt": "output/applications/letters/textfield/Meetkumar_Raval_Cover_Letter_sereact-GmbH_Product-Marketing-Intern.txt", "letter_content": "Meetkumar Riteshkumar Raval\nErnestinenstraße 21, 45141 Essen, Germany\n+49 15565 468731 | ravalmeett@gmail.com\nhttps://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/\n\nsereact GmbH\n70565 Stuttgart\n\nEssen, 02.11.2026\n\nApplication for Product Marketing Intern\n\nDear Hiring Team,\n\nI am applying for the Product Marketing Intern position at sereact GmbH. My MSc in Artificial Intelligence and my experience as a Software Engineer match the role's focus on AI and AI Agents.\nAt Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles. My toolkit also includes Notion, logistics automation and Documentation.\nI am driven by connecting software engineering with AI agents to automate structured code and text transformations. I would bring my hands-on experience with AI and AI Agents to the responsibilities in the posting and keep developing it in your team.\nI am enrolled in the MSc Artificial Intelligence at BTU Cottbus-Senftenberg until October 2027 and available immediately: 20 hours per week during lecture periods and up to 40 hours per week in semester breaks or for an internship, with no fixed end date. My degree includes a mandatory internship, which this position could fulfil. My student residence permit is valid until December 2028. I would be glad to discuss my application in a personal or video interview.\n\nKind regards\n\nMeetkumar Riteshkumar Raval\n", "prep_file": "output/applications/prep/sereact-GmbH_Product-Marketing-Intern.md", "letter_source": "fallback"}, {"id": 8, "title": "WORKING STUDENT CRM (M/F/D)", "company": "Canyon Bicycles GmbH", "job_url": "https://www.stepstone.de/jobs--WORKING-STUDENT-CRM-M-F-D-Koblenz-Canyon-Bicycles-GmbH--14643065-inline.html", "portal": "stepstone", "fit_tier": "stretch", "score": 78.0, "kb_backed_share": 0.167, "keyword_coverage": 1.0, "prep_terms": ["Salesforce Marketing Cloud", "Salesforce Data Cloud", "Salesforce Service Cloud", "CRM", "Optimization"], "top_gaps": ["strong analytical mindset"], "notes": "Upload the PDF in the Anschreiben slot during the online application.", "upload_slot": "Anschreiben / Cover letter document slot", "missing": [], "requested_documents": [], "res_pdf": "output/applications/resume/pdf/Meetkumar_Raval_CV_Canyon-Bicycles-GmbH_WORKING-STUDENT-CRM.pdf", "res_docx": "output/applications/resume/docx/Meetkumar_Raval_CV_Canyon-Bicycles-GmbH_WORKING-STUDENT-CRM.docx", "let_pdf": "output/applications/letters/pdf/Meetkumar_Raval_Cover_Letter_Canyon-Bicycles-GmbH_WORKING-STUDENT-CRM.pdf", "let_docx": "output/applications/letters/docx/Meetkumar_Raval_Cover_Letter_Canyon-Bicycles-GmbH_WORKING-STUDENT-CRM.docx", "let_txt": "output/applications/letters/textfield/Meetkumar_Raval_Cover_Letter_Canyon-Bicycles-GmbH_WORKING-STUDENT-CRM.txt", "letter_content": "Meetkumar Riteshkumar Raval\nErnestinenstraße 21, 45141 Essen, Germany\n+49 15565 468731 | ravalmeett@gmail.com\nhttps://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/\n\nCanyon Bicycles GmbH\nKoblenz\n\nEssen, 02.11.2026\n\nApplication for WORKING STUDENT CRM (M/F/D)\n\nDear Hiring Team,\n\nI am applying for the WORKING STUDENT CRM position at Canyon Bicycles GmbH. My MSc in Artificial Intelligence and my Bachelor's degree in Computer Engineering are the foundation for this work.\nAt Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation. My toolkit also includes Salesforce Marketing Cloud, Salesforce Data Cloud, Salesforce Service Cloud, Optimization and Automation.\nI would bring my hands-on experience with Python, Machine Learning and Data Analytics to the responsibilities in the posting and keep developing it in your team.\nI am enrolled in the MSc Artificial Intelligence at BTU Cottbus-Senftenberg until October 2027 and available immediately: 20 hours per week during lecture periods and up to 40 hours per week in semester breaks or for an internship, with no fixed end date. My student residence permit is valid until December 2028. I would be glad to discuss my application in a personal or video interview.\n\nKind regards\n\nMeetkumar Riteshkumar Raval\n", "prep_file": "output/applications/prep/Canyon-Bicycles-GmbH_WORKING-STUDENT-CRM.md", "letter_source": "fallback"}, {"id": 9, "title": "Work Student, Inside Sales", "company": "TeamViewer Germany GmbH", "job_url": "https://www.stepstone.de/jobs--Work-Student-Inside-Sales-10243-Berlin-TeamViewer-Germany-GmbH--14644286-inline.html", "portal": "stepstone", "fit_tier": "stretch", "score": 71.3, "kb_backed_share": 0.0, "keyword_coverage": 1.0, "prep_terms": ["Excel"], "top_gaps": ["Fluency in English", "Scandinavian language"], "notes": "Upload the PDF in the Anschreiben slot during the online application.", "upload_slot": "Anschreiben / Cover letter document slot", "missing": [], "requested_documents": [], "res_pdf": "output/applications/resume/pdf/Meetkumar_Raval_CV_TeamViewer-Germany-GmbH_Work-Student-Inside-Sales.pdf", "res_docx": "output/applications/resume/docx/Meetkumar_Raval_CV_TeamViewer-Germany-GmbH_Work-Student-Inside-Sales.docx", "let_pdf": "output/applications/letters/pdf/Meetkumar_Raval_Cover_Letter_TeamViewer-Germany-GmbH_Work-Student-Inside-Sales.pdf", "let_docx": "output/applications/letters/docx/Meetkumar_Raval_Cover_Letter_TeamViewer-Germany-GmbH_Work-Student-Inside-Sales.docx", "let_txt": "output/applications/letters/textfield/Meetkumar_Raval_Cover_Letter_TeamViewer-Germany-GmbH_Work-Student-Inside-Sales.txt", "letter_content": "Meetkumar Riteshkumar Raval\nErnestinenstraße 21, 45141 Essen, Germany\n+49 15565 468731 | ravalmeett@gmail.com\nhttps://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/\n\nTeamViewer Germany GmbH\n10243 Berlin\n\nEssen, 02.11.2026\n\nApplication for Work Student, Inside Sales\n\nDear Hiring Team,\n\nI am applying for the Work Student, Inside Sales position at TeamViewer Germany GmbH. My MSc in Artificial Intelligence and my Bachelor's degree in Computer Engineering are the foundation for this work.\nAt Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation. My toolkit also includes Excel.\nI would bring my hands-on experience with Python, Machine Learning and Data Analytics to the responsibilities in the posting and keep developing it in your team.\nI am enrolled in the MSc Artificial Intelligence at BTU Cottbus-Senftenberg until October 2027 and available immediately: 20 hours per week during lecture periods and up to 40 hours per week in semester breaks or for an internship, with no fixed end date. My student residence permit is valid until December 2028. I would be glad to discuss my application in a personal or video interview.\n\nKind regards\n\nMeetkumar Riteshkumar Raval\n", "prep_file": "output/applications/prep/TeamViewer-Germany-GmbH_Work-Student-Inside-Sales.md", "letter_source": "fallback"}, {"id": 10, "title": "Business Development Intern - Italy (all genders)", "company": "autarc GmbH", "job_url": "https://www.stepstone.de/jobs--Business-Development-Intern-Italy-all-genders-10115-Berlin-autarc-GmbH--14643795-inline.html", "portal": "stepstone", "fit_tier": "stretch", "score": 60.5, "kb_backed_share": 0.0, "keyword_coverage": 1.0, "prep_terms": ["HubSpot"], "top_gaps": ["solution oriented", "fluent Italian", "lead generation tools"], "notes": "Upload the PDF in the Anschreiben slot during the online application.", "upload_slot": "Anschreiben / Cover letter document slot", "missing": [], "requested_documents": [], "res_pdf": "output/applications/resume/pdf/Meetkumar_Raval_CV_autarc-GmbH_Business-Development-Intern-Italy-all.pdf", "res_docx": "output/applications/resume/docx/Meetkumar_Raval_CV_autarc-GmbH_Business-Development-Intern-Italy-all.docx", "let_pdf": "output/applications/letters/pdf/Meetkumar_Raval_Cover_Letter_autarc-GmbH_Business-Development-Intern-Italy-all.pdf", "let_docx": "output/applications/letters/docx/Meetkumar_Raval_Cover_Letter_autarc-GmbH_Business-Development-Intern-Italy-all.docx", "let_txt": "output/applications/letters/textfield/Meetkumar_Raval_Cover_Letter_autarc-GmbH_Business-Development-Intern-Italy-all.txt", "letter_content": "Meetkumar Riteshkumar Raval\nErnestinenstraße 21, 45141 Essen, Germany\n+49 15565 468731 | ravalmeett@gmail.com\nhttps://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/\n\nautarc GmbH\n10115 Berlin\n\nEssen, 02.11.2026\n\nApplication for Business Development Intern - Italy (all genders)\n\nDear Hiring Team,\n\nI am applying for the Business Development Intern - Italy position at autarc GmbH. My MSc in Artificial Intelligence and my Bachelor's degree in Computer Engineering are the foundation for this work.\nAt Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles. My toolkit also includes HubSpot.\nI am driven by connecting software engineering with AI agents to automate structured code and text transformations. I am particularly motivated by developing reusable UI components and modular design systems based on modern web standards. In this role I want to apply my hands-on experience with Python, Machine Learning and Data Analytics directly.\nI am enrolled in the MSc Artificial Intelligence at BTU Cottbus-Senftenberg until October 2027 and available immediately: 20 hours per week during lecture periods and up to 40 hours per week in semester breaks or for an internship, with no fixed end date. My degree includes a mandatory internship, which this position could fulfil. My student residence permit is valid until December 2028. I would be glad to discuss my application in a personal or video interview.\n\nKind regards\n\nMeetkumar Riteshkumar Raval\n", "prep_file": "output/applications/prep/autarc-GmbH_Business-Development-Intern-Italy-all-genders.md", "letter_source": "fallback"}];
+
+let currentFilter = 'all';
+let currentSearch = '';
+
+// Load status from localStorage
+function getSavedStatus(url) {
+  return localStorage.getItem('job_status_' + url) || 'to-apply';
+}
+
+function setSavedStatus(url, status) {
+  localStorage.setItem('job_status_' + url, status);
+  renderTable();
+}
+
+function copyText(text, label) {
+  navigator.clipboard.writeText(text).then(() => {
+    showToast('Copied ' + label + ' to clipboard!');
+  }).catch(() => {
+    const textarea = document.createElement('textarea');
+    textarea.value = text;
+    document.body.appendChild(textarea);
+    textarea.select();
+    document.execCommand('copy');
+    document.body.removeChild(textarea);
+    showToast('Copied ' + label + ' to clipboard!');
+  });
+}
+
+function showToast(msg) {
+  const toast = document.getElementById('toast');
+  toast.innerHTML = '<span>✓ ' + msg + '</span>';
+  toast.classList.add('show');
+  setTimeout(() => {
+    toast.classList.remove('show');
+  }, 2500);
+}
+
+function setFilter(filter, el) {
+  currentFilter = filter;
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  el.classList.add('active');
+  renderTable();
+}
+
+function handleSearch() {
+  currentSearch = document.getElementById('searchInput').value.toLowerCase().trim();
+  renderTable();
+}
+
+function toggleDrawer(id) {
+  const drawer = document.getElementById('drawer-' + id);
+  if (!drawer) return;
+  drawer.style.display = drawer.style.display === 'none' ? 'table-row' : 'none';
+}
+
+function renderTable() {
+  const tbody = document.getElementById('jobsTableBody');
+  tbody.innerHTML = '';
+
+  const filtered = JOBS.filter(job => {
+    const status = getSavedStatus(job.job_url);
+    if (currentFilter === 'strong' && job.fit_tier !== 'strong') return false;
+    if (currentFilter === 'good' && job.fit_tier !== 'good') return false;
+    if (currentFilter === 'stretch' && job.fit_tier !== 'stretch') return false;
+    if (currentFilter === 'to-apply' && status !== 'to-apply') return false;
+    if (currentFilter === 'applied' && status !== 'applied') return false;
+
+    if (currentSearch) {
+      const text = (job.company + ' ' + job.title + ' ' + (job.prep_terms || []).join(' ')).toLowerCase();
+      if (!text.includes(currentSearch)) return false;
+    }
+    return true;
+  });
+
+  if (filtered.length === 0) {
+    tbody.innerHTML = '<tr><td colspan="6" style="text-align:center; padding: 40px; color: var(--text-dim);">No matching jobs found.</td></tr>';
+    return;
+  }
+
+  filtered.forEach(job => {
+    const status = getSavedStatus(job.job_url);
+    const isApplied = status === 'applied';
+
+    const tierClass = 'tier-' + (job.fit_tier || 'stretch');
+    const tierLabel = (job.fit_tier || 'stretch').toUpperCase();
+
+    // Documents
+    let docsHtml = '<div class="doc-btn-group">';
+    if (job.res_pdf) docsHtml += `<a href="${job.res_pdf}" target="_blank" class="doc-btn doc-btn-pdf" title="View Resume PDF">CV PDF</a>`;
+    if (job.res_docx) docsHtml += `<a href="${job.res_docx}" download class="doc-btn doc-btn-docx" title="Download Word CV">DOCX</a>`;
+    if (job.let_pdf) docsHtml += `<a href="${job.let_pdf}" target="_blank" class="doc-btn doc-btn-pdf" title="View Cover Letter PDF">Letter</a>`;
+    if (job.prep_file) docsHtml += `<a href="${job.prep_file}" target="_blank" class="doc-btn doc-btn-prep" title="Interview Cheat Sheet">Prep</a>`;
+    docsHtml += '</div>';
+
+    // Copy letter button
+    const hasLetter = !!job.letter_content;
+    const copyLetterBtn = hasLetter ? 
+      `<button class="btn-copy-letter" onclick="copyJobLetter(${job.id})" title="Copy Cover Letter Text to Clipboard">📋 Copy Letter</button>` :
+      `<span style="color:var(--text-dim); font-size:11px;">(Resume Only)</span>`;
+
+    const row = document.createElement('tr');
+    row.className = isApplied ? 'is-applied' : '';
+    row.innerHTML = `
+      <td class="col-status">
+        <select class="status-select ${status}" onchange="setSavedStatus('${job.job_url}', this.value)">
+          <option value="to-apply" ${status==='to-apply'?'selected':''}>⏳ To Apply</option>
+          <option value="applied" ${status==='applied'?'selected':''}>✓ Applied</option>
+          <option value="interview" ${status==='interview'?'selected':''}>⭐ Interview</option>
+          <option value="skipped" ${status==='skipped'?'selected':''}>✕ Skipped</option>
+        </select>
+      </td>
+      <td class="col-company">
+        <div class="company-cell">
+          <span class="company-name">${escapeHtml(job.company)}</span>
+          <span class="portal-pill">${job.portal}</span>
+        </div>
+      </td>
+      <td class="col-title">
+        <div>
+          <a href="${job.job_url}" target="_blank" class="role-title" rel="noopener">
+            ${escapeHtml(job.title)}
+            <svg width="12" height="12" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+          </a>
+          <div class="role-sub">
+            ${job.prep_terms && job.prep_terms.length > 0 ? 'Skills: ' + job.prep_terms.slice(0, 4).join(', ') : 'ATS Tailored'}
+          </div>
+        </div>
+      </td>
+      <td class="col-fit">
+        <span class="tier-badge ${tierClass}">${tierLabel}</span>
+        <div class="fit-numbers">Score: ${job.score ? job.score.toFixed(1) : 0}% | KB: ${(job.kb_backed_share*100).toFixed(0)}%</div>
+      </td>
+      <td class="col-docs">
+        ${docsHtml}
+      </td>
+      <td class="col-actions">
+        <div class="action-col">
+          ${copyLetterBtn}
+          <button class="btn-details" onclick="toggleDrawer(${job.id})" title="Expand Details & Preview">▼</button>
+        </div>
+      </td>
+    `;
+    tbody.appendChild(row);
+
+    // Expandable Drawer Row
+    const drawerRow = document.createElement('tr');
+    drawerRow.id = 'drawer-' + job.id;
+    drawerRow.className = 'drawer-row';
+    drawerRow.style.display = 'none';
+
+    const prepTermsHtml = (job.prep_terms || []).map(t => `<span class="prep-tag">${escapeHtml(t)}</span>`).join('');
+    const gapsHtml = (job.top_gaps || []).map(g => `<li style="margin-left: 16px; margin-bottom: 2px;">${escapeHtml(g)}</li>`).join('');
+
+    drawerRow.innerHTML = `
+      <td colspan="6" style="padding: 0;">
+        <div class="drawer-content">
+          <!-- Left: Cover Letter Preview -->
+          <div class="drawer-box">
+            <div class="drawer-box-title">
+              <span>Cover Letter Preview (${job.letter_source || 'generated'})</span>
+              ${hasLetter ? `<button class="btn-copy" style="padding: 2px 8px; font-size: 11px;" onclick="copyJobLetter(${job.id})">📋 Copy Text</button>` : ''}
+            </div>
+            ${hasLetter ? `<div class="letter-preview">${escapeHtml(job.letter_content)}</div>` : '<p style="color:var(--text-dim); font-size: 13px;">No cover letter generated for this role.</p>'}
+          </div>
+
+          <!-- Right: Portal & Interview Info -->
+          <div class="drawer-box">
+            <div class="drawer-box-title">Portal Delivery &amp; Interview Cheat Sheet</div>
+            
+            ${job.notes ? `<div class="notice-banner">📌 <strong>Application Note:</strong> ${escapeHtml(job.notes)}</div>` : ''}
+
+            <div style="margin-bottom: 14px;">
+              <strong style="font-size: 12px; color: var(--text-muted); text-transform: uppercase;">Upload Slot:</strong>
+              <div style="font-size: 13px; color: #fff; margin-top: 2px;">${escapeHtml(job.upload_slot || 'Standard document upload')}</div>
+            </div>
+
+            ${job.prep_terms && job.prep_terms.length > 0 ? `
+              <div style="margin-bottom: 14px;">
+                <strong style="font-size: 12px; color: var(--text-muted); text-transform: uppercase;">Learn/Review Before Interview:</strong>
+                <div class="prep-tags">${prepTermsHtml}</div>
+              </div>
+            ` : ''}
+
+            ${job.top_gaps && job.top_gaps.length > 0 ? `
+              <div>
+                <strong style="font-size: 12px; color: var(--text-muted); text-transform: uppercase;">Posting Demands To Be Aware Of:</strong>
+                <ul style="font-size: 12.5px; color: var(--text-muted); margin-top: 4px;">${gapsHtml}</ul>
+              </div>
+            ` : ''}
+          </div>
+        </div>
+      </td>
+    `;
+    tbody.appendChild(drawerRow);
+  });
+}
+
+function copyJobLetter(id) {
+  const job = JOBS.find(j => j.id === id);
+  if (!job || !job.letter_content) return;
+  copyText(job.letter_content, job.company + ' Cover Letter');
+}
+
+function escapeHtml(str) {
+  if (!str) return '';
+  return str
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#039;");
+}
+
+// Initialize
+renderTable();
+</script>
+
+</body>
+</html>

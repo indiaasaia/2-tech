@@ -1,0 +1,83 @@
+{
+  "_comment": "Universal Candidate Configuration for all auto-apply bots in mixed/auto_apply. Edit here to update personal information.",
+  "personal": {
+    "first_name": "Meetkumar Riteshkumar",
+    "last_name": "Raval",
+    "full_name": "Raval Meetkumar Riteshkumar",
+    "email": "ravalmeett@gmail.com",
+    "phone": "+49 15567 018163",
+    "phone_national": "015567018163",
+    "street": "Ernestinenstraße 21",
+    "postal_code": "45141",
+    "city": "Essen",
+    "country": "Germany",
+    "gender": "Male",
+    "date_of_birth": ["02", "28", "2002"],
+    "nationality": "India",
+    "pronoun": "He/Him/His"
+  },
+  "education_and_status": {
+    "current_degree": "Master of Science in Artificial Intelligence",
+    "university": "Brandenburgische Technische Universität Cottbus-Senftenberg",
+    "university_location": "Cottbus, Germany",
+    "enrolled_entire_period": true,
+    "study_type": "Vollzeit / full-time",
+    "dual_study": false,
+    "intends_further_degree": false,
+    "expected_graduation": "10.2027",
+    "preferred_duration": "6 Months",
+    "preferred_period_start": "01.10.2027",
+    "earliest_entry_date": ["09", "30", "2026"]
+  },
+  "consents_and_legal": {
+    "severe_disability": "No",
+    "work_permit_option": "Yes, I have a work and residence permit for Germany, but I am not a citizen of a member state of the EU/Iceland/Liechtenstein/Norway/Switzerland",
+    "data_transfer_consent": true,
+    "privacy_consent": true,
+    "other_position_consent": true,
+    "terms_accept": true
+  },
+  "source_channel": {
+    "source_category": "Job Portals",
+    "source_option": "Mercedes-Benz career portal"
+  },
+  "sap_application_profile": {
+    "portal_observed": "SAP Careers currently routes some openings to SmartRecruiters Easy Apply; verify each posting's actual application URL before choosing an automation flow.",
+    "name_fields": {
+      "first_name": "Meetkumar Riteshkumar",
+      "last_name": "Raval"
+    },
+    "phone_confirmation": "Candidate confirmed +49 15567 018163 as the reachable number on 2026-10-15; in the German +49 phone widget enter 15567018163 (without the national trunk 0).",
+    "office_attendance": {
+      "site": "Walldorf",
+      "can_attend_regularly": true,
+      "confirmed_on": "2026-10-15"
+    },
+    "education_location": {
+      "university": "Brandenburgische Technische Universität Cottbus-Senftenberg",
+      "city": "Cottbus",
+      "confirmed_on": "2026-10-15"
+    },
+    "work_history_source": "Approved candidate_kb.json; dates approved for reuse by candidate on 2026-10-15.",
+    "work_history": [
+      {
+        "title": "Software Engineer",
+        "company": "Soham Infotech",
+        "location": "Gujarat, India",
+        "from": "12/2023",
+        "to": "01/2025",
+        "description": "Developed modular API endpoints and quantitative models for financial decision-making. Built automated data-transformation pipelines, backend components and real-time algorithms supporting trading operations. Collaborated in an agile engineering team using Git and GitHub."
+      },
+      {
+        "title": "Machine Learning Intern",
+        "company": "Pantechelearning",
+        "location": "Chennai, India",
+        "from": "12/2021",
+        "to": "02/2022",
+        "description": "Implemented machine-learning models for text-to-speech and visual-activity analysis. Worked on data extraction and preprocessing pipelines to support model training and evaluation."
+      }
+    ],
+    "work_authorization": "Unconfirmed for SAP. Ask candidate before selecting any authorization/work-permit answer.",
+    "application_policy": "Prepare and validate application fields only. Never click final Submit without explicit approval for a specific posting."
+  }
+}

@@ -1,0 +1,928 @@
+[
+  {
+    "file": "Finance-Intern-Working-Student.pdf",
+    "issues": [
+      "only 2 sections detectable via keyword fallback"
+    ],
+    "extracts_text": true,
+    "word_count": 174,
+    "name_extracted": true,
+    "email_extracted": true,
+    "phone_extracted": true,
+    "dates_std_regex_count": 6,
+    "dates_apostrophe_only": [],
+    "sections_primary_heuristic": [
+      "RAVAL MEETKUMAR",
+      "AREER BJECTIVE",
+      "E XPERIENCE",
+      "E DUCATION",
+      "M AIN P ROJECTS",
+      "ESEARCH AND UBLICATIONS",
+      "CHIEVEMENTS",
+      "KILLS",
+      "ERTIFICATIONS",
+      "DDITIONAL ROJECTS",
+      "ANGUAGES",
+      "DECLARATION"
+    ],
+    "sections_keyword_fallback": [
+      "Languages .",
+      "DECLARATION"
+    ],
+    "kb_probe_found": [
+      "mysql",
+      "django",
+      "flask",
+      "nlp"
+    ],
+    "kb_probe_missing": [
+      "python",
+      "sql",
+      "llm",
+      "kubernetes"
+    ],
+    "reading_order_ok": true
+  },
+  {
+    "file": "Go-to-Market-Working-Student.pdf",
+    "issues": [
+      "only 2 sections detectable via keyword fallback"
+    ],
+    "extracts_text": true,
+    "word_count": 174,
+    "name_extracted": true,
+    "email_extracted": true,
+    "phone_extracted": true,
+    "dates_std_regex_count": 6,
+    "dates_apostrophe_only": [],
+    "sections_primary_heuristic": [
+      "RAVAL MEETKUMAR",
+      "AREER BJECTIVE",
+      "E XPERIENCE",
+      "E DUCATION",
+      "M AIN P ROJECTS",
+      "ESEARCH AND UBLICATIONS",
+      "CHIEVEMENTS",
+      "KILLS",
+      "ERTIFICATIONS",
+      "DDITIONAL ROJECTS",
+      "ANGUAGES",
+      "DECLARATION"
+    ],
+    "sections_keyword_fallback": [
+      "Languages .",
+      "DECLARATION"
+    ],
+    "kb_probe_found": [
+      "mysql",
+      "django",
+      "flask",
+      "sql",
+      "nlp"
+    ],
+    "kb_probe_missing": [
+      "python",
+      "llm",
+      "kubernetes"
+    ],
+    "reading_order_ok": true
+  },
+  {
+    "file": "Intern-Sales-Client-Success-mfx.pdf",
+    "issues": [
+      "only 2 sections detectable via keyword fallback"
+    ],
+    "extracts_text": true,
+    "word_count": 173,
+    "name_extracted": true,
+    "email_extracted": true,
+    "phone_extracted": true,
+    "dates_std_regex_count": 6,
+    "dates_apostrophe_only": [],
+    "sections_primary_heuristic": [
+      "RAVAL MEETKUMAR",
+      "AREER BJECTIVE",
+      "E XPERIENCE",
+      "E DUCATION",
+      "M AIN P ROJECTS",
+      "ESEARCH AND UBLICATIONS",
+      "CHIEVEMENTS",
+      "KILLS",
+      "ERTIFICATIONS",
+      "DDITIONAL ROJECTS",
+      "ANGUAGES",
+      "DECLARATION"
+    ],
+    "sections_keyword_fallback": [
+      "Languages .",
+      "DECLARATION"
+    ],
+    "kb_probe_found": [
+      "mysql",
+      "django",
+      "flask",
+      "nlp"
+    ],
+    "kb_probe_missing": [
+      "python",
+      "sql",
+      "llm",
+      "kubernetes"
+    ],
+    "reading_order_ok": true
+  },
+  {
+    "file": "Internship-Business-Development-Foursource-Prime.pdf",
+    "issues": [
+      "only 2 sections detectable via keyword fallback"
+    ],
+    "extracts_text": true,
+    "word_count": 174,
+    "name_extracted": true,
+    "email_extracted": true,
+    "phone_extracted": true,
+    "dates_std_regex_count": 6,
+    "dates_apostrophe_only": [],
+    "sections_primary_heuristic": [
+      "RAVAL MEETKUMAR",
+      "AREER BJECTIVE",
+      "E XPERIENCE",
+      "E DUCATION",
+      "M AIN P ROJECTS",
+      "ESEARCH AND UBLICATIONS",
+      "CHIEVEMENTS",
+      "S KILLS",
+      "C ERTIFICATIONS",
+      "DDITIONAL ROJECTS",
+      "L ANGUAGES",
+      "DECLARATION"
+    ],
+    "sections_keyword_fallback": [
+      "Languages .",
+      "DECLARATION"
+    ],
+    "kb_probe_found": [
+      "mysql",
+      "django",
+      "flask",
+      "nlp"
+    ],
+    "kb_probe_missing": [
+      "python",
+      "sql",
+      "llm",
+      "kubernetes"
+    ],
+    "reading_order_ok": true
+  },
+  {
+    "file": "Internship-coating-development.pdf",
+    "issues": [
+      "only 2 sections detectable via keyword fallback"
+    ],
+    "extracts_text": true,
+    "word_count": 174,
+    "name_extracted": true,
+    "email_extracted": true,
+    "phone_extracted": true,
+    "dates_std_regex_count": 6,
+    "dates_apostrophe_only": [],
+    "sections_primary_heuristic": [
+      "RAVAL MEETKUMAR",
+      "AREER BJECTIVE",
+      "E XPERIENCE",
+      "E DUCATION",
+      "M AIN P ROJECTS",
+      "ESEARCH AND UBLICATIONS",
+      "CHIEVEMENTS",
+      "S KILLS",
+      "ERTIFICATIONS",
+      "A DDITIONAL P ROJECTS",
+      "ANGUAGES",
+      "DECLARATION"
+    ],
+    "sections_keyword_fallback": [
+      "Languages .",
+      "DECLARATION"
+    ],
+    "kb_probe_found": [
+      "python",
+      "mysql",
+      "django",
+      "flask",
+      "nlp"
+    ],
+    "kb_probe_missing": [
+      "sql",
+      "llm",
+      "kubernetes"
+    ],
+    "reading_order_ok": true
+  },
+  {
+    "file": "Internship-Next-Generation-System-Interaction-with-Eye-Tracking-and-Robotics.pdf",
+    "issues": [
+      "only 2 sections detectable via keyword fallback"
+    ],
+    "extracts_text": true,
+    "word_count": 173,
+    "name_extracted": true,
+    "email_extracted": true,
+    "phone_extracted": true,
+    "dates_std_regex_count": 6,
+    "dates_apostrophe_only": [],
+    "sections_primary_heuristic": [
+      "RAVAL MEETKUMAR",
+      "AREER BJECTIVE",
+      "E XPERIENCE",
+      "E DUCATION",
+      "M AIN P ROJECTS",
+      "ESEARCH AND UBLICATIONS",
+      "CHIEVEMENTS",
+      "KILLS",
+      "ERTIFICATIONS",
+      "DDITIONAL ROJECTS",
+      "ANGUAGES",
+      "DECLARATION"
+    ],
+    "sections_keyword_fallback": [
+      "Languages .",
+      "DECLARATION"
+    ],
+    "kb_probe_found": [
+      "python",
+      "mysql",
+      "django",
+      "flask",
+      "nlp"
+    ],
+    "kb_probe_missing": [
+      "sql",
+      "llm",
+      "kubernetes"
+    ],
+    "reading_order_ok": true
+  },
+  {
+    "file": "Internship-or-Master-Thesis-Battery-Analytics-all-genders.pdf",
+    "issues": [
+      "only 2 sections detectable via keyword fallback"
+    ],
+    "extracts_text": true,
+    "word_count": 173,
+    "name_extracted": true,
+    "email_extracted": true,
+    "phone_extracted": true,
+    "dates_std_regex_count": 6,
+    "dates_apostrophe_only": [],
+    "sections_primary_heuristic": [
+      "RAVAL MEETKUMAR",
+      "AREER BJECTIVE",
+      "E XPERIENCE",
+      "E DUCATION",
+      "M AIN P ROJECTS",
+      "ESEARCH AND UBLICATIONS",
+      "CHIEVEMENTS",
+      "KILLS",
+      "ERTIFICATIONS",
+      "DDITIONAL ROJECTS",
+      "ANGUAGES",
+      "DECLARATION"
+    ],
+    "sections_keyword_fallback": [
+      "Languages .",
+      "DECLARATION"
+    ],
+    "kb_probe_found": [
+      "python",
+      "mysql",
+      "django",
+      "flask",
+      "sql",
+      "nlp"
+    ],
+    "kb_probe_missing": [
+      "llm",
+      "kubernetes"
+    ],
+    "reading_order_ok": true
+  },
+  {
+    "file": "Jobs-for-Students.pdf",
+    "issues": [
+      "only 2 sections detectable via keyword fallback"
+    ],
+    "extracts_text": true,
+    "word_count": 175,
+    "name_extracted": true,
+    "email_extracted": true,
+    "phone_extracted": true,
+    "dates_std_regex_count": 6,
+    "dates_apostrophe_only": [],
+    "sections_primary_heuristic": [
+      "RAVAL MEETKUMAR",
+      "AREER BJECTIVE",
+      "E XPERIENCE",
+      "E DUCATION",
+      "M AIN P ROJECTS",
+      "ESEARCH AND UBLICATIONS",
+      "CHIEVEMENTS",
+      "S KILLS",
+      "C ERTIFICATIONS",
+      "DDITIONAL ROJECTS",
+      "L ANGUAGES",
+      "DECLARATION"
+    ],
+    "sections_keyword_fallback": [
+      "Languages .",
+      "DECLARATION"
+    ],
+    "kb_probe_found": [
+      "python",
+      "mysql",
+      "django",
+      "flask",
+      "nlp"
+    ],
+    "kb_probe_missing": [
+      "sql",
+      "llm",
+      "kubernetes"
+    ],
+    "reading_order_ok": true
+  },
+  {
+    "file": "Software-Engineering-Intern-Working-Student.pdf",
+    "issues": [
+      "only 2 sections detectable via keyword fallback"
+    ],
+    "extracts_text": true,
+    "word_count": 173,
+    "name_extracted": true,
+    "email_extracted": true,
+    "phone_extracted": true,
+    "dates_std_regex_count": 6,
+    "dates_apostrophe_only": [],
+    "sections_primary_heuristic": [
+      "RAVAL MEETKUMAR",
+      "AREER BJECTIVE",
+      "E XPERIENCE",
+      "E DUCATION",
+      "M AIN P ROJECTS",
+      "ESEARCH AND UBLICATIONS",
+      "CHIEVEMENTS",
+      "KILLS",
+      "C ERTIFICATIONS",
+      "A DDITIONAL P ROJECTS",
+      "L ANGUAGES",
+      "DECLARATION"
+    ],
+    "sections_keyword_fallback": [
+      "Languages .",
+      "DECLARATION"
+    ],
+    "kb_probe_found": [
+      "python",
+      "mysql",
+      "django",
+      "flask",
+      "nlp"
+    ],
+    "kb_probe_missing": [
+      "sql",
+      "llm",
+      "kubernetes"
+    ],
+    "reading_order_ok": true
+  },
+  {
+    "file": "Student-HRIS-HR-Operations.pdf",
+    "issues": [
+      "only 2 sections detectable via keyword fallback"
+    ],
+    "extracts_text": true,
+    "word_count": 172,
+    "name_extracted": true,
+    "email_extracted": true,
+    "phone_extracted": true,
+    "dates_std_regex_count": 6,
+    "dates_apostrophe_only": [],
+    "sections_primary_heuristic": [
+      "RAVAL MEETKUMAR",
+      "AREER BJECTIVE",
+      "E XPERIENCE",
+      "E DUCATION",
+      "M AIN P ROJECTS",
+      "ESEARCH AND UBLICATIONS",
+      "CHIEVEMENTS",
+      "KILLS",
+      "ERTIFICATIONS",
+      "DDITIONAL ROJECTS",
+      "ANGUAGES",
+      "DECLARATION"
+    ],
+    "sections_keyword_fallback": [
+      "Languages .",
+      "DECLARATION"
+    ],
+    "kb_probe_found": [
+      "mysql",
+      "django",
+      "flask",
+      "nlp"
+    ],
+    "kb_probe_missing": [
+      "python",
+      "sql",
+      "llm",
+      "kubernetes"
+    ],
+    "reading_order_ok": true
+  },
+  {
+    "file": "Werkstudent-Projektmanagement-mit-Schwerpunkt-KI.pdf",
+    "issues": [
+      "only 2 sections detectable via keyword fallback"
+    ],
+    "extracts_text": true,
+    "word_count": 173,
+    "name_extracted": true,
+    "email_extracted": true,
+    "phone_extracted": true,
+    "dates_std_regex_count": 6,
+    "dates_apostrophe_only": [],
+    "sections_primary_heuristic": [
+      "RAVAL MEETKUMAR",
+      "AREER BJECTIVE",
+      "E XPERIENCE",
+      "E DUCATION",
+      "M AIN P ROJECTS",
+      "ESEARCH AND UBLICATIONS",
+      "CHIEVEMENTS",
+      "KILLS",
+      "ERTIFICATIONS",
+      "DDITIONAL ROJECTS",
+      "ANGUAGES",
+      "DECLARATION"
+    ],
+    "sections_keyword_fallback": [
+      "Languages .",
+      "DECLARATION"
+    ],
+    "kb_probe_found": [
+      "mysql",
+      "django",
+      "flask",
+      "nlp"
+    ],
+    "kb_probe_missing": [
+      "python",
+      "sql",
+      "llm",
+      "kubernetes"
+    ],
+    "reading_order_ok": true
+  },
+  {
+    "file": "Working-student---Customer-Success-DACH.pdf",
+    "issues": [
+      "only 2 sections detectable via keyword fallback"
+    ],
+    "extracts_text": true,
+    "word_count": 173,
+    "name_extracted": true,
+    "email_extracted": true,
+    "phone_extracted": true,
+    "dates_std_regex_count": 6,
+    "dates_apostrophe_only": [],
+    "sections_primary_heuristic": [
+      "RAVAL MEETKUMAR",
+      "AREER BJECTIVE",
+      "E XPERIENCE",
+      "E DUCATION",
+      "M AIN P ROJECTS",
+      "ESEARCH AND UBLICATIONS",
+      "CHIEVEMENTS",
+      "KILLS",
+      "ERTIFICATIONS",
+      "DDITIONAL ROJECTS",
+      "ANGUAGES",
+      "DECLARATION"
+    ],
+    "sections_keyword_fallback": [
+      "Languages .",
+      "DECLARATION"
+    ],
+    "kb_probe_found": [
+      "mysql",
+      "django",
+      "flask",
+      "sql",
+      "nlp"
+    ],
+    "kb_probe_missing": [
+      "python",
+      "llm",
+      "kubernetes"
+    ],
+    "reading_order_ok": true
+  },
+  {
+    "file": "Working-Student-2.pdf",
+    "issues": [
+      "only 2 sections detectable via keyword fallback"
+    ],
+    "extracts_text": true,
+    "word_count": 173,
+    "name_extracted": true,
+    "email_extracted": true,
+    "phone_extracted": true,
+    "dates_std_regex_count": 6,
+    "dates_apostrophe_only": [],
+    "sections_primary_heuristic": [
+      "RAVAL MEETKUMAR",
+      "C AREER O BJECTIVE",
+      "XPERIENCE",
+      "DUCATION",
+      "M AIN P ROJECTS",
+      "ESEARCH AND UBLICATIONS",
+      "CHIEVEMENTS",
+      "KILLS",
+      "ERTIFICATIONS",
+      "A DDITIONAL P ROJECTS",
+      "L ANGUAGES",
+      "DECLARATION"
+    ],
+    "sections_keyword_fallback": [
+      "Languages .",
+      "DECLARATION"
+    ],
+    "kb_probe_found": [
+      "mysql",
+      "django",
+      "flask",
+      "nlp"
+    ],
+    "kb_probe_missing": [
+      "python",
+      "sql",
+      "llm",
+      "kubernetes"
+    ],
+    "reading_order_ok": true
+  },
+  {
+    "file": "Working-Student-AI-Engineer-Agentic-Systems.pdf",
+    "issues": [
+      "only 2 sections detectable via keyword fallback"
+    ],
+    "extracts_text": true,
+    "word_count": 175,
+    "name_extracted": true,
+    "email_extracted": true,
+    "phone_extracted": true,
+    "dates_std_regex_count": 6,
+    "dates_apostrophe_only": [],
+    "sections_primary_heuristic": [
+      "RAVAL MEETKUMAR",
+      "AREER BJECTIVE",
+      "E XPERIENCE",
+      "E DUCATION",
+      "M AIN P ROJECTS",
+      "ESEARCH AND UBLICATIONS",
+      "CHIEVEMENTS",
+      "S KILLS",
+      "ERTIFICATIONS",
+      "A DDITIONAL P ROJECTS",
+      "ANGUAGES",
+      "DECLARATION"
+    ],
+    "sections_keyword_fallback": [
+      "Languages .",
+      "DECLARATION"
+    ],
+    "kb_probe_found": [
+      "python",
+      "mysql",
+      "django",
+      "flask",
+      "sql",
+      "llm",
+      "nlp"
+    ],
+    "kb_probe_missing": [
+      "kubernetes"
+    ],
+    "reading_order_ok": true
+  },
+  {
+    "file": "Working-student-automation-for-ERS-Europe-Systems-in-Lorsch.pdf",
+    "issues": [
+      "only 4 sections detectable via keyword fallback"
+    ],
+    "extracts_text": true,
+    "word_count": 171,
+    "name_extracted": true,
+    "email_extracted": true,
+    "phone_extracted": true,
+    "dates_std_regex_count": 6,
+    "dates_apostrophe_only": [],
+    "sections_primary_heuristic": [
+      "RAVAL MEETKUMAR",
+      "C AREER O BJECTIVE",
+      "E XPERIENCE",
+      "DUCATION",
+      "M AIN P ROJECTS",
+      "ESEARCH AND UBLICATIONS",
+      "CHIEVEMENTS",
+      "KILLS",
+      "ERTIFICATIONS",
+      "DDITIONAL ROJECTS",
+      "ANGUAGES",
+      "DECLARATION"
+    ],
+    "sections_keyword_fallback": [
+      "Skills:",
+      "Skills:",
+      "Languages .",
+      "DECLARATION"
+    ],
+    "kb_probe_found": [
+      "python",
+      "mysql",
+      "django",
+      "flask",
+      "nlp"
+    ],
+    "kb_probe_missing": [
+      "sql",
+      "llm",
+      "kubernetes"
+    ],
+    "reading_order_ok": true
+  },
+  {
+    "file": "Working-Student-Intern-Business-Development-Sales-Expansion---Spain.pdf",
+    "issues": [
+      "only 2 sections detectable via keyword fallback"
+    ],
+    "extracts_text": true,
+    "word_count": 173,
+    "name_extracted": true,
+    "email_extracted": true,
+    "phone_extracted": true,
+    "dates_std_regex_count": 6,
+    "dates_apostrophe_only": [],
+    "sections_primary_heuristic": [
+      "RAVAL MEETKUMAR",
+      "AREER BJECTIVE",
+      "E XPERIENCE",
+      "E DUCATION",
+      "M AIN P ROJECTS",
+      "ESEARCH AND UBLICATIONS",
+      "CHIEVEMENTS",
+      "S KILLS",
+      "ERTIFICATIONS",
+      "A DDITIONAL P ROJECTS",
+      "ANGUAGES",
+      "DECLARATION"
+    ],
+    "sections_keyword_fallback": [
+      "Languages .",
+      "DECLARATION"
+    ],
+    "kb_probe_found": [
+      "mysql",
+      "django",
+      "flask",
+      "nlp"
+    ],
+    "kb_probe_missing": [
+      "python",
+      "sql",
+      "llm",
+      "kubernetes"
+    ],
+    "reading_order_ok": true
+  },
+  {
+    "file": "Working-Student-Marketing.pdf",
+    "issues": [
+      "only 2 sections detectable via keyword fallback"
+    ],
+    "extracts_text": true,
+    "word_count": 175,
+    "name_extracted": true,
+    "email_extracted": true,
+    "phone_extracted": true,
+    "dates_std_regex_count": 6,
+    "dates_apostrophe_only": [],
+    "sections_primary_heuristic": [
+      "RAVAL MEETKUMAR",
+      "AREER BJECTIVE",
+      "XPERIENCE",
+      "E DUCATION",
+      "M AIN P ROJECTS",
+      "ESEARCH AND UBLICATIONS",
+      "CHIEVEMENTS",
+      "S KILLS",
+      "C ERTIFICATIONS",
+      "DDITIONAL ROJECTS",
+      "L ANGUAGES",
+      "DECLARATION"
+    ],
+    "sections_keyword_fallback": [
+      "Languages .",
+      "DECLARATION"
+    ],
+    "kb_probe_found": [
+      "mysql",
+      "django",
+      "flask",
+      "nlp"
+    ],
+    "kb_probe_missing": [
+      "python",
+      "sql",
+      "llm",
+      "kubernetes"
+    ],
+    "reading_order_ok": true
+  },
+  {
+    "file": "Working-Student-part-time-Software-QA.pdf",
+    "issues": [
+      "only 2 sections detectable via keyword fallback"
+    ],
+    "extracts_text": true,
+    "word_count": 172,
+    "name_extracted": true,
+    "email_extracted": true,
+    "phone_extracted": true,
+    "dates_std_regex_count": 6,
+    "dates_apostrophe_only": [],
+    "sections_primary_heuristic": [
+      "RAVAL MEETKUMAR",
+      "AREER BJECTIVE",
+      "E XPERIENCE",
+      "E DUCATION",
+      "M AIN P ROJECTS",
+      "ESEARCH AND UBLICATIONS",
+      "CHIEVEMENTS",
+      "KILLS",
+      "ERTIFICATIONS",
+      "DDITIONAL ROJECTS",
+      "ANGUAGES",
+      "DECLARATION"
+    ],
+    "sections_keyword_fallback": [
+      "Languages .",
+      "DECLARATION"
+    ],
+    "kb_probe_found": [
+      "python",
+      "mysql",
+      "django",
+      "flask",
+      "nlp"
+    ],
+    "kb_probe_missing": [
+      "sql",
+      "llm",
+      "kubernetes"
+    ],
+    "reading_order_ok": true
+  },
+  {
+    "file": "Working-Student-People-Culture.pdf",
+    "issues": [
+      "only 2 sections detectable via keyword fallback"
+    ],
+    "extracts_text": true,
+    "word_count": 174,
+    "name_extracted": true,
+    "email_extracted": true,
+    "phone_extracted": true,
+    "dates_std_regex_count": 6,
+    "dates_apostrophe_only": [],
+    "sections_primary_heuristic": [
+      "RAVAL MEETKUMAR",
+      "AREER BJECTIVE",
+      "E XPERIENCE",
+      "E DUCATION",
+      "M AIN P ROJECTS",
+      "ESEARCH AND UBLICATIONS",
+      "CHIEVEMENTS",
+      "KILLS",
+      "ERTIFICATIONS",
+      "DDITIONAL ROJECTS",
+      "ANGUAGES",
+      "DECLARATION"
+    ],
+    "sections_keyword_fallback": [
+      "Languages .",
+      "DECLARATION"
+    ],
+    "kb_probe_found": [
+      "mysql",
+      "django",
+      "flask",
+      "nlp"
+    ],
+    "kb_probe_missing": [
+      "python",
+      "sql",
+      "llm",
+      "kubernetes"
+    ],
+    "reading_order_ok": true
+  },
+  {
+    "file": "Working-Student-Project-Product-Management-in-Digital-Automation.pdf",
+    "issues": [
+      "only 2 sections detectable via keyword fallback"
+    ],
+    "extracts_text": true,
+    "word_count": 176,
+    "name_extracted": true,
+    "email_extracted": true,
+    "phone_extracted": true,
+    "dates_std_regex_count": 6,
+    "dates_apostrophe_only": [],
+    "sections_primary_heuristic": [
+      "RAVAL MEETKUMAR",
+      "AREER BJECTIVE",
+      "E XPERIENCE",
+      "DUCATION",
+      "AIN ROJECTS",
+      "ESEARCH AND UBLICATIONS",
+      "CHIEVEMENTS",
+      "KILLS",
+      "ERTIFICATIONS",
+      "DDITIONAL ROJECTS",
+      "ANGUAGES",
+      "DECLARATION"
+    ],
+    "sections_keyword_fallback": [
+      "Languages .",
+      "DECLARATION"
+    ],
+    "kb_probe_found": [
+      "mysql",
+      "django",
+      "flask",
+      "nlp"
+    ],
+    "kb_probe_missing": [
+      "python",
+      "sql",
+      "llm",
+      "kubernetes"
+    ],
+    "reading_order_ok": true
+  },
+  {
+    "file": "Working-Student.pdf",
+    "issues": [
+      "only 2 sections detectable via keyword fallback"
+    ],
+    "extracts_text": true,
+    "word_count": 171,
+    "name_extracted": true,
+    "email_extracted": true,
+    "phone_extracted": true,
+    "dates_std_regex_count": 6,
+    "dates_apostrophe_only": [],
+    "sections_primary_heuristic": [
+      "RAVAL MEETKUMAR",
+      "C AREER O BJECTIVE",
+      "XPERIENCE",
+      "DUCATION",
+      "M AIN P ROJECTS",
+      "ESEARCH AND UBLICATIONS",
+      "CHIEVEMENTS",
+      "KILLS",
+      "ERTIFICATIONS",
+      "DDITIONAL ROJECTS",
+      "ANGUAGES",
+      "DECLARATION"
+    ],
+    "sections_keyword_fallback": [
+      "Languages .",
+      "DECLARATION"
+    ],
+    "kb_probe_found": [
+      "python",
+      "mysql",
+      "django",
+      "flask",
+      "sql",
+      "nlp"
+    ],
+    "kb_probe_missing": [
+      "llm",
+      "kubernetes"
+    ],
+    "reading_order_ok": true
+  }
+]

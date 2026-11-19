@@ -1,0 +1,1623 @@
+[
+  {
+    "title": "Masterarbeit zum Closed-Loop-Reasoning in LLM-Agenten zur Bewertung der Auswirkungen von HEMS-Parametern mittels Time-Series-Foundation-Modellen via MCP",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000155203124-masterarbeit-zum-closed-loop-reasoning-in-llm-agenten-zur-bewertung-der-auswirkungen-von-hems-parametern-mittels-time-series-foundation-modellen-via-mcp?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, hardware_iot, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "informatik",
+        "python",
+        "software",
+        "software engineering"
+      ],
+      "ai_data": [
+        "data science",
+        "large language model",
+        "llm",
+        "machine learning"
+      ],
+      "hardware_iot": [
+        "elektrotechnik",
+        "iot"
+      ],
+      "finance": [
+        "valuation"
+      ],
+      "tech_business_direct": [
+        "sem"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Master Thesis on Closed-Loop Reasoning in LLM Agents for Evaluating HEMS Parameter Effects Using Time-Series Foundation Models via MCP",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000155203499-master-thesis-on-closed-loop-reasoning-in-llm-agents-for-evaluating-hems-parameter-effects-using-time-series-foundation-models-via-mcp?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, hardware_iot, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "computer science",
+        "python",
+        "software",
+        "software engineering"
+      ],
+      "ai_data": [
+        "agentic",
+        "data science",
+        "forecasting",
+        "large language model",
+        "llm",
+        "machine learning",
+        "predictive"
+      ],
+      "hardware_iot": [
+        "electrical engineering"
+      ],
+      "finance": [
+        "valuation"
+      ],
+      "tech_business_direct": [
+        "sem"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Praktikum als GenAI-Wissensassistent*in für den Bereich Engineering (w/m/div.)",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000155020669-praktikum-als-genai-wissensassistent-in-fur-den-bereich-engineering-w-m-div-?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, hardware_iot, software",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "hardware_iot",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "informatik",
+        "python",
+        "sql"
+      ],
+      "ai_data": [
+        "ai agent",
+        "data science",
+        "genai",
+        "künstliche intelligenz",
+        "large language model"
+      ],
+      "hardware_iot": [
+        "hardware"
+      ],
+      "finance": [
+        "bank",
+        "handel",
+        "quant",
+        "valuation"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "heizung"
+    ],
+    "score": null
+  },
+  {
+    "title": "Internship in GenAI Knowledge Assistant for Engineering",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000155020599-internship-in-genai-knowledge-assistant-for-engineering?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, hardware_iot, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "computer science",
+        "database",
+        "programming",
+        "python",
+        "sql"
+      ],
+      "ai_data": [
+        "ai agent",
+        "artificial intelligence",
+        "data science",
+        "genai",
+        "generative ai",
+        "large language model",
+        "llm"
+      ],
+      "hardware_iot": [
+        "hardware"
+      ],
+      "finance": [
+        "quant",
+        "valuation"
+      ],
+      "tech_business_direct": [
+        "information systems"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Pflichtpraktikum im Bereich Entwicklung kommerzieller Wärmepumpen",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000154957702-pflichtpraktikum-im-bereich-entwicklung-kommerzieller-warmepumpen?oga=true",
+    "decision": "keep",
+    "reason": "family signal: tech_business",
+    "families_matched": [
+      "tech_business"
+    ],
+    "family_hits": {
+      "tech_business_direct": [
+        "erp",
+        "hris"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "maschinenbau"
+    ],
+    "score": null
+  },
+  {
+    "title": "Praktikum Mechatronik, Elektronik & Robotik – Entwicklung autonomer Miniaturroboter für innovative Transportsysteme",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000154952449-praktikum-mechatronik-elektronik-robotik-entwicklung-autonomer-miniaturroboter-fur-innovative-transportsysteme?oga=true",
+    "decision": "keep",
+    "reason": "family signal: automation, hardware_iot, software, tech_business",
+    "families_matched": [
+      "automation",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "agile",
+        "api",
+        "c++",
+        "programmierung",
+        "software"
+      ],
+      "automation": [
+        "automatisierung"
+      ],
+      "hardware_iot": [
+        "elektronik",
+        "elektrotechnik",
+        "embedded",
+        "embedded software",
+        "embedded systems",
+        "hardware",
+        "mechatronik",
+        "mikrocontroller",
+        "robot",
+        "roboter",
+        "robotik",
+        "sensorik"
+      ],
+      "tech_business_direct": [
+        "erp"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "konstruktion",
+      "maschinenbau"
+    ],
+    "score": null
+  },
+  {
+    "title": "Praktikum im Bereich funkbasiertes Sensing zur Aktivitätsklassifikation und Merkmalsextraktion (w/m/div.)",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000154623179-praktikum-im-bereich-funkbasiertes-sensing-zur-aktivitatsklassifikation-und-merkmalsextraktion-w-m-div-?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, hardware_iot, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "informatik",
+        "python"
+      ],
+      "ai_data": [
+        "algorithm"
+      ],
+      "hardware_iot": [
+        "elektrotechnik",
+        "hardware"
+      ],
+      "tech_business_direct": [
+        "sem"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "lager"
+    ],
+    "score": null
+  },
+  {
+    "title": "Internship in Radio-based Sensing for Activity Classification and Feature Extraction",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000154623039-internship-in-radio-based-sensing-for-activity-classification-and-feature-extraction?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, hardware_iot, software",
+    "families_matched": [
+      "ai_data",
+      "hardware_iot",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "api",
+        "computer science",
+        "programming",
+        "python"
+      ],
+      "ai_data": [
+        "algorithm",
+        "llm",
+        "machine learning",
+        "statistical"
+      ],
+      "hardware_iot": [
+        "electrical engineering",
+        "hardware"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Masterarbeit: KI-basierte Regelung der Leistungselektronik (w/m/div.)",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000153769549-masterarbeit-ki-basierte-regelung-der-leistungselektronik-w-m-div-?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, hardware_iot, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "informatik",
+        "python"
+      ],
+      "ai_data": [
+        "algorithm",
+        "algorithmus",
+        "machine learning",
+        "predictive",
+        "reinforcement learning"
+      ],
+      "hardware_iot": [
+        "aktuatoren",
+        "elektronik",
+        "elektrotechnik",
+        "mechatronik",
+        "robot",
+        "robotik"
+      ],
+      "tech_business_needs_tech": [
+        "strategie"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "architektur",
+      "chef"
+    ],
+    "score": null
+  },
+  {
+    "title": "Master Thesis AI-based Power Electronics Control",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000153769139-master-thesis-ai-based-power-electronics-control-?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, hardware_iot, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "computer science",
+        "python"
+      ],
+      "ai_data": [
+        "algorithm",
+        "llm",
+        "machine learning",
+        "neural network",
+        "predictive",
+        "reinforcement learning"
+      ],
+      "automation": [
+        "control systems"
+      ],
+      "hardware_iot": [
+        "actuators",
+        "electrical engineering",
+        "electronics",
+        "mechatronics",
+        "robot",
+        "robotics"
+      ],
+      "tech_business_needs_tech": [
+        "strategie",
+        "strategy"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "architecture"
+    ],
+    "score": null
+  },
+  {
+    "title": "Pflichtpraktikum im Bereich Innovation in der automobilen Vernetzung und Technologien für softwaredefinierte Fahrzeuge (w/m/div.)",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000153515565-pflichtpraktikum-im-bereich-innovation-in-der-automobilen-vernetzung-und-technologien-fur-softwaredefinierte-fahrzeuge-w-m-div-?oga=true",
+    "decision": "keep",
+    "reason": "family signal: finance, hardware_iot, software",
+    "families_matched": [
+      "finance",
+      "hardware_iot",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "c++",
+        "cybersecurity",
+        "informatik",
+        "linux",
+        "python",
+        "software"
+      ],
+      "hardware_iot": [
+        "elektrotechnik",
+        "embedded",
+        "embedded systems"
+      ],
+      "finance": [
+        "portfolio"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "architektur"
+    ],
+    "score": null
+  },
+  {
+    "title": "Mandatory Internship Automotive Networking Innovation and Software-Defined Vehicle Technologies",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000153516331-mandatory-internship-automotive-networking-innovation-and-software-defined-vehicle-technologies?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, hardware_iot, software",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "hardware_iot",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "c++",
+        "computer science",
+        "cybersecurity",
+        "information technology",
+        "linux",
+        "programming",
+        "python",
+        "scala",
+        "software"
+      ],
+      "ai_data": [
+        "llm"
+      ],
+      "hardware_iot": [
+        "electrical engineering",
+        "embedded",
+        "embedded systems"
+      ],
+      "finance": [
+        "portfolio",
+        "valuation"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "architecture"
+    ],
+    "score": null
+  },
+  {
+    "title": "Praktikum im Bereich agentische KI für die automatisierte Codegenerierung in sicherheitskritischer Embedded-Software (w/m/div.)",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000153501129-praktikum-im-bereich-agentische-ki-fur-die-automatisierte-codegenerierung-in-sicherheitskritischer-embedded-software-w-m-div-?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, hardware_iot, software",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "hardware_iot",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "c++",
+        "ci/cd",
+        "code",
+        "coding",
+        "git",
+        "github",
+        "informatik",
+        "linux",
+        "python",
+        "software",
+        "software engineering",
+        "softwareentwicklung"
+      ],
+      "ai_data": [
+        "copilot",
+        "llm"
+      ],
+      "automation": [
+        "automation",
+        "automatisierung"
+      ],
+      "hardware_iot": [
+        "elektrotechnik",
+        "embedded",
+        "mechatronik"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "architektur"
+    ],
+    "score": null
+  },
+  {
+    "title": "Pflichtpraktikum im Einkauf mit Schwerpunkt Lagerwirtschaft",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000153160319-pflichtpraktikum-im-einkauf-mit-schwerpunkt-lagerwirtschaft?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "git"
+      ],
+      "ai_data": [
+        "power bi"
+      ],
+      "tech_business_direct": [
+        "erp"
+      ],
+      "tech_business_needs_tech": [
+        "projektmanagement",
+        "strategie"
+      ]
+    },
+    "out_identity_hits_title": [
+      "lager"
+    ],
+    "out_identity_hits_full": [
+      "lager"
+    ],
+    "score": null
+  },
+  {
+    "title": "Praktikum in der Modellierung neuronaler Kamera-Projektionen (w/m/div.)",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000153102470-praktikum-in-der-modellierung-neuronaler-kamera-projektionen-w-m-div-?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "informatik",
+        "python"
+      ],
+      "ai_data": [
+        "computer vision",
+        "machine learning"
+      ],
+      "tech_business_direct": [
+        "datengetrieben"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "architektur",
+      "konstruktion",
+      "lager"
+    ],
+    "score": null
+  },
+  {
+    "title": "Internship in Neural Camera-Projection Modeling",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000153102859-internship-in-neural-camera-projection-modeling?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "computer science",
+        "programming",
+        "python"
+      ],
+      "ai_data": [
+        "computer vision",
+        "llm",
+        "machine learning",
+        "neural network"
+      ],
+      "tech_business_direct": [
+        "data-driven"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "architecture"
+    ],
+    "score": null
+  },
+  {
+    "title": "Praktikum Technischer Einkauf",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000152856093-praktikum-technischer-einkauf?oga=true",
+    "decision": "keep",
+    "reason": "family signal: hardware_iot, tech_business",
+    "families_matched": [
+      "hardware_iot",
+      "tech_business"
+    ],
+    "family_hits": {
+      "hardware_iot": [
+        "elektronik",
+        "elektrotechnik"
+      ],
+      "tech_business_direct": [
+        "sap"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "maschinenbau"
+    ],
+    "score": null
+  },
+  {
+    "title": "Pflichtpraktikum im Vertrieb – Customer Team BMW Automotive (w/m/div.)",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000151544369-pflichtpraktikum-im-vertrieb-customer-team-bmw-automotive-w-m-div-?oga=true",
+    "decision": "keep",
+    "reason": "family signal: software, tech_business",
+    "families_matched": [
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "software"
+      ],
+      "tech_business_direct": [
+        "erp"
+      ],
+      "tech_business_needs_tech": [
+        "betriebswirtschaft",
+        "projektmanagement"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Werkstudent:in – Service Design mit Fokus auf Customer Journey Management bei Bosch eBike Systems (w/m/div.)",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000150984090-werkstudent-in-service-design-mit-fokus-auf-customer-journey-management-bei-bosch-ebike-systems-w-m-div-?oga=true",
+    "decision": "keep",
+    "reason": "family signal: finance, software",
+    "families_matched": [
+      "finance",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "git",
+        "software"
+      ],
+      "finance": [
+        "portfolio",
+        "quant"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "architektur"
+    ],
+    "score": null
+  },
+  {
+    "title": "Working Student – Service Design with a Customer Journey Management Focus at Bosch eBike Systems (f/m/div.)",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000150986869-working-student-service-design-with-a-customer-journey-management-focus-at-bosch-ebike-systems-f-m-div-?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, software",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "git",
+        "software"
+      ],
+      "ai_data": [
+        "llm"
+      ],
+      "finance": [
+        "portfolio",
+        "quant"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "architecture"
+    ],
+    "score": null
+  },
+  {
+    "title": "Werkstudent*in 3D-Animation von Sensoren – Technische Inhalte (f/m/div.) (w/m/div.)",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000150395577-werkstudent-in-3d-animation-von-sensoren-technische-inhalte-f-m-div-w-m-div-?oga=true",
+    "decision": "keep",
+    "reason": "family signal: finance, hardware_iot",
+    "families_matched": [
+      "finance",
+      "hardware_iot"
+    ],
+    "family_hits": {
+      "hardware_iot": [
+        "elektronik",
+        "sensoren"
+      ],
+      "finance": [
+        "portfolio"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Working Student 3D Animation of Sensors Technical Content (f/m/div.)",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000150398990-working-student-3d-animation-of-sensors-technical-content-f-m-div-?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, hardware_iot",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "hardware_iot"
+    ],
+    "family_hits": {
+      "ai_data": [
+        "llm"
+      ],
+      "hardware_iot": [
+        "electronics",
+        "internet of things",
+        "sensors"
+      ],
+      "finance": [
+        "portfolio"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Masterarbeit: Einfluss der Betriebsbedingungen auf die Membrandegradation in der PEM-Wasserelektrolyse (w/m/div.)",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000149843381-masterarbeit-einfluss-der-betriebsbedingungen-auf-die-membrandegradation-in-der-pem-wasserelektrolyse-w-m-div-?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, tech_business",
+    "families_matched": [
+      "ai_data",
+      "tech_business"
+    ],
+    "family_hits": {
+      "ai_data": [
+        "datenanalyse"
+      ],
+      "tech_business_direct": [
+        "erp"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "chemie"
+    ],
+    "score": null
+  },
+  {
+    "title": "Master Thesis Impact of Operating Conditions on Membrane Degradation in PEM Water Electrolysis",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000149846619-master-thesis-impact-of-operating-conditions-on-membrane-degradation-in-pem-water-electrolysis?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, tech_business",
+    "families_matched": [
+      "ai_data",
+      "tech_business"
+    ],
+    "family_hits": {
+      "ai_data": [
+        "llm"
+      ],
+      "tech_business_direct": [
+        "erp",
+        "sem"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "chemistry"
+    ],
+    "score": null
+  },
+  {
+    "title": "Masterarbeit: Evaluierung hardwarebeschleunigter MACsec-Lösungen für sicheres gPTP in automobilen TSN-Netzwerken (w/m/div.)",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000149351689-masterarbeit-evaluierung-hardwarebeschleunigter-macsec-losungen-fur-sicheres-gptp-in-automobilen-tsn-netzwerken-w-m-div-?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, hardware_iot, software",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "hardware_iot",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "c++",
+        "informatik",
+        "linux",
+        "python",
+        "software"
+      ],
+      "ai_data": [
+        "gpt"
+      ],
+      "hardware_iot": [
+        "elektrotechnik",
+        "embedded",
+        "embedded systems",
+        "hardware"
+      ],
+      "finance": [
+        "quant"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Master Thesis Evaluation of Hardware-Accelerated MACsec for Secure gPTP in Automotive TSN Networks",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000149348659-master-thesis-evaluation-of-hardware-accelerated-macsec-for-secure-gptp-in-automotive-tsn-networks?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, hardware_iot, software",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "hardware_iot",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "c++",
+        "computer science",
+        "linux",
+        "programming",
+        "python",
+        "software"
+      ],
+      "ai_data": [
+        "gpt",
+        "llm"
+      ],
+      "hardware_iot": [
+        "electrical engineering",
+        "embedded",
+        "embedded systems",
+        "hardware"
+      ],
+      "finance": [
+        "quant",
+        "valuation"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "PreMaster-Programm – Managementassistenz im FC-Bereich, Schwerpunkt Controlling (w/m/div.)",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000148979559-premaster-programm-managementassistenz-im-fc-bereich-schwerpunkt-controlling-w-m-div-?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "informatik"
+      ],
+      "ai_data": [
+        "datenanalyse",
+        "forecasting",
+        "power bi"
+      ],
+      "finance": [
+        "controlling",
+        "finanz"
+      ],
+      "tech_business_direct": [
+        "erp"
+      ],
+      "tech_business_needs_tech": [
+        "betriebswirtschaft",
+        "projektmanagement"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "PreMaster Program - Management Assistance in FC Area, Focus Controlling",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000148978366-premaster-program-management-assistance-in-fc-area-focus-controlling?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "computer science"
+      ],
+      "ai_data": [
+        "forecasting",
+        "statistics"
+      ],
+      "finance": [
+        "controlling",
+        "financial"
+      ],
+      "tech_business_direct": [
+        "erp"
+      ],
+      "tech_business_needs_tech": [
+        "project management"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Internship 3D Scene Editing and Generation",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000148728704-internship-3d-scene-editing-and-generation?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, hardware_iot, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "programming",
+        "python"
+      ],
+      "ai_data": [
+        "deep learning",
+        "llm"
+      ],
+      "hardware_iot": [
+        "electrical engineering",
+        "mechatronics",
+        "robot",
+        "robotics"
+      ],
+      "tech_business_direct": [
+        "sem"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "PreMaster Programm - Strategischer Einkauf und Supply Chain Management",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000148717240-premaster-programm-strategischer-einkauf-und-supply-chain-management-?oga=true",
+    "decision": "keep",
+    "reason": "family signal: software, tech_business",
+    "families_matched": [
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "software"
+      ],
+      "tech_business_direct": [
+        "sap",
+        "sem"
+      ],
+      "tech_business_needs_tech": [
+        "strategie"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Praktikum Softwareentwicklung und Datenanalyse",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000147895909-praktikum-softwareentwicklung-und-datenanalyse?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, hardware_iot, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "informatik",
+        "java",
+        "javascript",
+        "linux",
+        "node",
+        "php",
+        "python",
+        "software",
+        "softwareentwicklung",
+        "sql"
+      ],
+      "ai_data": [
+        "datenanalyse"
+      ],
+      "hardware_iot": [
+        "elektrotechnik"
+      ],
+      "finance": [
+        "bank"
+      ],
+      "tech_business_direct": [
+        "sem"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Master Thesis Robust Identification of Compositional Electrical Drive Models - Identifiability, Sensitivity & Excitation Analysis",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000147457039-master-thesis-robust-identification-of-compositional-electrical-drive-models-identifiability-sensitivity-excitation-analysis?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, software",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "computer science",
+        "programming",
+        "python"
+      ],
+      "ai_data": [
+        "llm",
+        "machine learning"
+      ],
+      "finance": [
+        "quant"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Praktikum Beschaffungsplanung in der Logistik (Supply Chain)",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000147439805-praktikum-beschaffungsplanung-in-der-logistik-supply-chain-?oga=true",
+    "decision": "keep",
+    "reason": "family signal: tech_business",
+    "families_matched": [
+      "tech_business"
+    ],
+    "family_hits": {
+      "tech_business_direct": [
+        "sap",
+        "sem"
+      ],
+      "tech_business_needs_tech": [
+        "betriebswirtschaft"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Master Thesis AI-based Sensorless Edrive Control",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000147155080-master-thesis-ai-based-sensorless-edrive-control?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, hardware_iot, software",
+    "families_matched": [
+      "ai_data",
+      "hardware_iot",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "api",
+        "computer science",
+        "python",
+        "software"
+      ],
+      "ai_data": [
+        "algorithm",
+        "artificial intelligence",
+        "llm",
+        "machine learning",
+        "neural network"
+      ],
+      "hardware_iot": [
+        "mechatronics",
+        "sensors"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "architecture"
+    ],
+    "score": null
+  },
+  {
+    "title": "Werkstudent (m/w/d) im Bereich Werkstattplanung und -organisation",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000146454315-werkstudent-m-w-d-im-bereich-werkstattplanung-und-organisation-?oga=true",
+    "decision": "keep",
+    "reason": "family signal: software",
+    "families_matched": [
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "software"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Masterarbeit: Robuste Identifikation zusammengesetzter elektrischer Antriebsmodelle — Identifizierbarkeit, Sensitivität & Anregungsanalyse (w/m/div.)",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000146149499-masterarbeit-robuste-identifikation-zusammengesetzter-elektrischer-antriebsmodelle-identifizierbarkeit-sensitivitat-anregungsanalyse-w-m-div-?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, hardware_iot, software",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "hardware_iot",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "informatik",
+        "programmierung",
+        "python"
+      ],
+      "ai_data": [
+        "machine learning"
+      ],
+      "hardware_iot": [
+        "iot"
+      ],
+      "finance": [
+        "quant"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Pflichtpraktikum in der Automatisierung der Prozessentwicklung mit agentischer KI in der Fertigung (w/m/div.)",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000137824828-pflichtpraktikum-in-der-automatisierung-der-prozessentwicklung-mit-agentischer-ki-in-der-fertigung-w-m-div-?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, finance, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "finance",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "data engineer",
+        "data engineering",
+        "informatik",
+        "python"
+      ],
+      "ai_data": [
+        "agentic",
+        "künstliche intelligenz",
+        "maschinelles lernen"
+      ],
+      "automation": [
+        "automatisierung"
+      ],
+      "finance": [
+        "bank"
+      ],
+      "tech_business_direct": [
+        "sem"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Pflichtpraktikum im Change Management & Organisationsentwicklung",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000137824092-pflichtpraktikum-im-change-management-organisationsentwicklung?oga=true",
+    "decision": "keep",
+    "reason": "family signal: software, tech_business",
+    "families_matched": [
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "git"
+      ],
+      "tech_business_direct": [
+        "digitalisierung",
+        "erp"
+      ],
+      "tech_business_needs_tech": [
+        "beratung",
+        "kaufmännisch",
+        "kaufmännische"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Pflichtpraktikum im Change Management & Organisationsentwicklung",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000133548872-pflichtpraktikum-im-change-management-organisationsentwicklung?oga=true",
+    "decision": "keep",
+    "reason": "family signal: software, tech_business",
+    "families_matched": [
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "git"
+      ],
+      "tech_business_direct": [
+        "digitalisierung",
+        "erp"
+      ],
+      "tech_business_needs_tech": [
+        "beratung",
+        "kaufmännisch",
+        "kaufmännische"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Mandatory Internship in Automation of Process Development with Agentic AI in Manufacturing",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000132590903-mandatory-internship-in-automation-of-process-development-with-agentic-ai-in-manufacturing?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "computer science",
+        "data engineer",
+        "data engineering",
+        "database",
+        "programming",
+        "python"
+      ],
+      "ai_data": [
+        "agentic",
+        "ai agent",
+        "artificial intelligence",
+        "llm",
+        "machine learning"
+      ],
+      "automation": [
+        "automate",
+        "automation"
+      ],
+      "tech_business_direct": [
+        "sem"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Werkstudent*in in der Hardware-Prototypenentwicklung und -entwicklung (w/m/div.)",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000132194761-werkstudent-in-in-der-hardware-prototypenentwicklung-und-entwicklung-w-m-div-?oga=true",
+    "decision": "keep",
+    "reason": "family signal: hardware_iot, software, tech_business",
+    "families_matched": [
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "c++",
+        "git",
+        "programmierung",
+        "python"
+      ],
+      "hardware_iot": [
+        "arduino",
+        "elektronik",
+        "embedded",
+        "embedded systems",
+        "hardware",
+        "pcb",
+        "raspberry pi",
+        "sensoren"
+      ],
+      "tech_business_direct": [
+        "erp"
+      ],
+      "tech_business_needs_tech": [
+        "betriebswirtschaft"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "pflege"
+    ],
+    "score": null
+  },
+  {
+    "title": "Working Student in Hardware Prototyping & Development",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000132192802-working-student-in-hardware-prototyping-development-?oga=true",
+    "decision": "keep",
+    "reason": "family signal: ai_data, hardware_iot, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "c++",
+        "git",
+        "programming",
+        "python"
+      ],
+      "ai_data": [
+        "llm"
+      ],
+      "hardware_iot": [
+        "arduino",
+        "circuit",
+        "electronics",
+        "embedded",
+        "embedded systems",
+        "hardware",
+        "internet of things",
+        "pcb",
+        "raspberry pi",
+        "sensors"
+      ],
+      "tech_business_needs_tech": [
+        "business administration"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Pflichtpraktikant Produkt Management Home Care (m/w/d)",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.bsh-group.de/jobs/45747-pflichtpraktikant-produkt-management-home-care-m-w-d/job_application/new",
+    "decision": "keep",
+    "reason": "family signal: software, tech_business",
+    "families_matched": [
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "agile"
+      ],
+      "tech_business_direct": [
+        "produktmanagement",
+        "sem"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Werkstudent/-in globales Marketing CRM & APP (m/w/d)",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.bsh-group.de/jobs/45738-werkstudent-in-globales-marketing-crm-app-m-w-d/job_application/new",
+    "decision": "keep",
+    "reason": "family signal: software, tech_business",
+    "families_matched": [
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "git"
+      ],
+      "tech_business_direct": [
+        "crm",
+        "erp",
+        "sem"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Werkstudent Digital Engineering and Simulation (m/w/d)",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.bsh-group.de/jobs/45714-werkstudent-digital-engineering-and-simulation-m-w-d/job_application/new",
+    "decision": "keep",
+    "reason": "family signal: hardware_iot, software, tech_business",
+    "families_matched": [
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "api",
+        "git",
+        "informatik",
+        "microservices"
+      ],
+      "hardware_iot": [
+        "robot",
+        "robotik"
+      ],
+      "tech_business_direct": [
+        "sem",
+        "wirtschaftsinformatik"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Master Thesis–Camera & ISP Optimization for AI Classification (m/f/d)",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.bsh-group.de/jobs/45630-master-thesis-camera-isp-optimization-for-ai-classification-m-f-d/job_application/new",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, finance, hardware_iot, software",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "finance",
+      "hardware_iot",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "computer science",
+        "developer",
+        "programming",
+        "python",
+        "swift"
+      ],
+      "ai_data": [
+        "ai models",
+        "computer vision"
+      ],
+      "automation": [
+        "automate"
+      ],
+      "hardware_iot": [
+        "electrical engineering",
+        "embedded",
+        "embedded systems",
+        "hardware"
+      ],
+      "finance": [
+        "valuation"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Intern European Strategy & Transformation (m/f/d)",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.bsh-group.de/jobs/45424-intern-european-strategy-transformation-m-f-d/job_application/new",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "git"
+      ],
+      "ai_data": [
+        "generative ai"
+      ],
+      "finance": [
+        "finance",
+        "payments"
+      ],
+      "tech_business_direct": [
+        "digital transformation",
+        "sem"
+      ],
+      "tech_business_needs_tech": [
+        "business administration",
+        "strategy"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Werkstudent Einkauf IT Hardware & IT Services (m/w/d)",
+    "company": "Bosch Group",
+    "job_url": "https://jobs.bsh-group.de/jobs/45396-werkstudent-einkauf-it-hardware-it-services-m-w-d/job_application/new",
+    "decision": "keep",
+    "reason": "family signal: automation, hardware_iot, tech_business",
+    "families_matched": [
+      "automation",
+      "hardware_iot",
+      "tech_business"
+    ],
+    "family_hits": {
+      "automation": [
+        "automatisierung"
+      ],
+      "hardware_iot": [
+        "hardware"
+      ],
+      "tech_business_direct": [
+        "sem"
+      ],
+      "tech_business_needs_tech": [
+        "strategie"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  }
+]

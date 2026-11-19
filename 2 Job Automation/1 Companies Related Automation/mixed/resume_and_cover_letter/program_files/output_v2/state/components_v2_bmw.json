@@ -1,0 +1,373 @@
+[
+  {
+    "job_url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.196000.html",
+    "title": "Werkstudent Forschung / Entwicklung Elektromobilität (m/w/x)",
+    "company": "BMW AG",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Werkstudent Forschung / Entwicklung Elektromobilität",
+      "language": "de",
+      "required": [
+        "Studium Elektrotechnik",
+        "Studium Fahrzeugtechnik",
+        "Team- und Kommunikationsfähigkeit",
+        "Eigeninitiative",
+        "zuverlässige Arbeitsweise",
+        "MS Office Kenntnisse",
+        "KI Anwendungserfahrung",
+        "Deutschkenntnisse",
+        "Englischkenntnisse"
+      ],
+      "preferred": [],
+      "tools": [
+        "MS Office",
+        "interne Tools",
+        "KI-Anwendungen"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": null,
+          "other": null
+        },
+        {
+          "language": "German",
+          "level": null,
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "Electromobility",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "As a current student of Elektrotechnik and Fahrzeugtechnik, I bring strong team- und Kommunikationsfähigkeit, eigeninitiative, and a reliable work ethic to support research and development in Elektromobilität. I aim to apply my expertise in Python, Machine Learning, Computer Vision and Data Analytics while gaining practical experience with MS Office and KI-Anwendungen, leveraging my English C2 and developing German A2 proficiency.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL",
+          "JavaScript"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Computer Vision",
+          "Natural Language Processing",
+          "Quantitative Modeling"
+        ],
+        "areas": [
+          {
+            "label": "Programming & Development",
+            "skills": [
+              "Python",
+              "C++",
+              "JavaScript",
+              "SQL",
+              "Django",
+              "FastAPI",
+              "React",
+              "NodeJS"
+            ]
+          },
+          {
+            "label": "Data Science & AI",
+            "skills": [
+              "Machine Learning",
+              "Deep Learning",
+              "Reinforcement Learning",
+              "Transformers",
+              "Natural Language Processing",
+              "Computer Vision",
+              "Data Analytics",
+              "Data Preprocessing"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed quantitative models and backend, real‑time algorithms that enhanced profitability and benchmark performance, applying black‑box and gray‑box AI techniques to support high‑frequency trading operations, demonstrating strong research and development capabilities.",
+          "skills": [
+            "Python",
+            "Quantitative Modeling",
+            "Real-Time Algorithms",
+            "Backend Components",
+            "Data Analytics",
+            "Mathematics",
+            "Trading Operations"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine‑learning models for text‑to‑speech and visual activity analysis, and performed precise data extraction and preprocessing to ensure high‑quality training and evaluation, supporting research‑driven AI development.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech",
+            "Django"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Built a real‑time trading platform that ingests market data, applies quantitative and AI models, and executes actions instantly, showcasing expertise in data analytics and real‑time systems applicable to electromobility research.",
+          "skills": [
+            "Python",
+            "Django",
+            "Data Analytics",
+            "Machine Learning",
+            "Real-Time Systems",
+            "Mathematics"
+          ]
+        },
+        {
+          "id": "vehicle_sharing",
+          "title": "Vehicle Sharing Application",
+          "description": "Created a full‑stack vehicle sharing app with Dijkstra‑based route optimization and live CRUD operations, delivering a responsive UI that supports mobility research and prototype development.",
+          "skills": [
+            "JavaScript",
+            "NodeJS",
+            "React",
+            "MongoDB",
+            "Dijkstra Algorithm",
+            "UI Development"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 3.1,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 0,
+      "skills_recased": 7,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=7 repicked=False"
+    }
+  },
+  {
+    "job_url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.196664.html",
+    "title": "Werkstudent Controlling und Datenanalyse (w/m/x)",
+    "company": "BMW M GmbH",
+    "status": "gated_ok",
+    "analysis": {
+      "title_core": "Werkstudent Controlling und Datenanalyse",
+      "language": "de",
+      "required": [
+        "Studium der Wirtschaftsinformatik",
+        "Data Science",
+        "Informatik",
+        "Betriebswirtschaftslehre",
+        "Wirtschaftsingenieurwesen",
+        "Erste praktische Erfahrungen",
+        "Kenntnisse im Umgang",
+        "Deutschkenntnisse",
+        "Englischkenntnisse"
+      ],
+      "preferred": [
+        "Power BI",
+        "Data Analytics",
+        "Business Intelligence",
+        "Controlling",
+        "Datenvisualisierung",
+        "Datenmodellierung",
+        "Datenharmonisierung",
+        "Visualisierung von Ergebnissen"
+      ],
+      "tools": [
+        "Power BI",
+        "SQL",
+        "BI-Tools",
+        "Datenbanken",
+        "BI"
+      ],
+      "languages_required": [
+        {
+          "language": "English",
+          "level": "good",
+          "other": null
+        },
+        {
+          "language": "German",
+          "level": "very good",
+          "other": null
+        }
+      ],
+      "years_experience": null,
+      "domain": "Controlling & Data Analysis",
+      "knockouts": []
+    },
+    "components": {
+      "objective": "Enthusiastic Wirtschaftsinformatik student eager to support controlling and data analysis tasks by leveraging strong Python, SQL, and machine learning foundations. I aim to deepen practical experience in business intelligence, targeting proficiency with Power BI and data visualization to deliver clear analytical insights.",
+      "skills_section": {
+        "languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "SQL"
+        ],
+        "specialized_areas": [
+          "Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Data Analytics"
+        ],
+        "areas": [
+          {
+            "label": "Data Engineering",
+            "skills": [
+              "Data Analytics",
+              "Python",
+              "SQL",
+              "Data Preprocessing",
+              "MongoDB",
+              "FastAPI"
+            ]
+          },
+          {
+            "label": "AI Development",
+            "skills": [
+              "Machine Learning",
+              "Deep Learning",
+              "Natural Language Processing",
+              "Transformers",
+              "Large Language Models",
+              "Reinforcement Learning"
+            ]
+          }
+        ]
+      },
+      "experiences": [
+        {
+          "id": "soham",
+          "role": "Software Engineer",
+          "company": "Soham Infotech",
+          "location": "Gujarat, India",
+          "dates": "Dec 2023 - Jan 2025",
+          "description": "Developed quantitative functions and models that boosted profitability in financial decision‑making, and built backend components with real‑time algorithms to support trading operations, surpassing benchmark performance. Key working areas: Data Analytics.",
+          "skills": [
+            "Data Analytics",
+            "Python",
+            "Quantitative Modeling",
+            "Real-Time Algorithms",
+            "Financial Decision-Making",
+            "Backend Components"
+          ]
+        },
+        {
+          "id": "pantechelearning",
+          "role": "Machine Learning Intern",
+          "company": "Pantechelearning",
+          "location": "Chennai, India",
+          "dates": "Dec 2021 - Feb 2022",
+          "description": "Implemented machine‑learning models for text‑to‑speech and visual‑activity analysis, and performed data extraction and preprocessing to ensure accurate training and evaluation.",
+          "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Preprocessing",
+            "Text-to-Speech"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "hft",
+          "title": "High Frequency Trading Platform",
+          "description": "Built an end‑to‑end Python system that scrapes market data, applies quantitative and AI models, and delivers real‑time analytics for cash‑segment trading, supporting data‑driven decision making. Implementation focus: Data Analytics.",
+          "skills": [
+            "Data Analytics",
+            "Python",
+            "Mathematics",
+            "Quantitative Modeling",
+            "Machine Learning",
+            "Deep Learning",
+            "Django"
+          ]
+        },
+        {
+          "id": "resume_gen",
+          "title": "Automated Resume Generation",
+          "description": "Created a Streamlit application that processes structured job‑category datasets with large language models to automatically generate tailored resume content, showcasing data preprocessing and analytics capabilities.",
+          "skills": [
+            "Data Analytics",
+            "Python",
+            "Streamlit",
+            "Natural Language Processing",
+            "Large Language Models",
+            "Transformers"
+          ]
+        }
+      ],
+      "profile": {
+        "full_name": "RAVAL MEETKUMAR RITESHKUMAR",
+        "contact_line": "ravalmeett@gmail.com | +49 15565 468731 | linkedin.com/in/meetraval | github.com/ravalmeet"
+      }
+    },
+    "generation_meta": {
+      "calls": 3,
+      "latency_s": 6.5,
+      "repair_used": 0,
+      "error": "",
+      "repair_retries": 0,
+      "errors": []
+    },
+    "postcheck_fixes": [
+      "tools: force-inserted system acronym BI",
+      "required: single-tool item 'SQL' is covered by tools"
+    ],
+    "gate_findings": [],
+    "error": "",
+    "tailoring": {
+      "applied": true,
+      "mirror_targets": [],
+      "dormant_added": {},
+      "desc_insertions": [
+        "experience:Data Analytics",
+        "project:Data Analytics"
+      ],
+      "area_labels": {},
+      "project_repick": [],
+      "gate_findings": [],
+      "rows_reordered": 4,
+      "skills_recased": 2,
+      "summary": "mirror=0 dormant_added=0 desc_insertions=2 labels=0 reorder=4 recased=2 repicked=False"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "_comment": "Candidate profile for Bosch (SmartRecruiters) applications. bosch_job_apply.py loads this file automatically at startup - if present, its values OVERRIDE the built-in constants in the script. Edit here, never in the source. resume_path uses the same prepared resume as the Mercedes automation. expected_graduation uses MM/YYYY as the portal shows it (10.2027); preferred_period_start is DD.MM.YYYY (01.10.2027). Bilingual answers must match SmartRecruiters option labels (e.g. 'Ja/Yes', 'Nein/No', 'Vollzeit / full-time').",
+  "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000148955270-werkstudent-im-bereich-informationstechnologie-w-m-div-",
+  "resume_path": "E:\\WorkSpace\\2 Tech\\Cold Emaling\\RAVAL_MEETKUMAR_RESUME.pdf",
+  "candidate_email": "ravalmeett@gmail.com",
+  "expected_graduation": "10.2027",
+  "study_type": "Vollzeit / full-time",
+  "dual_study": false,
+  "intends_further_degree": false,
+  "preferred_duration": "6 Months",
+  "preferred_period_start": "01.10.2027",
+  "preferred_period_end": "",
+  "bosch_other_position_consent": true,
+  "privacy_consent": true,
+  "additional_attachments": [],
+  "smartrecruiters_email": "",
+  "smartrecruiters_password": ""
+}

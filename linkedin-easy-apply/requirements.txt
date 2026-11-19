@@ -1,0 +1,20 @@
+# LinkedIn Easy Apply Automation — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Browser automation
+selenium
+undetected-chromedriver
+setuptools
+
+# Local Command Center & Dashboard
+flask
+flask-cors
+
+# Terminal UI & formatting
+colorama
+
+# LaTeX Resume & Cover Letter Generation (REGULAR_APPLICATION engine)
+pandas
+rapidfuzz
+python-docx
+pdfplumber

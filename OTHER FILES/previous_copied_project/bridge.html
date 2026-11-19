@@ -1,0 +1,20 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>bridge</title></head>
+<body>bridge ready
+<script>
+(function(){
+  // Verify b64 integrity from server, then postMessage to opener.
+  fetch('/jsdata/cert_b64_final.txt',{cache:'no-store'}).then(function(r){return r.text();}).then(function(txt){
+    var s = txt.trim();
+    // djb2 hash (matches in-page hv)
+    function hv(x){var h=5381;for(var i=0;i<x.length;i++){h=((h*33)+x.charCodeAt(i))>>>0;}return h;}
+    var payload = {type:'BRIDGE_B64', b64: s, len: s.length, hash: hv(s)};
+    try { window.opener.postMessage(payload, '*'); } catch(e) {
+      document.title = 'postMessage failed: ' + e.message; return;
+    }
+    document.title = 'sent len=' + s.length + ' hash=' + hv(s);
+    document.body.textContent = 'sent len=' + s.length + ' hash=' + hv(s);
+  }).catch(function(e){ document.title='fetch failed: '+e.message; });
+})();
+</script>
+</body></html>

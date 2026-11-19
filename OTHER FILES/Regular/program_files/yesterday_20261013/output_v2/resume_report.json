@@ -1,0 +1,1806 @@
+{
+  "generated_at_utc": "2026-10-13T09:40:52+00:00",
+  "engine": "v2",
+  "total_jobs": 20,
+  "results": [
+    {
+      "job_url": "https://www.stepstone.de/jobs--Intern-Working-student-in-the-Field-of-Innovation-Management-m-f-d-x-Berlin-Mercedes-Benz-Tech-Innovation--14393911-inline.html",
+      "title": "Intern / Working student in the Field of Innovation Management (m/f/d/x)",
+      "company": "Mercedes-Benz Tech Innovation",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\tex\\Intern-Working-student-in-the-Field-of-Innovation-Management.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Intern-Working-student-in-the-Field-of-Innovation-Management.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Intern-Working-student-in-the-Field-of-Innovation-Management.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 93.0,
+      "score_breakdown": {
+        "required_coverage": 40.0,
+        "preferred_coverage": 20.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 5.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 1.0,
+      "preferred_coverage": 1.0,
+      "gap_report": {
+        "missing_required": [],
+        "missing_preferred": [],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "English",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Intern-Working-student-in-the-Field-of-Innovation-Management.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Intern-Working-student-in-the-Field-of-Innovation-Management.docx"
+      },
+      "parse": {
+        "word_count": 573,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 17,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=17 repicked=False"
+      },
+      "file_stem": "Intern-Working-student-in-the-Field-of-Innovation-Management"
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Working-Student-GenAI-LLM-Evaluation-Agentic-AI-NLP-f-m-d-Karlsruhe-Germany-Cinemo-GmbH--13887266-inline.html",
+      "title": "Working Student – GenAI / LLM Evaluation – Agentic AI / NLP (f/m/d)",
+      "company": "Cinemo GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\tex\\Working-Student-GenAI-LLM-Evaluation-Agentic-AI-NLP.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-GenAI-LLM-Evaluation-Agentic-AI-NLP.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-GenAI-LLM-Evaluation-Agentic-AI-NLP.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 93.0,
+      "score_breakdown": {
+        "required_coverage": 40.0,
+        "preferred_coverage": 20.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 5.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 1.0,
+      "preferred_coverage": 1.0,
+      "gap_report": {
+        "missing_required": [],
+        "missing_preferred": [],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "English",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-GenAI-LLM-Evaluation-Agentic-AI-NLP.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-GenAI-LLM-Evaluation-Agentic-AI-NLP.docx"
+      },
+      "parse": {
+        "word_count": 581,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 14,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=14 repicked=False"
+      },
+      "file_stem": "Working-Student-GenAI-LLM-Evaluation-Agentic-AI-NLP"
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Working-Student-Workspace-Management-Executive-Support-f-m-d-Muenchen-Bavaria-Germany-Alaika-Advisory-Germany-GmbH--13889669-inline.html",
+      "title": "Working Student - Workspace Management & Executive Support (f/m/d)",
+      "company": "Alaika Advisory Germany GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\tex\\Working-Student---Workspace-Management-Executive-Support.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student---Workspace-Management-Executive-Support.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student---Workspace-Management-Executive-Support.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 93.0,
+      "score_breakdown": {
+        "required_coverage": 40.0,
+        "preferred_coverage": 20.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 5.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 1.0,
+      "preferred_coverage": 1.0,
+      "gap_report": {
+        "missing_required": [],
+        "missing_preferred": [],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "English",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student---Workspace-Management-Executive-Support.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student---Workspace-Management-Executive-Support.docx"
+      },
+      "parse": {
+        "word_count": 578,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 21,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=21 repicked=False"
+      },
+      "file_stem": "Working-Student---Workspace-Management-Executive-Support"
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Space-Situational-Awareness-Internship-Master-Thesis-Germany-Brunswick-OKAPI-Orbits-GmbH--13887252-inline.html",
+      "title": "Space Situational Awareness Internship / Master Thesis",
+      "company": "OKAPI:Orbits GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\tex\\Space-Situational-Awareness-Internship-Master-Thesis.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Space-Situational-Awareness-Internship-Master-Thesis.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Space-Situational-Awareness-Internship-Master-Thesis.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 93.0,
+      "score_breakdown": {
+        "required_coverage": 40.0,
+        "preferred_coverage": 20.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 5.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 1.0,
+      "preferred_coverage": 1.0,
+      "gap_report": {
+        "missing_required": [],
+        "missing_preferred": [],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "English (B2)",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Space-Situational-Awareness-Internship-Master-Thesis.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Space-Situational-Awareness-Internship-Master-Thesis.docx"
+      },
+      "parse": {
+        "word_count": 587,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 11,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=11 repicked=False"
+      },
+      "file_stem": "Space-Situational-Awareness-Internship-Master-Thesis"
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--HR-Talent-Acquisition-Internship-f-m-d-Muenchen-Bavaria-Germany-Alaika-Advisory-Germany-GmbH--13889636-inline.html",
+      "title": "HR & Talent Acquisition Internship (f/m/d)",
+      "company": "Alaika Advisory Germany GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\tex\\HR-Talent-Acquisition-Internship.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\HR-Talent-Acquisition-Internship.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\HR-Talent-Acquisition-Internship.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 93.0,
+      "score_breakdown": {
+        "required_coverage": 40.0,
+        "preferred_coverage": 20.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 5.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 1.0,
+      "preferred_coverage": 1.0,
+      "gap_report": {
+        "missing_required": [],
+        "missing_preferred": [],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "English"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\HR-Talent-Acquisition-Internship.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\HR-Talent-Acquisition-Internship.docx"
+      },
+      "parse": {
+        "word_count": 563,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 14,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=14 repicked=False"
+      },
+      "file_stem": "HR-Talent-Acquisition-Internship"
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Internship-Advanced-Development-Implants-f-m-x-ZEISS--14600841-inline.html",
+      "title": "Internship Advanced Development Implants (f/m/x)",
+      "company": "ZEISS",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\tex\\Internship-Advanced-Development-Implants.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Internship-Advanced-Development-Implants.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Internship-Advanced-Development-Implants.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 89.4,
+      "score_breakdown": {
+        "required_coverage": 34.3,
+        "preferred_coverage": 20.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 7.1,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.857,
+      "preferred_coverage": 1.0,
+      "gap_report": {
+        "missing_required": [
+          "hardware components"
+        ],
+        "missing_preferred": [],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "English (fluent)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Internship-Advanced-Development-Implants.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Internship-Advanced-Development-Implants.docx"
+      },
+      "parse": {
+        "word_count": 548,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [
+          "experience:Python",
+          "experience:Python"
+        ],
+        "area_labels": {
+          "area_2": "AI & Data Engineering -> Python"
+        },
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 18,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=2 labels=1 reorder=0 recased=18 repicked=False"
+      },
+      "file_stem": "Internship-Advanced-Development-Implants"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/daiichi-sankyo-europe-gmbh-working-student-m-f-d-global-45125d19",
+      "title": "Working Student (m/f/d) Global Oncology Alliance Management",
+      "company": "Daiichi Sankyo Europe GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\tex\\Working-Student-Global-Oncology-Alliance-Management.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-Global-Oncology-Alliance-Management.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-Global-Oncology-Alliance-Management.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 44.0,
+      "score_breakdown": {
+        "required_coverage": 8.0,
+        "preferred_coverage": 8.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.2,
+      "preferred_coverage": 0.4,
+      "gap_report": {
+        "missing_required": [
+          "Commercial education completed",
+          "First pharma experience",
+          "High customer service",
+          "Solutions driven approach"
+        ],
+        "missing_preferred": [
+          "Cultural diversity interaction",
+          "Workshop facilitation support",
+          "Survey follow up"
+        ],
+        "ineligible_criteria": [
+          "Proven MS Office skills"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-Global-Oncology-Alliance-Management.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-Global-Oncology-Alliance-Management.docx"
+      },
+      "parse": {
+        "word_count": 565,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "Excel",
+          "MS Outlook"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [
+          "resume_gen",
+          "vehicle_sharing"
+        ],
+        "gate_findings": [],
+        "rows_reordered": 2,
+        "skills_recased": 14,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=2 recased=14 repicked=True"
+      },
+      "file_stem": "Working-Student-Global-Oncology-Alliance-Management"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/gebr-heinemann-working-student-m-f-d-ai-enablement-community-6a108f3e",
+      "title": "Working Student (m/f/d) AI Enablement & Community",
+      "company": "Gebr. Heinemann",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\tex\\Working-Student-AI-Enablement-Community.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-AI-Enablement-Community.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-AI-Enablement-Community.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 31.3,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 3.3,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.167,
+      "gap_report": {
+        "missing_required": [
+          "practical experience with Copilot",
+          "community work",
+          "organizing tasks independently"
+        ],
+        "missing_preferred": [
+          "genuine interest in AI",
+          "new ways of working",
+          "create guides FAQs",
+          "support community formats",
+          "AI champion formats"
+        ],
+        "ineligible_criteria": [
+          "enrolled at university",
+          "strong written communication skills",
+          "strong visual communication skills",
+          "curious and reliable",
+          "willing to familiarize"
+        ],
+        "language_gaps": [],
+        "languages_required": [],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-AI-Enablement-Community.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-AI-Enablement-Community.docx"
+      },
+      "parse": {
+        "word_count": 574,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 19,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=19 repicked=False"
+      },
+      "file_stem": "Working-Student-AI-Enablement-Community"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/gebr-heinemann-working-student-m-f-d-ai-prototyping-agent-0754ae18",
+      "title": "Working Student (m/f/d) AI Prototyping & Agent Solutions",
+      "company": "Gebr. Heinemann",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\tex\\Working-Student-AI-Prototyping-Agent-Solutions.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-AI-Prototyping-Agent-Solutions.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-AI-Prototyping-Agent-Solutions.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 80.5,
+      "score_breakdown": {
+        "required_coverage": 40.0,
+        "preferred_coverage": 7.5,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 5.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 1.0,
+      "preferred_coverage": 0.375,
+      "gap_report": {
+        "missing_required": [],
+        "missing_preferred": [
+          "basic understanding Generative AI",
+          "interest building testing",
+          "explaining technical topics",
+          "data protection",
+          "permissions documentation"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 4,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-AI-Prototyping-Agent-Solutions.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-AI-Prototyping-Agent-Solutions.docx"
+      },
+      "parse": {
+        "word_count": 589,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "low-code"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 12,
+        "summary": "mirror=1 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=12 repicked=False"
+      },
+      "file_stem": "Working-Student-AI-Prototyping-Agent-Solutions"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/puma-group-internship-product-management-innovation-footwear-bf905eac",
+      "title": "Internship Product Management Innovation Footwear",
+      "company": "PUMA Group",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\tex\\Internship-Product-Management-Innovation-Footwear.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Internship-Product-Management-Innovation-Footwear.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Internship-Product-Management-Innovation-Footwear.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 43.0,
+      "score_breakdown": {
+        "required_coverage": 15.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.375,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "whole time internship",
+          "appropriate field of studies",
+          "Ability to work flexibly",
+          "Desire to learn",
+          "Keen interest in sports"
+        ],
+        "missing_preferred": [
+          "AI usage plus",
+          "football interest",
+          "running interest",
+          "basketball interest",
+          "rapid prototyping machine",
+          "material update projects",
+          "project tracking list",
+          "digital library maintenance"
+        ],
+        "ineligible_criteria": [
+          "Enrolled student",
+          "Proficient in MS-Office"
+        ],
+        "language_gaps": [],
+        "languages_required": [],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Internship-Product-Management-Innovation-Footwear.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Internship-Product-Management-Innovation-Footwear.docx"
+      },
+      "parse": {
+        "word_count": 589,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "MS-Office",
+          "PowerPoint"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [
+          "project:Git",
+          "project:Git"
+        ],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 4,
+        "skills_recased": 16,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=2 labels=0 reorder=4 recased=16 repicked=False"
+      },
+      "file_stem": "Internship-Product-Management-Innovation-Footwear"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/puma-group-internship-product-line-management-core-footwear-510e1bda",
+      "title": "Internship Product Line Management CORE Footwear",
+      "company": "PUMA Group",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\tex\\Internship-Product-Line-Management-CORE-Footwear.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Internship-Product-Line-Management-CORE-Footwear.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Internship-Product-Line-Management-CORE-Footwear.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 28.0,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "relevant field of studies"
+        ],
+        "missing_preferred": [
+          "organized",
+          "entrepreneurial attitude",
+          "open-minded personality",
+          "interest in sporting goods"
+        ],
+        "ineligible_criteria": [
+          "enrolled student",
+          "MS Office skills",
+          "Fluent in English"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English (fluent)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Internship-Product-Line-Management-CORE-Footwear.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Internship-Product-Line-Management-CORE-Footwear.docx"
+      },
+      "parse": {
+        "word_count": 582,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 20,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=20 repicked=False"
+      },
+      "file_stem": "Internship-Product-Line-Management-CORE-Footwear"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/isar-aerospace-working-student-software-engineer-f-m-d-ed991f87",
+      "title": "Working Student Software Engineer (f/m/d)",
+      "company": "Isar Aerospace",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\tex\\Working-Student-Software-Engineer.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-Software-Engineer.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-Software-Engineer.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 58.5,
+      "score_breakdown": {
+        "required_coverage": 20.0,
+        "preferred_coverage": 8.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 2.5,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.5,
+      "preferred_coverage": 0.4,
+      "gap_report": {
+        "missing_required": [
+          "Familiarity with frontend",
+          "team-player mindset"
+        ],
+        "missing_preferred": [
+          "Familiarity with DevOps practices",
+          "distributed systems",
+          "scalable software architecture"
+        ],
+        "ineligible_criteria": [
+          "Enrolled in a Bachelor's",
+          "Fluent in English",
+          "Strong communication skills",
+          "Organized and proactive"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English (fluent)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-Software-Engineer.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-Software-Engineer.docx"
+      },
+      "parse": {
+        "word_count": 564,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "DevOps",
+          "automated testing"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [
+          "experience:Git",
+          "project:Git"
+        ],
+        "area_labels": {
+          "area_2": "Backend & Data Engineering -> Git"
+        },
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 4,
+        "skills_recased": 21,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=2 labels=1 reorder=4 recased=21 repicked=False"
+      },
+      "file_stem": "Working-Student-Software-Engineer"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/driveblocks-robotics-software-engineer-data-ai-working-m-f-d-face8fe8",
+      "title": "Robotics Software Engineer (Data & AI) – Working Student (m/f/d)",
+      "company": "driveblocks",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\tex\\Robotics-Software-Engineer-Data-AI-Working-Student.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Robotics-Software-Engineer-Data-AI-Working-Student.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Robotics-Software-Engineer-Data-AI-Working-Student.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 95.5,
+      "score_breakdown": {
+        "required_coverage": 40.0,
+        "preferred_coverage": 17.5,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 10.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 1.0,
+      "preferred_coverage": 0.875,
+      "gap_report": {
+        "missing_required": [],
+        "missing_preferred": [
+          "PyTorch"
+        ],
+        "ineligible_criteria": [
+          "Bachelor’s degree",
+          "15+ hours availability"
+        ],
+        "language_gaps": [],
+        "languages_required": [],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Robotics-Software-Engineer-Data-AI-Working-Student.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Robotics-Software-Engineer-Data-AI-Working-Student.docx"
+      },
+      "parse": {
+        "word_count": 572,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "OpenCV",
+          "PCL"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [
+          "experience:Python",
+          "experience:Python"
+        ],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 15,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=2 labels=0 reorder=0 recased=15 repicked=False"
+      },
+      "file_stem": "Robotics-Software-Engineer-Data-AI-Working-Student"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/luxoft-germany-home-trial-engineer-internship-for-graduates-caf64042",
+      "title": "Home Trial Engineer - Internship for Graduates (w/m/d) - with experience in Python (1 year assignment) - Immediate joiners",
+      "company": "Luxoft Germany",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\tex\\Home-Trial-Engineer---Internship-for-Graduates---with-experience-in-Python-1-yea.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Home-Trial-Engineer---Internship-for-Graduates---with-experience-in-Python-1-yea.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Home-Trial-Engineer---Internship-for-Graduates---with-experience-in-Python-1-yea.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 76.7,
+      "score_breakdown": {
+        "required_coverage": 30.0,
+        "preferred_coverage": 12.5,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 6.2,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.75,
+      "preferred_coverage": 0.625,
+      "gap_report": {
+        "missing_required": [
+          "troubleshooting",
+          "attention to detail"
+        ],
+        "missing_preferred": [
+          "Validation",
+          "Atlassian environment",
+          "AI automation"
+        ],
+        "ineligible_criteria": [
+          "analytical thinking",
+          "communication skills"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English (C1 Fluent)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Home-Trial-Engineer---Internship-for-Graduates---with-experience-in-Python-1-yea.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Home-Trial-Engineer---Internship-for-Graduates---with-experience-in-Python-1-yea.docx"
+      },
+      "parse": {
+        "word_count": 586,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "Atlassian"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [
+          "experience:Python",
+          "experience:Python"
+        ],
+        "area_labels": {
+          "area_1": "Programming & Development -> Python",
+          "area_2": "Data Science & Modeling -> SQL & Data Analytics"
+        },
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 1,
+        "skills_recased": 15,
+        "summary": "mirror=1 dormant_added=0 desc_insertions=2 labels=2 reorder=1 recased=15 repicked=False"
+      },
+      "file_stem": "Home-Trial-Engineer---Internship-for-Graduates---with-experience-in-Python-1-yea"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/siemens-working-student-f-m-d-devops-cloud-engineering-70edf1fe",
+      "title": "Working Student (f/m/d) DevOps & Cloud Engineering",
+      "company": "Siemens",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\tex\\Working-Student-DevOps-Cloud-Engineering.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-DevOps-Cloud-Engineering.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-DevOps-Cloud-Engineering.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 56.0,
+      "score_breakdown": {
+        "required_coverage": 16.0,
+        "preferred_coverage": 10.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 2.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.4,
+      "preferred_coverage": 0.5,
+      "gap_report": {
+        "missing_required": [
+          "command line proficiency",
+          "initial Python experience",
+          "AWS cloud experience"
+        ],
+        "missing_preferred": [
+          "Terraform IaC experience",
+          "GitHub CI/CD pipelines",
+          "cloud technologies practice"
+        ],
+        "ineligible_criteria": [
+          "pursuing a degree",
+          "fourth semester completed",
+          "15-20 hours per week"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English (very good)",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-DevOps-Cloud-Engineering.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-DevOps-Cloud-Engineering.docx"
+      },
+      "parse": {
+        "word_count": 569,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "GitHub",
+          "Linux"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [
+          "experience:Python and Git",
+          "experience:Python and Computer Vision"
+        ],
+        "area_labels": {
+          "area_1": "Backend Development -> Python"
+        },
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 5,
+        "skills_recased": 18,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=2 labels=1 reorder=5 recased=18 repicked=False"
+      },
+      "file_stem": "Working-Student-DevOps-Cloud-Engineering"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/henkel-internship-ecommerce-analytics-83091a5a",
+      "title": "Internship eCommerce Analytics",
+      "company": "Henkel",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\tex\\Internship-eCommerce-Analytics.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Internship-eCommerce-Analytics.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Internship-eCommerce-Analytics.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 51.3,
+      "score_breakdown": {
+        "required_coverage": 10.0,
+        "preferred_coverage": 13.3,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.25,
+      "preferred_coverage": 0.667,
+      "gap_report": {
+        "missing_required": [
+          "business-related studies",
+          "Fluent English",
+          "full-time internship"
+        ],
+        "missing_preferred": [
+          "international experience",
+          "e-commerce analytics interest"
+        ],
+        "ineligible_criteria": [
+          "MS Office applications"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English (fluent)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Internship-eCommerce-Analytics.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Internship-eCommerce-Analytics.docx"
+      },
+      "parse": {
+        "word_count": 563,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "PowerPoint"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [
+          "experience:Git"
+        ],
+        "area_labels": {},
+        "project_repick": [
+          "resume_gen",
+          "vehicle_sharing"
+        ],
+        "gate_findings": [],
+        "rows_reordered": 3,
+        "skills_recased": 13,
+        "summary": "mirror=1 dormant_added=0 desc_insertions=1 labels=0 reorder=3 recased=13 repicked=True"
+      },
+      "file_stem": "Internship-eCommerce-Analytics"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/vattenfall-working-student-as-built-update-dt-sb-oss-f-m-d-b77a3819",
+      "title": "Working Student – As-Built Update, DT+SB OSS (f/m/d)",
+      "company": "Vattenfall",
+      "status": "parked",
+      "tex": "",
+      "pdf": "",
+      "docx": "",
+      "build_error": "analyst failed: no JSON object in analyst reply",
+      "gates": {
+        "G1": true,
+        "G2": false,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": null,
+      "score_breakdown": null,
+      "required_coverage": null,
+      "preferred_coverage": null,
+      "gap_report": null,
+      "llm_calls": null,
+      "artifacts": {
+        "resume_pdf": "",
+        "resume_docx": ""
+      },
+      "file_stem": "Working-Student-As-Built-Update-DTSB-OSS"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/vattenfall-working-student-intern-battery-project-energy-f-m-5eeaca0c",
+      "title": "Working Student / Intern – Battery Project Development & Energy Storage (f/m/d)",
+      "company": "Vattenfall",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\tex\\Working-Student-Intern-Battery-Project-Development-Energy-Storage.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-Intern-Battery-Project-Development-Energy-Storage.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-Intern-Battery-Project-Development-Energy-Storage.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 36.0,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 8.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.4,
+      "gap_report": {
+        "missing_required": [
+          "English is required"
+        ],
+        "missing_preferred": [
+          "German language skills",
+          "interest in energy transition",
+          "interest in battery storage"
+        ],
+        "ineligible_criteria": [
+          "Bachelor’s or Master’s degree",
+          "12 months remaining",
+          "Microsoft Office"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English (fluent)",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-Intern-Battery-Project-Development-Energy-Storage.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-Intern-Battery-Project-Development-Energy-Storage.docx"
+      },
+      "parse": {
+        "word_count": 574,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 22,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=22 repicked=False"
+      },
+      "file_stem": "Working-Student-Intern-Battery-Project-Development-Energy-Storage"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/suntory-global-spirits-working-student-insights-analytics-899bd271",
+      "title": "Working Student - Insights & Analytics",
+      "company": "Suntory Global Spirits",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\tex\\Working-Student---Insights-Analytics.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student---Insights-Analytics.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student---Insights-Analytics.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 40.5,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 12.5,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.625,
+      "gap_report": {
+        "missing_required": [
+          "eingeschriebener Student",
+          "Deutschkenntnisse sehr gut",
+          "Englischkenntnisse sehr gut"
+        ],
+        "missing_preferred": [
+          "Erste Erfahrungen Insights",
+          "Category Management",
+          "Marktforschungsprojekte"
+        ],
+        "ineligible_criteria": [
+          "MS Office Kenntnisse"
+        ],
+        "language_gaps": [
+          "German very good required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (very good)",
+          "German (very good)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student---Insights-Analytics.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student---Insights-Analytics.docx"
+      },
+      "parse": {
+        "word_count": 587,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "MS Office",
+          "YouGov SimIT Web"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 14,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=14 repicked=False"
+      },
+      "file_stem": "Working-Student---Insights-Analytics"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/idealo-internet-gmbh-bachelor-s-master-s-thesis-applied-ai-m-9eb4d49b",
+      "title": "Bachelor's / Master's Thesis - Applied AI: Machine Learning & AI Agents (m|w|d)",
+      "company": "idealo internet GmbH",
+      "status": "parked",
+      "tex": "",
+      "pdf": "",
+      "docx": "",
+      "build_error": "gates failed after regeneration: G2: tech token 'AWS' is not in the claimable set; G2: tech token 'AWS' is not in the claimable set",
+      "gates": {
+        "G1": true,
+        "G2": false,
+        "G3": true
+      },
+      "gate_findings_prebuild": [
+        "G2: tech token 'AWS' is not in the claimable set",
+        "G2: tech token 'AWS' is not in the claimable set"
+      ],
+      "gate_findings_postbuild": [],
+      "score": null,
+      "score_breakdown": null,
+      "required_coverage": null,
+      "preferred_coverage": null,
+      "gap_report": null,
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "",
+        "resume_docx": ""
+      },
+      "file_stem": "Bachelors-Masters-Thesis---Applied-AI-Machine-Learning-AI-Agents-mwd"
+    }
+  ]
+}

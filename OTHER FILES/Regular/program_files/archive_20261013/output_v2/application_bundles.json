@@ -1,0 +1,367 @@
+{
+  "generated_at_utc": "2026-10-13T09:45:52+00:00",
+  "total": 18,
+  "complete": 18,
+  "bundles": [
+    {
+      "job_url": "https://www.stepstone.de/jobs--Intern-Working-student-in-the-Field-of-Innovation-Management-m-f-d-x-Berlin-Mercedes-Benz-Tech-Innovation--14393911-inline.html",
+      "title": "Intern / Working student in the Field of Innovation Management (m/f/d/x)",
+      "company": "Mercedes-Benz Tech Innovation",
+      "portal": "stepstone",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\tex\\Anschreiben_Mercedes-Benz-Tech-Innovation_Intern-Working-student-in-the-Field-of-I.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\pdf\\Anschreiben_Mercedes-Benz-Tech-Innovation_Intern-Working-student-in-the-Field-of-I.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\docx\\Anschreiben_Mercedes-Benz-Tech-Innovation_Intern-Working-student-in-the-Field-of-I.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\textfield\\Anschreiben_Mercedes-Benz-Tech-Innovation_Intern-Working-student-in-the-Field-of-I.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\pdf\\Intern-Working-student-in-the-Field-of-Innovation-Management.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\docx\\Intern-Working-student-in-the-Field-of-Innovation-Management.docx"
+      },
+      "upload_slot": "Anschreiben / Cover letter document slot",
+      "notes": "Upload the PDF in the Anschreiben slot during the online application.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Working-Student-GenAI-LLM-Evaluation-Agentic-AI-NLP-f-m-d-Karlsruhe-Germany-Cinemo-GmbH--13887266-inline.html",
+      "title": "Working Student \u2013 GenAI / LLM Evaluation \u2013 Agentic AI / NLP (f/m/d)",
+      "company": "Cinemo GmbH",
+      "portal": "stepstone",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\tex\\Anschreiben_Cinemo-GmbH_Working-Student-GenAI-LLM-Evaluation-Age.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\pdf\\Anschreiben_Cinemo-GmbH_Working-Student-GenAI-LLM-Evaluation-Age.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\docx\\Anschreiben_Cinemo-GmbH_Working-Student-GenAI-LLM-Evaluation-Age.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\textfield\\Anschreiben_Cinemo-GmbH_Working-Student-GenAI-LLM-Evaluation-Age.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\pdf\\Working-Student-GenAI-LLM-Evaluation-Agentic-AI-NLP.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\docx\\Working-Student-GenAI-LLM-Evaluation-Agentic-AI-NLP.docx"
+      },
+      "upload_slot": "Anschreiben / Cover letter document slot",
+      "notes": "Upload the PDF in the Anschreiben slot during the online application.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Working-Student-Workspace-Management-Executive-Support-f-m-d-Muenchen-Bavaria-Germany-Alaika-Advisory-Germany-GmbH--13889669-inline.html",
+      "title": "Working Student - Workspace Management & Executive Support (f/m/d)",
+      "company": "Alaika Advisory Germany GmbH",
+      "portal": "stepstone",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\tex\\Anschreiben_Alaika-Advisory-Germany-GmbH_Working-Student---Workspace-Management-E.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\pdf\\Anschreiben_Alaika-Advisory-Germany-GmbH_Working-Student---Workspace-Management-E.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\docx\\Anschreiben_Alaika-Advisory-Germany-GmbH_Working-Student---Workspace-Management-E.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\textfield\\Anschreiben_Alaika-Advisory-Germany-GmbH_Working-Student---Workspace-Management-E.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\pdf\\Working-Student---Workspace-Management-Executive-Support.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\docx\\Working-Student---Workspace-Management-Executive-Support.docx"
+      },
+      "upload_slot": "Anschreiben / Cover letter document slot",
+      "notes": "Upload the PDF in the Anschreiben slot during the online application.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Space-Situational-Awareness-Internship-Master-Thesis-Germany-Brunswick-OKAPI-Orbits-GmbH--13887252-inline.html",
+      "title": "Space Situational Awareness Internship / Master Thesis",
+      "company": "OKAPI:Orbits GmbH",
+      "portal": "stepstone",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\tex\\Anschreiben_OKAPIOrbits-GmbH_Space-Situational-Awareness-Internship-M.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\pdf\\Anschreiben_OKAPIOrbits-GmbH_Space-Situational-Awareness-Internship-M.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\docx\\Anschreiben_OKAPIOrbits-GmbH_Space-Situational-Awareness-Internship-M.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\textfield\\Anschreiben_OKAPIOrbits-GmbH_Space-Situational-Awareness-Internship-M.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\pdf\\Space-Situational-Awareness-Internship-Master-Thesis.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\docx\\Space-Situational-Awareness-Internship-Master-Thesis.docx"
+      },
+      "upload_slot": "Anschreiben / Cover letter document slot",
+      "notes": "Upload the PDF in the Anschreiben slot during the online application.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--HR-Talent-Acquisition-Internship-f-m-d-Muenchen-Bavaria-Germany-Alaika-Advisory-Germany-GmbH--13889636-inline.html",
+      "title": "HR & Talent Acquisition Internship (f/m/d)",
+      "company": "Alaika Advisory Germany GmbH",
+      "portal": "stepstone",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\tex\\Anschreiben_Alaika-Advisory-Germany-GmbH_HR-Talent-Acquisition-Internship.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\pdf\\Anschreiben_Alaika-Advisory-Germany-GmbH_HR-Talent-Acquisition-Internship.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\docx\\Anschreiben_Alaika-Advisory-Germany-GmbH_HR-Talent-Acquisition-Internship.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\textfield\\Anschreiben_Alaika-Advisory-Germany-GmbH_HR-Talent-Acquisition-Internship.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\pdf\\HR-Talent-Acquisition-Internship.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\docx\\HR-Talent-Acquisition-Internship.docx"
+      },
+      "upload_slot": "Anschreiben / Cover letter document slot",
+      "notes": "Upload the PDF in the Anschreiben slot during the online application.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Internship-Advanced-Development-Implants-f-m-x-ZEISS--14600841-inline.html",
+      "title": "Internship Advanced Development Implants (f/m/x)",
+      "company": "ZEISS",
+      "portal": "stepstone",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\tex\\Anschreiben_ZEISS_Internship-Advanced-Development-Implants.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\pdf\\Anschreiben_ZEISS_Internship-Advanced-Development-Implants.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\docx\\Anschreiben_ZEISS_Internship-Advanced-Development-Implants.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\textfield\\Anschreiben_ZEISS_Internship-Advanced-Development-Implants.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\pdf\\Internship-Advanced-Development-Implants.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\docx\\Internship-Advanced-Development-Implants.docx"
+      },
+      "upload_slot": "Anschreiben / Cover letter document slot",
+      "notes": "Upload the PDF in the Anschreiben slot during the online application.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/daiichi-sankyo-europe-gmbh-working-student-m-f-d-global-45125d19",
+      "title": "Working Student (m/f/d) Global Oncology Alliance Management",
+      "company": "Daiichi Sankyo Europe GmbH",
+      "portal": "workingstudentjobs",
+      "letter_language": "de",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\tex\\Anschreiben_Daiichi-Sankyo-Europe-GmbH_Working-Student-Global-Oncology-Alliance.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\pdf\\Anschreiben_Daiichi-Sankyo-Europe-GmbH_Working-Student-Global-Oncology-Alliance.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\docx\\Anschreiben_Daiichi-Sankyo-Europe-GmbH_Working-Student-Global-Oncology-Alliance.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\textfield\\Anschreiben_Daiichi-Sankyo-Europe-GmbH_Working-Student-Global-Oncology-Alliance.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\pdf\\Working-Student-Global-Oncology-Alliance-Management.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\docx\\Working-Student-Global-Oncology-Alliance-Management.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/gebr-heinemann-working-student-m-f-d-ai-enablement-community-6a108f3e",
+      "title": "Working Student (m/f/d) AI Enablement & Community",
+      "company": "Gebr. Heinemann",
+      "portal": "workingstudentjobs",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\tex\\Anschreiben_Gebr-Heinemann_Working-Student-AI-Enablement-Community.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\pdf\\Anschreiben_Gebr-Heinemann_Working-Student-AI-Enablement-Community.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\docx\\Anschreiben_Gebr-Heinemann_Working-Student-AI-Enablement-Community.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\textfield\\Anschreiben_Gebr-Heinemann_Working-Student-AI-Enablement-Community.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\pdf\\Working-Student-AI-Enablement-Community.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\docx\\Working-Student-AI-Enablement-Community.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/gebr-heinemann-working-student-m-f-d-ai-prototyping-agent-0754ae18",
+      "title": "Working Student (m/f/d) AI Prototyping & Agent Solutions",
+      "company": "Gebr. Heinemann",
+      "portal": "workingstudentjobs",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\tex\\Anschreiben_Gebr-Heinemann_Working-Student-AI-Prototyping-Agent-Sol.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\pdf\\Anschreiben_Gebr-Heinemann_Working-Student-AI-Prototyping-Agent-Sol.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\docx\\Anschreiben_Gebr-Heinemann_Working-Student-AI-Prototyping-Agent-Sol.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\textfield\\Anschreiben_Gebr-Heinemann_Working-Student-AI-Prototyping-Agent-Sol.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\pdf\\Working-Student-AI-Prototyping-Agent-Solutions.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\docx\\Working-Student-AI-Prototyping-Agent-Solutions.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/puma-group-internship-product-management-innovation-footwear-bf905eac",
+      "title": "Internship Product Management Innovation Footwear",
+      "company": "PUMA Group",
+      "portal": "workingstudentjobs",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\tex\\Anschreiben_PUMA-Group_Internship-Product-Management-Innovation.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\pdf\\Anschreiben_PUMA-Group_Internship-Product-Management-Innovation.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\docx\\Anschreiben_PUMA-Group_Internship-Product-Management-Innovation.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\textfield\\Anschreiben_PUMA-Group_Internship-Product-Management-Innovation.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\pdf\\Internship-Product-Management-Innovation-Footwear.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\docx\\Internship-Product-Management-Innovation-Footwear.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/puma-group-internship-product-line-management-core-footwear-510e1bda",
+      "title": "Internship Product Line Management CORE Footwear",
+      "company": "PUMA Group",
+      "portal": "workingstudentjobs",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\tex\\Anschreiben_PUMA-Group_Internship-Product-Line-Management-CORE-.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\pdf\\Anschreiben_PUMA-Group_Internship-Product-Line-Management-CORE-.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\docx\\Anschreiben_PUMA-Group_Internship-Product-Line-Management-CORE-.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\textfield\\Anschreiben_PUMA-Group_Internship-Product-Line-Management-CORE-.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\pdf\\Internship-Product-Line-Management-CORE-Footwear.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\docx\\Internship-Product-Line-Management-CORE-Footwear.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/isar-aerospace-working-student-software-engineer-f-m-d-ed991f87",
+      "title": "Working Student Software Engineer (f/m/d)",
+      "company": "Isar Aerospace",
+      "portal": "workingstudentjobs",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\tex\\Anschreiben_Isar-Aerospace_Working-Student-Software-Engineer.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\pdf\\Anschreiben_Isar-Aerospace_Working-Student-Software-Engineer.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\docx\\Anschreiben_Isar-Aerospace_Working-Student-Software-Engineer.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\textfield\\Anschreiben_Isar-Aerospace_Working-Student-Software-Engineer.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\pdf\\Working-Student-Software-Engineer.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\docx\\Working-Student-Software-Engineer.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/driveblocks-robotics-software-engineer-data-ai-working-m-f-d-face8fe8",
+      "title": "Robotics Software Engineer (Data & AI) \u2013 Working Student (m/f/d)",
+      "company": "driveblocks",
+      "portal": "workingstudentjobs",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\tex\\Anschreiben_driveblocks_Robotics-Software-Engineer-Data-AI-Worki.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\pdf\\Anschreiben_driveblocks_Robotics-Software-Engineer-Data-AI-Worki.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\docx\\Anschreiben_driveblocks_Robotics-Software-Engineer-Data-AI-Worki.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\textfield\\Anschreiben_driveblocks_Robotics-Software-Engineer-Data-AI-Worki.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\pdf\\Robotics-Software-Engineer-Data-AI-Working-Student.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\docx\\Robotics-Software-Engineer-Data-AI-Working-Student.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/luxoft-germany-home-trial-engineer-internship-for-graduates-caf64042",
+      "title": "Home Trial Engineer - Internship for Graduates (w/m/d) - with experience in Python (1 year assignment) - Immediate joiners",
+      "company": "Luxoft Germany",
+      "portal": "workingstudentjobs",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\tex\\Anschreiben_Luxoft-Germany_Home-Trial-Engineer---Internship-for-Gra.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\pdf\\Anschreiben_Luxoft-Germany_Home-Trial-Engineer---Internship-for-Gra.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\docx\\Anschreiben_Luxoft-Germany_Home-Trial-Engineer---Internship-for-Gra.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\textfield\\Anschreiben_Luxoft-Germany_Home-Trial-Engineer---Internship-for-Gra.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\pdf\\Home-Trial-Engineer---Internship-for-Graduates---with-experience-in-Python-1-yea.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\docx\\Home-Trial-Engineer---Internship-for-Graduates---with-experience-in-Python-1-yea.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/siemens-working-student-f-m-d-devops-cloud-engineering-70edf1fe",
+      "title": "Working Student (f/m/d) DevOps & Cloud Engineering",
+      "company": "Siemens",
+      "portal": "workingstudentjobs",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\tex\\Anschreiben_Siemens_Working-Student-DevOps-Cloud-Engineering.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\pdf\\Anschreiben_Siemens_Working-Student-DevOps-Cloud-Engineering.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\docx\\Anschreiben_Siemens_Working-Student-DevOps-Cloud-Engineering.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\textfield\\Anschreiben_Siemens_Working-Student-DevOps-Cloud-Engineering.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\pdf\\Working-Student-DevOps-Cloud-Engineering.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\docx\\Working-Student-DevOps-Cloud-Engineering.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/henkel-internship-ecommerce-analytics-83091a5a",
+      "title": "Internship eCommerce Analytics",
+      "company": "Henkel",
+      "portal": "workingstudentjobs",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\tex\\Anschreiben_Henkel_Internship-eCommerce-Analytics.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\pdf\\Anschreiben_Henkel_Internship-eCommerce-Analytics.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\docx\\Anschreiben_Henkel_Internship-eCommerce-Analytics.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\textfield\\Anschreiben_Henkel_Internship-eCommerce-Analytics.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\pdf\\Internship-eCommerce-Analytics.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\docx\\Internship-eCommerce-Analytics.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/vattenfall-working-student-intern-battery-project-energy-f-m-5eeaca0c",
+      "title": "Working Student / Intern \u2013 Battery Project Development & Energy Storage (f/m/d)",
+      "company": "Vattenfall",
+      "portal": "workingstudentjobs",
+      "letter_language": "en",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\tex\\Anschreiben_Vattenfall_Working-Student-Intern-Battery-Project-D.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\pdf\\Anschreiben_Vattenfall_Working-Student-Intern-Battery-Project-D.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\docx\\Anschreiben_Vattenfall_Working-Student-Intern-Battery-Project-D.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\textfield\\Anschreiben_Vattenfall_Working-Student-Intern-Battery-Project-D.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\pdf\\Working-Student-Intern-Battery-Project-Development-Energy-Storage.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\docx\\Working-Student-Intern-Battery-Project-Development-Energy-Storage.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "missing": [],
+      "artifacts_complete": true
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/suntory-global-spirits-working-student-insights-analytics-899bd271",
+      "title": "Working Student - Insights & Analytics",
+      "company": "Suntory Global Spirits",
+      "portal": "workingstudentjobs",
+      "letter_language": "de",
+      "status": "letters_ok",
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\tex\\Anschreiben_Suntory-Global-Spirits_Working-Student---Insights-Analytics.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\pdf\\Anschreiben_Suntory-Global-Spirits_Working-Student---Insights-Analytics.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\docx\\Anschreiben_Suntory-Global-Spirits_Working-Student---Insights-Analytics.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\letters\\textfield\\Anschreiben_Suntory-Global-Spirits_Working-Student---Insights-Analytics.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\pdf\\Working-Student---Insights-Analytics.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\archive_20261013\\output_v2\\resume\\docx\\Working-Student---Insights-Analytics.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "missing": [],
+      "artifacts_complete": true
+    }
+  ]
+}

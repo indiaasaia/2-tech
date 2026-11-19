@@ -1,0 +1,873 @@
+[
+  {
+    "job_id": 1,
+    "source": "stepstone",
+    "title": "Working student - clinical Marketing",
+    "company": "Brainlab",
+    "location": "Munich",
+    "decision": "ELIGIBLE",
+    "category": "German Optional / Advantage / Plus (Candidate A2 is compatible)",
+    "evidence": "German is a plus",
+    "all_lang_mentions": [
+      "Excellent written and verbal communication skills in English;",
+      "German is a plus",
+      "Excellent written and verbal communication skills in English;"
+    ],
+    "url": "https://www.stepstone.de/jobs--Working-student-clinical-Marketing-Munich-Brainlab--14601012-inline.html"
+  },
+  {
+    "job_id": 2,
+    "source": "stepstone",
+    "title": "Working Student Event Management (m/f/d)",
+    "company": "Rohde & Schwarz GmbH & Co. KG",
+    "location": "München",
+    "decision": "INELIGIBLE",
+    "category": "Mandatory German (Requires fluent/C1/B2/good German beyond candidate A2)",
+    "evidence": "Very good knowledge of written and spoken English and good knowledge of written and spoken German",
+    "all_lang_mentions": [
+      "Very good knowledge of written and spoken English and good knowledge of written and spoken German",
+      "Very good knowledge of written and spoken English and good knowledge of written and spoken German"
+    ],
+    "url": "https://www.stepstone.de/jobs--Working-Student-Event-Management-m-f-d-Muenchen-Rohde-Schwarz-GmbH-Co-KG--14547480-inline.html"
+  },
+  {
+    "job_id": 3,
+    "source": "stepstone",
+    "title": "Intern / Working student in the Field of Innovation Management (m/f/d/x)",
+    "company": "Mercedes-Benz Tech Innovation",
+    "location": "Berlin",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [
+      "If you prove to impress us with excellent German and English language skills and your complete application (covering letter, curriculum vitae, overview of grades, enrollment certificate and, where applicable, residence permit/work permit) are available, you're just a click away from your chance.",
+      "A confident approach to MS Office, in particular PowerPoint and Excel, as well as excellent spoken and written German and English round off your profile.",
+      "If you prove to impress us with excellent German and English language skills and your complete application (covering letter, curriculum vitae, overview of grades, enrollment certificate and, where applicable, residence permit/work permit) are available, you're just a click away from your chance."
+    ],
+    "url": "https://www.stepstone.de/jobs--Intern-Working-student-in-the-Field-of-Innovation-Management-m-f-d-x-Berlin-Mercedes-Benz-Tech-Innovation--14393911-inline.html"
+  },
+  {
+    "job_id": 4,
+    "source": "stepstone",
+    "title": "Operations Associate (Working Student)",
+    "company": "OKAPI:Orbits GmbH",
+    "location": "Germany (Brunswick)",
+    "decision": "INELIGIBLE",
+    "category": "Mandatory German (Requires fluent/C1/B2/good German beyond candidate A2)",
+    "evidence": "Your German and English level should be C1, spoken and written.",
+    "all_lang_mentions": [
+      "Your German and English level should be C1, spoken and written.",
+      "Your German and English level should be C1, spoken and written."
+    ],
+    "url": "https://www.stepstone.de/jobs--Operations-Associate-Working-Student-Germany-Brunswick-OKAPI-Orbits-GmbH--13887229-inline.html"
+  },
+  {
+    "job_id": 5,
+    "source": "stepstone",
+    "title": "Working Student – GenAI / LLM Evaluation – Agentic AI / NLP (f/m/d)",
+    "company": "Cinemo GmbH",
+    "location": "Karlsruhe, Germany",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [
+      "Good written and spoken English communication skills.",
+      "Good written and spoken English communication skills."
+    ],
+    "url": "https://www.stepstone.de/jobs--Working-Student-GenAI-LLM-Evaluation-Agentic-AI-NLP-f-m-d-Karlsruhe-Germany-Cinemo-GmbH--13887266-inline.html"
+  },
+  {
+    "job_id": 6,
+    "source": "stepstone",
+    "title": "Working Student - Workspace Management & Executive Support (f/m/d)",
+    "company": "Alaika Advisory Germany GmbH",
+    "location": "München, Bavaria, Germany",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [],
+    "url": "https://www.stepstone.de/jobs--Working-Student-Workspace-Management-Executive-Support-f-m-d-Muenchen-Bavaria-Germany-Alaika-Advisory-Germany-GmbH--13889669-inline.html"
+  },
+  {
+    "job_id": 7,
+    "source": "stepstone",
+    "title": "Space Situational Awareness Internship / Master Thesis",
+    "company": "OKAPI:Orbits GmbH",
+    "location": "Germany (Brunswick)",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [
+      "English intermediate (at least B2)",
+      "English intermediate (at least B2)"
+    ],
+    "url": "https://www.stepstone.de/jobs--Space-Situational-Awareness-Internship-Master-Thesis-Germany-Brunswick-OKAPI-Orbits-GmbH--13887252-inline.html"
+  },
+  {
+    "job_id": 8,
+    "source": "stepstone",
+    "title": "HR & Talent Acquisition Internship (f/m/d)",
+    "company": "Alaika Advisory Germany GmbH",
+    "location": "München, Bavaria, Germany",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [
+      "Language Skills: Very good command of English and",
+      "Language Skills: Very good command of English and"
+    ],
+    "url": "https://www.stepstone.de/jobs--HR-Talent-Acquisition-Internship-f-m-d-Muenchen-Bavaria-Germany-Alaika-Advisory-Germany-GmbH--13889636-inline.html"
+  },
+  {
+    "job_id": 9,
+    "source": "stepstone",
+    "title": "Fellowship Consulting - Financial Services (3-6 months) (f/m/d)",
+    "company": "Alaika Advisory Germany GmbH",
+    "location": "München, Bavaria, Germany",
+    "decision": "INELIGIBLE",
+    "category": "Mandatory German (Requires fluent/C1/B2/good German beyond candidate A2)",
+    "evidence": "Language Proficiency: Fluency in English and German is required.",
+    "all_lang_mentions": [
+      "Language Proficiency: Fluency in English and German is required.",
+      "Language Proficiency: Fluency in English and German is required."
+    ],
+    "url": "https://www.stepstone.de/jobs--Fellowship-Consulting-Financial-Services-3-6-months-f-m-d-Muenchen-Bavaria-Germany-Alaika-Advisory-Germany-GmbH--13889622-inline.html"
+  },
+  {
+    "job_id": 10,
+    "source": "stepstone",
+    "title": "Adjunct Instructor in Computer Science and Data Science (Immediate Appointment) - Madrid",
+    "company": "Schiller International University Inc.",
+    "location": "Madrid",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [
+      "Language Skills",
+      "Either native English speaker or proficiency level of English competency.",
+      "Language Skills"
+    ],
+    "url": "https://www.stepstone.de/jobs--Adjunct-Instructor-in-Computer-Science-and-Data-Science-Immediate-Appointment-Madrid-Madrid-Schiller-International-University-Inc--13883731-inline.html"
+  },
+  {
+    "job_id": 11,
+    "source": "stepstone",
+    "title": "Primary School - Substitute Teacher (f/m/d) On-call / Marginal Employment (Minijob)",
+    "company": "BBIS Berlin Brandenburg International School GmbH",
+    "location": "Kleinmachnow",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [
+      "Language: Native-level or C2 fluency in English.",
+      "Language: Native-level or C2 fluency in English."
+    ],
+    "url": "https://www.stepstone.de/jobs--Primary-School-Substitute-Teacher-f-m-d-On-call-Marginal-Employment-Minijob-Kleinmachnow-BBIS-Berlin-Brandenburg-International-School-GmbH--13886851-inline.html"
+  },
+  {
+    "job_id": 12,
+    "source": "stepstone",
+    "title": "Professor: Computer Science and Applied Mathematics with Artificial Intelligence",
+    "company": "Schiller International University Inc.",
+    "location": "Madrid",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [
+      "Either native English speaker or proficiency level of English competency.",
+      "Either native English speaker or proficiency level of English competency."
+    ],
+    "url": "https://www.stepstone.de/jobs--Professor-Computer-Science-and-Applied-Mathematics-with-Artificial-Intelligence-Madrid-Schiller-International-University-Inc--13883737-inline.html"
+  },
+  {
+    "job_id": 13,
+    "source": "stepstone",
+    "title": "Professor: Computer Science and Applied Mathematics with Artificial Intelligence",
+    "company": "Schiller International University Inc.",
+    "location": "Paris",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [
+      "Either native English speaker or proficiency level of English competency.",
+      "Either native English speaker or proficiency level of English competency."
+    ],
+    "url": "https://www.stepstone.de/jobs--Professor-Computer-Science-and-Applied-Mathematics-with-Artificial-Intelligence-Paris-Schiller-International-University-Inc--13884305-inline.html"
+  },
+  {
+    "job_id": 14,
+    "source": "stepstone",
+    "title": "1-1 School Assistant (f/m/d) - Part-time: 14,5 hours per week",
+    "company": "BBIS Berlin Brandenburg International School GmbH",
+    "location": "Kleinmachnow",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [],
+    "url": "https://www.stepstone.de/jobs--1-1-School-Assistant-f-m-d-Part-time-14-5-hours-per-week-Kleinmachnow-BBIS-Berlin-Brandenburg-International-School-GmbH--13886843-inline.html"
+  },
+  {
+    "job_id": 15,
+    "source": "stepstone",
+    "title": "Substitute Teacher (f/m/d) | Secondary School",
+    "company": "Berlin Metropolitan School gGmbH",
+    "location": "Berlin",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [
+      "Excellent English language skills.",
+      "Excellent English language skills."
+    ],
+    "url": "https://www.stepstone.de/jobs--Substitute-Teacher-f-m-d-Secondary-School-Berlin-Berlin-Metropolitan-School-gGmbH--14600634-inline.html"
+  },
+  {
+    "job_id": 16,
+    "source": "stepstone",
+    "title": "Procurement Specialist - Packaging Materials (m/f/x)",
+    "company": "Capri Sun GmbH",
+    "location": "Eppelheim bei Heidelberg",
+    "decision": "INELIGIBLE",
+    "category": "Mandatory German (Requires fluent/C1/B2/good German beyond candidate A2)",
+    "evidence": "Fluent English and German skills, both written and spoken",
+    "all_lang_mentions": [
+      "Fluent English and German skills, both written and spoken",
+      "Fluent English and German skills, both written and spoken"
+    ],
+    "url": "https://www.stepstone.de/jobs--Procurement-Specialist-Packaging-Materials-m-f-x-Eppelheim-bei-Heidelberg-Capri-Sun-GmbH--14601093-inline.html"
+  },
+  {
+    "job_id": 17,
+    "source": "stepstone",
+    "title": "Manufacturing Application Specialist (m/w/d)",
+    "company": "Kelvion Holding GmbH",
+    "location": "Herne",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [
+      "Very good communication skills in English.",
+      "Very good communication skills in English."
+    ],
+    "url": "https://www.stepstone.de/jobs--Manufacturing-Application-Specialist-m-w-d-Herne-Kelvion-Holding-GmbH--14601213-inline.html"
+  },
+  {
+    "job_id": 18,
+    "source": "stepstone",
+    "title": "Intern (m/f/d) Recruiting & Employer Branding | German Required",
+    "company": "YOUMMDAY GmbH",
+    "location": "München",
+    "decision": "INELIGIBLE",
+    "category": "Mandatory German (Requires fluent/C1/B2/good German beyond candidate A2)",
+    "evidence": "Intern (m/f/d) Recruiting & Employer Branding | German Required",
+    "all_lang_mentions": [
+      "Intern (m/f/d) Recruiting & Employer Branding | German Required",
+      "Communication and people skills: You enjoy connecting with people, communicate fluently in both German and English and have a good feel for professional and respectful communication.",
+      "Communication and people skills: You enjoy connecting with people, communicate fluently in both German and English and have a good feel for professional and respectful communication."
+    ],
+    "url": "https://www.stepstone.de/jobs--Intern-m-f-d-Recruiting-Employer-Branding-German-Required-Muenchen-YOUMMDAY-GmbH--14598017-inline.html"
+  },
+  {
+    "job_id": 19,
+    "source": "stepstone",
+    "title": "Lead Engineer Industrial BATT/PV (m/f/d)",
+    "company": "Exyte Management GmbH",
+    "location": "Stuttgart",
+    "decision": "ELIGIBLE",
+    "category": "German Optional / Advantage / Plus (Candidate A2 is compatible)",
+    "evidence": "Fluency in English, German highly beneficial.",
+    "all_lang_mentions": [
+      "Fluency in English, German highly beneficial.",
+      "Fluency in English, German highly beneficial."
+    ],
+    "url": "https://www.stepstone.de/jobs--Lead-Engineer-Industrial-BATT-PV-m-f-d-Stuttgart-Exyte-Management-GmbH--13884892-inline.html"
+  },
+  {
+    "job_id": 20,
+    "source": "stepstone",
+    "title": "Global Procurement - ESG Lead (m/f/d)",
+    "company": "Exyte Management GmbH",
+    "location": "Stuttgart",
+    "decision": "ELIGIBLE",
+    "category": "German Optional / Advantage / Plus (Candidate A2 is compatible)",
+    "evidence": "Fluent English required and German advantageous.",
+    "all_lang_mentions": [
+      "Fluent English required and German advantageous.",
+      "Fluent English required and German advantageous."
+    ],
+    "url": "https://www.stepstone.de/jobs--Global-Procurement-ESG-Lead-m-f-d-Stuttgart-Exyte-Management-GmbH--13885003-inline.html"
+  },
+  {
+    "job_id": 21,
+    "source": "stepstone",
+    "title": "(Senior) Project Manager Photonic Integrated Circuit (m/f/x)",
+    "company": "ZEISS",
+    "location": "Oberkochen (bei Ulm),Oberkochen (bei Ulm)",
+    "decision": "INELIGIBLE",
+    "category": "Mandatory German (Requires fluent/C1/B2/good German beyond candidate A2)",
+    "evidence": "Very good written and oral skills in German and English",
+    "all_lang_mentions": [
+      "Very good written and oral skills in German and English",
+      "Very good written and oral skills in German and English"
+    ],
+    "url": "https://www.stepstone.de/jobs--Senior-Project-Manager-Photonic-Integrated-Circuit-m-f-x-Oberkochen-bei-Ulm-Oberkochen-bei-Ulm-ZEISS--14600839-inline.html"
+  },
+  {
+    "job_id": 22,
+    "source": "stepstone",
+    "title": "Principal Data & AI Consultant - Energy/Oil & Gas (m/f/d)",
+    "company": "EPAM Systems GmbH",
+    "location": "Munich, & 2 others",
+    "decision": "INELIGIBLE",
+    "category": "Mandatory German (Requires fluent/C1/B2/good German beyond candidate A2)",
+    "evidence": "Business fluency in German and English for leadership in client-facing engagements",
+    "all_lang_mentions": [
+      "Business fluency in German and English for leadership in client-facing engagements",
+      "Business fluency in German and English for leadership in client-facing engagements"
+    ],
+    "url": "https://www.stepstone.de/jobs--Principal-Data-AI-Consultant-Energy-Oil-Gas-m-f-d-Munich-2-others-EPAM-Systems-GmbH--14600996-inline.html"
+  },
+  {
+    "job_id": 23,
+    "source": "stepstone",
+    "title": "Group Process Manager Sales & Procurement (m/f/d)",
+    "company": "OQEMA AG",
+    "location": "Mönchengladbach",
+    "decision": "ELIGIBLE",
+    "category": "German Optional / Advantage / Plus (Candidate A2 is compatible)",
+    "evidence": "Fluent English (C1), German is an advantage, and willingness to travel within Europe when required",
+    "all_lang_mentions": [
+      "Fluent English (C1), German is an advantage, and willingness to travel within Europe when required",
+      "Fluent English (C1), German is an advantage, and willingness to travel within Europe when required"
+    ],
+    "url": "https://www.stepstone.de/jobs--Group-Process-Manager-Sales-Procurement-m-f-d-Moenchengladbach-OQEMA-AG--14597863-inline.html"
+  },
+  {
+    "job_id": 24,
+    "source": "stepstone",
+    "title": "Group Process Manager Global Trade & Compliance (m/f/d)",
+    "company": "OQEMA AG",
+    "location": "Mönchengladbach",
+    "decision": "ELIGIBLE",
+    "category": "German Optional / Advantage / Plus (Candidate A2 is compatible)",
+    "evidence": "Fluent English (C1), German is an advantage, and willingness to travel within Europe when required",
+    "all_lang_mentions": [
+      "Fluent English (C1), German is an advantage, and willingness to travel within Europe when required",
+      "Fluent English (C1), German is an advantage, and willingness to travel within Europe when required"
+    ],
+    "url": "https://www.stepstone.de/jobs--Group-Process-Manager-Global-Trade-Compliance-m-f-d-Moenchengladbach-OQEMA-AG--14597823-inline.html"
+  },
+  {
+    "job_id": 25,
+    "source": "stepstone",
+    "title": "Group Process Manager Strategic Projects & Pricing (m/f/d)",
+    "company": "OQEMA AG",
+    "location": "Mönchengladbach",
+    "decision": "ELIGIBLE",
+    "category": "German Optional / Advantage / Plus (Candidate A2 is compatible)",
+    "evidence": "Fluent English (C1), German is an advantage, and willingness to travel within Europe when required",
+    "all_lang_mentions": [
+      "Fluent English (C1), German is an advantage, and willingness to travel within Europe when required",
+      "Fluent English (C1), German is an advantage, and willingness to travel within Europe when required"
+    ],
+    "url": "https://www.stepstone.de/jobs--Group-Process-Manager-Strategic-Projects-Pricing-m-f-d-Moenchengladbach-OQEMA-AG--14597886-inline.html"
+  },
+  {
+    "job_id": 26,
+    "source": "stepstone",
+    "title": "Finance Intern – Business Controlling (f/m/d)",
+    "company": "QIAGEN GmbH",
+    "location": "Hilden bei Düsseldorf",
+    "decision": "INELIGIBLE",
+    "category": "Mandatory German (Requires fluent/C1/B2/good German beyond candidate A2)",
+    "evidence": "Fluent in German and English",
+    "all_lang_mentions": [
+      "Fluent in German and English",
+      "Fluent in German and English"
+    ],
+    "url": "https://www.stepstone.de/jobs--Finance-Intern-Business-Controlling-f-m-d-Hilden-bei-Duesseldorf-QIAGEN-GmbH--14600835-inline.html"
+  },
+  {
+    "job_id": 27,
+    "source": "stepstone",
+    "title": "Internship Advanced Development Implants (f/m/x)",
+    "company": "ZEISS",
+    "location": "nan",
+    "decision": "ELIGIBLE",
+    "category": "Explicit English Requirement (Candidate has English C2)",
+    "evidence": "Fluent English",
+    "all_lang_mentions": [
+      "Fluent English",
+      "Fluent English"
+    ],
+    "url": "https://www.stepstone.de/jobs--Internship-Advanced-Development-Implants-f-m-x-ZEISS--14600841-inline.html"
+  },
+  {
+    "job_id": 28,
+    "source": "stepstone",
+    "title": "Front of House & Functional Service (Chef de Rang / Service Trainee)",
+    "company": "RE-Managers GmbH",
+    "location": "Bad Grönenbach Allgäu",
+    "decision": "ELIGIBLE",
+    "category": "German Optional / Advantage / Plus (Candidate A2 is compatible)",
+    "evidence": "· Fluent in English (German is a strong plus);",
+    "all_lang_mentions": [
+      "· Fluent in English (German is a strong plus);",
+      "· Fluent in English (German is a strong plus);"
+    ],
+    "url": "https://www.stepstone.de/jobs--Front-of-House-Functional-Service-Chef-de-Rang-Service-Trainee-Bad-Groenenbach-Allgaeu-RE-Managers-GmbH--14498333-inline.html"
+  },
+  {
+    "job_id": 29,
+    "source": "stepstone",
+    "title": "Sales Associate",
+    "company": "Columbia Sportswear Company",
+    "location": "Metzingen, Baden-Württemberg, Germany",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [],
+    "url": "https://www.stepstone.de/jobs--Sales-Associate-Metzingen-Baden-Wuerttemberg-Germany-Columbia-Sportswear-Company--14390466-inline.html"
+  },
+  {
+    "job_id": 30,
+    "source": "workingstudentjobs.de",
+    "title": "Working Student (m/f/d) Global Oncology Alliance Management",
+    "company": "Daiichi Sankyo Europe GmbH",
+    "location": "Munich, DE",
+    "decision": "ELIGIBLE",
+    "category": "Explicit English Requirement (Candidate has English C2)",
+    "evidence": "Excellent written and spoken English skills (required) Ability to mindfully interact with culturally diverse teams.",
+    "all_lang_mentions": [
+      "Excellent written and spoken English skills (required) Ability to mindfully interact with culturally diverse teams."
+    ],
+    "url": "https://www.workingstudentjobs.de/jobs/daiichi-sankyo-europe-gmbh-working-student-m-f-d-global-45125d19"
+  },
+  {
+    "job_id": 31,
+    "source": "workingstudentjobs.de",
+    "title": "Working Student (m/f/d) AI Enablement & Community",
+    "company": "Gebr. Heinemann",
+    "location": "Hamburg, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [],
+    "url": "https://www.workingstudentjobs.de/jobs/gebr-heinemann-working-student-m-f-d-ai-enablement-community-6a108f3e"
+  },
+  {
+    "job_id": 32,
+    "source": "workingstudentjobs.de",
+    "title": "Working Student (m/f/d) AI Prototyping & Agent Solutions",
+    "company": "Gebr. Heinemann",
+    "location": "Hamburg, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [],
+    "url": "https://www.workingstudentjobs.de/jobs/gebr-heinemann-working-student-m-f-d-ai-prototyping-agent-0754ae18"
+  },
+  {
+    "job_id": 33,
+    "source": "workingstudentjobs.de",
+    "title": "Internship Product Management Innovation Footwear",
+    "company": "PUMA Group",
+    "location": "PUMA Way, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [],
+    "url": "https://www.workingstudentjobs.de/jobs/puma-group-internship-product-management-innovation-footwear-bf905eac"
+  },
+  {
+    "job_id": 34,
+    "source": "workingstudentjobs.de",
+    "title": "Internship Product Line Management CORE Footwear",
+    "company": "PUMA Group",
+    "location": "PUMA Way, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [
+      "YOUR TALENT Enrolled student in a relevant field of studies for the whole period of an internship Excellent MS Office skills (Excel, PowerPoint) Fluent in English Organized and proactive team player with an entrepreneurial attitude Communicative and open-minded personality Interest in the sporting goods industry, especially in footwear Starting date: 01.01.2026;"
+    ],
+    "url": "https://www.workingstudentjobs.de/jobs/puma-group-internship-product-line-management-core-footwear-510e1bda"
+  },
+  {
+    "job_id": 35,
+    "source": "workingstudentjobs.de",
+    "title": "Working Student Software Engineer (f/m/d)",
+    "company": "Isar Aerospace",
+    "location": "Ottobrunn, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [
+      "Familiarity with frontend or backend web development (Node.js and/or C#/.NET or another object-oriented programming language) &nbsp;",
+      "Fluent in English &nbsp;"
+    ],
+    "url": "https://www.workingstudentjobs.de/jobs/isar-aerospace-working-student-software-engineer-f-m-d-ed991f87"
+  },
+  {
+    "job_id": 36,
+    "source": "workingstudentjobs.de",
+    "title": "Robotics Software Engineer (Data & AI) – Working Student (m/f/d)",
+    "company": "driveblocks",
+    "location": "Munich, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [],
+    "url": "https://www.workingstudentjobs.de/jobs/driveblocks-robotics-software-engineer-data-ai-working-m-f-d-face8fe8"
+  },
+  {
+    "job_id": 37,
+    "source": "workingstudentjobs.de",
+    "title": "Home Trial Engineer - Internship for Graduates (w/m/d) - with experience in Python (1 year assignment) - Immediate joiners",
+    "company": "Luxoft Germany",
+    "location": "Munich, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [
+      "Nice to have Skills Experience through university projects, internships, personal projects, or research involving: Data analytics Software development Consumer product development Product testing and validation Atlassian environment Languages: English - C1 Fluent"
+    ],
+    "url": "https://www.workingstudentjobs.de/jobs/luxoft-germany-home-trial-engineer-internship-for-graduates-caf64042"
+  },
+  {
+    "job_id": 38,
+    "source": "workingstudentjobs.de",
+    "title": "Working Student (f/m/d) DevOps & Cloud Engineering",
+    "company": "Siemens",
+    "location": "Berlin, DE",
+    "decision": "ELIGIBLE",
+    "category": "German Optional / Advantage / Plus (Candidate A2 is compatible)",
+    "evidence": "German language skills are a plus.",
+    "all_lang_mentions": [
+      "You have very good English skills for collaborating in our international team;",
+      "German language skills are a plus."
+    ],
+    "url": "https://www.workingstudentjobs.de/jobs/siemens-working-student-f-m-d-devops-cloud-engineering-70edf1fe"
+  },
+  {
+    "job_id": 39,
+    "source": "workingstudentjobs.de",
+    "title": "Internship eCommerce Analytics",
+    "company": "Henkel",
+    "location": "Düsseldorf, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [],
+    "url": "https://www.workingstudentjobs.de/jobs/henkel-internship-ecommerce-analytics-83091a5a"
+  },
+  {
+    "job_id": 40,
+    "source": "workingstudentjobs.de",
+    "title": "Working Student – As-Built Update, DT+SB OSS (f/m/d)",
+    "company": "Vattenfall",
+    "location": "Hamburg, DE",
+    "decision": "ELIGIBLE",
+    "category": "German Optional / Advantage / Plus (Candidate A2 is compatible)",
+    "evidence": "German or Danish language skills are an advantage.",
+    "all_lang_mentions": [
+      "We are looking for someone who: Is currently studying Electrical Engineering, Marine Engineering, Mechanical Engineering, Renewable Energy or a comparable technical subject Fluent English communication skills, both written and spoken.",
+      "German or Danish language skills are an advantage."
+    ],
+    "url": "https://www.workingstudentjobs.de/jobs/vattenfall-working-student-as-built-update-dt-sb-oss-f-m-d-b77a3819"
+  },
+  {
+    "job_id": 41,
+    "source": "workingstudentjobs.de",
+    "title": "Working Student / Intern – Battery Project Development & Energy Storage (f/m/d)",
+    "company": "Vattenfall",
+    "location": "Hamburg, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [
+      "experience with SharePoint or document management systems is an advantage Languages : Fluency in written and spoken English is required;",
+      "German language skills are a significant advantage but not a prerequisite Applications from both Bachelor’s and Master’s students are welcome."
+    ],
+    "url": "https://www.workingstudentjobs.de/jobs/vattenfall-working-student-intern-battery-project-energy-f-m-5eeaca0c"
+  },
+  {
+    "job_id": 42,
+    "source": "workingstudentjobs.de",
+    "title": "Working Student - Insights & Analytics",
+    "company": "Suntory Global Spirits",
+    "location": "Frankfurt, DE",
+    "decision": "ELIGIBLE",
+    "category": "German Optional / Advantage / Plus (Candidate A2 is compatible)",
+    "evidence": "Sehr gute Deutsch- oder Englischkenntnisse in Wort und Schrift.",
+    "all_lang_mentions": [
+      "Sehr gute Deutsch- oder Englischkenntnisse in Wort und Schrift."
+    ],
+    "url": "https://www.workingstudentjobs.de/jobs/suntory-global-spirits-working-student-insights-analytics-899bd271"
+  },
+  {
+    "job_id": 43,
+    "source": "workingstudentjobs.de",
+    "title": "Bachelor's / Master's Thesis - Applied AI: Machine Learning & AI Agents (m|w|d)",
+    "company": "idealo internet GmbH",
+    "location": "Berlin, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [
+      "We develop and apply modern machine learning methods, explore the potential of Large Language Models and agentic AI systems, and ensure our ML systems operate reliably and at scale in the cloud.",
+      "Foundation Models: You explore how Foundation Models and Large Language Models can be applied to product classification in e-commerce."
+    ],
+    "url": "https://www.workingstudentjobs.de/jobs/idealo-internet-gmbh-bachelor-s-master-s-thesis-applied-ai-m-9eb4d49b"
+  },
+  {
+    "job_id": 44,
+    "source": "workingstudentjobs.de",
+    "title": "Working Student (f/m/d) Engineering- and Facilitysupport",
+    "company": "W. L. Gore & Associates",
+    "location": "Putzbrunn, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [],
+    "url": "https://www.workingstudentjobs.de/jobs/w-l-gore-associates-working-student-f-m-d-engineering-and-a6dcaa79"
+  },
+  {
+    "job_id": 45,
+    "source": "workingstudentjobs.de",
+    "title": "Internship at the DHL IoT Center of Excellence with a focus on IoT prototype development",
+    "company": "DHL",
+    "location": "Bonn, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [],
+    "url": "https://www.workingstudentjobs.de/jobs/dhl-internship-at-the-dhl-iot-center-of-excellence-with-a-on-58b89782"
+  },
+  {
+    "job_id": 46,
+    "source": "workingstudentjobs.de",
+    "title": "Internship – Venture Development (f/m/x)",
+    "company": "Marvel Fusion",
+    "location": "Munich, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [],
+    "url": "https://www.workingstudentjobs.de/jobs/marvel-fusion-internship-venture-development-f-m-x-264b1fac"
+  },
+  {
+    "job_id": 47,
+    "source": "workingstudentjobs.de",
+    "title": "Business Operations Intern - EMEA",
+    "company": "AIRS Medical",
+    "location": "Munich, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [],
+    "url": "https://www.workingstudentjobs.de/jobs/airs-medical-business-operations-intern-emea-ec45ef17"
+  },
+  {
+    "job_id": 48,
+    "source": "workingstudentjobs.de",
+    "title": "Internship - Agentic Framework for Automotive MCU Code Porting (f/m/div)",
+    "company": "Infineon Technologies",
+    "location": "Munich, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [],
+    "url": "https://www.workingstudentjobs.de/jobs/infineon-technologies-internship-agentic-framework-for-mcu-f-2532397e"
+  },
+  {
+    "job_id": 49,
+    "source": "workingstudentjobs.de",
+    "title": "Working Student - Sales & Marketing Strategy and Operations (f/m/div)",
+    "company": "Infineon Technologies",
+    "location": "Munich, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [],
+    "url": "https://www.workingstudentjobs.de/jobs/infineon-technologies-working-student-sales-marketing-and-f-f3d59c65"
+  },
+  {
+    "job_id": 50,
+    "source": "workingstudentjobs.de",
+    "title": "Internship in GenAI Knowledge Assistant for Engineering",
+    "company": "Bosch",
+    "location": "Wernau (Neckar), DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [
+      "Based on this, you will design and implement natural language workflows on Databricks that allow hardware engineers to query both documents and structured data."
+    ],
+    "url": "https://www.workingstudentjobs.de/jobs/bosch-internship-in-genai-knowledge-assistant-for-4146391b"
+  },
+  {
+    "job_id": 51,
+    "source": "workingstudentjobs.de",
+    "title": "Product Deployment Engineer BS/MS, Intern - 2027 (English)",
+    "company": "Google",
+    "location": "Hamburg, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [
+      "Product Deployment Engineer BS/MS, Intern - 2027 (English)",
+      "To start the application process, you will need an updated CV or resume and a current unofficial or official transcript in English.",
+      "Click on the “Apply” button on this page and provide the required materials in the appropriate sections (PDFs preferred): In the “Resume Section:” attach an updated CV or resume In the “Education Section:” attach a current or recent unofficial or official transcript in English."
+    ],
+    "url": "https://www.workingstudentjobs.de/jobs/google-product-deployment-engineer-bs-ms-intern-2027-english-29e6da23"
+  },
+  {
+    "job_id": 52,
+    "source": "workingstudentjobs.de",
+    "title": "Working Student Data Science (m/f/d)",
+    "company": "SIXT",
+    "location": "Munich, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [],
+    "url": "https://www.workingstudentjobs.de/jobs/sixt-working-student-data-science-m-f-d-ead9c875"
+  },
+  {
+    "job_id": 53,
+    "source": "workingstudentjobs.de",
+    "title": "Working Student – As-Built Update, DT+SB OSS (f/m/d)",
+    "company": "Ringhals AB",
+    "location": "Hamburg, DE",
+    "decision": "ELIGIBLE",
+    "category": "German Optional / Advantage / Plus (Candidate A2 is compatible)",
+    "evidence": "German or Danish language skills are an advantage.",
+    "all_lang_mentions": [
+      "We Are Looking For Someone Who: Is currently studying Electrical Engineering, Marine Engineering, Mechanical Engineering, Renewable Energy or a comparable technical subject Fluent English communication skills, both written and spoken.",
+      "German or Danish language skills are an advantage."
+    ],
+    "url": "https://www.workingstudentjobs.de/jobs/ringhals-ab-working-student-as-built-update-dt-sb-oss-f-m-d-57f1fed1"
+  },
+  {
+    "job_id": 54,
+    "source": "workingstudentjobs.de",
+    "title": "Working Student / Intern – Battery Project Development & Energy Storage (f/m/d)",
+    "company": "Ringhals AB",
+    "location": "Hamburg, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [
+      "experience with SharePoint or document management systems is an advantage Languages: Fluency in written and spoken English is required;",
+      "German language skills are a significant advantage but not a prerequisite Applications from both Bachelor’s and Master’s students are welcome."
+    ],
+    "url": "https://www.workingstudentjobs.de/jobs/ringhals-ab-working-student-intern-battery-project-energy-f-e07cc455"
+  },
+  {
+    "job_id": 55,
+    "source": "workingstudentjobs.de",
+    "title": "Intern (f/m/d) AI Automation for Safety Engineering",
+    "company": "NXP Semiconductors",
+    "location": "Munich, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [
+      "At NXP, we are exploring how Generative AI and Large Language Models can revolutionize the way engineers create, manage, and maintain technical documentation and development processes.",
+      "Apply Large Language Models (LLMs) and Generative AI to requirements, analyses, and technical documentation.",
+      "Interest in Generative AI, Large Language Models, and engineering automation."
+    ],
+    "url": "https://www.workingstudentjobs.de/jobs/nxp-semiconductors-intern-f-m-d-ai-automation-for-safety-29e56cda"
+  },
+  {
+    "job_id": 56,
+    "source": "workingstudentjobs.de",
+    "title": "Software Engineer Intern - Fullstack (x/f/m) - Berlin",
+    "company": "Doctolib",
+    "location": "Berlin, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [],
+    "url": "https://www.workingstudentjobs.de/jobs/doctolib-software-engineer-intern-fullstack-x-f-m-berlin-3755147f"
+  },
+  {
+    "job_id": 57,
+    "source": "workingstudentjobs.de",
+    "title": "IA Engineer intern (x/f/m) - Berlin",
+    "company": "Doctolib",
+    "location": "Berlin, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [
+      "Even if Doctolib uses technologies like Ruby on Rails, TypeScript, Java, Kotlin, Swift, React Native, and many cloud-related technologies, the principal language you'll work on is Python.You will also have the opportunity to use AI-assisted development tools within our engineering practices."
+    ],
+    "url": "https://www.workingstudentjobs.de/jobs/doctolib-ia-engineer-intern-x-f-m-berlin-b29f88e3"
+  },
+  {
+    "job_id": 58,
+    "source": "workingstudentjobs.de",
+    "title": "Internship Global Strategy",
+    "company": "Henkel",
+    "location": "Düsseldorf, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [],
+    "url": "https://www.workingstudentjobs.de/jobs/henkel-internship-global-strategy-5f715324"
+  },
+  {
+    "job_id": 59,
+    "source": "workingstudentjobs.de",
+    "title": "Venture Development Intern",
+    "company": "Consultport",
+    "location": "Berlin, DE",
+    "decision": "ELIGIBLE",
+    "category": "German Optional / Advantage / Plus (Candidate A2 is compatible)",
+    "evidence": "You can unblock yourself without needing to be pushed Fluent in English, German is a strong plus Open to relocate to Berlin for a full-time, 3 to 6 month internship.",
+    "all_lang_mentions": [
+      "You can unblock yourself without needing to be pushed Fluent in English, German is a strong plus Open to relocate to Berlin for a full-time, 3 to 6 month internship."
+    ],
+    "url": "https://www.workingstudentjobs.de/jobs/consultport-venture-development-intern-01b07e5e"
+  },
+  {
+    "job_id": 60,
+    "source": "workingstudentjobs.de",
+    "title": "Internship in Next-Generation System Interaction with Contextual Voice Command Activation (f/m/x)",
+    "company": "ZEISS Group",
+    "location": "Oberkochen, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [],
+    "url": "https://www.workingstudentjobs.de/jobs/zeiss-group-internship-in-next-generation-system-interaction-8f38a447"
+  },
+  {
+    "job_id": 61,
+    "source": "workingstudentjobs.de",
+    "title": "Software Engineering Intern - Fullstack (x/f/m)",
+    "company": "Doctolib",
+    "location": "Berlin, DE",
+    "decision": "ELIGIBLE",
+    "category": "English-Dominant Posting (Implicit English)",
+    "evidence": "Posting written in English with zero German requirements",
+    "all_lang_mentions": [],
+    "url": "https://www.workingstudentjobs.de/jobs/doctolib-software-engineering-intern-fullstack-x-f-m-69e29f5a"
+  },
+  {
+    "job_id": 62,
+    "source": "workingstudentjobs.de",
+    "title": "Internship in Computer Vision / Calibration Pipelines (f/m/x)",
+    "company": "ZEISS Group",
+    "location": "Karlsruhe, DE",
+    "decision": "ELIGIBLE",
+    "category": "German Optional / Advantage / Plus (Candidate A2 is compatible)",
+    "evidence": "You are willing to collaborate and work in interdisciplinary teams Good communication skills in English and/or German You are willing to learn and explore with a high degree of initiative and creativity Sounds exciting?",
+    "all_lang_mentions": [
+      "You are willing to collaborate and work in interdisciplinary teams Good communication skills in English and/or German You are willing to learn and explore with a high degree of initiative and creativity Sounds exciting?"
+    ],
+    "url": "https://www.workingstudentjobs.de/jobs/zeiss-group-internship-in-computer-vision-calibration-f-m-x-f1a1a2d0"
+  }
+]

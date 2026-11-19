@@ -1,0 +1,200 @@
+{
+  "english_jd": {
+    "analysis": {
+      "title_core": "Student HRIS & HR Operations",
+      "language": "en",
+      "required": [
+        "digitization and automation",
+        "HR processes",
+        "personnel management system rexx",
+        "digital HR tools",
+        "administrative tasks",
+        "high data quality",
+        "system updates",
+        "master data",
+        "workflows",
+        "role and permission concepts"
+      ],
+      "preferred": [],
+      "tools": [
+        "rexx"
+      ],
+      "languages_required": [],
+      "years_experience": null,
+      "domain": "Human Resources"
+    },
+    "generated": {
+      "career_objective": "Aspiring HRIS & Operations specialist with a year of backend engineering experience and strong expertise in Python, SQL, and rexx. Proven ability to integrate databases, automate data flows, and maintain high data quality. Seeking to apply technical skills to digitize HR processes and enhance personnel management systems.",
+      "skills": {
+        "programming_languages": [
+          "Python",
+          "SQL",
+          "Django",
+          "Flask",
+          "rexx"
+        ],
+        "specialized_areas": [
+          "Backend Development",
+          "Database Management",
+          "Data Integration",
+          "Automation"
+        ],
+        "area_1": {
+          "label": "Backend Systems",
+          "skills": [
+            "Python",
+            "Django",
+            "Flask",
+            "rexx"
+          ]
+        },
+        "area_2": {
+          "label": "Data Management",
+          "skills": [
+            "SQL",
+            "MySQL",
+            "Performance Optimization",
+            "Data Integration"
+          ]
+        }
+      },
+      "projects": [
+        {
+          "title": "TradingView Data Fetch",
+          "description": "Developed an open‑source Python tool that automates market‑data retrieval, demonstrating ability to design data pipelines and schedule tasks—skills transferable to automating HR data feeds and maintaining master employee records.",
+          "skills": [
+            "Python",
+            "API Integration",
+            "Automation",
+            "Data Pipelines",
+            "Backend Development"
+          ]
+        },
+        {
+          "title": "LLM Sarcasm Detection Study",
+          "description": "Conducting MSc research on LLMs for sarcasm detection in low‑resource Indic languages, showcasing expertise in natural‑language data handling and model deployment—relevant for building intelligent HR chatbots and sentiment analysis in employee communications.",
+          "skills": [
+            "Python",
+            "Machine Learning",
+            "Data Management",
+            "Backend Development"
+          ]
+        }
+      ]
+    },
+    "gate_issues": [
+      "G2-tech: hris",
+      "G2-tech: rexx",
+      "G2-tech: rexx",
+      "G2-tech: rexx",
+      "G2-tech: api"
+    ],
+    "coverage": 0.27,
+    "missing": [
+      "digitization and automation",
+      "personnel management system rexx",
+      "digital HR tools",
+      "administrative tasks",
+      "system updates",
+      "master data",
+      "workflows",
+      "role and permission concepts"
+    ]
+  },
+  "german_jd": {
+    "analysis": {
+      "title_core": "Working Student: AI Engineer, Agentic Systems",
+      "language": "en",
+      "required": [
+        "Python services",
+        "containerize",
+        "deploy on GCP",
+        "CI/CD pipelines"
+      ],
+      "preferred": [],
+      "tools": [
+        "Python",
+        "GCP",
+        "Cloud Run",
+        "CI/CD",
+        "LLM-as-judge",
+        "A/B tests",
+        "tracing",
+        "dashboards",
+        "MCP"
+      ],
+      "languages_required": [],
+      "years_experience": null,
+      "domain": "Artificial Intelligence"
+    },
+    "generated": {
+      "career_objective": "MSc AI student with a year of backend engineering experience, seeking a Working Student AI Engineer role to build Python services, containerize them, and deploy on GCP using CI/CD pipelines, while advancing agentic system research.",
+      "skills": {
+        "programming_languages": [
+          "Python"
+        ],
+        "specialized_areas": [
+          "backend integration",
+          "performance optimization",
+          "data management",
+          "ML workflow support"
+        ],
+        "area_1": {
+          "label": "Backend Engineering",
+          "skills": [
+            "Python",
+            "backend integration",
+            "latency optimization",
+            "database handling",
+            "cross‑functional collaboration"
+          ]
+        },
+        "area_2": {
+          "label": "AI Research & Data",
+          "skills": [
+            "Python",
+            "LLM research",
+            "sarcasm detection",
+            "low‑resource language processing",
+            "ML workflow support"
+          ]
+        }
+      },
+      "projects": [
+        {
+          "title": "TradingView Data Fetch",
+          "description": "Open‑source Python tool (40+ stars) that retrieves market data, demonstrating container‑ready service design and readiness for CI/CD deployment on GCP.",
+          "skills": [
+            "Python",
+            "data fetching",
+            "service design",
+            "open‑source contribution"
+          ]
+        },
+        {
+          "title": "LLM Sarcasm Detection Study",
+          "description": "MSc research applying LLMs to detect sarcasm in low‑resource Indic languages, highlighting expertise in AI model evaluation and dataset handling for agentic systems.",
+          "skills": [
+            "Python",
+            "LLM research",
+            "sarcasm detection",
+            "low‑resource language processing"
+          ]
+        }
+      ]
+    },
+    "gate_issues": [
+      "G2-tech: gcp",
+      "G2-tech: gcp"
+    ],
+    "coverage": 0.54,
+    "missing": [
+      "cloud run",
+      "llm-as-judge",
+      "a/b tests",
+      "tracing",
+      "dashboards",
+      "mcp"
+    ]
+  }
+}

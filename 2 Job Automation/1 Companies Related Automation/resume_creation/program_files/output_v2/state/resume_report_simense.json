@@ -1,0 +1,4532 @@
+{
+  "generated_at_utc": "2026-09-22T22:37:34+00:00",
+  "engine": "v2",
+  "total_jobs": 48,
+  "results": [
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522286",
+      "title": "Werkstudent (w/m/d) Softwareentwicklung",
+      "company": "Siemens Mobility GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Werkstudent-Softwareentwicklung.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-Softwareentwicklung.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-Softwareentwicklung.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 82.9,
+      "score_breakdown": {
+        "required_coverage": 40.0,
+        "preferred_coverage": 10.0,
+        "parse_fidelity": 14.9,
+        "format_checks": 10.0,
+        "experience_relevance": 5.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 1.0,
+      "preferred_coverage": 0.5,
+      "gap_report": {
+        "missing_required": [],
+        "missing_preferred": [
+          "Embedded-Softwareentwicklung",
+          "GitLab",
+          "Scrum-Teams",
+          "neue Tools"
+        ],
+        "ineligible_criteria": [
+          "Masterstudium"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 593,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "Angular/TypeScript",
+          "Git"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [
+          "hft",
+          "resume_gen"
+        ],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 7,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=7 repicked=True"
+      },
+      "file_stem": "Werkstudent-Softwareentwicklung"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/523274",
+      "title": "Werkstudent (w/m/d) in Fertigungsplanung/Logistik",
+      "company": "Siemens AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Werkstudent-in-FertigungsplanungLogistik.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-in-FertigungsplanungLogistik.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-in-FertigungsplanungLogistik.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 46.6,
+      "score_breakdown": {
+        "required_coverage": 8.0,
+        "preferred_coverage": 8.6,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 2.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.2,
+      "preferred_coverage": 0.429,
+      "gap_report": {
+        "missing_required": [
+          "Wirtschaftswissenschaften",
+          "Wirtschaftsingenieurwesen",
+          "Deutschkenntnisse",
+          "Grundkenntnisse Logistik"
+        ],
+        "missing_preferred": [
+          "praxisnahe Ausbildung",
+          "erste praktische Erfahrungen",
+          "E‑Kanban System",
+          "nachhaltige Verpackungskonzepte"
+        ],
+        "ineligible_criteria": [
+          "MS Office"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 578,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "MS Office",
+          "fahrerlose Transportsysteme"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 5,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=False"
+      },
+      "file_stem": "Werkstudent-in-FertigungsplanungLogistik"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522745",
+      "title": "Working Student (f/m/d) – Digital Sales Channel – Governance and Commercial Excellence",
+      "company": "Siemens AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Working-Student-Digital-Sales-Channel-Governance-and-Commercial-Excellence.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Working-Student-Digital-Sales-Channel-Governance-and-Commercial-Excellence.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Working-Student-Digital-Sales-Channel-Governance-and-Commercial-Excellence.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 59.7,
+      "score_breakdown": {
+        "required_coverage": 24.0,
+        "preferred_coverage": 5.7,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 2.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.6,
+      "preferred_coverage": 0.286,
+      "gap_report": {
+        "missing_required": [
+          "process flows",
+          "business process analysis"
+        ],
+        "missing_preferred": [
+          "German is an advantage",
+          "Commercial Enablement Sessions",
+          "email correspondence",
+          "meeting minutes",
+          "detail-oriented"
+        ],
+        "ineligible_criteria": [
+          "currently enrolled",
+          "Proficiency in Microsoft Office"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 580,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "BPMN2.0",
+          "Signavio"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 7,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=7 repicked=False"
+      },
+      "file_stem": "Working-Student-Digital-Sales-Channel-Governance-and-Commercial-Excellence"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/519321",
+      "title": "Working Student (f/m/d) eMobility Software",
+      "company": "Siemens AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Working-Student-eMobility-Software.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Working-Student-eMobility-Software.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Working-Student-eMobility-Software.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 67.9,
+      "score_breakdown": {
+        "required_coverage": 26.7,
+        "preferred_coverage": 10.0,
+        "parse_fidelity": 14.9,
+        "format_checks": 10.0,
+        "experience_relevance": 3.3,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.667,
+      "preferred_coverage": 0.5,
+      "gap_report": {
+        "missing_required": [
+          "strong interpersonal skills"
+        ],
+        "missing_preferred": [
+          "innovative eMobility",
+          "team collaboration"
+        ],
+        "ineligible_criteria": [
+          "Master's program",
+          "proactive communicative approach"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English (fluent)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 582,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [
+          "hft",
+          "resume_gen"
+        ],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 5,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=True"
+      },
+      "file_stem": "Working-Student-eMobility-Software"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/482203",
+      "title": "Schweißer (w/m/d)",
+      "company": "Siemens Mobility GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Schweißer.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schweißer.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schweißer.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 69.7,
+      "score_breakdown": {
+        "required_coverage": 32.0,
+        "preferred_coverage": 5.7,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 4.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.8,
+      "preferred_coverage": 0.286,
+      "gap_report": {
+        "missing_required": [
+          "Schichtarbeit (3 Schicht)"
+        ],
+        "missing_preferred": [
+          "Deutschkenntnisse",
+          "Wannenlage",
+          "horizontale Position",
+          "vertikale Position",
+          "PA PB PF"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 583,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "MAG-Verfahren"
+        ],
+        "dormant_added": {
+          "experience_1": [
+            "Trading Operations"
+          ]
+        },
+        "desc_insertions": [
+          "experience:Trading Operations",
+          "experience:Text-to-Speech"
+        ],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 2,
+        "skills_recased": 7,
+        "summary": "mirror=1 dormant_added=1 desc_insertions=2 labels=0 reorder=2 recased=7 repicked=False"
+      },
+      "file_stem": "Schweißer"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/460337",
+      "title": "Schweißer (w/m/d)",
+      "company": "Siemens Mobility GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Schweißer-2.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schweißer-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schweißer-2.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 38.0,
+      "score_breakdown": {
+        "required_coverage": 10.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.25,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "Erfahrung als Schweißer",
+          "Lesen technischer Zeichnungen",
+          "Bereitschaft zur Schichtarbeit"
+        ],
+        "missing_preferred": [
+          "Deutschkenntnisse"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 572,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "Zeichnung"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 5,
+        "summary": "mirror=1 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=False"
+      },
+      "file_stem": "Schweißer-2"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/460331",
+      "title": "Schweißer (w/m/d)",
+      "company": "Siemens Mobility GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Schweißer-3.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schweißer-3.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schweißer-3.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 41.3,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 13.3,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.667,
+      "gap_report": {
+        "missing_required": [
+          "technische Berufsausbildung",
+          "Erfahrung als Schweißer",
+          "Technische Zeichnungen lesen",
+          "Bereitschaft zur Schichtarbeit"
+        ],
+        "missing_preferred": [
+          "Deutschkenntnisse"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 593,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "MAG-Verfahren",
+          "Zeichnung"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 8,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=8 repicked=False"
+      },
+      "file_stem": "Schweißer-3"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/460322",
+      "title": "Schlosser (w/m/d) Schweißbau",
+      "company": "Siemens Mobility GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Schlosser-Schweißbau.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schlosser-Schweißbau.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schlosser-Schweißbau.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 48.0,
+      "score_breakdown": {
+        "required_coverage": 20.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.5,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "technische Zeichnungen lesen",
+          "Schichtarbeit Bereitschaft"
+        ],
+        "missing_preferred": [
+          "Deutschkenntnisse"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 595,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 6,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+      },
+      "file_stem": "Schlosser-Schweißbau"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/460314",
+      "title": "Schlosser (w/m/d) Schweißbau",
+      "company": "Siemens Mobility GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Schlosser-Schweißbau-2.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schlosser-Schweißbau-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schlosser-Schweißbau-2.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 93.0,
+      "score_breakdown": {
+        "required_coverage": 40.0,
+        "preferred_coverage": 20.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 5.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 1.0,
+      "preferred_coverage": 1.0,
+      "gap_report": {
+        "missing_required": [],
+        "missing_preferred": [],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 590,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 9,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=9 repicked=False"
+      },
+      "file_stem": "Schlosser-Schweißbau-2"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/499316",
+      "title": "Schlosser / Metallbauer (w/m/d) – Zusammenbau von Schweißbaugruppen",
+      "company": "Siemens Mobility GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Schlosser-Metallbauer-Zusammenbau-von-Schweißbaugruppen.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schlosser-Metallbauer-Zusammenbau-von-Schweißbaugruppen.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schlosser-Metallbauer-Zusammenbau-von-Schweißbaugruppen.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 56.8,
+      "score_breakdown": {
+        "required_coverage": 20.0,
+        "preferred_coverage": 5.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 3.8,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.5,
+      "preferred_coverage": 0.25,
+      "gap_report": {
+        "missing_required": [
+          "Konstruktionsmechaniker",
+          "Industriemechaniker",
+          "Berufserfahrung Stahlbau",
+          "Arbeit im 3-Schicht-System"
+        ],
+        "missing_preferred": [
+          "Deutsch hilfreich",
+          "Teamfähigkeit",
+          "Dokumentation sauber"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 572,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 5,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=False"
+      },
+      "file_stem": "Schlosser-Metallbauer-Zusammenbau-von-Schweißbaugruppen"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/492141",
+      "title": "Elektroniker / Mechatroniker (w/m/d)",
+      "company": "Siemens Mobility GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Elektroniker-Mechatroniker.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Elektroniker-Mechatroniker.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Elektroniker-Mechatroniker.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 77.9,
+      "score_breakdown": {
+        "required_coverage": 40.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 14.9,
+        "format_checks": 10.0,
+        "experience_relevance": 10.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 1.0,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [],
+        "missing_preferred": [
+          "Signalmechaniker Ausbildung"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 597,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 8,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=8 repicked=False"
+      },
+      "file_stem": "Elektroniker-Mechatroniker"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/483537",
+      "title": "Schweißer (w/m/d)",
+      "company": "Siemens Mobility GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Schweißer-4.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schweißer-4.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schweißer-4.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 41.3,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 13.3,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.667,
+      "gap_report": {
+        "missing_required": [
+          "technische Berufsausbildung",
+          "Erfahrung als Schweißer",
+          "Lesen technischer Zeichnungen",
+          "Bereitschaft zur Schichtarbeit"
+        ],
+        "missing_preferred": [
+          "Deutschkenntnisse"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 596,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "Zeichnung"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 8,
+        "summary": "mirror=1 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=8 repicked=False"
+      },
+      "file_stem": "Schweißer-4"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/483531",
+      "title": "Schlosser (w/m/d) Schweißbau",
+      "company": "Siemens Mobility GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Schlosser-Schweißbau-3.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schlosser-Schweißbau-3.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schlosser-Schweißbau-3.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 55.5,
+      "score_breakdown": {
+        "required_coverage": 25.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 2.5,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.625,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "Konstruktionsmechaniker",
+          "Metallbauer",
+          "Industriemechaniker"
+        ],
+        "missing_preferred": [
+          "Deutschkenntnisse"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 609,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 6,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+      },
+      "file_stem": "Schlosser-Schweißbau-3"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/483540",
+      "title": "Schweißer (w/m/d)",
+      "company": "Siemens Mobility GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Schweißer-5.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schweißer-5.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schweißer-5.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 58.5,
+      "score_breakdown": {
+        "required_coverage": 20.0,
+        "preferred_coverage": 8.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 2.5,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.5,
+      "preferred_coverage": 0.4,
+      "gap_report": {
+        "missing_required": [
+          "Lesen technischer Zeichnungen",
+          "Bereitschaft Schichtarbeit"
+        ],
+        "missing_preferred": [
+          "Schweißposition Wannenlage",
+          "Schweißposition horizontal",
+          "Schweißposition vertikal"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 578,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "MAG-Verfahren"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 7,
+        "summary": "mirror=1 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=7 repicked=False"
+      },
+      "file_stem": "Schweißer-5"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/483533",
+      "title": "Schlosser (w/m/d) Schweißbau",
+      "company": "Siemens Mobility GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Schlosser-Schweißbau-4.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schlosser-Schweißbau-4.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schlosser-Schweißbau-4.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 83.0,
+      "score_breakdown": {
+        "required_coverage": 30.0,
+        "preferred_coverage": 20.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 5.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.75,
+      "preferred_coverage": 1.0,
+      "gap_report": {
+        "missing_required": [
+          "Bereitschaft zur Schichtarbeit"
+        ],
+        "missing_preferred": [],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 599,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 5,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=False"
+      },
+      "file_stem": "Schlosser-Schweißbau-4"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/483534",
+      "title": "Schweißer (w/m/d)",
+      "company": "Siemens Mobility GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Schweißer-6.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schweißer-6.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schweißer-6.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 42.3,
+      "score_breakdown": {
+        "required_coverage": 11.4,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 2.9,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.286,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "technische Zeichnungen",
+          "Schichtarbeit",
+          "Wannenlage",
+          "horizontale Position",
+          "vertikale Position"
+        ],
+        "missing_preferred": [
+          "Deutschkenntnisse"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 579,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 8,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=8 repicked=False"
+      },
+      "file_stem": "Schweißer-6"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/483529",
+      "title": "Schlosser (w/m/d) Schweißbau",
+      "company": "Siemens Mobility GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Schlosser-Schweißbau-5.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schlosser-Schweißbau-5.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schlosser-Schweißbau-5.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 54.0,
+      "score_breakdown": {
+        "required_coverage": 24.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 2.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.6,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "Schweißbaugruppen zusammenbauen",
+          "Berufserfahrung Stahlbau"
+        ],
+        "missing_preferred": [
+          "Deutschkenntnisse"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 590,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 8,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=8 repicked=False"
+      },
+      "file_stem": "Schlosser-Schweißbau-5"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/512651",
+      "title": "Elektroniker / Mechatroniker (w/m/d)",
+      "company": "Siemens Mobility GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Elektroniker-Mechatroniker-2.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Elektroniker-Mechatroniker-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Elektroniker-Mechatroniker-2.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 47.0,
+      "score_breakdown": {
+        "required_coverage": 16.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 3.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.4,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "abgeschlossene Berufsausbildung",
+          "Führerschein Klasse B",
+          "Dienstreisen Deutschland",
+          "Deutsch kommunizieren",
+          "Montage sicherungstechnik",
+          "Technische Dokumentation"
+        ],
+        "missing_preferred": [
+          "Signalmechaniker Ausbildung",
+          "Erfahrung Leittechnik",
+          "Erfahrung Sicherungstechnik",
+          "Teamfähigkeit",
+          "Flexibilität"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [
+          "German fluent required — candidate has A2"
+        ],
+        "languages_required": [
+          "German (fluent)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 583,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 6,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+      },
+      "file_stem": "Elektroniker-Mechatroniker-2"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/512115",
+      "title": "Patentanwaltsfachangestellte*r für Inventions & Filings (w/m/d)",
+      "company": "Siemens Healthineers AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Patentanwaltsfachangestellter-für-Inventions-Filings.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Patentanwaltsfachangestellter-für-Inventions-Filings.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Patentanwaltsfachangestellter-für-Inventions-Filings.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 34.6,
+      "score_breakdown": {
+        "required_coverage": 6.7,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 14.9,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.167,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "abgeschlossene Ausbildung Patentanwaltsfachangestellte*r",
+          "mehrjährige Erfahrung gewerblicher Rechtsschutz",
+          "sehr sicheren Umgang",
+          "Deutsch",
+          "IP‑Fristen überwachen"
+        ],
+        "missing_preferred": [
+          "Erfahrung internationale Partner",
+          "Prozessoptimierung",
+          "Selbstmotiviert",
+          "Lösungsorientierte Arbeitsweise",
+          "Detailorientiert",
+          "Interkulturelle Zusammenarbeit",
+          "Flexibles mobiles Arbeiten",
+          "Kenntnisse IP‑Management System"
+        ],
+        "ineligible_criteria": [
+          "Teilzeit 17-20h/Woche"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 595,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 4,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=4 repicked=False"
+      },
+      "file_stem": "Patentanwaltsfachangestellter-für-Inventions-Filings"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/511271",
+      "title": "Project Manager Workplace and Interior Design (w/m/d) (befristet auf 24 Monate)",
+      "company": "Siemens Healthcare GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Project-Manager-Workplace-and-Interior-Design-befristet-auf-24-Monate.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Project-Manager-Workplace-and-Interior-Design-befristet-auf-24-Monate.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Project-Manager-Workplace-and-Interior-Design-befristet-auf-24-Monate.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 28.0,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "erste Berufserfahrung Projektmanagement",
+          "Deutsch- und Englischkenntnisse",
+          "Projektabhängige Dienstreisen"
+        ],
+        "missing_preferred": [
+          "nachhaltige Projekt Erfahrung",
+          "interdisziplinäres Team",
+          "Kreativität",
+          "Kommunikationsstärke"
+        ],
+        "ineligible_criteria": [
+          "Master-/Diplomstudium Architektur",
+          "Adobe Creative Suite",
+          "Microsoft Office"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 610,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 3,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=3 repicked=False"
+      },
+      "file_stem": "Project-Manager-Workplace-and-Interior-Design-befristet-auf-24-Monate"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/507052",
+      "title": "Schweißer (w/m/d)",
+      "company": "Siemens Mobility GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Schweißer-7.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schweißer-7.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schweißer-7.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 34.7,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 6.7,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.333,
+      "gap_report": {
+        "missing_required": [
+          "technische Berufsausbildung",
+          "Berufserfahrung als Schweißer",
+          "Stahlbau",
+          "technischen Zeichnungen",
+          "Schichtarbeit (3 Schicht)"
+        ],
+        "missing_preferred": [
+          "Deutschkenntnisse",
+          "unlegierter Baustahl"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 591,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "MAG-Schweißen"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 6,
+        "summary": "mirror=1 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+      },
+      "file_stem": "Schweißer-7"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/507032",
+      "title": "Schweißer (w/m/d) Schienenfahrzeugbau",
+      "company": "Siemens Mobility GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Schweißer-Schienenfahrzeugbau.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schweißer-Schienenfahrzeugbau.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schweißer-Schienenfahrzeugbau.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 68.0,
+      "score_breakdown": {
+        "required_coverage": 30.0,
+        "preferred_coverage": 5.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 5.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.75,
+      "preferred_coverage": 0.25,
+      "gap_report": {
+        "missing_required": [
+          "Bereitschaft Schichtarbeit"
+        ],
+        "missing_preferred": [
+          "Deutschkenntnisse",
+          "unlegierter Baustahl",
+          "Schweißpositionen Wannenlage"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 584,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "MAG-Verfahren"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 5,
+        "summary": "mirror=1 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=False"
+      },
+      "file_stem": "Schweißer-Schienenfahrzeugbau"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/507029",
+      "title": "Schlosser (w/m/d)",
+      "company": "Siemens Mobility GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Schlosser.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schlosser.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schlosser.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 52.0,
+      "score_breakdown": {
+        "required_coverage": 24.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.6,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "Berufserfahrung Stahlbau",
+          "Technische Zeichnungen lesen"
+        ],
+        "missing_preferred": [
+          "Deutschkenntnisse"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 595,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 6,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+      },
+      "file_stem": "Schlosser"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/507028",
+      "title": "Schlosser (w/m/d)",
+      "company": "Siemens Mobility GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Schlosser-2.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Schlosser-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Schlosser-2.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 86.0,
+      "score_breakdown": {
+        "required_coverage": 32.0,
+        "preferred_coverage": 20.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 6.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.8,
+      "preferred_coverage": 1.0,
+      "gap_report": {
+        "missing_required": [
+          "Schichtarbeit"
+        ],
+        "missing_preferred": [],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 610,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 7,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=7 repicked=False"
+      },
+      "file_stem": "Schlosser-2"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/519411",
+      "title": "Masterarbeit: Entwicklung eines Materialversorgungskonzepts für die THT-Elektronikfertigung",
+      "company": "Siemens AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Masterarbeit-Entwicklung-eines-Materialversorgungskonzepts-für-die-THT-Elektroni.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Masterarbeit-Entwicklung-eines-Materialversorgungskonzepts-für-die-THT-Elektroni.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Masterarbeit-Entwicklung-eines-Materialversorgungskonzepts-für-die-THT-Elektroni.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 52.1,
+      "score_breakdown": {
+        "required_coverage": 11.4,
+        "preferred_coverage": 10.0,
+        "parse_fidelity": 14.8,
+        "format_checks": 10.0,
+        "experience_relevance": 2.9,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.286,
+      "preferred_coverage": 0.5,
+      "gap_report": {
+        "missing_required": [
+          "Wirtschaftsingenieurwesen",
+          "Maschinenbau",
+          "Wirtschaftsinformatik",
+          "THT-Prozessen",
+          "Sehr gute Deutschkenntnisse"
+        ],
+        "missing_preferred": [
+          "Automatischer Lagertechnik",
+          "Eigenständig",
+          "Lösungsorientiert",
+          "Gebäudeautomation"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [
+          "German fluent required — candidate has A2"
+        ],
+        "languages_required": [
+          "German (fluent)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 610,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "Kanban-Systeme",
+          "Routenzüge"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 7,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=7 repicked=False"
+      },
+      "file_stem": "Masterarbeit-Entwicklung-eines-Materialversorgungskonzepts-für-die-THT-Elektroni"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/517257",
+      "title": "Working Student (f/m/d) - Procedural World Generation & 3D Assets",
+      "company": "Siemens AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Working-Student---Procedural-World-Generation-3D-Assets.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Working-Student---Procedural-World-Generation-3D-Assets.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Working-Student---Procedural-World-Generation-3D-Assets.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 68.6,
+      "score_breakdown": {
+        "required_coverage": 33.3,
+        "preferred_coverage": 2.5,
+        "parse_fidelity": 14.8,
+        "format_checks": 10.0,
+        "experience_relevance": 5.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.833,
+      "preferred_coverage": 0.125,
+      "gap_report": {
+        "missing_required": [
+          "UV unwrapping"
+        ],
+        "missing_preferred": [
+          "animated materials",
+          "shader-driven effects",
+          "noise functions",
+          "rule-based systems",
+          "modular design patterns",
+          "real-time engines",
+          "real-time simulation workflows"
+        ],
+        "ineligible_criteria": [
+          "degree program"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 594,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "3D modeling software",
+          "shader-driven effects"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [
+          "hft",
+          "resume_gen"
+        ],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 5,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=True"
+      },
+      "file_stem": "Working-Student---Procedural-World-Generation-3D-Assets"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/511845",
+      "title": "Werkstudent (w/m/d) Materiallogistik",
+      "company": "Siemens Mobility GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Werkstudent-Materiallogistik.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-Materiallogistik.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-Materiallogistik.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 48.3,
+      "score_breakdown": {
+        "required_coverage": 11.4,
+        "preferred_coverage": 7.5,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 1.4,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.286,
+      "preferred_coverage": 0.375,
+      "gap_report": {
+        "missing_required": [
+          "Betriebswirtschaft",
+          "Supply Chain Management",
+          "Produktionsplanung",
+          "20 Stunden pro Woche",
+          "Deutschkenntnisse"
+        ],
+        "missing_preferred": [
+          "Praktische Logistik Erfahrung",
+          "Praktika",
+          "Systemaffinität",
+          "Strukturierte Arbeitsweise",
+          "Teamfähigkeit"
+        ],
+        "ineligible_criteria": [
+          "MS Office"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 605,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 7,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=7 repicked=False"
+      },
+      "file_stem": "Werkstudent-Materiallogistik"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/518892",
+      "title": "Masterthesis Wettbewerbsanalyse und Zukunftskonzepte für UX bei Feldgeräten und Analysatoren",
+      "company": "Siemens AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Masterthesis-Wettbewerbsanalyse-und-Zukunftskonzepte-für-UX-bei-Feldgeräten-und-.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Masterthesis-Wettbewerbsanalyse-und-Zukunftskonzepte-für-UX-bei-Feldgeräten-und-.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Masterthesis-Wettbewerbsanalyse-und-Zukunftskonzepte-für-UX-bei-Feldgeräten-und-.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 54.2,
+      "score_breakdown": {
+        "required_coverage": 20.0,
+        "preferred_coverage": 2.9,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 3.3,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.5,
+      "preferred_coverage": 0.143,
+      "gap_report": {
+        "missing_required": [
+          "Human Factors",
+          "Fließende Deutsch- und Englischkenntnisse",
+          "UX/UI-Design"
+        ],
+        "missing_preferred": [
+          "Prozessautomatisierung",
+          "User Research",
+          "UCD",
+          "UX Trends",
+          "Regulatorische Vorgaben",
+          "Innovative Technologien"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [
+          "German fluent required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (fluent)",
+          "German (fluent)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 616,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "Prototyping-Tools"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 4,
+        "summary": "mirror=1 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=4 repicked=False"
+      },
+      "file_stem": "Masterthesis-Wettbewerbsanalyse-und-Zukunftskonzepte-für-UX-bei-Feldgeräten-und-"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/508328",
+      "title": "Werkstudent*in (w/m/d) Datenmanagement im Informatik-Umfeld",
+      "company": "Siemens Healthineers AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Werkstudentin-Datenmanagement-im-Informatik-Umfeld.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Datenmanagement-im-Informatik-Umfeld.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Datenmanagement-im-Informatik-Umfeld.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 38.0,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 10.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.5,
+      "gap_report": {
+        "missing_required": [
+          "Informatics study"
+        ],
+        "missing_preferred": [
+          "Database development",
+          "Views",
+          "Stored Procedures",
+          "MVVM"
+        ],
+        "ineligible_criteria": [
+          "4 semesters"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 607,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "XAML",
+          "LINQ"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 4,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=4 repicked=False"
+      },
+      "file_stem": "Werkstudentin-Datenmanagement-im-Informatik-Umfeld"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/517844",
+      "title": "Maler / Lackierer / Oberflächenbearbeiter (w/m/d)",
+      "company": "Siemens Mobility GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Maler-Lackierer-Oberflächenbearbeiter.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Maler-Lackierer-Oberflächenbearbeiter.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Maler-Lackierer-Oberflächenbearbeiter.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 66.0,
+      "score_breakdown": {
+        "required_coverage": 32.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 6.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.8,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "Abdecken",
+          "Deutschkenntnisse"
+        ],
+        "missing_preferred": [
+          "Industrieerfahrung",
+          "Handwerkliches Geschick",
+          "sorgfältige Arbeitsweise",
+          "Roboterkenntnisse",
+          "Weiterbildungsmöglichkeiten"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 587,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 6,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+      },
+      "file_stem": "Maler-Lackierer-Oberflächenbearbeiter"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/513880",
+      "title": "Cybersecurity Auditor (m/f/d)",
+      "company": "Siemens AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Cybersecurity-Auditor.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Cybersecurity-Auditor.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Cybersecurity-Auditor.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 62.0,
+      "score_breakdown": {
+        "required_coverage": 32.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 2.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.8,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "Project management skills"
+        ],
+        "missing_preferred": [
+          "CISSP certification",
+          "CISA certification",
+          "CISM certification",
+          "User access management",
+          "Application security",
+          "Cloud environments",
+          "AI integration experience",
+          "German language"
+        ],
+        "ineligible_criteria": [
+          "Bachelor degree",
+          "Good communication skills"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English (fluent)",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 613,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 4,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=4 repicked=False"
+      },
+      "file_stem": "Cybersecurity-Auditor"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/513871",
+      "title": "Red Teamer/ Pentester Cybersecurity Audit (m/f/d)",
+      "company": "Siemens AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Red-Teamer-Pentester-Cybersecurity-Audit.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Red-Teamer-Pentester-Cybersecurity-Audit.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Red-Teamer-Pentester-Cybersecurity-Audit.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 53.8,
+      "score_breakdown": {
+        "required_coverage": 20.0,
+        "preferred_coverage": 2.5,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 3.3,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.5,
+      "preferred_coverage": 0.125,
+      "gap_report": {
+        "missing_required": [
+          "2+ years",
+          "red teaming",
+          "Fluent English"
+        ],
+        "missing_preferred": [
+          "GIAC GPEN",
+          "OSCP",
+          "CRTP",
+          "eJPT",
+          "CREST",
+          "CTF events",
+          "German language"
+        ],
+        "ineligible_criteria": [
+          "Bachelor degree"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English (fluent)",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 619,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "C++ / C#"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 5,
+        "summary": "mirror=1 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=False"
+      },
+      "file_stem": "Red-Teamer-Pentester-Cybersecurity-Audit"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/521553",
+      "title": "Thesis (Master) - Sidelink-based radio resource allocation for Cooperative Robotics",
+      "company": "Siemens AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Thesis-Master---Sidelink-based-radio-resource-allocation-for-Cooperative-Robotic.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Thesis-Master---Sidelink-based-radio-resource-allocation-for-Cooperative-Robotic.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Thesis-Master---Sidelink-based-radio-resource-allocation-for-Cooperative-Robotic.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 70.4,
+      "score_breakdown": {
+        "required_coverage": 30.0,
+        "preferred_coverage": 7.5,
+        "parse_fidelity": 14.9,
+        "format_checks": 10.0,
+        "experience_relevance": 5.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.75,
+      "preferred_coverage": 0.375,
+      "gap_report": {
+        "missing_required": [
+          "advanced programming skills"
+        ],
+        "missing_preferred": [
+          "independent work",
+          "analytical mindset",
+          "neuromorphic computing",
+          "NS3 5G-LENA",
+          "Keras"
+        ],
+        "ineligible_criteria": [
+          "wireless communication systems",
+          "enrolled degree program"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 591,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "c c",
+          "Open Air Interface"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [
+          "hft",
+          "resume_gen"
+        ],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 5,
+        "summary": "mirror=2 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=True"
+      },
+      "file_stem": "Thesis-Master---Sidelink-based-radio-resource-allocation-for-Cooperative-Robotic"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/513782",
+      "title": "Werkstudent (w/m/d) Performance Controlling & Reporting",
+      "company": "Siemens Mobility GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Werkstudent-Performance-Controlling-Reporting.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-Performance-Controlling-Reporting.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-Performance-Controlling-Reporting.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 30.9,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 2.9,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.143,
+      "gap_report": {
+        "missing_required": [
+          "Schwerpunkt Accounting",
+          "Schwerpunkt Controlling",
+          "erste relevante Erfahrung",
+          "Deutsch und Englisch"
+        ],
+        "missing_preferred": [
+          "Projektcontrolling",
+          "ad-hoc Auswertungen",
+          "Hybrid arbeiten",
+          "Remote Working",
+          "Klimaschutz",
+          "Verkehrswende"
+        ],
+        "ineligible_criteria": [
+          "Studium Betriebswirtschaftslehre",
+          "15-20 h/Woche",
+          "MS-Office Kenntnisse"
+        ],
+        "language_gaps": [
+          "German fluent required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (fluent)",
+          "German (fluent)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 604,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 4,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=4 repicked=False"
+      },
+      "file_stem": "Werkstudent-Performance-Controlling-Reporting"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/520367",
+      "title": "Werkstudent (w/m/d) Produktionsmanagement Oberflächenbearbeitung",
+      "company": "Siemens Mobility GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Werkstudent-Produktionsmanagement-Oberflächenbearbeitung.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-Produktionsmanagement-Oberflächenbearbeitung.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-Produktionsmanagement-Oberflächenbearbeitung.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 36.4,
+      "score_breakdown": {
+        "required_coverage": 6.7,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 1.7,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.167,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "Produktionstechnik",
+          "Maschinenbau",
+          "Fahrzeugtechnik",
+          "Deutsch Sprache",
+          "15 bis 20 Stunden"
+        ],
+        "missing_preferred": [
+          "Englischkenntnisse",
+          "Erste Erfahrungen",
+          "Fertigungsprozesse Interesse",
+          "Teamfähigkeit",
+          "Kommunikationsstärke",
+          "Organisationstalent"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [
+          "German fluent required — candidate has A2"
+        ],
+        "languages_required": [
+          "English",
+          "German (fluent)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 597,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 6,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+      },
+      "file_stem": "Werkstudent-Produktionsmanagement-Oberflächenbearbeitung"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/515855",
+      "title": "Presales Consultant (w/m/d) für Factory Automation",
+      "company": "Siemens AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Presales-Consultant-für-Factory-Automation.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Presales-Consultant-für-Factory-Automation.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Presales-Consultant-für-Factory-Automation.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 30.5,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 2.5,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.125,
+      "gap_report": {
+        "missing_required": [
+          "Erste Erfahrung in",
+          "Deutsch- und Englischkenntnisse",
+          "Bereitschaft zur Mobilität"
+        ],
+        "missing_preferred": [
+          "Präsentationen",
+          "Schulungen von internen",
+          "Weitere Sprachen",
+          "Praktika oder Werkstudierenden-Tätigkeiten",
+          "Kunden zu überzeugen",
+          "Referenzen für Kundenanwendungen",
+          "Teamarbeit"
+        ],
+        "ineligible_criteria": [
+          "erfolgreich abgeschlossenes Bachelor-Studium"
+        ],
+        "language_gaps": [
+          "German very good required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (very good)",
+          "German (very good)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 610,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 5,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=False"
+      },
+      "file_stem": "Presales-Consultant-für-Factory-Automation"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/520374",
+      "title": "Doktorand*in (w/m/d) Project Quantification of Positronium Lifetime as a Novel Imaging Biomarker",
+      "company": "Siemens Healthineers AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Doktorandin-Project-Quantification-of-Positronium-Lifetime-as-a-Novel-Imaging-Bi.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Doktorandin-Project-Quantification-of-Positronium-Lifetime-as-a-Novel-Imaging-Bi.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Doktorandin-Project-Quantification-of-Positronium-Lifetime-as-a-Novel-Imaging-Bi.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 59.7,
+      "score_breakdown": {
+        "required_coverage": 20.0,
+        "preferred_coverage": 6.7,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 5.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.5,
+      "preferred_coverage": 0.333,
+      "gap_report": {
+        "missing_required": [
+          "sehr gute Englischkenntnisse"
+        ],
+        "missing_preferred": [
+          "medizinische Bildgebung",
+          "Deutsch",
+          "Kommunikationsfähigkeiten",
+          "Reisebereitschaft"
+        ],
+        "ineligible_criteria": [
+          "Master-Abschluss"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English (very good)",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 627,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [
+          "experience:Python",
+          "project:Python"
+        ],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 1,
+        "skills_recased": 5,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=2 labels=0 reorder=1 recased=5 repicked=False"
+      },
+      "file_stem": "Doktorandin-Project-Quantification-of-Positronium-Lifetime-as-a-Novel-Imaging-Bi"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/516956",
+      "title": "Werkstudent (w/m/d) im Supply Chain Management",
+      "company": "Siemens AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Werkstudent-im-Supply-Chain-Management.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-im-Supply-Chain-Management.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-im-Supply-Chain-Management.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 33.0,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 5.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.25,
+      "gap_report": {
+        "missing_required": [
+          "Sehr gute Deutschkenntnisse",
+          "Gute Englischkenntnisse"
+        ],
+        "missing_preferred": [
+          "Erste praktische Erfahrung",
+          "Logistik oder Disposition",
+          "Grundkenntnisse Stammdatenpflege",
+          "Projektmitarbeit SCM",
+          "Prozessverbesserungen",
+          "Administrative Aufgaben"
+        ],
+        "ineligible_criteria": [
+          "Studium Wirtschaftswissenschaften",
+          "Studium Wirtschaftsingenieurwesen",
+          "Studium Logistik",
+          "Studium Supply Chain Management",
+          "Umgang mit MS Office"
+        ],
+        "language_gaps": [
+          "German very good required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (good)",
+          "German (very good)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 598,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "ERP-Systeme"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 7,
+        "summary": "mirror=1 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=7 repicked=False"
+      },
+      "file_stem": "Werkstudent-im-Supply-Chain-Management"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/504495",
+      "title": "Industrielackierer/Pulverbeschichter (w/m/d)",
+      "company": "Siemens AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\IndustrielackiererPulverbeschichter.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\IndustrielackiererPulverbeschichter.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\IndustrielackiererPulverbeschichter.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 27.9,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 14.9,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "3‑jährige fachspezifische Berufsausbildung",
+          "gute Deutschkenntnisse",
+          "gute PC‑Grundkenntnisse",
+          "3‑Schichtbetrieb",
+          "Wochenenden zu arbeiten"
+        ],
+        "missing_preferred": [
+          "Teamfähigkeit",
+          "Flexibilität",
+          "Erste Berufserfahrungen",
+          "Verfahrensmechaniker*in",
+          "Weiterbildungsmöglichkeiten"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [
+          "German good required — candidate has A2"
+        ],
+        "languages_required": [
+          "German (good)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 579,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 5,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=False"
+      },
+      "file_stem": "IndustrielackiererPulverbeschichter"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/481291",
+      "title": "Produktionsmitarbeiter (w/m/d) Epoxidharz-Gießerei",
+      "company": "Siemens AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Produktionsmitarbeiter-Epoxidharz-Gießerei.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Produktionsmitarbeiter-Epoxidharz-Gießerei.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Produktionsmitarbeiter-Epoxidharz-Gießerei.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 28.0,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "Bedienung von Produktionsanlagen",
+          "Gute Deutschkenntnisse",
+          "3-Schichtbetrieb",
+          "Bedienen von Formschließmaschinen"
+        ],
+        "missing_preferred": [
+          "abgeschlossene Berufsausbildung",
+          "Teamfähigkeit",
+          "Verantwortungsbewusstsein",
+          "Zuverlässigkeit",
+          "technisches Verständnis",
+          "sorgfältige Arbeitsweise"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 573,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 6,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+      },
+      "file_stem": "Produktionsmitarbeiter-Epoxidharz-Gießerei"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522579",
+      "title": "Werkstudent (w/m/d) Finance für Digital Services",
+      "company": "Siemens Mobility GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Werkstudent-Finance-für-Digital-Services.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-Finance-für-Digital-Services.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-Finance-für-Digital-Services.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 65.5,
+      "score_breakdown": {
+        "required_coverage": 20.0,
+        "preferred_coverage": 15.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 2.5,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.5,
+      "preferred_coverage": 0.75,
+      "gap_report": {
+        "missing_required": [
+          "Praktikant (w/m/d)",
+          "Berufsausbildung"
+        ],
+        "missing_preferred": [
+          "KI-gestützten Lösungen"
+        ],
+        "ineligible_criteria": [
+          "15-20 h/Woche",
+          "MS Office"
+        ],
+        "language_gaps": [
+          "German fluent required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (fluent)",
+          "German (fluent)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 600,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "SAP"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 4,
+        "summary": "mirror=1 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=4 repicked=False"
+      },
+      "file_stem": "Werkstudent-Finance-für-Digital-Services"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/472011",
+      "title": "Thesis (Master): Industrial Virtual Switch to Support vPLC Deployment in Cloud/Edge Environments",
+      "company": "Siemens AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Thesis-Master-Industrial-Virtual-Switch-to-Support-vPLC-Deployment-in-CloudEdge-.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Thesis-Master-Industrial-Virtual-Switch-to-Support-vPLC-Deployment-in-CloudEdge-.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Thesis-Master-Industrial-Virtual-Switch-to-Support-vPLC-Deployment-in-CloudEdge-.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 58.5,
+      "score_breakdown": {
+        "required_coverage": 24.0,
+        "preferred_coverage": 2.5,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 4.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.6,
+      "preferred_coverage": 0.125,
+      "gap_report": {
+        "missing_required": [
+          "Proficient C programming",
+          "Industrial automation principles"
+        ],
+        "missing_preferred": [
+          "Virtualization technologies",
+          "Analytical problem solving",
+          "Result-oriented work style",
+          "Strong documentation skills",
+          "Presentation skills",
+          "Innovative research environment",
+          "Benchmarking cloud switches"
+        ],
+        "ineligible_criteria": [
+          "Master's degree in CS",
+          "Fluent German communication",
+          "Fluent English communication"
+        ],
+        "language_gaps": [
+          "German fluent required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (fluent)",
+          "German (fluent)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 592,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 5,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=False"
+      },
+      "file_stem": "Thesis-Master-Industrial-Virtual-Switch-to-Support-vPLC-Deployment-in-CloudEdge-"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522338",
+      "title": "NSL Disponent (w/m/d) Notruf- und Serviceleitstelle",
+      "company": "Siemens AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\NSL-Disponent-Notruf--und-Serviceleitstelle.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\NSL-Disponent-Notruf--und-Serviceleitstelle.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\NSL-Disponent-Notruf--und-Serviceleitstelle.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 32.4,
+      "score_breakdown": {
+        "required_coverage": 4.4,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.111,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "erfolgreich abgeschlossene Ausbildung",
+          "technische Berufsausbildung",
+          "kaufmännische Berufsausbildung",
+          "erste Berufserfahrung",
+          "24/7 Schichtbetrieb",
+          "Verhandlungssichere Deutschkenntnisse",
+          "gute englische Sprachkenntnisse",
+          "Umgang mit SAP"
+        ],
+        "missing_preferred": [
+          "Zertifizierung NSL-Fachkraft",
+          "Kenntnisse ISO 9001",
+          "Kenntnisse EN 50518",
+          "Kenntnisse VdS 3138",
+          "Erfahrung Compliance",
+          "Erfahrung Arbeitsschutz",
+          "Erfahrung Datenschutz",
+          "Erfahrung Informationssicherheit"
+        ],
+        "ineligible_criteria": [
+          "Kenntnisse MS-Office"
+        ],
+        "language_gaps": [
+          "German verhandlungssicher required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (good)",
+          "German (verhandlungssicher)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 594,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "MS-Office"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 5,
+        "summary": "mirror=1 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=5 repicked=False"
+      },
+      "file_stem": "NSL-Disponent-Notruf--und-Serviceleitstelle"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522593",
+      "title": "Werkstudent (w/m/d) Power BI/Frontends",
+      "company": "Siemens AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Werkstudent-Power-BIFrontends.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-Power-BIFrontends.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-Power-BIFrontends.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 46.0,
+      "score_breakdown": {
+        "required_coverage": 8.9,
+        "preferred_coverage": 8.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 1.1,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.222,
+      "preferred_coverage": 0.4,
+      "gap_report": {
+        "missing_required": [
+          "Wirtschaftsinformatik",
+          "Betriebswirtschaftslehre",
+          "Wirtschaftsingenieurwesen",
+          "Deutschkenntnisse",
+          "Englischkenntnisse",
+          "selbstständige Arbeitsweise",
+          "strukturierte Arbeitsweise"
+        ],
+        "missing_preferred": [
+          "vergleichbare BI-Tools",
+          "KPI Cockpits",
+          "Datenmodellierung"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [],
+        "languages_required": [
+          "English",
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 607,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [
+          "BI-Tools"
+        ],
+        "dormant_added": {},
+        "desc_insertions": [
+          "experience:SQL"
+        ],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 2,
+        "skills_recased": 3,
+        "summary": "mirror=1 dormant_added=0 desc_insertions=1 labels=0 reorder=2 recased=3 repicked=False"
+      },
+      "file_stem": "Werkstudent-Power-BIFrontends"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522557",
+      "title": "Werkstudent (w/m/d) Testaufbauten und Prüfsysteme",
+      "company": "Siemens AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Werkstudent-Testaufbauten-und-Prüfsysteme.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-Testaufbauten-und-Prüfsysteme.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-Testaufbauten-und-Prüfsysteme.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 75.5,
+      "score_breakdown": {
+        "required_coverage": 40.0,
+        "preferred_coverage": 5.0,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 2.5,
+        "naturalness": 3.0
+      },
+      "required_coverage": 1.0,
+      "preferred_coverage": 0.25,
+      "gap_report": {
+        "missing_required": [],
+        "missing_preferred": [
+          "Ausbildung als Elektroniker",
+          "Erste Erfahrungen Schaltpläne",
+          "Interesse an Elektrotechnik",
+          "praktische Aufgaben",
+          "Erfahrung Mechatroniker",
+          "Technische Dokumentation"
+        ],
+        "ineligible_criteria": [
+          "hohe Motivation"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "German"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 598,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 7,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=7 repicked=False"
+      },
+      "file_stem": "Werkstudent-Testaufbauten-und-Prüfsysteme"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/521338",
+      "title": "Working Student (f/m/d) Cybersecurity Project Execution",
+      "company": "Siemens AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Working-Student-Cybersecurity-Project-Execution.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Working-Student-Cybersecurity-Project-Execution.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Working-Student-Cybersecurity-Project-Execution.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 67.2,
+      "score_breakdown": {
+        "required_coverage": 20.0,
+        "preferred_coverage": 16.7,
+        "parse_fidelity": 15.0,
+        "format_checks": 10.0,
+        "experience_relevance": 2.5,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.5,
+      "preferred_coverage": 0.833,
+      "gap_report": {
+        "missing_required": [
+          "data analysis and visualization",
+          "creating dashboards",
+          "project management processes",
+          "key performance indicators"
+        ],
+        "missing_preferred": [
+          "information technology"
+        ],
+        "ineligible_criteria": [
+          "currently enrolled"
+        ],
+        "language_gaps": [],
+        "languages_required": [
+          "English"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 600,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 6,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+      },
+      "file_stem": "Working-Student-Cybersecurity-Project-Execution"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522435",
+      "title": "Werkstudent (w/m/d) Typprüfung R&D",
+      "company": "Siemens AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Werkstudent-Typprüfung-RD.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-Typprüfung-RD.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-Typprüfung-RD.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 45.1,
+      "score_breakdown": {
+        "required_coverage": 11.4,
+        "preferred_coverage": 2.9,
+        "parse_fidelity": 14.9,
+        "format_checks": 10.0,
+        "experience_relevance": 2.9,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.286,
+      "preferred_coverage": 0.143,
+      "gap_report": {
+        "missing_required": [
+          "sehr gute Excel-Kenntnisse",
+          "Grundkenntnisse in Datenbanken",
+          "sehr gute Deutschkenntnisse",
+          "Ingenieurwissenschaften",
+          "Informatik"
+        ],
+        "missing_preferred": [
+          "Datenmigration",
+          "Automatisierung",
+          "Schnittstellen",
+          "Excel-Importen",
+          "Reports",
+          "Auswertungen"
+        ],
+        "ineligible_criteria": [],
+        "language_gaps": [
+          "German very good required — candidate has A2"
+        ],
+        "languages_required": [
+          "German (very good)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 609,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [
+          "experience:Python",
+          "project:Python"
+        ],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 2,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=2 labels=0 reorder=0 recased=2 repicked=False"
+      },
+      "file_stem": "Werkstudent-Typprüfung-RD"
+    },
+    {
+      "job_url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522925",
+      "title": "Werkstudent (w/m/d) Smart Buildings (Engineering)",
+      "company": "Siemens AG",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\tex\\Werkstudent-Smart-Buildings-Engineering.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-Smart-Buildings-Engineering.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-Smart-Buildings-Engineering.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 41.2,
+      "score_breakdown": {
+        "required_coverage": 13.3,
+        "preferred_coverage": 0.0,
+        "parse_fidelity": 14.9,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.333,
+      "preferred_coverage": 0.0,
+      "gap_report": {
+        "missing_required": [
+          "relevant study field",
+          "high IT affinity"
+        ],
+        "missing_preferred": [
+          "network basics",
+          "virtualization basics",
+          "system planning basics",
+          "IoT interest",
+          "team collaboration",
+          "project phase insight"
+        ],
+        "ineligible_criteria": [
+          "MS Office proficiency"
+        ],
+        "language_gaps": [
+          "German fluent required — candidate has A2"
+        ],
+        "languages_required": [
+          "German (fluent)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "parse": {
+        "word_count": 599,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "CAREER OBJECTIVE",
+          "EXPERIENCE",
+          "EDUCATION",
+          "MAIN PROJECTS",
+          "RESEARCH AND PUBLICATIONS",
+          "ACHIEVEMENTS",
+          "SKILLS",
+          "CERTIFICATIONS",
+          "ADDITIONAL PROJECTS",
+          "LANGUAGES",
+          "DECLARATION"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [],
+        "area_labels": {},
+        "project_repick": [],
+        "gate_findings": [],
+        "rows_reordered": 0,
+        "skills_recased": 6,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=0 labels=0 reorder=0 recased=6 repicked=False"
+      },
+      "file_stem": "Werkstudent-Smart-Buildings-Engineering"
+    }
+  ]
+}

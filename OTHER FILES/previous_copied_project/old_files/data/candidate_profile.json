@@ -1,0 +1,30 @@
+{
+  "name": "RAVAL MEETKUMAR RITESHKUMAR",
+  "display_name": "RAVAL MEETKUMAR",
+  "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+  "phone": "+49 15565 468731",
+  "email": "ravalmeett@gmail.com",
+  "portfolio": "https://raval.vercel.app/",
+  "linkedin": "https://www.linkedin.com/in/meetraval/",
+  "github": "https://github.com/ravalmeet",
+  "objective": "AI Systems Engineer with 3+ years of backend engineering experience and a working quantitative system deployed in live markets. Currently completing an MSc in Artificial Intelligence at BTU Cottbus-Senftenberg, Germany. Specialising in production AI systems, LLM applications, and agentic pipelines.",
+  "experience": [
+    {"role": "Werkstudent - Software Engineering", "company": "Joybuy", "location": "North Rhine-Westphalia, Germany", "years": "Jan 2026 - May 2026", "bullets": ["Collaborated with cross-functional teams to integrate backend systems, servers and databases to improve latency, data management and performance.", "Worked on MySQL for efficient data management and storage, supporting machine learning workflows."], "skills": ["Python", "Mathematics", "SQL", "Data Analytics", "FastAPI", "Django", "System Design", "MongoDB"]},
+    {"role": "Software Engineer", "company": "Soham Infotech", "location": "Gujarat, India", "years": "Dec 2023 - Jan 2025", "bullets": ["Developed multiple functions and quant models achieving high profitability in financial decision-making.", "Designed and built backend components and real-time algorithms to support trading operations, leveraging quant and AI algorithms.", "Focused on black-box and gray-box models to surpass overall branch benchmarks."], "skills": ["Python", "Reinforcement Learning", "Deep Learning", "Mathematics", "Quant", "SQL", "Data Analytics", "Backend Development"]},
+    {"role": "Machine Learning Intern", "company": "Pantechelearning", "location": "Chennai, India", "years": "Dec 2021 - Feb 2022", "bullets": ["Implemented machine learning models for various projects, including text-to-speech applications and high-functional visual-activity analysis.", "Worked on data extraction and preprocessing tasks, ensuring accuracy for model training and evaluation."], "skills": ["Machine Learning", "Deep Learning", "Reinforcement Learning", "NLP", "Computer Vision", "Django", "Data Preprocessing", "Model Evaluation"]}
+  ],
+  "education": [
+    {"degree": "Master of Science - Artificial Intelligence", "school": "Brandenburgische Technische Universität Cottbus-Senftenberg", "location": "Berlin, Germany", "years": "April 2025 - Current", "details": "Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Data Science, Data Visualization, Mathematics, Big Data Analytics"},
+    {"degree": "Bachelor of Engineering - Computer Engineering", "school": "Gujarat Technological University", "location": "Gujarat, India", "years": "June 2020 - May 2024", "details": "Data Structures, Algorithms, System Software, Database, Computer Network, System Design, Mathematics, Statistics, Operating System, Object-Oriented Programming, IoT, Cloud Computing"}
+  ],
+  "projects": [
+    {"name": "High Frequency Trading Platform", "url": "https://github.com/ravalmeet", "description": "Developed end-to-end system including real-time data scraping, analysis and filtering, combining quant and AI models to act in real time; achieved 70 percent accuracy in the cash segment.", "skills": ["Mathematics", "Quant Models", "Django", "Data Analytics", "Python", "Machine Learning", "Deep Learning", "Real-time Systems"]},
+    {"name": "Automated Resume Generation", "url": "https://job-automation-raval.streamlit.app/", "description": "Built a complete system that starts from structured datasets for job categories (AI, backend, data) and frames resume sections using open-source LLMs.", "skills": ["Python", "Streamlit", "Natural Language Processing", "LLM", "Prompt Engineering", "Data Analytics", "Automation", "API Integration"]},
+    {"name": "Vehicle Sharing Application", "url": "https://github.com/ravalmeet/Vehicle-Sharing-Application", "description": "Developed a full-stack vehicle sharing app with route selection using Dijkstra's algorithm, real-time CRUD actions and an attractive UI.", "skills": ["NodeJS", "React", "React-Native", "MongoDB", "CSS", "JavaScript", "Full Stack Development", "Algorithms"]}
+  ],
+  "research": [{"title": "An Empirical Study on Large Language Models for Sarcasm Detection in Low-resourced Indic Languages", "description": "Conducting research on NLP models aimed at detecting and analyzing sarcasm across various Indian regional dialects, focusing on linguistic diversity and complexity in sarcasm interpretation."}],
+  "achievements": ["Smart India Hackathon - 2021: Runner's Up - State Level", "Smart India Hackathon - 2022: Runner's Up - National Level", "Azadi ka Amrit Mahotsav - 2023: Runner's Up - State Level", "AI Guild Hackathon - 2025: Winner - Berlin and Brandenburg State, Germany"],
+  "skill_groups": {"Programming Languages": ["Python", "C++", "JavaScript"], "Specialized Area": ["Natural Language Processing", "Large Language Models", "Computer Vision"], "Dev Technologies": ["React-Native", "Flutter", "React", "MongoDB", "NextJS", "NodeJS", "Django", "FastAPI"], "Artificial Intelligence": ["Machine Learning", "Deep Learning", "Reinforcement Learning", "GenAI"]},
+  "certificates": ["Google - Big Data and Machine Learning", "Google - Machine Learning with TensorFlow", "How Google does Machine Learning", "Google - Machine Learning", "Machine Learning with Python", "Data Science Introduction", "Tools for Data Science", "Problem Solving (Intermediate) - HackerRank", "Java Programming: Complete Beginner to Advanced", "Web Development Masterclass Course"],
+  "languages": [{"language": "English", "level": "C2 - Native proficiency"}, {"language": "German", "level": "A2 - Conversational proficiency"}, {"language": "Hindi", "level": "C2 - Native proficiency"}, {"language": "Gujarati", "level": "C2 - Native proficiency"}]
+}

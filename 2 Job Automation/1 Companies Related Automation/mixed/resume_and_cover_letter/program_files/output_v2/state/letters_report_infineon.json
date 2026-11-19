@@ -1,0 +1,2301 @@
+{
+  "generated_at_utc": "2026-10-14T11:55:31+00:00",
+  "engine": "v2",
+  "total_jobs": 25,
+  "results": [
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971880480",
+      "title": "Werkstudent - Technisches Gebäudemanagement (w/m/div)",
+      "company": "Unknown",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "de",
+        "subject": "Werkstudent - Technisches Gebäudemanagement (w/m/div)",
+        "salutation": "Sehr geehrte Damen und Herren,",
+        "opening": "Hiermit bewerbe ich mich um die ausgeschriebene Position bei Unknown. Mein Masterstudium der Künstlichen Intelligenz und mein Bachelorabschluss in Computer Engineering bilden den fachlichen Hintergrund für mein Interesse an den Aufgaben.",
+        "fit": "Bei Soham Infotech entwickelte ich Funktionen und quantitative Modelle für finanzielle Entscheidungsprozesse und baute Backend-Komponenten sowie Echtzeit-Algorithmen zur Unterstützung des Handels. Während meines Machine-Learning-Praktikums bei Pantechelearning implementierte ich Modelle für Text-to-Speech-Anwendungen und visuelle Aktivitätsanalyse und arbeitete an Datenextraktion und -vorverarbeitung für Training und Evaluation.",
+        "motivation": "Ich möchte meine belegten Kenntnisse in Python, Machine Learning, Data Analytics in die im Stellenprofil beschriebenen Aufgaben einbringen. Zugleich reizt mich die Möglichkeit, diese Erfahrungen in einem neuen fachlichen Umfeld weiterzuentwickeln.",
+        "closing": "Über die Gelegenheit, meine Bewerbung in einem Gespräch zu erläutern, freue ich mich. Vielen Dank für die Berücksichtigung meiner Unterlagen.",
+        "signoff": "Mit freundlichen Grüßen",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Unknown",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "Unknown",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "ordentlich immatrikulierte Studierende",
+            "nicht im Urlaubssemester",
+            "maximal 20 Stunden",
+            "sehr gute Deutschkenntnisse",
+            "Bachelor- oder Masterstudium",
+            "Technische Gebäudeausrüstung",
+            "Energie- und Gebäudetechnik",
+            "Umwelttechnik",
+            "erste praktische Erfahrungen",
+            "selbstständige, strukturierte Arbeitsweise"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Unknown_Werkstudent---Technisches-Gebäudemanagem.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Unknown_Werkstudent---Technisches-Gebäudemanagem.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Unknown_Werkstudent---Technisches-Gebäudemanagem.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Unknown_Werkstudent---Technisches-Gebäudemanagem.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Werkstudent---Technisches-Gebäudemanagement-wmdiv.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Werkstudent---Technisches-Gebäudemanagement-wmdiv.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Unknown_Werkstudent---Technisches-Gebäudemanagem"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971794202",
+      "title": "Working Student - Foundry Supplier Market Intelligence & Data Management (f/m/div)",
+      "company": "Unknown",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Working Student - Foundry Supplier Market Intelligence & Data Management (f/m/div)",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Unknown, as the focus on AI, Data Analytics connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. Additionally, I built an end-to-end real-time market platform with data scraping, analysis, and filtering that combines quantitative and AI models for market actions.",
+        "motivation": "I would bring my documented experience in AI, Data Analytics to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Unknown",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "Unknown",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "hft"
+          ],
+          "owned_skills_matched": [
+            "AI",
+            "Data Analytics"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "currently enrolled",
+            "Microsoft Excel and PowerPoint",
+            "communication skills in English",
+            "analytical and research capabilities",
+            "attention to detail",
+            "proper students",
+            "enrolled at a university",
+            "not completed all exams",
+            "maximum 20 hours"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Unknown_Working-Student---Foundry-Supplier-Marke.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Unknown_Working-Student---Foundry-Supplier-Marke.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Unknown_Working-Student---Foundry-Supplier-Marke.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Unknown_Working-Student---Foundry-Supplier-Marke.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---Foundry-Supplier-Market-Intelligence-Data-Management-fmdiv.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---Foundry-Supplier-Market-Intelligence-Data-Management-fmdiv.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Unknown_Working-Student---Foundry-Supplier-Marke"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971793447",
+      "title": "Internship - Legal Compliance in the area of ESH&E (f/m/div)",
+      "company": "Unknown",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Internship - Legal Compliance in the area of ESH&E (f/m/div)",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Infineon Technologies AG. My academic background in Artificial Intelligence and Computer Engineering is the basis for my interest in the work described for this role.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles.",
+        "motivation": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations. I am particularly motivated by developing reusable UI components and modular design systems based on modern web standards. I want to apply my documented experience in Python, Machine Learning, Data Analytics directly to the responsibilities described.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Infineon Technologies AG\nGermany",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "eightfold",
+        "company_name": "Infineon Technologies AG",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-interest-ai-01",
+            "mot-interest-frontend-01",
+            "mot-dir-web-ai-01"
+          ],
+          "motivation_evidence_ids": [
+            "resume_gen",
+            "vehicle_sharing"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "resume_gen"
+          ],
+          "owned_skills_matched": [],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Bachelor or Master",
+            "Business and Law",
+            "Economics",
+            "Business Administration",
+            "Teamwork",
+            "Learning Ability",
+            "Resilience",
+            "Multitasking"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Unknown_Internship---Legal-Compliance-in-the-are.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Unknown_Internship---Legal-Compliance-in-the-are.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Unknown_Internship---Legal-Compliance-in-the-are.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Unknown_Internship---Legal-Compliance-in-the-are.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Internship---Legal-Compliance-in-the-area-of-ESHE-fmdiv.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Internship---Legal-Compliance-in-the-area-of-ESHE-fmdiv.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Unknown_Internship---Legal-Compliance-in-the-are"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971906944",
+      "title": "Internship - Project Management Support (f/m/div)",
+      "company": "Unknown",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Internship - Project Management Support (f/m/div)",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Infineon Technologies AG, as the focus on Artificial Intelligence, AI connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation.",
+        "motivation": "I would bring my documented experience in Artificial Intelligence, AI to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Infineon Technologies AG\nGermany",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "eightfold",
+        "company_name": "Infineon Technologies AG",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [
+            "Artificial Intelligence",
+            "AI"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Advanced Microsoft Excel",
+            "Basic AI understanding",
+            "Project planning",
+            "Access control",
+            "Coordination meetings",
+            "Cost control",
+            "Administration support",
+            "Proactive",
+            "Precise",
+            "Structured"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Unknown_Internship---Project-Management-Support-.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Unknown_Internship---Project-Management-Support-.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Unknown_Internship---Project-Management-Support-.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Unknown_Internship---Project-Management-Support-.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Internship---Project-Management-Support-fmdiv.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Internship---Project-Management-Support-fmdiv.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Unknown_Internship---Project-Management-Support-"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971620732",
+      "title": "Internship - Lab Verification Engineer in the AMS Lab of the Development Center Villach (f/m/div)",
+      "company": "Unknown",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Internship - Lab Verification Engineer in the AMS Lab of the Development Center Villach (f/m/div)",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Unknown, as the focus on C++, Artificial Intelligence connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles.",
+        "motivation": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations. I want to apply my documented experience in C++, Artificial Intelligence, JavaScript directly to the responsibilities described.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Unknown",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "Unknown",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-interest-ai-01",
+            "mot-dir-web-ai-01",
+            "mot-pref-agile-01"
+          ],
+          "motivation_evidence_ids": [
+            "resume_gen",
+            "vehicle_sharing",
+            "soham"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "resume_gen"
+          ],
+          "owned_skills_matched": [
+            "C++",
+            "Artificial Intelligence",
+            "JavaScript",
+            "TypeScript",
+            "CSS",
+            "Component Libraries",
+            "Code Transformation",
+            "Software Engineering Best Practices",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Machine Learning",
+            "Reinforcement Learning",
+            "Data Analytics",
+            "React",
+            "React-Native",
+            "Mathematics",
+            "Data Preprocessing"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Enrolled as student",
+            "Electronic Engineering",
+            "Laboratory equipment",
+            "Programming C C# C++",
+            "Good English skills",
+            "Internship 6 months",
+            "Part-time",
+            "Flexible working hours"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Unknown_Internship---Lab-Verification-Engineer-i.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Unknown_Internship---Lab-Verification-Engineer-i.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Unknown_Internship---Lab-Verification-Engineer-i.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Unknown_Internship---Lab-Verification-Engineer-i.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Internship---Lab-Verification-Engineer-in-the-AMS-Lab-of-the-Development-Center-.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Internship---Lab-Verification-Engineer-in-the-AMS-Lab-of-the-Development-Center-.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Unknown_Internship---Lab-Verification-Engineer-i"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971118853",
+      "title": "Internship - High Speed and RF LAB Validation Engineer in Development Center Villach (f/m/div)",
+      "company": "Unknown",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Internship - High Speed and RF LAB Validation Engineer in Development Center Villach (f/m/div)",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Unknown, as the focus on Git connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles.",
+        "motivation": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations. I would bring my documented experience in Git to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Unknown",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "Unknown",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-interest-ai-01",
+            "mot-dir-web-ai-01",
+            "mot-pref-agile-01"
+          ],
+          "motivation_evidence_ids": [
+            "resume_gen",
+            "vehicle_sharing",
+            "soham"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "resume_gen"
+          ],
+          "owned_skills_matched": [
+            "Git"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Pursuing a degree",
+            "Electronic Engineering",
+            "Good English skills",
+            "Proficiency in Matlab",
+            "Signal Spectrum Analyzers",
+            "Vector Network Analyzers",
+            "Mathematical concepts",
+            "circuit analysis",
+            "data processing"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Unknown_Internship---High-Speed-and-RF-LAB-Valid.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Unknown_Internship---High-Speed-and-RF-LAB-Valid.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Unknown_Internship---High-Speed-and-RF-LAB-Valid.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Unknown_Internship---High-Speed-and-RF-LAB-Valid.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Internship---High-Speed-and-RF-LAB-Validation-Engineer-in-Development-Center-Vil.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Internship---High-Speed-and-RF-LAB-Validation-Engineer-in-Development-Center-Vil.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Unknown_Internship---High-Speed-and-RF-LAB-Valid"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971879852",
+      "title": "Working Student - Supplier Sustainability (f/m/div)",
+      "company": "Unknown",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Working Student - Supplier Sustainability (f/m/div)",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Unknown, as the focus on AI connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation.",
+        "motivation": "I would bring my documented experience in AI to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Unknown",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "Unknown",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [
+            "AI"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Fluency in English",
+            "Enrolled at university",
+            "On-site 12 months",
+            "Study field sustainability",
+            "MS PowerPoint",
+            "MS Excel"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Unknown_Working-Student---Supplier-Sustainabilit.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Unknown_Working-Student---Supplier-Sustainabilit.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Unknown_Working-Student---Supplier-Sustainabilit.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Unknown_Working-Student---Supplier-Sustainabilit.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---Supplier-Sustainability-fmdiv.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---Supplier-Sustainability-fmdiv.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Unknown_Working-Student---Supplier-Sustainabilit"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808959893172",
+      "title": "Internships, working student position and theses at the Warstein site",
+      "company": "Unknown",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Internships, working student position and theses at the Warstein site",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Unknown. My academic background in Artificial Intelligence and Computer Engineering is the basis for my interest in the work described for this role.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation.",
+        "motivation": "I would bring my documented experience in Python, Machine Learning, Data Analytics to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Unknown",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "Unknown",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "currently studying",
+            "technical affinity",
+            "independent way of working",
+            "work in a team",
+            "confident communication in German",
+            "confident communication in English",
+            "electrical characterization",
+            "mechanical conception and design",
+            "development of cooling concepts",
+            "market and competition analysis"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Unknown_Internships-working-student-position-and.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Unknown_Internships-working-student-position-and.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Unknown_Internships-working-student-position-and.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Unknown_Internships-working-student-position-and.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Internships-working-student-position-and-theses-at-the-Warstein-site.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Internships-working-student-position-and-theses-at-the-Warstein-site.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Unknown_Internships-working-student-position-and"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971991308",
+      "title": "Pool Position - Praktika, Werkstudententätigkeiten und Abschlussarbeiten bei MOTEON GmbH in Ilmenau",
+      "company": "Unknown",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "de",
+        "subject": "Pool Position - Praktika, Werkstudententätigkeiten und Abschlussarbeiten bei MOTEON GmbH in Ilmenau",
+        "salutation": "Sehr geehrte Damen und Herren,",
+        "opening": "Hiermit bewerbe ich mich um die ausgeschriebene Position bei Unknown. Mein Masterstudium der Künstlichen Intelligenz und mein Bachelorabschluss in Computer Engineering bilden den fachlichen Hintergrund für mein Interesse an den Aufgaben.",
+        "fit": "Bei Soham Infotech entwickelte ich Funktionen und quantitative Modelle für finanzielle Entscheidungsprozesse und baute Backend-Komponenten sowie Echtzeit-Algorithmen zur Unterstützung des Handels. Ergänzend entwickelte ich ein automatisiertes System auf Basis strukturierter Datensätze und Open-Source-Sprachmodelle, das Inhalte für KI-, Backend- und Datenrollen aufbereitet.",
+        "motivation": "Mich begeistert die Verbindung von Software-Entwicklung mit KI-Agenten zur Automatisierung strukturierter Code- und Text-Transformationen. Besonders reizt mich die Entwicklung wiederverwendbarer UI-Komponenten und moderner Design-Systeme auf Basis offener Webstandards. In dieser Rolle möchte ich meine Kenntnisse in Python, Machine Learning, Data Analytics gezielt in Ihre Aufgaben einbringen.",
+        "closing": "Über die Gelegenheit, meine Bewerbung in einem Gespräch zu erläutern, freue ich mich. Vielen Dank für die Berücksichtigung meiner Unterlagen.",
+        "signoff": "Mit freundlichen Grüßen",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Unknown",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "Unknown",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-interest-ai-01",
+            "mot-interest-frontend-01",
+            "mot-dir-web-ai-01"
+          ],
+          "motivation_evidence_ids": [
+            "resume_gen",
+            "vehicle_sharing"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "resume_gen"
+          ],
+          "owned_skills_matched": [],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Technischer Studiengang",
+            "Deutschkenntnisse",
+            "Englischkenntnisse",
+            "Technische Affinität",
+            "selbstständige Arbeitsweise",
+            "Teamfähigkeit"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Unknown_Pool-Position---Praktika-Werkstudententä.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Unknown_Pool-Position---Praktika-Werkstudententä.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Unknown_Pool-Position---Praktika-Werkstudententä.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Unknown_Pool-Position---Praktika-Werkstudententä.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Pool-Position---Praktika-Werkstudententätigkeiten-und-Abschlussarbeiten-bei-MOTE.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Pool-Position---Praktika-Werkstudententätigkeiten-und-Abschlussarbeiten-bei-MOTE.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Unknown_Pool-Position---Praktika-Werkstudententä"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808972052110",
+      "title": "Werkstudent - Qualitätsmanagement im Zuverlässigkeitslabor (w/m/div)",
+      "company": "Unknown",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "de",
+        "subject": "Werkstudent - Qualitätsmanagement im Zuverlässigkeitslabor (w/m/div)",
+        "salutation": "Sehr geehrte Damen und Herren,",
+        "opening": "Hiermit bewerbe ich mich um die ausgeschriebene Position bei Unknown. Mein Masterstudium der Künstlichen Intelligenz und mein Bachelorabschluss in Computer Engineering bilden den fachlichen Hintergrund für mein Interesse an den Aufgaben.",
+        "fit": "Bei Soham Infotech entwickelte ich Funktionen und quantitative Modelle für finanzielle Entscheidungsprozesse und baute Backend-Komponenten sowie Echtzeit-Algorithmen zur Unterstützung des Handels. Während meines Machine-Learning-Praktikums bei Pantechelearning implementierte ich Modelle für Text-to-Speech-Anwendungen und visuelle Aktivitätsanalyse und arbeitete an Datenextraktion und -vorverarbeitung für Training und Evaluation.",
+        "motivation": "Ich möchte meine belegten Kenntnisse in Python, Machine Learning, Data Analytics in die im Stellenprofil beschriebenen Aufgaben einbringen. Zugleich reizt mich die Möglichkeit, diese Erfahrungen in einem neuen fachlichen Umfeld weiterzuentwickeln.",
+        "closing": "Über die Gelegenheit, meine Bewerbung in einem Gespräch zu erläutern, freue ich mich. Vielen Dank für die Berücksichtigung meiner Unterlagen.",
+        "signoff": "Mit freundlichen Grüßen",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Unknown",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "Unknown",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "technischen Studiengang",
+            "analytische Fähigkeiten",
+            "Teamarbeit",
+            "MS-Office Kenntnisse",
+            "Deutsch (C1)",
+            "Englisch in Wort",
+            "immatrikulierte Studierende",
+            "maximal 20 Stunden",
+            "nicht im Urlaubssemester",
+            "nahe am Einsatzort"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Unknown_Werkstudent---Qualitätsmanagement-im-Zuv.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Unknown_Werkstudent---Qualitätsmanagement-im-Zuv.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Unknown_Werkstudent---Qualitätsmanagement-im-Zuv.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Unknown_Werkstudent---Qualitätsmanagement-im-Zuv.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Werkstudent---Qualitätsmanagement-im-Zuverlässigkeitslabor-wmdiv.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Werkstudent---Qualitätsmanagement-im-Zuverlässigkeitslabor-wmdiv.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Unknown_Werkstudent---Qualitätsmanagement-im-Zuv"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971922747",
+      "title": "Werkstudent - Logistik / Supply Chain (w/m/div)",
+      "company": "Unknown",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "de",
+        "subject": "Werkstudent - Logistik / Supply Chain (w/m/div)",
+        "salutation": "Sehr geehrte Damen und Herren,",
+        "opening": "Hiermit bewerbe ich mich um die ausgeschriebene Position bei Unknown, da die Schwerpunkte in AI direkt an mein Profil anknüpfen. Mein Masterstudium der Künstlichen Intelligenz und mein Bachelorabschluss in Computer Engineering bilden dafür den fachlichen Hintergrund.",
+        "fit": "Bei Soham Infotech entwickelte ich Funktionen und quantitative Modelle für finanzielle Entscheidungsprozesse und baute Backend-Komponenten sowie Echtzeit-Algorithmen zur Unterstützung des Handels. Während meines Machine-Learning-Praktikums bei Pantechelearning implementierte ich Modelle für Text-to-Speech-Anwendungen und visuelle Aktivitätsanalyse und arbeitete an Datenextraktion und -vorverarbeitung für Training und Evaluation.",
+        "motivation": "Ich möchte meine belegten Kenntnisse in AI in die im Stellenprofil beschriebenen Aufgaben einbringen. Zugleich reizt mich die Möglichkeit, diese Erfahrungen in einem neuen fachlichen Umfeld weiterzuentwickeln.",
+        "closing": "Über die Gelegenheit, meine Bewerbung in einem Gespräch zu erläutern, freue ich mich. Vielen Dank für die Berücksichtigung meiner Unterlagen.",
+        "signoff": "Mit freundlichen Grüßen",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Unknown",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "Unknown",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [
+            "AI"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Wirtschaftswissenschaften",
+            "Betriebswirtschaftslehre",
+            "Wirtschaftsinformatik",
+            "gute Deutsch- und Englischkenntnisse",
+            "ordentlich immatrikulierte Studierende",
+            "nicht im Urlaubssemester",
+            "maximal 20 Stunden",
+            "mindestens 6 Monate"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Unknown_Werkstudent---Logistik-Supply-Chain-wmdi.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Unknown_Werkstudent---Logistik-Supply-Chain-wmdi.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Unknown_Werkstudent---Logistik-Supply-Chain-wmdi.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Unknown_Werkstudent---Logistik-Supply-Chain-wmdi.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Werkstudent---Logistik-Supply-Chain-wmdiv.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Werkstudent---Logistik-Supply-Chain-wmdiv.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Unknown_Werkstudent---Logistik-Supply-Chain-wmdi"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971959592",
+      "title": "Werkstudent - Wafer Sorting und Wafer Packing (w/m/div)",
+      "company": "Unknown",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "de",
+        "subject": "Werkstudent - Wafer Sorting und Wafer Packing (w/m/div)",
+        "salutation": "Sehr geehrte Damen und Herren,",
+        "opening": "Hiermit bewerbe ich mich um die ausgeschriebene Position bei Unknown. Mein Masterstudium der Künstlichen Intelligenz und mein Bachelorabschluss in Computer Engineering bilden den fachlichen Hintergrund für mein Interesse an den Aufgaben.",
+        "fit": "Bei Soham Infotech entwickelte ich Funktionen und quantitative Modelle für finanzielle Entscheidungsprozesse und baute Backend-Komponenten sowie Echtzeit-Algorithmen zur Unterstützung des Handels. Während meines Machine-Learning-Praktikums bei Pantechelearning implementierte ich Modelle für Text-to-Speech-Anwendungen und visuelle Aktivitätsanalyse und arbeitete an Datenextraktion und -vorverarbeitung für Training und Evaluation.",
+        "motivation": "Ich möchte meine belegten Kenntnisse in Python, Machine Learning, Data Analytics in die im Stellenprofil beschriebenen Aufgaben einbringen. Zugleich reizt mich die Möglichkeit, diese Erfahrungen in einem neuen fachlichen Umfeld weiterzuentwickeln.",
+        "closing": "Über die Gelegenheit, meine Bewerbung in einem Gespräch zu erläutern, freue ich mich. Vielen Dank für die Berücksichtigung meiner Unterlagen.",
+        "signoff": "Mit freundlichen Grüßen",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Unknown",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "Unknown",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "technischer Studiengang",
+            "immatrikuliert",
+            "mindestens zwei Semester",
+            "nicht im Urlaubssemester",
+            "sehr gute Deutschkenntnisse",
+            "gute Englischkenntnisse",
+            "zuverlässige Arbeitsweise",
+            "strukturierte Arbeitsweise"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Unknown_Werkstudent---Wafer-Sorting-und-Wafer-Pa.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Unknown_Werkstudent---Wafer-Sorting-und-Wafer-Pa.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Unknown_Werkstudent---Wafer-Sorting-und-Wafer-Pa.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Unknown_Werkstudent---Wafer-Sorting-und-Wafer-Pa.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Werkstudent---Wafer-Sorting-und-Wafer-Packing-wmdiv.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Werkstudent---Wafer-Sorting-und-Wafer-Packing-wmdiv.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Unknown_Werkstudent---Wafer-Sorting-und-Wafer-Pa"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971904127",
+      "title": "Werkstudent - Business Continuity (w/m/div)",
+      "company": "Unknown",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "de",
+        "subject": "Werkstudent - Business Continuity (w/m/div)",
+        "salutation": "Sehr geehrte Damen und Herren,",
+        "opening": "Hiermit bewerbe ich mich um die ausgeschriebene Position bei Unknown. Mein Masterstudium der Künstlichen Intelligenz und mein Bachelorabschluss in Computer Engineering bilden den fachlichen Hintergrund für mein Interesse an den Aufgaben.",
+        "fit": "Bei Soham Infotech entwickelte ich Funktionen und quantitative Modelle für finanzielle Entscheidungsprozesse und baute Backend-Komponenten sowie Echtzeit-Algorithmen zur Unterstützung des Handels. Während meines Machine-Learning-Praktikums bei Pantechelearning implementierte ich Modelle für Text-to-Speech-Anwendungen und visuelle Aktivitätsanalyse und arbeitete an Datenextraktion und -vorverarbeitung für Training und Evaluation.",
+        "motivation": "Ich möchte meine belegten Kenntnisse in Python, Machine Learning, Data Analytics in die im Stellenprofil beschriebenen Aufgaben einbringen. Zugleich reizt mich die Möglichkeit, diese Erfahrungen in einem neuen fachlichen Umfeld weiterzuentwickeln.",
+        "closing": "Über die Gelegenheit, meine Bewerbung in einem Gespräch zu erläutern, freue ich mich. Vielen Dank für die Berücksichtigung meiner Unterlagen.",
+        "signoff": "Mit freundlichen Grüßen",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Unknown",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "Unknown",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Wirtschaftswissenschaften",
+            "Wirtschaftsingenieurwesen",
+            "artverwandten Studiengang",
+            "Organisationstalent",
+            "strukturierte Arbeitsweise",
+            "selbstständige Arbeitsweise",
+            "hohes Maß an Diskretion",
+            "MS Office-Anwendungen",
+            "Deutsch- und Englischkenntnisse",
+            "immatrikulierte Studierende"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Unknown_Werkstudent---Business-Continuity-wmdiv.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Unknown_Werkstudent---Business-Continuity-wmdiv.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Unknown_Werkstudent---Business-Continuity-wmdiv.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Unknown_Werkstudent---Business-Continuity-wmdiv.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Werkstudent---Business-Continuity-wmdiv.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Werkstudent---Business-Continuity-wmdiv.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Unknown_Werkstudent---Business-Continuity-wmdiv"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808972088501",
+      "title": "Werkstudent – Human Resources - Early Career Talent Acquisition & Hochschulmarketing (w/m/div)",
+      "company": "Unknown",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "de",
+        "subject": "Werkstudent – Human Resources - Early Career Talent Acquisition & Hochschulmarketing (w/m/div)",
+        "salutation": "Sehr geehrte Damen und Herren,",
+        "opening": "Hiermit bewerbe ich mich um die ausgeschriebene Position bei Unknown. Mein Masterstudium der Künstlichen Intelligenz und mein Bachelorabschluss in Computer Engineering bilden den fachlichen Hintergrund für mein Interesse an den Aufgaben.",
+        "fit": "Bei Soham Infotech entwickelte ich Funktionen und quantitative Modelle für finanzielle Entscheidungsprozesse und baute Backend-Komponenten sowie Echtzeit-Algorithmen zur Unterstützung des Handels. Während meines Machine-Learning-Praktikums bei Pantechelearning implementierte ich Modelle für Text-to-Speech-Anwendungen und visuelle Aktivitätsanalyse und arbeitete an Datenextraktion und -vorverarbeitung für Training und Evaluation.",
+        "motivation": "Ich möchte meine belegten Kenntnisse in Python, Machine Learning, Data Analytics in die im Stellenprofil beschriebenen Aufgaben einbringen. Zugleich reizt mich die Möglichkeit, diese Erfahrungen in einem neuen fachlichen Umfeld weiterzuentwickeln.",
+        "closing": "Über die Gelegenheit, meine Bewerbung in einem Gespräch zu erläutern, freue ich mich. Vielen Dank für die Berücksichtigung meiner Unterlagen.",
+        "signoff": "Mit freundlichen Grüßen",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Unknown",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "Unknown",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Betriebswirtschaftslehre",
+            "Wirtschaftspsychologie",
+            "Elektrotechnik",
+            "Physik",
+            "Wirtschaftsingenieurwesen",
+            "MS Office",
+            "Sehr gute Deutschkenntnisse",
+            "Sehr gute Englischkenntnisse",
+            "Mindestens 16 Stunden"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Unknown_Werkstudent-Human-Resources---Early-Care.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Unknown_Werkstudent-Human-Resources---Early-Care.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Unknown_Werkstudent-Human-Resources---Early-Care.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Unknown_Werkstudent-Human-Resources---Early-Care.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Werkstudent-Human-Resources---Early-Career-Talent-Acquisition-Hochschulmarketing.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Werkstudent-Human-Resources---Early-Career-Talent-Acquisition-Hochschulmarketing.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Unknown_Werkstudent-Human-Resources---Early-Care"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808972055420",
+      "title": "Werkstudent - Labormessungen an neuartigem Synchron-Induktionsmotor (w/m/div)",
+      "company": "Unknown",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "de",
+        "subject": "Werkstudent - Labormessungen an neuartigem Synchron-Induktionsmotor (w/m/div)",
+        "salutation": "Sehr geehrte Damen und Herren,",
+        "opening": "Hiermit bewerbe ich mich um die ausgeschriebene Position bei Infineon Technologies AG, da die Schwerpunkte in Git direkt an mein Profil anknüpfen. Mein Masterstudium der Künstlichen Intelligenz und mein Bachelorabschluss in Computer Engineering bilden dafür den fachlichen Hintergrund.",
+        "fit": "Bei Soham Infotech entwickelte ich Funktionen und quantitative Modelle für finanzielle Entscheidungsprozesse und baute Backend-Komponenten sowie Echtzeit-Algorithmen zur Unterstützung des Handels. Während meines Machine-Learning-Praktikums bei Pantechelearning implementierte ich Modelle für Text-to-Speech-Anwendungen und visuelle Aktivitätsanalyse und arbeitete an Datenextraktion und -vorverarbeitung für Training und Evaluation.",
+        "motivation": "Ich möchte meine belegten Kenntnisse in Git in die im Stellenprofil beschriebenen Aufgaben einbringen. Zugleich reizt mich die Möglichkeit, diese Erfahrungen in einem neuen fachlichen Umfeld weiterzuentwickeln.",
+        "closing": "Über die Gelegenheit, meine Bewerbung in einem Gespräch zu erläutern, freue ich mich. Vielen Dank für die Berücksichtigung meiner Unterlagen.",
+        "signoff": "Mit freundlichen Grüßen",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Infineon Technologies AG\nGermany",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "eightfold",
+        "company_name": "Infineon Technologies AG",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [
+            "Git"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Master Elektrotechnik",
+            "Master Mechatronik",
+            "vergleichbarer Studiengang",
+            "mindestens 3 Monate",
+            "sehr gute Deutschkenntnisse",
+            "immatrikuliert an Hochschule",
+            "nicht im Urlaubssemester",
+            "selbstständige Arbeitsweise",
+            "Verständnis Asynchronmaschine",
+            "Kenntnisse digitale Signalverarbeitung"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Unknown_Werkstudent---Labormessungen-an-neuartig.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Unknown_Werkstudent---Labormessungen-an-neuartig.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Unknown_Werkstudent---Labormessungen-an-neuartig.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Unknown_Werkstudent---Labormessungen-an-neuartig.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Werkstudent---Labormessungen-an-neuartigem-Synchron-Induktionsmotor-wmdiv.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Werkstudent---Labormessungen-an-neuartigem-Synchron-Induktionsmotor-wmdiv.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Unknown_Werkstudent---Labormessungen-an-neuartig"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971792696",
+      "title": "Werkstudent - Facility Management in Automatisierungstechnik / Elektrotechnik (w/m/div)",
+      "company": "Unknown",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "de",
+        "subject": "Werkstudent - Facility Management in Automatisierungstechnik / Elektrotechnik (w/m/div)",
+        "salutation": "Sehr geehrte Damen und Herren,",
+        "opening": "Hiermit bewerbe ich mich um die ausgeschriebene Position bei Unknown. Mein Masterstudium der Künstlichen Intelligenz und mein Bachelorabschluss in Computer Engineering bilden den fachlichen Hintergrund für mein Interesse an den Aufgaben.",
+        "fit": "Bei Soham Infotech entwickelte ich Funktionen und quantitative Modelle für finanzielle Entscheidungsprozesse und baute Backend-Komponenten sowie Echtzeit-Algorithmen zur Unterstützung des Handels. Während meines Machine-Learning-Praktikums bei Pantechelearning implementierte ich Modelle für Text-to-Speech-Anwendungen und visuelle Aktivitätsanalyse und arbeitete an Datenextraktion und -vorverarbeitung für Training und Evaluation.",
+        "motivation": "Ich möchte meine belegten Kenntnisse in Python, Machine Learning, Data Analytics in die im Stellenprofil beschriebenen Aufgaben einbringen. Zugleich reizt mich die Möglichkeit, diese Erfahrungen in einem neuen fachlichen Umfeld weiterzuentwickeln.",
+        "closing": "Über die Gelegenheit, meine Bewerbung in einem Gespräch zu erläutern, freue ich mich. Vielen Dank für die Berücksichtigung meiner Unterlagen.",
+        "signoff": "Mit freundlichen Grüßen",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Unknown",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "Unknown",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "laufenden Studium Elektrotechnik",
+            "laufenden Studium Automatisierungstechnik",
+            "immatrikulierte Studierende",
+            "gute Deutschkenntnisse",
+            "MS Office"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Unknown_Werkstudent---Facility-Management-in-Aut.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Unknown_Werkstudent---Facility-Management-in-Aut.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Unknown_Werkstudent---Facility-Management-in-Aut.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Unknown_Werkstudent---Facility-Management-in-Aut.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Werkstudent---Facility-Management-in-Automatisierungstechnik-Elektrotechnik-wmdi.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Werkstudent---Facility-Management-in-Automatisierungstechnik-Elektrotechnik-wmdi.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Unknown_Werkstudent---Facility-Management-in-Aut"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808971831069",
+      "title": "Werkstudent - Technisches Marketing (w/m/div)",
+      "company": "Unknown",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "de",
+        "subject": "Werkstudent - Technisches Marketing (w/m/div)",
+        "salutation": "Sehr geehrte Damen und Herren,",
+        "opening": "Hiermit bewerbe ich mich um die ausgeschriebene Position bei Unknown, da die Schwerpunkte in AI direkt an mein Profil anknüpfen. Mein Masterstudium der Künstlichen Intelligenz und mein Bachelorabschluss in Computer Engineering bilden dafür den fachlichen Hintergrund.",
+        "fit": "Bei Soham Infotech entwickelte ich Funktionen und quantitative Modelle für finanzielle Entscheidungsprozesse und baute Backend-Komponenten sowie Echtzeit-Algorithmen zur Unterstützung des Handels. Während meines Machine-Learning-Praktikums bei Pantechelearning implementierte ich Modelle für Text-to-Speech-Anwendungen und visuelle Aktivitätsanalyse und arbeitete an Datenextraktion und -vorverarbeitung für Training und Evaluation.",
+        "motivation": "Ich möchte meine belegten Kenntnisse in AI in die im Stellenprofil beschriebenen Aufgaben einbringen. Zugleich reizt mich die Möglichkeit, diese Erfahrungen in einem neuen fachlichen Umfeld weiterzuentwickeln.",
+        "closing": "Über die Gelegenheit, meine Bewerbung in einem Gespräch zu erläutern, freue ich mich. Vielen Dank für die Berücksichtigung meiner Unterlagen.",
+        "signoff": "Mit freundlichen Grüßen",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Unknown",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "Unknown",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [
+            "AI"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Elektrotechnik",
+            "Informationstechnik",
+            "erste Erfahrung Softwareentwicklung",
+            "sicherer Umgang MS-Office",
+            "fließend Deutsch",
+            "fließend Englisch",
+            "ordentlich immatrikulierte Studierende",
+            "nicht im Urlaubssemester"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Unknown_Werkstudent---Technisches-Marketing-wmdi.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Unknown_Werkstudent---Technisches-Marketing-wmdi.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Unknown_Werkstudent---Technisches-Marketing-wmdi.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Unknown_Werkstudent---Technisches-Marketing-wmdi.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Werkstudent---Technisches-Marketing-wmdiv.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Werkstudent---Technisches-Marketing-wmdiv.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Unknown_Werkstudent---Technisches-Marketing-wmdi"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808972041838",
+      "title": "Working Student - Automotive Project Office (f/m/div)",
+      "company": "Unknown",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Working Student - Automotive Project Office (f/m/div)",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Unknown, as the focus on AI, AI Agents connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles.",
+        "motivation": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations. I want to apply my documented experience in AI, AI Agents directly to the responsibilities described.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Unknown",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "Unknown",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-interest-ai-01"
+          ],
+          "motivation_evidence_ids": [
+            "resume_gen"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "resume_gen"
+          ],
+          "owned_skills_matched": [
+            "AI",
+            "AI Agents"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "master's degree program",
+            "Fluency in English",
+            "MS PowerPoint",
+            "MS Excel",
+            "hands‑on experience",
+            "AI knowledge",
+            "enrolled at university",
+            "not completed exams",
+            "maximum 20 hours"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Unknown_Working-Student---Automotive-Project-Off.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Unknown_Working-Student---Automotive-Project-Off.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Unknown_Working-Student---Automotive-Project-Off.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Unknown_Working-Student---Automotive-Project-Off.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---Automotive-Project-Office-fmdiv.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---Automotive-Project-Office-fmdiv.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Unknown_Working-Student---Automotive-Project-Off"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808972009600",
+      "title": "Working Student - AI-Assisted Embedded Software Development (f/m/div)",
+      "company": "Unknown",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Working Student - AI-Assisted Embedded Software Development (f/m/div)",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Unknown, as the focus on C++, Artificial Intelligence connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles.",
+        "motivation": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations. I am particularly motivated by developing reusable UI components and modular design systems based on modern web standards. I want to apply my documented experience in C++, Artificial Intelligence, AI directly to the responsibilities described.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Unknown",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "unknown",
+        "company_name": "Unknown",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-pref-agile-01",
+            "mot-interest-ai-01",
+            "mot-interest-frontend-01"
+          ],
+          "motivation_evidence_ids": [
+            "soham",
+            "resume_gen",
+            "vehicle_sharing"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "resume_gen"
+          ],
+          "owned_skills_matched": [
+            "C++",
+            "Artificial Intelligence",
+            "AI",
+            "JavaScript",
+            "TypeScript",
+            "CSS",
+            "Component Libraries",
+            "Code Transformation",
+            "Software Engineering Best Practices",
+            "Git",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Machine Learning",
+            "Reinforcement Learning",
+            "Data Analytics",
+            "React",
+            "React-Native",
+            "Mathematics",
+            "Data Preprocessing"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "good C programming",
+            "AI coding assistants",
+            "GitHub Copilot",
+            "Claude Code",
+            "debugging tools",
+            "version control systems",
+            "very good English",
+            "1 year experience",
+            "enrolled university student"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Unknown_Working-Student---AI-Assisted-Embedded-S.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Unknown_Working-Student---AI-Assisted-Embedded-S.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Unknown_Working-Student---AI-Assisted-Embedded-S.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Unknown_Working-Student---AI-Assisted-Embedded-S.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---AI-Assisted-Embedded-Software-Development-fmdiv.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---AI-Assisted-Embedded-Software-Development-fmdiv.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Unknown_Working-Student---AI-Assisted-Embedded-S"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808972121554",
+      "title": "Working Student - RF Test for Sensors RF Immunity (f/m/div)",
+      "company": "Infineon Technologies AG",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Working Student - RF Test for Sensors RF Immunity (f/m/div)",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Infineon Technologies AG, as the focus on Python, Data Analytics connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles.",
+        "motivation": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations. I want to apply my documented experience in Python, Data Analytics directly to the responsibilities described.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Infineon Technologies AG\nGermany",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "eightfold",
+        "company_name": "Infineon Technologies AG",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-interest-ai-01",
+            "mot-dir-web-ai-01",
+            "mot-pref-agile-01"
+          ],
+          "motivation_evidence_ids": [
+            "resume_gen",
+            "vehicle_sharing",
+            "soham"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "resume_gen"
+          ],
+          "owned_skills_matched": [
+            "Python",
+            "Data Analytics"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Electronic Engineering",
+            "Computer Science",
+            "Physics",
+            "RF Signal Generator",
+            "Vector signal Generator"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Infineon-Technologies-AG_Working-Student---RF-Test-for-Sensors-RF.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Infineon-Technologies-AG_Working-Student---RF-Test-for-Sensors-RF.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Infineon-Technologies-AG_Working-Student---RF-Test-for-Sensors-RF.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Infineon-Technologies-AG_Working-Student---RF-Test-for-Sensors-RF.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---RF-Test-for-Sensors-RF-Immunity-fmdiv.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---RF-Test-for-Sensors-RF-Immunity-fmdiv.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Infineon-Technologies-AG_Working-Student---RF-Test-for-Sensors-RF"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808972143015",
+      "title": "Working Student - Sales & Marketing Strategy and Operations (f/m/div)",
+      "company": "Infineon Technologies AG",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Working Student - Sales & Marketing Strategy and Operations (f/m/div)",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Infineon Technologies AG, as the focus on AI connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation.",
+        "motivation": "I would bring my documented experience in AI to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Infineon Technologies AG\nGermany",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "eightfold",
+        "company_name": "Infineon Technologies AG",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [
+            "AI"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "master’s degree",
+            "outstanding academic performance",
+            "relevant experience",
+            "strong analytical skills",
+            "excellent English skills",
+            "enrolled at university",
+            "no completed exams"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Infineon-Technologies-AG_Working-Student---Sales-Marketing-Strate.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Infineon-Technologies-AG_Working-Student---Sales-Marketing-Strate.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Infineon-Technologies-AG_Working-Student---Sales-Marketing-Strate.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Infineon-Technologies-AG_Working-Student---Sales-Marketing-Strate.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---Sales-Marketing-Strategy-and-Operations-fmdiv.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---Sales-Marketing-Strategy-and-Operations-fmdiv.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Infineon-Technologies-AG_Working-Student---Sales-Marketing-Strate"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808972115278",
+      "title": "Working Student - Global Product Marketing & Management for Pressure Sensing (f/m/div)",
+      "company": "Infineon Technologies AG",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Working Student - Global Product Marketing & Management for Pressure Sensing (f/m/div)",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Infineon Technologies AG. My academic background in Artificial Intelligence and Computer Engineering is the basis for my interest in the work described for this role.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation.",
+        "motivation": "I would bring my documented experience in Python, Machine Learning, Data Analytics to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Infineon Technologies AG\nGermany",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "eightfold",
+        "company_name": "Infineon Technologies AG",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "pursuing a degree",
+            "first experience",
+            "good English skills",
+            "Microsoft Office skills",
+            "enrolled at university"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Infineon-Technologies-AG_Working-Student---Global-Product-Marketi.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Infineon-Technologies-AG_Working-Student---Global-Product-Marketi.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Infineon-Technologies-AG_Working-Student---Global-Product-Marketi.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Infineon-Technologies-AG_Working-Student---Global-Product-Marketi.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---Global-Product-Marketing-Management-for-Pressure-Sensing-fmdiv.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---Global-Product-Marketing-Management-for-Pressure-Sensing-fmdiv.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Infineon-Technologies-AG_Working-Student---Global-Product-Marketi"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808972013606",
+      "title": "Working Student - Performance Marketing (f/m/div)",
+      "company": "Infineon Technologies AG",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Working Student - Performance Marketing (f/m/div)",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Infineon Technologies AG, as the focus on Git connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles.",
+        "motivation": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations. I would bring my documented experience in Git to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Infineon Technologies AG\nGermany",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "eightfold",
+        "company_name": "Infineon Technologies AG",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-interest-ai-01",
+            "mot-dir-web-ai-01",
+            "mot-pref-agile-01"
+          ],
+          "motivation_evidence_ids": [
+            "resume_gen",
+            "vehicle_sharing",
+            "soham"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "resume_gen"
+          ],
+          "owned_skills_matched": [
+            "Git"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "currently enrolled degree",
+            "initial lead management experience",
+            "very good English",
+            "part‑time 20 hours",
+            "German student status",
+            "lead scoring models",
+            "Customer Data Platform",
+            "project coordination experience",
+            "stakeholder coordination",
+            "data‑driven decision making"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Infineon-Technologies-AG_Working-Student---Performance-Marketing-.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Infineon-Technologies-AG_Working-Student---Performance-Marketing-.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Infineon-Technologies-AG_Working-Student---Performance-Marketing-.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Infineon-Technologies-AG_Working-Student---Performance-Marketing-.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---Performance-Marketing-fmdiv.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---Performance-Marketing-fmdiv.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Infineon-Technologies-AG_Working-Student---Performance-Marketing-"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808972073549",
+      "title": "Working Student - Application Engineering (f/m/div)",
+      "company": "Infineon Technologies AG",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Working Student - Application Engineering (f/m/div)",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Infineon Technologies AG. My academic background in Artificial Intelligence and Computer Engineering is the basis for my interest in the work described for this role.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation.",
+        "motivation": "I would bring my documented experience in Python, Machine Learning, Data Analytics to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Infineon Technologies AG\nGermany",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "eightfold",
+        "company_name": "Infineon Technologies AG",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "bachelor's degree",
+            "electrical engineering",
+            "computer science",
+            "very good English",
+            "enrolled at university"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Infineon-Technologies-AG_Working-Student---Application-Engineerin.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Infineon-Technologies-AG_Working-Student---Application-Engineerin.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Infineon-Technologies-AG_Working-Student---Application-Engineerin.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Infineon-Technologies-AG_Working-Student---Application-Engineerin.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---Application-Engineering-fmdiv.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---Application-Engineering-fmdiv.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Infineon-Technologies-AG_Working-Student---Application-Engineerin"
+    },
+    {
+      "job_url": "https://jobs.infineon.com/careers/job/563808972167411",
+      "title": "Working Student - Project Management Office (f/m/div)",
+      "company": "Infineon Technologies AG",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Working Student - Project Management Office (f/m/div)",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Infineon Technologies AG, as the focus on AI, Data Analytics connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. Additionally, I built an end-to-end real-time market platform with data scraping, analysis, and filtering that combines quantitative and AI models for market actions.",
+        "motivation": "I would bring my documented experience in AI, Data Analytics to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Infineon Technologies AG\nGermany",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "eightfold",
+        "company_name": "Infineon Technologies AG",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "hft"
+          ],
+          "owned_skills_matched": [
+            "AI",
+            "Data Analytics"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "data analytics activities",
+            "data visualizations",
+            "monthly reports",
+            "project documentation",
+            "AI use cases",
+            "administrative support",
+            "enrolled degree program",
+            "very good English"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\tex\\Anschreiben_Infineon-Technologies-AG_Working-Student---Project-Management-Off.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Infineon-Technologies-AG_Working-Student---Project-Management-Off.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\docx\\Anschreiben_Infineon-Technologies-AG_Working-Student---Project-Management-Off.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Infineon-Technologies-AG_Working-Student---Project-Management-Off.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Working-Student---Project-Management-Office-fmdiv.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Working-Student---Project-Management-Office-fmdiv.docx"
+      },
+      "upload_slot": "application portal upload",
+      "notes": "Unknown portal: carry the PDF + the .txt (message-field fallback).",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Infineon-Technologies-AG_Working-Student---Project-Management-Off"
+    }
+  ]
+}

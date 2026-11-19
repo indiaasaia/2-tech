@@ -1,0 +1,5 @@
+# API keys - never commit
+keys/*.json
+# generated job lists, documents, logs
+output/
+__pycache__/

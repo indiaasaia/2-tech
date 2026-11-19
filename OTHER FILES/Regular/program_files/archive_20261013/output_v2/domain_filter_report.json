@@ -1,0 +1,1557 @@
+[
+  {
+    "title": "Working student - clinical Marketing",
+    "company": "Brainlab",
+    "job_url": "https://www.stepstone.de/jobs--Working-student-clinical-Marketing-Munich-Brainlab--14601012-inline.html",
+    "decision": "eliminate",
+    "reason": "title is other-domain: ['clinic']",
+    "families_matched": [
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "git"
+      ],
+      "hardware_iot": [
+        "iot"
+      ],
+      "tech_business_direct": [
+        "digital marketing",
+        "product management"
+      ]
+    },
+    "out_identity_hits_title": [
+      "clinic"
+    ],
+    "out_identity_hits_full": [
+      "clinic",
+      "life science",
+      "restaurant"
+    ],
+    "score": null
+  },
+  {
+    "title": "Intern / Working student in the Field of Innovation Management (m/f/d/x)",
+    "company": "Mercedes-Benz Tech Innovation",
+    "job_url": "https://www.stepstone.de/jobs--Intern-Working-student-in-the-Field-of-Innovation-Management-m-f-d-x-Berlin-Mercedes-Benz-Tech-Innovation--14393911-inline.html",
+    "decision": "keep",
+    "reason": "family signal: ai_data, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "agile",
+        "computer science",
+        "cyber security",
+        "git",
+        "software",
+        "software engineering"
+      ],
+      "ai_data": [
+        "artificial intelligence",
+        "data science",
+        "llm"
+      ],
+      "tech_business_direct": [
+        "digitalization",
+        "erp"
+      ],
+      "tech_business_needs_tech": [
+        "consulting"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Working Student – GenAI / LLM Evaluation – Agentic AI / NLP (f/m/d)",
+    "company": "Cinemo GmbH",
+    "job_url": "https://www.stepstone.de/jobs--Working-Student-GenAI-LLM-Evaluation-Agentic-AI-NLP-f-m-d-Karlsruhe-Germany-Cinemo-GmbH--13887266-inline.html",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, finance, software",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "finance",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "cloud",
+        "computer science",
+        "linux",
+        "programming",
+        "python",
+        "software"
+      ],
+      "ai_data": [
+        "agentic",
+        "algorithm",
+        "data science",
+        "genai",
+        "llm",
+        "nlp"
+      ],
+      "automation": [
+        "automate"
+      ],
+      "finance": [
+        "quant",
+        "valuation"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Working Student - Workspace Management & Executive Support (f/m/d)",
+    "company": "Alaika Advisory Germany GmbH",
+    "job_url": "https://www.stepstone.de/jobs--Working-Student-Workspace-Management-Executive-Support-f-m-d-Muenchen-Bavaria-Germany-Alaika-Advisory-Germany-GmbH--13889669-inline.html",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "api",
+        "cybersecurity",
+        "software"
+      ],
+      "ai_data": [
+        "analytics",
+        "data analytics"
+      ],
+      "finance": [
+        "equity",
+        "finance",
+        "financial",
+        "private equity",
+        "stock"
+      ],
+      "tech_business_direct": [
+        "hris",
+        "sem",
+        "startup"
+      ],
+      "tech_business_needs_tech": [
+        "business management",
+        "growth"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Space Situational Awareness Internship / Master Thesis",
+    "company": "OKAPI:Orbits GmbH",
+    "job_url": "https://www.stepstone.de/jobs--Space-Situational-Awareness-Internship-Master-Thesis-Germany-Brunswick-OKAPI-Orbits-GmbH--13887252-inline.html",
+    "decision": "keep",
+    "reason": "family signal: software, tech_business",
+    "families_matched": [
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "api",
+        "java",
+        "programming",
+        "python",
+        "software"
+      ],
+      "tech_business_direct": [
+        "data-driven"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "architecture"
+    ],
+    "score": null
+  },
+  {
+    "title": "HR & Talent Acquisition Internship (f/m/d)",
+    "company": "Alaika Advisory Germany GmbH",
+    "job_url": "https://www.stepstone.de/jobs--HR-Talent-Acquisition-Internship-f-m-d-Muenchen-Bavaria-Germany-Alaika-Advisory-Germany-GmbH--13889636-inline.html",
+    "decision": "keep",
+    "reason": "family signal: finance, software, tech_business",
+    "families_matched": [
+      "finance",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "api"
+      ],
+      "finance": [
+        "equity",
+        "financial",
+        "private equity"
+      ],
+      "tech_business_direct": [
+        "hris",
+        "startup"
+      ],
+      "tech_business_needs_tech": [
+        "business administration",
+        "growth",
+        "partnerships"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Internship Advanced Development Implants (f/m/x)",
+    "company": "ZEISS",
+    "job_url": "https://www.stepstone.de/jobs--Internship-Advanced-Development-Implants-f-m-x-ZEISS--14600841-inline.html",
+    "decision": "keep",
+    "reason": "family signal: automation, finance, hardware_iot, software, tech_business",
+    "families_matched": [
+      "automation",
+      "finance",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "code",
+        "programming",
+        "python",
+        "software",
+        "test automation"
+      ],
+      "automation": [
+        "automate",
+        "automation"
+      ],
+      "hardware_iot": [
+        "actuators",
+        "electrical engineering",
+        "electronics",
+        "hardware",
+        "mechatronics",
+        "microcontroller",
+        "sensors"
+      ],
+      "finance": [
+        "valuation"
+      ],
+      "tech_business_direct": [
+        "sem"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "mechanical engineering"
+    ],
+    "score": null
+  },
+  {
+    "title": "Working Student (m/f/d) Global Oncology Alliance Management",
+    "company": "Daiichi Sankyo Europe GmbH",
+    "job_url": "https://www.workingstudentjobs.de/jobs/daiichi-sankyo-europe-gmbh-working-student-m-f-d-global-45125d19",
+    "decision": "keep",
+    "reason": "family signal: software, tech_business",
+    "families_matched": [
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "api",
+        "git"
+      ],
+      "tech_business_direct": [
+        "erp"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "gesundheit",
+      "hotel",
+      "patient",
+      "patienten",
+      "pflege",
+      "pharma",
+      "pharmaceutical"
+    ],
+    "score": null
+  },
+  {
+    "title": "Working Student (m/f/d) AI Enablement & Community",
+    "company": "Gebr. Heinemann",
+    "job_url": "https://www.workingstudentjobs.de/jobs/gebr-heinemann-working-student-m-f-d-ai-enablement-community-6a108f3e",
+    "decision": "keep",
+    "reason": "family signal: ai_data",
+    "families_matched": [
+      "ai_data"
+    ],
+    "family_hits": {
+      "ai_data": [
+        "copilot"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Working Student (m/f/d) AI Prototyping & Agent Solutions",
+    "company": "Gebr. Heinemann",
+    "job_url": "https://www.workingstudentjobs.de/jobs/gebr-heinemann-working-student-m-f-d-ai-prototyping-agent-0754ae18",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, software",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "code"
+      ],
+      "ai_data": [
+        "copilot",
+        "generative ai"
+      ],
+      "automation": [
+        "automation",
+        "low-code"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Internship Product Management Innovation Footwear",
+    "company": "PUMA Group",
+    "job_url": "https://www.workingstudentjobs.de/jobs/puma-group-internship-product-management-innovation-footwear-bf905eac",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "api",
+        "database",
+        "git"
+      ],
+      "ai_data": [
+        "artificial intelligence"
+      ],
+      "automation": [
+        "automate"
+      ],
+      "tech_business_direct": [
+        "product management"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "materials science"
+    ],
+    "score": null
+  },
+  {
+    "title": "Internship Product Line Management CORE Footwear",
+    "company": "PUMA Group",
+    "job_url": "https://www.workingstudentjobs.de/jobs/puma-group-internship-product-line-management-core-footwear-510e1bda",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "database"
+      ],
+      "ai_data": [
+        "artificial intelligence"
+      ],
+      "automation": [
+        "automate"
+      ],
+      "tech_business_direct": [
+        "erp"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Working Student Software Engineer (f/m/d)",
+    "company": "Isar Aerospace",
+    "job_url": "https://www.workingstudentjobs.de/jobs/isar-aerospace-working-student-software-engineer-f-m-d-ed991f87",
+    "decision": "keep",
+    "reason": "family signal: automation, finance, software",
+    "families_matched": [
+      "automation",
+      "finance",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        ".net",
+        "backend",
+        "c#",
+        "ci/cd",
+        "computer science",
+        "database",
+        "devops",
+        "frontend",
+        "full-stack",
+        "git",
+        "node",
+        "programming",
+        "scala",
+        "software",
+        "sql",
+        "web development"
+      ],
+      "automation": [
+        "automate"
+      ],
+      "finance": [
+        "finance"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "aerospace",
+      "architecture"
+    ],
+    "score": null
+  },
+  {
+    "title": "Robotics Software Engineer (Data & AI) – Working Student (m/f/d)",
+    "company": "driveblocks",
+    "job_url": "https://www.workingstudentjobs.de/jobs/driveblocks-robotics-software-engineer-data-ai-working-m-f-d-face8fe8",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, hardware_iot, software",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "hardware_iot",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "c++",
+        "ci/cd",
+        "cloud",
+        "computer science",
+        "data pipeline",
+        "git",
+        "linux",
+        "python",
+        "quality assurance",
+        "software",
+        "software engineering"
+      ],
+      "ai_data": [
+        "algorithm",
+        "computer vision",
+        "deep learning",
+        "machine learning"
+      ],
+      "automation": [
+        "automate"
+      ],
+      "hardware_iot": [
+        "embedded",
+        "embedded software",
+        "robot",
+        "robotics"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Home Trial Engineer - Internship for Graduates (w/m/d) - with experience in Python (1 year assignment) - Immediate joiners",
+    "company": "Luxoft Germany",
+    "job_url": "https://www.workingstudentjobs.de/jobs/luxoft-germany-home-trial-engineer-internship-for-graduates-caf64042",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, hardware_iot, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "programming",
+        "python",
+        "software",
+        "sql"
+      ],
+      "ai_data": [
+        "analytics",
+        "data analyst",
+        "data analytics",
+        "data science",
+        "tableau"
+      ],
+      "automation": [
+        "automate",
+        "automation"
+      ],
+      "hardware_iot": [
+        "firmware"
+      ],
+      "tech_business_direct": [
+        "data-driven",
+        "erp"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Working Student (f/m/d) DevOps & Cloud Engineering",
+    "company": "Siemens",
+    "job_url": "https://www.workingstudentjobs.de/jobs/siemens-working-student-f-m-d-devops-cloud-engineering-70edf1fe",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, hardware_iot, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "aws",
+        "ci/cd",
+        "cloud",
+        "code",
+        "computer science",
+        "devops",
+        "git",
+        "github",
+        "gitlab",
+        "linux",
+        "python",
+        "software"
+      ],
+      "ai_data": [
+        "computer vision"
+      ],
+      "automation": [
+        "automation"
+      ],
+      "hardware_iot": [
+        "electrical engineering"
+      ],
+      "tech_business_direct": [
+        "digitalization",
+        "hris",
+        "sem"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Internship eCommerce Analytics",
+    "company": "Henkel",
+    "job_url": "https://www.workingstudentjobs.de/jobs/henkel-internship-ecommerce-analytics-83091a5a",
+    "decision": "keep",
+    "reason": "family signal: ai_data, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "git"
+      ],
+      "ai_data": [
+        "analytics"
+      ],
+      "tech_business_direct": [
+        "data-driven",
+        "digital marketing",
+        "e-commerce",
+        "ecommerce",
+        "erp",
+        "sem"
+      ],
+      "tech_business_needs_tech": [
+        "growth",
+        "strategy"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Working Student – As-Built Update, DT+SB OSS (f/m/d)",
+    "company": "Vattenfall",
+    "job_url": "https://www.workingstudentjobs.de/jobs/vattenfall-working-student-as-built-update-dt-sb-oss-f-m-d-b77a3819",
+    "decision": "keep",
+    "reason": "family signal: finance, hardware_iot, software, tech_business",
+    "families_matched": [
+      "finance",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "coding",
+        "git"
+      ],
+      "hardware_iot": [
+        "electrical engineering"
+      ],
+      "finance": [
+        "bank"
+      ],
+      "tech_business_needs_tech": [
+        "consulting",
+        "growth"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "mechanical engineering"
+    ],
+    "score": null
+  },
+  {
+    "title": "Working Student / Intern – Battery Project Development & Energy Storage (f/m/d)",
+    "company": "Vattenfall",
+    "job_url": "https://www.workingstudentjobs.de/jobs/vattenfall-working-student-intern-battery-project-energy-f-m-5eeaca0c",
+    "decision": "keep",
+    "reason": "family signal: finance, software, tech_business",
+    "families_matched": [
+      "finance",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "database",
+        "developer"
+      ],
+      "finance": [
+        "portfolio"
+      ],
+      "tech_business_direct": [
+        "erp",
+        "sem"
+      ],
+      "tech_business_needs_tech": [
+        "business administration"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Working Student - Insights & Analytics",
+    "company": "Suntory Global Spirits",
+    "job_url": "https://www.workingstudentjobs.de/jobs/suntory-global-spirits-working-student-insights-analytics-899bd271",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "informatik"
+      ],
+      "ai_data": [
+        "analytics",
+        "business intelligence",
+        "power bi"
+      ],
+      "finance": [
+        "handel"
+      ],
+      "tech_business_direct": [
+        "erp",
+        "sem",
+        "wirtschaftsinformatik"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "farbe"
+    ],
+    "score": null
+  },
+  {
+    "title": "Bachelor's / Master's Thesis - Applied AI: Machine Learning & AI Agents (m|w|d)",
+    "company": "idealo internet GmbH",
+    "job_url": "https://www.workingstudentjobs.de/jobs/idealo-internet-gmbh-bachelor-s-master-s-thesis-applied-ai-m-9eb4d49b",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "aws",
+        "cloud",
+        "computer science",
+        "information technology",
+        "programming",
+        "python",
+        "scala",
+        "software"
+      ],
+      "ai_data": [
+        "agentic",
+        "ai agent",
+        "artificial intelligence",
+        "data science",
+        "deep learning",
+        "large language model",
+        "machine learning"
+      ],
+      "automation": [
+        "automate"
+      ],
+      "tech_business_direct": [
+        "e-commerce"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Working Student (f/m/d) Engineering- and Facilitysupport",
+    "company": "W. L. Gore & Associates",
+    "job_url": "https://www.workingstudentjobs.de/jobs/w-l-gore-associates-working-student-f-m-d-engineering-and-a6dcaa79",
+    "decision": "keep",
+    "reason": "family signal: finance, software, tech_business",
+    "families_matched": [
+      "finance",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "aws",
+        "git"
+      ],
+      "finance": [
+        "asset management",
+        "stock"
+      ],
+      "tech_business_direct": [
+        "erp"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Internship at the DHL IoT Center of Excellence with a focus on IoT prototype development",
+    "company": "DHL",
+    "job_url": "https://www.workingstudentjobs.de/jobs/dhl-internship-at-the-dhl-iot-center-of-excellence-with-a-on-58b89782",
+    "decision": "keep",
+    "reason": "family signal: ai_data, hardware_iot, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "agile",
+        "c++",
+        "linux",
+        "programming",
+        "software"
+      ],
+      "ai_data": [
+        "llm"
+      ],
+      "hardware_iot": [
+        "arduino",
+        "electrical engineering",
+        "embedded",
+        "embedded systems",
+        "iot",
+        "microcontroller",
+        "raspberry pi"
+      ],
+      "tech_business_needs_tech": [
+        "strategy"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Internship – Venture Development (f/m/x)",
+    "company": "Marvel Fusion",
+    "job_url": "https://www.workingstudentjobs.de/jobs/marvel-fusion-internship-venture-development-f-m-x-264b1fac",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, hardware_iot, tech_business",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "hardware_iot",
+      "tech_business"
+    ],
+    "family_hits": {
+      "ai_data": [
+        "llm"
+      ],
+      "hardware_iot": [
+        "embedded"
+      ],
+      "finance": [
+        "bank",
+        "banking",
+        "financial",
+        "investment"
+      ],
+      "tech_business_direct": [
+        "process optimization",
+        "startup"
+      ],
+      "tech_business_needs_tech": [
+        "consulting",
+        "growth",
+        "strategy"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Business Operations Intern - EMEA",
+    "company": "AIRS Medical",
+    "job_url": "https://www.workingstudentjobs.de/jobs/airs-medical-business-operations-intern-emea-ec45ef17",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, hardware_iot, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "api",
+        "cloud",
+        "database",
+        "information security",
+        "rust",
+        "software",
+        "swift"
+      ],
+      "ai_data": [
+        "deep learning"
+      ],
+      "hardware_iot": [
+        "robot",
+        "robotics"
+      ],
+      "finance": [
+        "bank",
+        "banking",
+        "finance"
+      ],
+      "tech_business_direct": [
+        "crm",
+        "seo",
+        "technology company"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "clinic",
+      "healthcare",
+      "hospital",
+      "patient"
+    ],
+    "score": null
+  },
+  {
+    "title": "Internship - Agentic Framework for Automotive MCU Code Porting (f/m/div)",
+    "company": "Infineon Technologies",
+    "job_url": "https://www.workingstudentjobs.de/jobs/infineon-technologies-internship-agentic-framework-for-mcu-f-2532397e",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, hardware_iot, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "api",
+        "c++",
+        "code",
+        "computer science",
+        "git",
+        "programming",
+        "python",
+        "rust",
+        "software"
+      ],
+      "ai_data": [
+        "agentic",
+        "large language model",
+        "llm"
+      ],
+      "automation": [
+        "automate"
+      ],
+      "hardware_iot": [
+        "electrical engineering",
+        "embedded",
+        "embedded software",
+        "embedded systems",
+        "iot"
+      ],
+      "tech_business_direct": [
+        "digitalization",
+        "sem"
+      ],
+      "tech_business_needs_tech": [
+        "customer success"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "driver"
+    ],
+    "score": null
+  },
+  {
+    "title": "Working Student - Sales & Marketing Strategy and Operations (f/m/div)",
+    "company": "Infineon Technologies",
+    "job_url": "https://www.workingstudentjobs.de/jobs/infineon-technologies-working-student-sales-marketing-and-f-f3d59c65",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, hardware_iot, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "git",
+        "rust"
+      ],
+      "ai_data": [
+        "analytics",
+        "llm"
+      ],
+      "hardware_iot": [
+        "iot"
+      ],
+      "finance": [
+        "finance"
+      ],
+      "tech_business_direct": [
+        "digitalization",
+        "erp",
+        "sem"
+      ],
+      "tech_business_needs_tech": [
+        "business administration",
+        "customer success",
+        "sales operations",
+        "strategy"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Internship in GenAI Knowledge Assistant for Engineering",
+    "company": "Bosch",
+    "job_url": "https://www.workingstudentjobs.de/jobs/bosch-internship-in-genai-knowledge-assistant-for-4146391b",
+    "decision": "keep",
+    "reason": "family signal: ai_data, finance, hardware_iot, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "finance",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "computer science",
+        "database",
+        "programming",
+        "python",
+        "sql"
+      ],
+      "ai_data": [
+        "ai agent",
+        "artificial intelligence",
+        "data science",
+        "genai",
+        "generative ai",
+        "large language model",
+        "llm"
+      ],
+      "hardware_iot": [
+        "hardware"
+      ],
+      "finance": [
+        "quant",
+        "valuation"
+      ],
+      "tech_business_direct": [
+        "information systems"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Product Deployment Engineer BS/MS, Intern - 2027 (English)",
+    "company": "Google",
+    "job_url": "https://www.workingstudentjobs.de/jobs/google-product-deployment-engineer-bs-ms-intern-2027-english-29e6da23",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, finance, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "finance",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "cloud",
+        "computer science",
+        "database",
+        "git",
+        "google cloud",
+        "java",
+        "javascript",
+        "programming",
+        "python",
+        "rust",
+        "software",
+        "sql"
+      ],
+      "ai_data": [
+        "analytics",
+        "statistics"
+      ],
+      "automation": [
+        "automate",
+        "scripting"
+      ],
+      "finance": [
+        "credit",
+        "quant"
+      ],
+      "tech_business_direct": [
+        "google ads",
+        "information systems",
+        "martech"
+      ],
+      "tech_business_needs_tech": [
+        "consulting",
+        "growth",
+        "strategie"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "architecture"
+    ],
+    "score": null
+  },
+  {
+    "title": "Working Student Data Science (m/f/d)",
+    "company": "SIXT",
+    "job_url": "https://www.workingstudentjobs.de/jobs/sixt-working-student-data-science-m-f-d-ead9c875",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, finance, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "finance",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "api",
+        "computer science",
+        "python"
+      ],
+      "ai_data": [
+        "artificial intelligence",
+        "data science",
+        "data scientist",
+        "gpt",
+        "machine learning",
+        "predictive",
+        "statistical",
+        "statistics"
+      ],
+      "automation": [
+        "automate"
+      ],
+      "finance": [
+        "valuation"
+      ],
+      "tech_business_needs_tech": [
+        "strategy"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "driver",
+      "restaurant"
+    ],
+    "score": null
+  },
+  {
+    "title": "Working Student – As-Built Update, DT+SB OSS (f/m/d)",
+    "company": "Ringhals AB",
+    "job_url": "https://www.workingstudentjobs.de/jobs/ringhals-ab-working-student-as-built-update-dt-sb-oss-f-m-d-57f1fed1",
+    "decision": "keep",
+    "reason": "family signal: finance, hardware_iot, software, tech_business",
+    "families_matched": [
+      "finance",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "coding",
+        "git"
+      ],
+      "hardware_iot": [
+        "electrical engineering"
+      ],
+      "finance": [
+        "bank"
+      ],
+      "tech_business_needs_tech": [
+        "consulting",
+        "growth"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "mechanical engineering"
+    ],
+    "score": null
+  },
+  {
+    "title": "Working Student / Intern – Battery Project Development & Energy Storage (f/m/d)",
+    "company": "Ringhals AB",
+    "job_url": "https://www.workingstudentjobs.de/jobs/ringhals-ab-working-student-intern-battery-project-energy-f-e07cc455",
+    "decision": "keep",
+    "reason": "family signal: finance, software, tech_business",
+    "families_matched": [
+      "finance",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "database",
+        "developer"
+      ],
+      "finance": [
+        "portfolio"
+      ],
+      "tech_business_direct": [
+        "erp",
+        "sem"
+      ],
+      "tech_business_needs_tech": [
+        "business administration"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Intern (f/m/d) AI Automation for Safety Engineering",
+    "company": "NXP Semiconductors",
+    "job_url": "https://www.workingstudentjobs.de/jobs/nxp-semiconductors-intern-f-m-d-ai-automation-for-safety-29e56cda",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, hardware_iot, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "hardware_iot",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "api",
+        "azure",
+        "computer science",
+        "database",
+        "git",
+        "programming",
+        "python",
+        "software",
+        "software engineering"
+      ],
+      "ai_data": [
+        "artificial intelligence",
+        "copilot",
+        "data science",
+        "generative ai",
+        "large language model",
+        "llm",
+        "machine learning"
+      ],
+      "automation": [
+        "automate",
+        "automation",
+        "workflow automation"
+      ],
+      "hardware_iot": [
+        "electrical engineering"
+      ],
+      "tech_business_direct": [
+        "erp",
+        "sem"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Software Engineer Intern - Fullstack (x/f/m) - Berlin",
+    "company": "Doctolib",
+    "job_url": "https://www.workingstudentjobs.de/jobs/doctolib-software-engineer-intern-fullstack-x-f-m-berlin-3755147f",
+    "decision": "keep",
+    "reason": "family signal: ai_data, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "cloud",
+        "code",
+        "coding",
+        "computer science",
+        "java",
+        "kotlin",
+        "mobile app",
+        "python",
+        "react",
+        "scala",
+        "software",
+        "software engineering",
+        "swift",
+        "typescript",
+        "web development"
+      ],
+      "ai_data": [
+        "ai agent"
+      ],
+      "tech_business_needs_tech": [
+        "growth"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "clinic",
+      "healthcare",
+      "patient"
+    ],
+    "score": null
+  },
+  {
+    "title": "IA Engineer intern (x/f/m) - Berlin",
+    "company": "Doctolib",
+    "job_url": "https://www.workingstudentjobs.de/jobs/doctolib-ia-engineer-intern-x-f-m-berlin-b29f88e3",
+    "decision": "keep",
+    "reason": "family signal: ai_data, automation, finance, software",
+    "families_matched": [
+      "ai_data",
+      "automation",
+      "finance",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "agile",
+        "api",
+        "backend",
+        "cloud",
+        "code",
+        "coding",
+        "computer science",
+        "git",
+        "java",
+        "kotlin",
+        "mobile app",
+        "programming",
+        "python",
+        "react",
+        "ruby",
+        "software",
+        "software engineering",
+        "swift",
+        "typescript"
+      ],
+      "ai_data": [
+        "agentic",
+        "ai project",
+        "artificial intelligence",
+        "data science",
+        "large language model",
+        "machine learning",
+        "natural language processing"
+      ],
+      "automation": [
+        "automate"
+      ],
+      "finance": [
+        "valuation"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "healthcare",
+      "patient"
+    ],
+    "score": null
+  },
+  {
+    "title": "Internship Global Strategy",
+    "company": "Henkel",
+    "job_url": "https://www.workingstudentjobs.de/jobs/henkel-internship-global-strategy-5f715324",
+    "decision": "keep",
+    "reason": "family signal: finance, software, tech_business",
+    "families_matched": [
+      "finance",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "git"
+      ],
+      "finance": [
+        "financial",
+        "financial analysis",
+        "m&a",
+        "portfolio",
+        "quant"
+      ],
+      "tech_business_needs_tech": [
+        "business administration",
+        "business development",
+        "consulting",
+        "growth",
+        "strategy"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Venture Development Intern",
+    "company": "Consultport",
+    "job_url": "https://www.workingstudentjobs.de/jobs/consultport-venture-development-intern-01b07e5e",
+    "decision": "keep",
+    "reason": "family signal: automation, software, tech_business",
+    "families_matched": [
+      "automation",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "api",
+        "git",
+        "rust"
+      ],
+      "automation": [
+        "automation"
+      ],
+      "tech_business_direct": [
+        "erp",
+        "startup"
+      ],
+      "tech_business_needs_tech": [
+        "consulting",
+        "strategy"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Internship in Next-Generation System Interaction with Contextual Voice Command Activation (f/m/x)",
+    "company": "ZEISS Group",
+    "job_url": "https://www.workingstudentjobs.de/jobs/zeiss-group-internship-in-next-generation-system-interaction-8f38a447",
+    "decision": "keep",
+    "reason": "family signal: automation, hardware_iot, software",
+    "families_matched": [
+      "automation",
+      "hardware_iot",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "coding",
+        "computer science"
+      ],
+      "automation": [
+        "automate"
+      ],
+      "hardware_iot": [
+        "electrical engineering",
+        "hardware",
+        "sensors"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  },
+  {
+    "title": "Software Engineering Intern - Fullstack (x/f/m)",
+    "company": "Doctolib",
+    "job_url": "https://www.workingstudentjobs.de/jobs/doctolib-software-engineering-intern-fullstack-x-f-m-69e29f5a",
+    "decision": "keep",
+    "reason": "family signal: ai_data, software, tech_business",
+    "families_matched": [
+      "ai_data",
+      "software",
+      "tech_business"
+    ],
+    "family_hits": {
+      "software": [
+        "cloud",
+        "code",
+        "coding",
+        "computer science",
+        "java",
+        "kotlin",
+        "mobile app",
+        "python",
+        "react",
+        "scala",
+        "software",
+        "software engineering",
+        "swift",
+        "typescript",
+        "web development"
+      ],
+      "ai_data": [
+        "ai agent"
+      ],
+      "tech_business_needs_tech": [
+        "growth"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [
+      "clinic",
+      "healthcare",
+      "patient"
+    ],
+    "score": null
+  },
+  {
+    "title": "Internship in Computer Vision / Calibration Pipelines (f/m/x)",
+    "company": "ZEISS Group",
+    "job_url": "https://www.workingstudentjobs.de/jobs/zeiss-group-internship-in-computer-vision-calibration-f-m-x-f1a1a2d0",
+    "decision": "keep",
+    "reason": "family signal: ai_data, hardware_iot, software",
+    "families_matched": [
+      "ai_data",
+      "hardware_iot",
+      "software"
+    ],
+    "family_hits": {
+      "software": [
+        "c++",
+        "coding",
+        "computer science",
+        "git",
+        "python"
+      ],
+      "ai_data": [
+        "algorithm",
+        "computer vision",
+        "machine learning"
+      ],
+      "hardware_iot": [
+        "electrical engineering"
+      ]
+    },
+    "out_identity_hits_title": [],
+    "out_identity_hits_full": [],
+    "score": null
+  }
+]

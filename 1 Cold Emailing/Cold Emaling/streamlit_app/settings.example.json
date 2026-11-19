@@ -1,0 +1,41 @@
+{
+  "api_keys": [
+    {
+      "label": "Primary Gemini",
+      "value": "",
+      "provider": "gemini",
+      "folder_id": "",
+      "enabled": true
+    },
+    {
+      "label": "Yandex key",
+      "value": "AQ.…",
+      "provider": "yandex",
+      "folder_id": "b1g…",
+      "enabled": true
+    }
+  ],
+  "cities": ["Berlin", "Munich", "Frankfurt", "Hamburg"],
+  "phase1": {
+    "model": "gemini-3.6-flash",
+    "batch_size": 5,
+    "total_cap": 50,
+    "min_hiring_score": 55,
+    "max_runs": 20,
+    "temperature": 0.2,
+    "csv_path": "C:/path/to/repo/phase_2/data/discovered_companies.csv",
+    "prompt_path": "C:/path/to/repo/phase_1/prompts/discovery_prompt.md"
+  },
+  "phase2": {
+    "model": "gemini-3.7-flash",
+    "fallback_models": ["gemini-3.6-flash", "gemini-3.5-flash"],
+    "max_iterations": 3,
+    "temperature": 0.2,
+    "limit": null,
+    "companies_path": "C:/path/to/repo/phase_2/data/discovered_companies.csv",
+    "csv_path": "C:/path/to/repo/phase_2/data/contact_discovery_results.csv",
+    "outcomes_path": "C:/path/to/repo/phase_2/data/contact_discovery_outcomes.csv",
+    "prompt_path": "C:/path/to/repo/phase_2/prompts/contact_discovery_prompt.md",
+    "repeat_prompt_path": "C:/path/to/repo/phase_2/prompts/contact_discovery_repeat_prompt.md"
+  }
+}

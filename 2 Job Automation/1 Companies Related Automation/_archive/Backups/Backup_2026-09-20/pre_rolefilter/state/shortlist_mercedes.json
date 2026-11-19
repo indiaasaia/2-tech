@@ -1,0 +1,781 @@
+{
+  "generated_at_utc": "2026-09-20T00:49:48+00:00",
+  "policy": "rank verified resumes by honest-fit score; apply strong-first",
+  "counts": {
+    "verified": 46,
+    "strong": 3,
+    "good": 4,
+    "weak": 13,
+    "poor": 26
+  },
+  "recommendation": "apply to the 3 strong-fit job(s) first; 39 job(s) fall below the 50-point effort line",
+  "jobs": [
+    {
+      "title": "Werkstudent*in Auftragsmanagement Kundencenter Sindelfingen",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-auftragsmanagement-kundencenter-sindelfingen-238095-MER00048BX",
+      "score": 91.2,
+      "tier": "strong",
+      "required_coverage": 1.0,
+      "preferred_coverage": 0.667,
+      "top_gaps": [
+        "Online-Schulungen"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Auftragsmanagement-Kundencenter-Sindelfingen.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Auftragsmanagement-Kundencenter-Sindelfingen.docx"
+    },
+    {
+      "title": "Werkstudent*in EE-Integration Gesamtfahrzeug",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-ee-integration-gesamtfahrzeug-237354-MER0004852",
+      "score": 86.9,
+      "tier": "strong",
+      "required_coverage": 0.778,
+      "preferred_coverage": 1.0,
+      "top_gaps": [
+        "Fahrzeugtechnik",
+        "Analytische Denkweise"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-EE-Integration-Gesamtfahrzeug-3.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-EE-Integration-Gesamtfahrzeug-3.docx"
+    },
+    {
+      "title": "Werkstudent*in Korrosionsschutz Gesamtfahrzeug",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-korrosionsschutz-gesamtfahrzeug-237461-MER0004819",
+      "score": 82.3,
+      "tier": "strong",
+      "required_coverage": 0.714,
+      "preferred_coverage": 1.0,
+      "top_gaps": [
+        "Werkstofftechnik",
+        "Maschinenbau"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Korrosionsschutz-Gesamtfahrzeug.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Korrosionsschutz-Gesamtfahrzeug.docx"
+    },
+    {
+      "title": "Werkstudent*in EE-Integration Gesamtfahrzeug",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-ee-integration-gesamtfahrzeug-237356-MER0004852",
+      "score": 78.0,
+      "tier": "good",
+      "required_coverage": 0.625,
+      "preferred_coverage": 1.0,
+      "top_gaps": [
+        "Fahrzeugtechnik",
+        "Analytische Denkweise",
+        "Begeisterung"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-EE-Integration-Gesamtfahrzeug.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-EE-Integration-Gesamtfahrzeug.docx"
+    },
+    {
+      "title": "Werkstudent*in Sekretariats- und Organisationsmanagement",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-sekretariats--und-organisationsmanagement-237612-MER000487Y",
+      "score": 76.8,
+      "tier": "good",
+      "required_coverage": 1.0,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "abgeschlossene kaufmännische Berufsausbildung"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Sekretariats--und-Organisationsmanagement.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Sekretariats--und-Organisationsmanagement.docx"
+    },
+    {
+      "title": "Werkstudent*in Marketing-Kommunikation Own Retail",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-marketing-kommunikation-own-retail-237177-MER000479T",
+      "score": 75.5,
+      "tier": "good",
+      "required_coverage": 1.0,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "Erfahrung im Autohaus"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Marketing-Kommunikation-Own-Retail-3.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Marketing-Kommunikation-Own-Retail-3.docx"
+    },
+    {
+      "title": "Werkstudent*in Charging & HV-System",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-charging-hv-system-237368-MER0004849",
+      "score": 65.4,
+      "tier": "good",
+      "required_coverage": 0.667,
+      "preferred_coverage": 0.286,
+      "top_gaps": [
+        "Deutschkenntnisse",
+        "Englischkenntnisse",
+        "Kreativität",
+        "innovatives Mindset"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Charging-HV-System-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Charging-HV-System-2.docx"
+    },
+    {
+      "title": "Werkstudent*in Preissteuerung & Marketingprogramme Pkw",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-preissteuerung-marketingprogramme-pkw-237239-MER00047JK",
+      "score": 64.6,
+      "tier": "weak",
+      "required_coverage": 0.333,
+      "preferred_coverage": 1.0,
+      "top_gaps": [
+        "Deutsch- und Englischkenntnisse",
+        "Analytische Denkweise",
+        "strategische Arbeitsweise",
+        "mindestens ein Jahr"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Preissteuerung-Marketingprogramme-Pkw.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Preissteuerung-Marketingprogramme-Pkw.docx"
+    },
+    {
+      "title": "Werkstudent*in Preissteuerung & Marketingprogramme Pkw",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-preissteuerung-marketingprogramme-pkw-237240-MER00047JK",
+      "score": 64.0,
+      "tier": "weak",
+      "required_coverage": 0.4,
+      "preferred_coverage": 1.0,
+      "top_gaps": [
+        "Deutsch- und Englischkenntnisse",
+        "Analytische Denkweise",
+        "Strategische Arbeitsweise"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Preissteuerung-Marketingprogramme-Pkw-3.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Preissteuerung-Marketingprogramme-Pkw-3.docx"
+    },
+    {
+      "title": "Werkstudent*in KI-gestützte Automatisierung und Prozessoptimierung in der Steuergeräteentwicklung",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-ki-gest-tzte-automatisierung-und-prozessoptimierung-in-der-steuerger-teentwicklung-238103-MER00048BV",
+      "score": 63.0,
+      "tier": "weak",
+      "required_coverage": 0.4,
+      "preferred_coverage": 0.75,
+      "top_gaps": [
+        "erste Erfahrungen KI-Technologien",
+        "gute Deutschkenntnisse",
+        "gute Englischkenntnisse",
+        "Prompt Engineering"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-KI-gestützte-Automatisierung-und-Prozessoptimierung-in-der-Steuerg.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-KI-gestützte-Automatisierung-und-Prozessoptimierung-in-der-Steuerg.docx"
+    },
+    {
+      "title": "Werkstudent*in Sekretariats- und Organisationsmanagement",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-sekretariats--und-organisationsmanagement-237607-MER000487Y",
+      "score": 61.3,
+      "tier": "weak",
+      "required_coverage": 0.667,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "Grundkenntnisse in Englisch",
+        "Vorzugsweise abgeschlossene kaufmännische Berufsausbildung",
+        "Teamfähigkeit",
+        "Zuverlässigkeit"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Sekretariats--und-Organisationsmanagement-3.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Sekretariats--und-Organisationsmanagement-3.docx"
+    },
+    {
+      "title": "Werkstudent*in Schadenmanagement & Underwriting",
+      "company": "Mercedes-Benz Versicherung AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-schadenmanagement-underwriting-238185-MER00047UO",
+      "score": 61.2,
+      "tier": "weak",
+      "required_coverage": 0.333,
+      "preferred_coverage": 1.0,
+      "top_gaps": [
+        "Deutsch sehr gut",
+        "Englisch sehr gut",
+        "Analytische Fähigkeiten",
+        "Selbstmotivierte Arbeitsweise"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Schadenmanagement-Underwriting-3.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Schadenmanagement-Underwriting-3.docx"
+    },
+    {
+      "title": "Werkstudent*in Anlauffabrik – Weiterentwicklung Cubing",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-anlauffabrik-weiterentwicklung-cubing-237714-MER000488L",
+      "score": 60.5,
+      "tier": "weak",
+      "required_coverage": 0.6,
+      "preferred_coverage": 0.125,
+      "top_gaps": [
+        "Analytische Denkweise",
+        "strukturierte und strategische Arbeitsweise",
+        "Programmierkenntnisse",
+        "IT for Production"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Anlauffabrik-Weiterentwicklung-Cubing-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Anlauffabrik-Weiterentwicklung-Cubing-2.docx"
+    },
+    {
+      "title": "Werkstudent*in Strategic Retail Development im Customer Service",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-strategic-retail-development-im-customer-service-237411-MER000485X",
+      "score": 58.7,
+      "tier": "weak",
+      "required_coverage": 0.571,
+      "preferred_coverage": 0.25,
+      "top_gaps": [
+        "Deutschkenntnisse",
+        "Englischkenntnisse",
+        "Eingeschriebener Student",
+        "OneNote"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Strategic-Retail-Development-im-Customer-Service.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Strategic-Retail-Development-im-Customer-Service.docx"
+    },
+    {
+      "title": "Werkstudent*in Strategic Retail Development im Customer Service",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-strategic-retail-development-im-customer-service-237410-MER000485X",
+      "score": 56.2,
+      "tier": "weak",
+      "required_coverage": 0.5,
+      "preferred_coverage": 0.25,
+      "top_gaps": [
+        "Deutschkenntnisse",
+        "Englischkenntnisse",
+        "Microsoft PowerPoint",
+        "OneNote"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Strategic-Retail-Development-im-Customer-Service-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Strategic-Retail-Development-im-Customer-Service-2.docx"
+    },
+    {
+      "title": "Werkstudent*in Charging & HV-System",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-charging-hv-system-237370-MER0004849",
+      "score": 55.4,
+      "tier": "weak",
+      "required_coverage": 0.429,
+      "preferred_coverage": 0.375,
+      "top_gaps": [
+        "Informatik Studiengang",
+        "Ingenieurwissenschaften Studiengang",
+        "Deutschkenntnisse",
+        "Englischkenntnisse"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Charging-HV-System.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Charging-HV-System.docx"
+    },
+    {
+      "title": "Werkstudent*in Schadenmanagement & Underwriting",
+      "company": "Mercedes-Benz Versicherung AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-schadenmanagement-underwriting-238192-MER00047UO",
+      "score": 54.7,
+      "tier": "weak",
+      "required_coverage": 0.167,
+      "preferred_coverage": 1.0,
+      "top_gaps": [
+        "sehr gut Deutsch",
+        "sehr gut Englisch",
+        "gute Präsentationsfähigkeiten",
+        "analytische Fähigkeiten"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Schadenmanagement-Underwriting.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Schadenmanagement-Underwriting.docx"
+    },
+    {
+      "title": "Werkstudent*in Preissteuerung & Marketingprogramme Pkw",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-preissteuerung-marketingprogramme-pkw-237238-MER00047JK",
+      "score": 54.2,
+      "tier": "weak",
+      "required_coverage": 0.125,
+      "preferred_coverage": 1.0,
+      "top_gaps": [
+        "vergleichbarer Studiengang",
+        "Deutschkenntnisse",
+        "Englischkenntnisse",
+        "Teamfähigkeit"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Preissteuerung-Marketingprogramme-Pkw-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Preissteuerung-Marketingprogramme-Pkw-2.docx"
+    },
+    {
+      "title": "Werkstudent*in Planung Rohbau Werkskoordination Projekt xA",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-planung-rohbau-werkskoordination-projekt-xa-237668-MER000475F",
+      "score": 54.1,
+      "tier": "weak",
+      "required_coverage": 0.125,
+      "preferred_coverage": 1.0,
+      "top_gaps": [
+        "Studiengang im technischen",
+        "Studiengang im betriebswirtschaftlichen",
+        "Deutschkenntnisse in Wort",
+        "Englischkenntnisse in Wort"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Planung-Rohbau-Werkskoordination-Projekt-xA-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Planung-Rohbau-Werkskoordination-Projekt-xA-2.docx"
+    },
+    {
+      "title": "Werkstudent*in Charging & HV-System",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-charging-hv-system-237364-MER0004849",
+      "score": 50.7,
+      "tier": "weak",
+      "required_coverage": 0.286,
+      "preferred_coverage": 0.5,
+      "top_gaps": [
+        "Studiengang im Bereich Informatik",
+        "Studiengang im Bereich Ingenieurwissenschaften",
+        "Programmiererfahrungen in Go",
+        "Softwareentwicklungsmethoden"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Charging-HV-System-3.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Charging-HV-System-3.docx"
+    },
+    {
+      "title": "Werkstudent*in EE-Integration Gesamtfahrzeug",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-ee-integration-gesamtfahrzeug-237355-MER0004852",
+      "score": 48.0,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 1.0,
+      "top_gaps": [
+        "Studiengang Mechatronik",
+        "Studiengang Fahrzeugsysteme",
+        "Studiengang Fahrzeugtechnik",
+        "Studiengang Informatik"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-EE-Integration-Gesamtfahrzeug-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-EE-Integration-Gesamtfahrzeug-2.docx"
+    },
+    {
+      "title": "Werkstudent*in Korrosionsschutz Gesamtfahrzeug",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-korrosionsschutz-gesamtfahrzeug-237460-MER0004819",
+      "score": 48.0,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 1.0,
+      "top_gaps": [
+        "Chemieingenieurwesen",
+        "Werkstofftechnik",
+        "Maschinenbau",
+        "Sehr gute Deutschkenntnisse"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Korrosionsschutz-Gesamtfahrzeug-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Korrosionsschutz-Gesamtfahrzeug-2.docx"
+    },
+    {
+      "title": "Werkstudent*in Korrosionsschutz Gesamtfahrzeug",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-korrosionsschutz-gesamtfahrzeug-237459-MER0004819",
+      "score": 48.0,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 1.0,
+      "top_gaps": [
+        "Chemieingenieurwesen",
+        "Werkstofftechnik",
+        "Maschinenbau",
+        "Sehr gute Deutschkenntnisse"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Korrosionsschutz-Gesamtfahrzeug-3.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Korrosionsschutz-Gesamtfahrzeug-3.docx"
+    },
+    {
+      "title": "Werkstudent*in Schadenmanagement & Underwriting",
+      "company": "Mercedes-Benz Versicherung AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-schadenmanagement-underwriting-238190-MER00047UO",
+      "score": 47.9,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 1.0,
+      "top_gaps": [
+        "sehr gut Deutsch",
+        "sehr gut Englisch",
+        "gute Präsentationsfähigkeiten",
+        "eigenständige Arbeitsweise"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Schadenmanagement-Underwriting-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Schadenmanagement-Underwriting-2.docx"
+    },
+    {
+      "title": "Werkstudent*in Planung Rohbau Werkskoordination Projekt xA",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-planung-rohbau-werkskoordination-projekt-xa-237670-MER000475F",
+      "score": 47.8,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 1.0,
+      "top_gaps": [
+        "Studiengang im technischen",
+        "Studiengang im betriebswirtschaftlichen",
+        "Sichere Deutsch- und Englischkenntnisse",
+        "Engagement"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Planung-Rohbau-Werkskoordination-Projekt-xA.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Planung-Rohbau-Werkskoordination-Projekt-xA.docx"
+    },
+    {
+      "title": "Werkstudent*in Strategic Retail Development im Customer Service",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-strategic-retail-development-im-customer-service-237406-MER000485X",
+      "score": 44.9,
+      "tier": "poor",
+      "required_coverage": 0.333,
+      "preferred_coverage": 0.125,
+      "top_gaps": [
+        "Deutsch- und Englischkenntnisse",
+        "Studiengang Betriebswirtschaftslehre",
+        "Studiengang Wirtschaftsingenieurwesen",
+        "Studiengang Marketing"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Strategic-Retail-Development-im-Customer-Service-3.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Strategic-Retail-Development-im-Customer-Service-3.docx"
+    },
+    {
+      "title": "Werkstudent*in Sekretariats- und Organisationsmanagement",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-sekretariats--und-organisationsmanagement-237611-MER000487Y",
+      "score": 44.5,
+      "tier": "poor",
+      "required_coverage": 0.333,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "Deutschkenntnisse verhandlungssicher",
+        "Englisch Grundkenntnisse",
+        "kaufmännische Berufsausbildung",
+        "ausgeprägte Kommunikationsfähigkeit"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Sekretariats--und-Organisationsmanagement-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Sekretariats--und-Organisationsmanagement-2.docx"
+    },
+    {
+      "title": "Werkstudent*in Anlauffabrik – Weiterentwicklung Cubing",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-anlauffabrik-weiterentwicklung-cubing-237716-MER000488L",
+      "score": 42.0,
+      "tier": "poor",
+      "required_coverage": 0.167,
+      "preferred_coverage": 0.286,
+      "top_gaps": [
+        "Studiengang im Bereich",
+        "Deutsch- und Englischkenntnisse",
+        "Analytische Denkweise",
+        "strukturierte Arbeitsweise"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Anlauffabrik-Weiterentwicklung-Cubing.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Anlauffabrik-Weiterentwicklung-Cubing.docx"
+    },
+    {
+      "title": "Werkstudent*in Ladekommunikation & Softwareentwicklung",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-ladekommunikation-softwareentwicklung-237381-MER000486R",
+      "score": 40.5,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.625,
+      "top_gaps": [
+        "Gute Deutschkenntnisse",
+        "Gute Englischkenntnisse",
+        "Erste Programmiererfahrung",
+        "Ausgeprägte Teamfähigkeit"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Ladekommunikation-Softwareentwicklung-3.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Ladekommunikation-Softwareentwicklung-3.docx"
+    },
+    {
+      "title": "Werkstudent*in Ladekommunikation & Softwareentwicklung",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-ladekommunikation-softwareentwicklung-237382-MER000486R",
+      "score": 40.4,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.625,
+      "top_gaps": [
+        "gute Deutschkenntnisse",
+        "gute Englischkenntnisse",
+        "erste Programmiererfahrung",
+        "ausgeprägte Teamfähigkeit"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Ladekommunikation-Softwareentwicklung-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Ladekommunikation-Softwareentwicklung-2.docx"
+    },
+    {
+      "title": "Werkstudentent*in Qualitätsmanagement Research Development",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudentent-in-qualit-tsmanagement-research-development-238198-MER00047VS",
+      "score": 36.0,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.4,
+      "top_gaps": [
+        "Ingenieur- oder Wirtschaftswissenschaften",
+        "Deutsch C1",
+        "Englischkenntnisse",
+        "Datenanalyse"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudententin-Qualitätsmanagement-Research-Development.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudententin-Qualitätsmanagement-Research-Development.docx"
+    },
+    {
+      "title": "Werkstudentent*in Qualitätsmanagement Research Development",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudentent-in-qualit-tsmanagement-research-development-238195-MER00047VS",
+      "score": 33.7,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.286,
+      "top_gaps": [
+        "Ingenieur- oder Wirtschaftswissenschaften",
+        "Deutsch (C1)",
+        "Englischkenntnisse",
+        "Datenanalyse"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudententin-Qualitätsmanagement-Research-Development-3.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudententin-Qualitätsmanagement-Research-Development-3.docx"
+    },
+    {
+      "title": "Werkstudent*in Schwerpunkt Learning Technical Skills",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-schwerpunkt-learning-technical-skills-237582-MER0004882",
+      "score": 33.0,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.25,
+      "top_gaps": [
+        "Studiengang im Bereich",
+        "Deutsch- und Englischkenntnisse",
+        "Erfahrung im Erstellen",
+        "Strukturierte und selbstständige Arbeitsweise"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Schwerpunkt-Learning-Technical-Skills.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Schwerpunkt-Learning-Technical-Skills.docx"
+    },
+    {
+      "title": "Werkstudentent*in Qualitätsmanagement Research Development",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudentent-in-qualit-tsmanagement-research-development-238196-MER00047VS",
+      "score": 33.0,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.25,
+      "top_gaps": [
+        "Ingenieur- oder Wirtschaftswissenschaften",
+        "Deutsch C1",
+        "Englischkenntnisse",
+        "Datenanalyse"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudententin-Qualitätsmanagement-Research-Development-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudententin-Qualitätsmanagement-Research-Development-2.docx"
+    },
+    {
+      "title": "Werkstudent*in Marketing-Kommunikation Own Retail",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-marketing-kommunikation-own-retail-237181-MER000479T",
+      "score": 32.4,
+      "tier": "poor",
+      "required_coverage": 0.111,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "Studiengang Wirtschaftsingenieurwesen",
+        "Studiengang International Business",
+        "Studiengang Wirtschaftswissenschaften",
+        "Deutschkenntnisse sicher"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Marketing-Kommunikation-Own-Retail.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Marketing-Kommunikation-Own-Retail.docx"
+    },
+    {
+      "title": "Werkstudent für Android Entwicklung \"in car\" (m/w/d/x)",
+      "company": "Mercedes-Benz Tech Innovation GmbH",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-f-r-android-entwicklung-in-car-m-w-d-x--237757-J000237757",
+      "score": 31.3,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.167,
+      "top_gaps": [
+        "Deutschkenntnisse",
+        "Englischkenntnisse",
+        "vollständige Bewerbungsunterlagen",
+        "Android-Entwicklung"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudent-für-Android-Entwicklung-in-car.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudent-für-Android-Entwicklung-in-car.docx"
+    },
+    {
+      "title": "Werkstudent*in Schwerpunkt Learning Technical Skills",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-schwerpunkt-learning-technical-skills-237581-MER0004882",
+      "score": 30.9,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.143,
+      "top_gaps": [
+        "Studiengang im Bereich",
+        "Deutsch- und Englischkenntnisse",
+        "Erfahrung im Erstellen",
+        "KI-Tools"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Schwerpunkt-Learning-Technical-Skills-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Schwerpunkt-Learning-Technical-Skills-2.docx"
+    },
+    {
+      "title": "Werkstudent*in Schwerpunkt Learning Technical Skills",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-schwerpunkt-learning-technical-skills-237580-MER0004882",
+      "score": 30.9,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.143,
+      "top_gaps": [
+        "Deutsch- und Englischkenntnisse",
+        "Erfahrung im Erstellen",
+        "Studiengang im Bereich",
+        "Selbstständige Arbeitsweise"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Schwerpunkt-Learning-Technical-Skills-3.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Schwerpunkt-Learning-Technical-Skills-3.docx"
+    },
+    {
+      "title": "Werkstudent*in Ladekommunikation & Softwareentwicklung",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-ladekommunikation-softwareentwicklung-237383-MER000486R",
+      "score": 30.8,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.143,
+      "top_gaps": [
+        "gute Deutschkenntnisse",
+        "gute Englischkenntnisse",
+        "erste Programmiererfahrung",
+        "ausgeprägte Teamfähigkeit"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Ladekommunikation-Softwareentwicklung.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Ladekommunikation-Softwareentwicklung.docx"
+    },
+    {
+      "title": "Werkstudent*in Anlauffabrik – Weiterentwicklung Cubing",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-anlauffabrik-weiterentwicklung-cubing-237711-MER000488L",
+      "score": 30.4,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.125,
+      "top_gaps": [
+        "Ingenieurwesen",
+        "Wirtschaftsingenieurwesen",
+        "Maschinenbau",
+        "Informatik"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Anlauffabrik-Weiterentwicklung-Cubing-3.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Anlauffabrik-Weiterentwicklung-Cubing-3.docx"
+    },
+    {
+      "title": "Werkstudent*in Drive Systems Software & Calibration Engineering – Development Process Steering",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-drive-systems-software-calibration-engineering-development-process-steering-237812-MER00047SZ",
+      "score": 28.0,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "Studiengang Fahrzeugtechnik",
+        "Studiengang Elektrotechnik",
+        "Studiengang Informatik",
+        "Deutschkenntnisse sicher"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Drive-Systems-Software-Calibration-Engineering-Development-Process.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Drive-Systems-Software-Calibration-Engineering-Development-Process.docx"
+    },
+    {
+      "title": "Werkstudent*in Marketing-Kommunikation Own Retail",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-marketing-kommunikation-own-retail-237179-MER000479T",
+      "score": 28.0,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "Studiengang Betriebswirtschaftslehre",
+        "Studiengang Wirtschaftsingenieurwesen",
+        "Studiengang International Business",
+        "Studiengang Wirtschaftswissenschaften"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Marketing-Kommunikation-Own-Retail-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Marketing-Kommunikation-Own-Retail-2.docx"
+    },
+    {
+      "title": "Werkstudent*in Planung Rohbau Werkskoordination Projekt xA",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-planung-rohbau-werkskoordination-projekt-xa-237666-MER000475F",
+      "score": 28.0,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "technischer oder betriebswirtschaftlicher Bereich",
+        "Sichere Deutsch- und Englischkenntnisse",
+        "Engagement",
+        "Teamfähigkeit"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Planung-Rohbau-Werkskoordination-Projekt-xA-3.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Planung-Rohbau-Werkskoordination-Projekt-xA-3.docx"
+    },
+    {
+      "title": "Werkstudent*in Projektmanagement Logistics Engineering",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-projektmanagement-logistics-engineering-237269-MER0004841",
+      "score": 28.0,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "technischer Studiengang",
+        "Deutsch- und Englischkenntnisse",
+        "Erfahrung im Projektmanagement",
+        "Erfahrung in KI-Anwendungen"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Projektmanagement-Logistics-Engineering.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Projektmanagement-Logistics-Engineering.docx"
+    },
+    {
+      "title": "Werkstudent*in Projektmanagement Logistics Engineering",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-projektmanagement-logistics-engineering-237268-MER0004841",
+      "score": 28.0,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "Betriebswirtschaftlicher Studiengang",
+        "technischer Studiengang",
+        "Sichere Deutschkenntnisse",
+        "Sichere Englischkenntnisse"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Projektmanagement-Logistics-Engineering-2.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Projektmanagement-Logistics-Engineering-2.docx"
+    },
+    {
+      "title": "Werkstudent*in Projektmanagement Logistics Engineering",
+      "company": "Mercedes-Benz AG",
+      "job_url": "https://jobs.mercedes-benz.com/werkstudent-in-projektmanagement-logistics-engineering-237261-MER0004841",
+      "score": 27.8,
+      "tier": "poor",
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.0,
+      "top_gaps": [
+        "Betriebswirtschaftlicher oder technischer Studiengang",
+        "Deutsch- und Englischkenntnisse",
+        "Erfahrung im Projektmanagement",
+        "Erfahrung in KI-Anwendungen"
+      ],
+      "pdf": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\pdf\\Werkstudentin-Projektmanagement-Logistics-Engineering-3.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\resume_creation\\program_files\\output_v2\\resume\\docx\\Werkstudentin-Projektmanagement-Logistics-Engineering-3.docx"
+    }
+  ]
+}

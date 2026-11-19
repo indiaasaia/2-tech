@@ -1,0 +1,115 @@
+{
+  "generated_at_utc": "2026-10-14T10:40:15+00:00",
+  "engine": "v2",
+  "total_jobs": 1,
+  "results": [
+    {
+      "job_url": "https://jobs.smartrecruiters.com/BoschGroup/744000151829278-praktikum-fertigungsplanung-automatisierte-optische-prufung-?oga=true",
+      "title": "Praktikum – Fertigungsplanung – Automatisierte Optische Prüfung",
+      "company": "Robert Bosch GmbH",
+      "status": "verified",
+      "tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\tex\\Praktikum-Fertigungsplanung-Automatisierte-Optische-Prüfung.tex",
+      "pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Praktikum-Fertigungsplanung-Automatisierte-Optische-Prüfung.pdf",
+      "docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Praktikum-Fertigungsplanung-Automatisierte-Optische-Prüfung.docx",
+      "build_error": "",
+      "gates": {
+        "G1": true,
+        "G2": true,
+        "G3": true
+      },
+      "gate_findings_prebuild": [],
+      "gate_findings_postbuild": [],
+      "score": 32.9,
+      "score_breakdown": {
+        "required_coverage": 0.0,
+        "preferred_coverage": 5.0,
+        "parse_fidelity": 14.9,
+        "format_checks": 10.0,
+        "experience_relevance": 0.0,
+        "naturalness": 3.0
+      },
+      "required_coverage": 0.0,
+      "preferred_coverage": 0.25,
+      "gap_report": {
+        "missing_required": [
+          "Immatrikulation an einer Hochschule",
+          "Deutsch- und Englischkenntnisse",
+          "technische Grundkenntnisse"
+        ],
+        "missing_preferred": [
+          "analytisches Grundverständnis",
+          "eigenverantwortlich",
+          "teamfähig",
+          "selbstständig",
+          "belastbar",
+          "zuverlässig"
+        ],
+        "ineligible_criteria": [
+          "Studium im Bereich",
+          "MS Office"
+        ],
+        "language_gaps": [
+          "German very good required — candidate has A2"
+        ],
+        "languages_required": [
+          "English (very good)",
+          "German (very good)"
+        ],
+        "note": "Missing items are reported, never fabricated into the resume (V7 policy). Ineligible criteria are job eligibility rules (enrollment, hours, location) and soft traits — they cannot match a resume and are scored separately."
+      },
+      "llm_calls": 3,
+      "artifacts": {
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\pdf\\Praktikum-Fertigungsplanung-Automatisierte-Optische-Prüfung.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mixed\\resume_and_cover_letter\\program_files\\output_v2\\resume\\docx\\Praktikum-Fertigungsplanung-Automatisierte-Optische-Prüfung.docx"
+      },
+      "parse": {
+        "word_count": 529,
+        "name_extracted": true,
+        "email_extracted": true,
+        "phone_extracted": true,
+        "dates_found": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "apostrophe_dates": [],
+        "sections_found": [
+          "Career Objective",
+          "Experience",
+          "Education",
+          "Main Projects",
+          "Research and Publications",
+          "Achievements",
+          "Skills",
+          "Certifications",
+          "Additional Projects",
+          "Languages"
+        ],
+        "ligature_count": 0,
+        "reading_order_ok": true,
+        "page_count": 1
+      },
+      "tailoring": {
+        "applied": true,
+        "mirror_targets": [],
+        "dormant_added": {},
+        "desc_insertions": [
+          "experience:Python"
+        ],
+        "area_labels": {},
+        "project_repick": [
+          "hft",
+          "resume_gen"
+        ],
+        "gate_findings": [],
+        "rows_reordered": 1,
+        "skills_recased": 6,
+        "summary": "mirror=0 dormant_added=0 desc_insertions=1 labels=0 reorder=1 recased=6 repicked=True"
+      },
+      "file_stem": "Praktikum-Fertigungsplanung-Automatisierte-Optische-Prüfung"
+    }
+  ]
+}

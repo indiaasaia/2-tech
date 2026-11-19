@@ -1,0 +1,1618 @@
+{
+  "generated_at_utc": "2026-10-14T09:52:38+00:00",
+  "engine": "v2",
+  "total_jobs": 20,
+  "results": [
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/bosch-master-thesis-on-closed-loop-reasoning-in-llm-agents-00907833",
+      "title": "Master Thesis on Closed-Loop Reasoning in LLM Agents for Evaluating HEMS Parameter Effects Using Time-Series Foundation Models via MCP",
+      "company": "Bosch",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Master Thesis on Closed-Loop Reasoning in LLM Agents for Evaluating HEMS Parameter Effects Using Time-Series Foundation Models via MCP",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Bosch, as the focus on Python, AI connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles.",
+        "motivation": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations. I want to apply my documented experience in Python, AI, AI Agents directly to the responsibilities described.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Bosch\nRenningen, DE",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "workingstudentjobs",
+        "company_name": "Bosch",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-interest-ai-01"
+          ],
+          "motivation_evidence_ids": [
+            "resume_gen"
+          ],
+          "fit_evidence_ids": [
+            "pantechelearning",
+            "resume_gen"
+          ],
+          "owned_skills_matched": [
+            "Python",
+            "AI",
+            "AI Agents",
+            "Machine Learning"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "master studies",
+            "strong proficiency in Python",
+            "good understanding of AI",
+            "enrollment at university"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Bosch_Master-Thesis-on-Closed-Loop-Reasoning-i.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Bosch_Master-Thesis-on-Closed-Loop-Reasoning-i.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Bosch_Master-Thesis-on-Closed-Loop-Reasoning-i.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Bosch_Master-Thesis-on-Closed-Loop-Reasoning-i.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Master-Thesis-on-Closed-Loop-Reasoning-in-LLM-Agents-for-Evaluating-HEMS-Paramet.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Master-Thesis-on-Closed-Loop-Reasoning-in-LLM-Agents-for-Evaluating-HEMS-Paramet.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Bosch_Master-Thesis-on-Closed-Loop-Reasoning-i"
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Working-Student-AI-Automation-Procurement-m-f-d-Gilching-Bayern-Germany-Quantum-Systems-GmbH--14549160-inline.html",
+      "title": "Working Student - AI Automation, Procurement (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Working Student - AI Automation, Procurement (m/f/d)",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Quantum-Systems GmbH, as the focus on Python, AI connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles.",
+        "motivation": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations. I want to apply my documented experience in Python, AI, AI Agents directly to the responsibilities described.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Quantum-Systems GmbH\nGilching, Bayern, Germany",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "stepstone",
+        "company_name": "Quantum-Systems GmbH",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-interest-ai-01",
+            "mot-dir-web-ai-01",
+            "mot-pref-agile-01"
+          ],
+          "motivation_evidence_ids": [
+            "resume_gen",
+            "vehicle_sharing",
+            "soham"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "resume_gen"
+          ],
+          "owned_skills_matched": [
+            "Python",
+            "AI",
+            "AI Agents",
+            "REST APIs",
+            "Large Language Models"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "currently studying business informatics",
+            "strong interest generative AI",
+            "initial practical experience programming",
+            "communicate confidently in English"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Quantum-Systems-GmbH_Working-Student---AI-Automation-Procurem.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Quantum-Systems-GmbH_Working-Student---AI-Automation-Procurem.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Quantum-Systems-GmbH_Working-Student---AI-Automation-Procurem.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Quantum-Systems-GmbH_Working-Student---AI-Automation-Procurem.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student---AI-Automation-Procurement.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student---AI-Automation-Procurement.docx"
+      },
+      "upload_slot": "Anschreiben / Cover letter document slot",
+      "notes": "Upload the PDF in the Anschreiben slot during the online application.",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Quantum-Systems-GmbH_Working-Student---AI-Automation-Procurem"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/sixt-working-student-data-science-m-f-d-0f39b005",
+      "title": "Working Student Data Science (m/f/d)",
+      "company": "SIXT",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Working Student Data Science (m/f/d)",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at SIXT, as the focus on Python, AI connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles.",
+        "motivation": "I would bring my documented experience in Python, AI, HTML to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "SIXT\nMunich, DE",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "workingstudentjobs",
+        "company_name": "SIXT",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "resume_gen"
+          ],
+          "owned_skills_matched": [
+            "Python",
+            "AI",
+            "HTML",
+            "Streamlit"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "enrolled student",
+            "studying Computer Science",
+            "Python proficiency",
+            "pandas library",
+            "scikit-learn library",
+            "numpy library",
+            "data visualization tools",
+            "English fluency"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_SIXT_Working-Student-Data-Science.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_SIXT_Working-Student-Data-Science.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_SIXT_Working-Student-Data-Science.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_SIXT_Working-Student-Data-Science.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-Data-Science.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-Data-Science.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_SIXT_Working-Student-Data-Science"
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Working-Student-Intern-Offensive-Security-Engineer-Red-Team-AppSec-f-m-x-Cologne-iLert-GmbH--14431296-inline.html",
+      "title": "Working Student / Intern: Offensive Security Engineer (Red Team & AppSec) (f/m/x)",
+      "company": "iLert GmbH",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Working Student / Intern: Offensive Security Engineer (Red Team & AppSec) (f/m/x)",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at iLert GmbH, as the focus on Artificial Intelligence, AI connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles.",
+        "motivation": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations. I am particularly motivated by developing reusable UI components and modular design systems based on modern web standards. I want to apply my documented experience in Artificial Intelligence, AI, REST APIs directly to the responsibilities described.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "iLert GmbH\nCologne",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "stepstone",
+        "company_name": "iLert GmbH",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-interest-ai-01",
+            "mot-interest-frontend-01",
+            "mot-dir-web-ai-01"
+          ],
+          "motivation_evidence_ids": [
+            "resume_gen",
+            "vehicle_sharing"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "resume_gen"
+          ],
+          "owned_skills_matched": [
+            "Artificial Intelligence",
+            "AI",
+            "REST APIs"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_iLert-GmbH_Working-Student-Intern-Offensive-Securit.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_iLert-GmbH_Working-Student-Intern-Offensive-Securit.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_iLert-GmbH_Working-Student-Intern-Offensive-Securit.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_iLert-GmbH_Working-Student-Intern-Offensive-Securit.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-Intern-Offensive-Security-Engineer-Red-Team-AppSec.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-Intern-Offensive-Security-Engineer-Red-Team-AppSec.docx"
+      },
+      "upload_slot": "Anschreiben / Cover letter document slot",
+      "notes": "Upload the PDF in the Anschreiben slot during the online application.",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_iLert-GmbH_Working-Student-Intern-Offensive-Securit"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/sap-working-student-f-m-d-sap-signavio-product-excellence-266053e0",
+      "title": "Working Student (f/m/d) - SAP Signavio Product Excellence",
+      "company": "SAP",
+      "resume_status": "parked",
+      "letter": null,
+      "letter_gates": null,
+      "letter_gates_passed": false,
+      "artifacts": {
+        "letter_tex": "",
+        "letter_pdf": "",
+        "letter_docx": "",
+        "letter_txt": "",
+        "resume_pdf": "",
+        "resume_docx": ""
+      },
+      "upload_slot": "",
+      "notes": "",
+      "bundle_missing": [],
+      "artifacts_complete": false,
+      "letter_error": "resume not gated_ok (parked) — no letter attempted",
+      "llm_calls": 0
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/airbus-working-student-d-f-m-in-the-area-of-mass-properties-96595b89",
+      "title": "Working Student (d/f/m) in the area of Mass Properties",
+      "company": "Airbus",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Working Student (d/f/m) in the area of Mass Properties",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Airbus, as the focus on Python, AI connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles.",
+        "motivation": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations. I want to apply my documented experience in Python, AI, AI Agents directly to the responsibilities described.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Airbus\nManching, DE",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "workingstudentjobs",
+        "company_name": "Airbus",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-interest-ai-01",
+            "mot-dir-web-ai-01",
+            "mot-pref-agile-01"
+          ],
+          "motivation_evidence_ids": [
+            "resume_gen",
+            "vehicle_sharing",
+            "soham"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "resume_gen"
+          ],
+          "owned_skills_matched": [
+            "Python",
+            "AI",
+            "AI Agents",
+            "Git",
+            "SQL",
+            "Large Language Models"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "full-time student",
+            "enrolled student",
+            "Python programming",
+            "SQL databases",
+            "relational databases",
+            "software development",
+            "data processing",
+            "automation",
+            "software testing",
+            "object-oriented programming"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Airbus_Working-Student-in-the-area-of-Mass-Prop.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Airbus_Working-Student-in-the-area-of-Mass-Prop.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Airbus_Working-Student-in-the-area-of-Mass-Prop.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Airbus_Working-Student-in-the-area-of-Mass-Prop.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-in-the-area-of-Mass-Properties.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-in-the-area-of-Mass-Properties.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Airbus_Working-Student-in-the-area-of-Mass-Prop"
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Working-Student-Full-Stack-Development-Angular-Java-m-f-d-Munich-OKAPI-Orbits-GmbH--13883870-inline.html",
+      "title": "Working Student Full-Stack Development (Angular/Java) (m/f/d)",
+      "company": "OKAPI:Orbits GmbH",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Working Student Full-Stack Development (Angular/Java) (m/f/d)",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at OKAPI:Orbits GmbH, as the focus on Artificial Intelligence, JavaScript connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. Furthermore, I developed a full-stack vehicle-sharing application featuring route selection via the Dijkstra algorithm, real-time CRUD operations, and clean user-interface features.",
+        "motivation": "I would bring my documented experience in Artificial Intelligence, JavaScript, TypeScript to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "OKAPI:Orbits GmbH\nMunich",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "stepstone",
+        "company_name": "OKAPI:Orbits GmbH",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "vehicle_sharing"
+          ],
+          "owned_skills_matched": [
+            "Artificial Intelligence",
+            "JavaScript",
+            "TypeScript",
+            "REST APIs"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "CI CD processes",
+            "web frontends",
+            "backend components",
+            "high performance"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_OKAPIOrbits-GmbH_Working-Student-Full-Stack-Development-A.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_OKAPIOrbits-GmbH_Working-Student-Full-Stack-Development-A.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_OKAPIOrbits-GmbH_Working-Student-Full-Stack-Development-A.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_OKAPIOrbits-GmbH_Working-Student-Full-Stack-Development-A.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-Full-Stack-Development-AngularJava.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-Full-Stack-Development-AngularJava.docx"
+      },
+      "upload_slot": "Anschreiben / Cover letter document slot",
+      "notes": "Upload the PDF in the Anschreiben slot during the online application.",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_OKAPIOrbits-GmbH_Working-Student-Full-Stack-Development-A"
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Internship-f-m-x-in-Technology-Data-Innovation-2027-Berlin-Berlin-Deutsche-Bank-AG--14603749-inline.html",
+      "title": "Internship (f/m/x) in Technology, Data & Innovation 2027 - Berlin",
+      "company": "Deutsche Bank AG",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Internship (f/m/x) in Technology, Data & Innovation 2027 - Berlin",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Deutsche Bank AG. My academic background in Artificial Intelligence and Computer Engineering is the basis for my interest in the work described for this role.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. Furthermore, I developed a full-stack vehicle-sharing application featuring route selection via the Dijkstra algorithm, real-time CRUD operations, and clean user-interface features.",
+        "motivation": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations. I am particularly motivated by developing reusable UI components and modular design systems based on modern web standards. I want to apply my documented experience in Python, Machine Learning, Data Analytics directly to the responsibilities described.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Deutsche Bank AG\nBerlin",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "stepstone",
+        "company_name": "Deutsche Bank AG",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-dir-web-ai-01",
+            "mot-interest-ai-01",
+            "mot-interest-frontend-01"
+          ],
+          "motivation_evidence_ids": [
+            "vehicle_sharing",
+            "resume_gen"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "vehicle_sharing"
+          ],
+          "owned_skills_matched": [],
+          "development_targets": [],
+          "unsupported_requirements": [],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Deutsche-Bank-AG_Internship-in-Technology-Data-Innovation.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Deutsche-Bank-AG_Internship-in-Technology-Data-Innovation.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Deutsche-Bank-AG_Internship-in-Technology-Data-Innovation.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Deutsche-Bank-AG_Internship-in-Technology-Data-Innovation.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Internship-in-Technology-Data-Innovation-2027---Berlin.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Internship-in-Technology-Data-Innovation-2027---Berlin.docx"
+      },
+      "upload_slot": "Anschreiben / Cover letter document slot",
+      "notes": "Upload the PDF in the Anschreiben slot during the online application.",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Deutsche-Bank-AG_Internship-in-Technology-Data-Innovation"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/fraunhofer-iese-student-assistant-all-genders-data-space-ba652aca",
+      "title": "STUDENT ASSISTANT (all genders) - DATA SPACE INFRASTRUCTURE DEVELOPMENT",
+      "company": "Fraunhofer IESE",
+      "resume_status": "gated_ok",
+      "letter": null,
+      "letter_gates": null,
+      "letter_gates_passed": false,
+      "artifacts": {
+        "letter_tex": "",
+        "letter_pdf": "",
+        "letter_docx": "",
+        "letter_txt": "",
+        "resume_pdf": "",
+        "resume_docx": ""
+      },
+      "upload_slot": "",
+      "notes": "",
+      "bundle_missing": [],
+      "artifacts_complete": false,
+      "letter_error": "RuntimeError: letter gates failed: L2: company 'Fraunhofer IE SE' named in the letter but backed by neither the posting nor the KB",
+      "llm_calls": 0
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/qonto-backend-engineer-internship-6-months-8436e927",
+      "title": "Backend Engineer - Internship (6 months)",
+      "company": "Qonto",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Backend Engineer - Internship (6 months)",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Qonto, as the focus on AI, SQL connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation.",
+        "motivation": "I would bring my documented experience in AI, SQL to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Qonto\nBerlin, DE",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "workingstudentjobs",
+        "company_name": "Qonto",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [
+            "AI",
+            "SQL"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Curiosity",
+            "Openness to feedback",
+            "Coding basics",
+            "AI-native workflow",
+            "English"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Qonto_Backend-Engineer---Internship-6-months.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Qonto_Backend-Engineer---Internship-6-months.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Qonto_Backend-Engineer---Internship-6-months.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Qonto_Backend-Engineer---Internship-6-months.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Backend-Engineer---Internship-6-months.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Backend-Engineer---Internship-6-months.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Qonto_Backend-Engineer---Internship-6-months"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/proceedit-ai-market-analytics-app-full-stack-development-8cab49d3",
+      "title": "App Full-stack Development Intern",
+      "company": "proceedit | AI Market Analytics",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "App Full-stack Development Intern",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at proceedit | AI Market Analytics, as the focus on JavaScript, HTML connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. Furthermore, I developed a full-stack vehicle-sharing application featuring route selection via the Dijkstra algorithm, real-time CRUD operations, and clean user-interface features.",
+        "motivation": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations. I am particularly motivated by developing reusable UI components and modular design systems based on modern web standards. I want to apply my documented experience in JavaScript, HTML, CSS directly to the responsibilities described.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "proceedit | AI Market Analytics",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "workingstudentjobs",
+        "company_name": "proceedit | AI Market Analytics",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-pref-agile-01",
+            "mot-interest-ai-01",
+            "mot-interest-frontend-01"
+          ],
+          "motivation_evidence_ids": [
+            "soham",
+            "resume_gen",
+            "vehicle_sharing"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "vehicle_sharing"
+          ],
+          "owned_skills_matched": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Flutter"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "degree in Computer Science",
+            "degree in Software Engineering",
+            "basic knowledge of programming",
+            "experience in Figma",
+            "knowledge of Data Structures",
+            "strong communication abilities"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_proceedit-AI-Market-Analytics_App-Full-stack-Development-Intern.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_proceedit-AI-Market-Analytics_App-Full-stack-Development-Intern.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_proceedit-AI-Market-Analytics_App-Full-stack-Development-Intern.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_proceedit-AI-Market-Analytics_App-Full-stack-Development-Intern.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\App-Full-stack-Development-Intern.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\App-Full-stack-Development-Intern.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_proceedit-AI-Market-Analytics_App-Full-stack-Development-Intern"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/amazon-process-improvement-specialist-intern-2027-a3c2da19",
+      "title": "Process Improvement Specialist Intern - 2027",
+      "company": "Amazon",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Process Improvement Specialist Intern - 2027 - Reference: A10559025",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Amazon, as the focus on Python, AI connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation.",
+        "motivation": "I would bring my documented experience in Python, AI, SQL to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Amazon\nWerne an der Lippe, DE",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "A10559025",
+        "portal": "workingstudentjobs",
+        "company_name": "Amazon",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "posting",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [
+            "Python",
+            "AI",
+            "SQL"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "valid driving licence",
+            "fluent English C1",
+            "penultimate final year",
+            "university degree",
+            "advanced Microsoft Excel",
+            "eligible internship 3-6 months"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern---.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern---.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern---.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern---.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Process-Improvement-Specialist-Intern---2027.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Process-Improvement-Specialist-Intern---2027.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Amazon_Process-Improvement-Specialist-Intern---"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/amazon-process-improvement-specialist-intern-2027-43828660",
+      "title": "Process Improvement Specialist Intern - 2027",
+      "company": "Amazon",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Process Improvement Specialist Intern - 2027",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Amazon, as the focus on Python, AI connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles.",
+        "motivation": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations. I want to apply my documented experience in Python, AI, SQL directly to the responsibilities described.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Amazon\nMannheim, DE",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "workingstudentjobs",
+        "company_name": "Amazon",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-interest-ai-01",
+            "mot-dir-web-ai-01",
+            "mot-pref-agile-01"
+          ],
+          "motivation_evidence_ids": [
+            "resume_gen",
+            "vehicle_sharing",
+            "soham"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "resume_gen"
+          ],
+          "owned_skills_matched": [
+            "Python",
+            "AI",
+            "SQL",
+            "Data Analytics"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "C1 level or above",
+            "penultimate or final year",
+            "university degree",
+            "Microsoft Excel",
+            "full-time internship",
+            "3 to 6 months",
+            "Lean Six Sigma",
+            "Kaizen techniques",
+            "Spanish fluency",
+            "English fluency"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern----2.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern----2.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern----2.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern----2.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Process-Improvement-Specialist-Intern---2027-2.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Process-Improvement-Specialist-Intern---2027-2.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Amazon_Process-Improvement-Specialist-Intern----2"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/amazon-process-improvement-specialist-intern-2027-e81e98af",
+      "title": "Process Improvement Specialist Intern - 2027",
+      "company": "Amazon",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Process Improvement Specialist Intern - 2027",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Amazon, as the focus on Python, AI connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation.",
+        "motivation": "I would bring my documented experience in Python, AI, Git to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Amazon\nWerne, DE",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "workingstudentjobs",
+        "company_name": "Amazon",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [
+            "Python",
+            "AI",
+            "Git",
+            "SQL"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "valid driving licence",
+            "own transport",
+            "English C1 level",
+            "penultimate year",
+            "university degree",
+            "advanced Microsoft Excel",
+            "stakeholder communication",
+            "full-time internship",
+            "Lean Six Sigma",
+            "AI digital tools"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern----3.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern----3.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern----3.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern----3.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Process-Improvement-Specialist-Intern---2027-3.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Process-Improvement-Specialist-Intern---2027-3.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Amazon_Process-Improvement-Specialist-Intern----3"
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Internship-f-m-x-in-Technology-Data-Innovation-2027-Frankfurt-am-Main-Frankfurt-Main-Deutsche-Bank-AG--14603752-inline.html",
+      "title": "Internship (f/m/x) in Technology, Data & Innovation 2027 - Frankfurt am Main",
+      "company": "Deutsche Bank AG",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Internship (f/m/x) in Technology, Data & Innovation 2027 - Frankfurt am Main",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Deutsche Bank AG, as the focus on Agile Development connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. Furthermore, I developed a full-stack vehicle-sharing application featuring route selection via the Dijkstra algorithm, real-time CRUD operations, and clean user-interface features.",
+        "motivation": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations. I am particularly motivated by developing reusable UI components and modular design systems based on modern web standards. I want to apply my documented experience in Agile Development directly to the responsibilities described.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Deutsche Bank AG\nFrankfurt/Main",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "stepstone",
+        "company_name": "Deutsche Bank AG",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-interest-ai-01",
+            "mot-interest-frontend-01",
+            "mot-dir-web-ai-01"
+          ],
+          "motivation_evidence_ids": [
+            "resume_gen",
+            "vehicle_sharing"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "vehicle_sharing"
+          ],
+          "owned_skills_matched": [
+            "Agile Development"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "high level programming language",
+            "analysis",
+            "development",
+            "security"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Deutsche-Bank-AG_Internship-in-Technology-Data-Innovation-2.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Deutsche-Bank-AG_Internship-in-Technology-Data-Innovation-2.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Deutsche-Bank-AG_Internship-in-Technology-Data-Innovation-2.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Deutsche-Bank-AG_Internship-in-Technology-Data-Innovation-2.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Internship-in-Technology-Data-Innovation-2027---Frankfurt-am-Main.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Internship-in-Technology-Data-Innovation-2027---Frankfurt-am-Main.docx"
+      },
+      "upload_slot": "Anschreiben / Cover letter document slot",
+      "notes": "Upload the PDF in the Anschreiben slot during the online application.",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Deutsche-Bank-AG_Internship-in-Technology-Data-Innovation-2"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/amazon-process-improvement-specialist-intern-2027-ad22c69f",
+      "title": "Process Improvement Specialist Intern - 2027",
+      "company": "Amazon",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Process Improvement Specialist Intern - 2027",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Amazon, as the focus on Python, AI connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. Additionally, I built an end-to-end real-time market platform with data scraping, analysis, and filtering that combines quantitative and AI models for market actions.",
+        "motivation": "I would bring my documented experience in Python, AI, Git to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Amazon\nDortmund, DE",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "workingstudentjobs",
+        "company_name": "Amazon",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "hft"
+          ],
+          "owned_skills_matched": [
+            "Python",
+            "AI",
+            "Git",
+            "SQL",
+            "Data Analytics"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Fluent English C1",
+            "Penultimate or final year",
+            "Advanced level Microsoft Excel",
+            "Full-time internship 3-6 months",
+            "Lean Six Sigma Kaizen",
+            "Communicating with stakeholders"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern----4.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern----4.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern----4.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Amazon_Process-Improvement-Specialist-Intern----4.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Process-Improvement-Specialist-Intern---2027-4.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Process-Improvement-Specialist-Intern---2027-4.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Amazon_Process-Improvement-Specialist-Intern----4"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/linde-working-student-ai-digital-transformation-adoption-m-f-29d08735",
+      "title": "Working Student - AI / Digital Transformation & Adoption (m/f/d)",
+      "company": "Linde",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Working Student - AI / Digital Transformation & Adoption (m/f/d)",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Linde, as the focus on AI connects directly to my technical profile. My Master's studies in Artificial Intelligence and Bachelor's degree in Computer Engineering provide the foundation for this work.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. In addition, I developed an automated system built on structured datasets and open-source language models to tailor content across AI, backend, and data roles.",
+        "motivation": "I am driven by connecting software engineering with AI agents to automate structured code and text transformations. I would bring my documented experience in AI to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Linde\nPullach, DE",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "workingstudentjobs",
+        "company_name": "Linde",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [
+            "mot-interest-ai-01"
+          ],
+          "motivation_evidence_ids": [
+            "resume_gen"
+          ],
+          "fit_evidence_ids": [
+            "soham",
+            "resume_gen"
+          ],
+          "owned_skills_matched": [
+            "AI"
+          ],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "minimum of six months",
+            "student pursuing bachelor's",
+            "student pursuing master's",
+            "proficient in Microsoft 365",
+            "strong interest in AI",
+            "comfortable working in English"
+          ],
+          "motivation_source": "profile"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Linde_Working-Student---AI-Digital-Transformat.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Linde_Working-Student---AI-Digital-Transformat.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Linde_Working-Student---AI-Digital-Transformat.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Linde_Working-Student---AI-Digital-Transformat.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student---AI-Digital-Transformation-Adoption.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student---AI-Digital-Transformation-Adoption.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Linde_Working-Student---AI-Digital-Transformat"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/scalable-capital-working-student-it-support-m-f-x-556ab834",
+      "title": "Working Student IT-Support (m/f/x)",
+      "company": "Scalable Capital",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "en",
+        "subject": "Working Student IT-Support (m/f/x)",
+        "salutation": "Dear Hiring Team,",
+        "opening": "I am applying for the advertised position at Scalable Capital. My academic background in Artificial Intelligence and Computer Engineering is the basis for my interest in the work described for this role.",
+        "fit": "At Soham Infotech, I developed functions and quantitative models for financial decision-making and built backend components and real-time algorithms to support trading operations. During my Machine Learning Internship at Pantechelearning, I implemented models for text-to-speech applications and visual-activity analysis and worked on data extraction and preprocessing for model training and evaluation.",
+        "motivation": "I would bring my documented experience in Python, Machine Learning, Data Analytics to the responsibilities described in the posting. I am interested in applying skills already established in my academic and professional background while continuing to develop in the role's field.",
+        "closing": "I would welcome the opportunity to discuss how this background relates to the position. Thank you for considering my application.",
+        "signoff": "Kind regards",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Scalable Capital\nMunich, DE",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "workingstudentjobs",
+        "company_name": "Scalable Capital",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [],
+          "development_targets": [],
+          "unsupported_requirements": [
+            "Bachelor's degree",
+            "Master's degree",
+            "excellent English skills"
+          ],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Scalable-Capital_Working-Student-IT-Support-mfx.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Scalable-Capital_Working-Student-IT-Support-mfx.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Scalable-Capital_Working-Student-IT-Support-mfx.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Scalable-Capital_Working-Student-IT-Support-mfx.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Working-Student-IT-Support-mfx.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Working-Student-IT-Support-mfx.docx"
+      },
+      "upload_slot": "Cover letter / Anschreiben upload",
+      "notes": "PDF upload; if the form has a message field, paste the .txt version.",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Scalable-Capital_Working-Student-IT-Support-mfx"
+    },
+    {
+      "job_url": "https://www.workingstudentjobs.de/jobs/scalable-capital-working-student-information-security-risk-m-19a6bb28",
+      "title": "Working Student Information Security - Governance, Risk & Compliance (m/f/x)",
+      "company": "Scalable Capital",
+      "resume_status": "parked",
+      "letter": null,
+      "letter_gates": null,
+      "letter_gates_passed": false,
+      "artifacts": {
+        "letter_tex": "",
+        "letter_pdf": "",
+        "letter_docx": "",
+        "letter_txt": "",
+        "resume_pdf": "",
+        "resume_docx": ""
+      },
+      "upload_slot": "",
+      "notes": "",
+      "bundle_missing": [],
+      "artifacts_complete": false,
+      "letter_error": "resume not gated_ok (parked) — no letter attempted",
+      "llm_calls": 0
+    },
+    {
+      "job_url": "https://www.stepstone.de/jobs--Internship-m-f-x-in-Risk-2027-Berlin-Bonn-Duesseldorf-Essen-Frankfurt-Main-Hamburg-Stuttgart-Deutsche-Bank-AG--14603549-inline.html",
+      "title": "Internship (m/f/x) in Risk 2027",
+      "company": "Deutsche Bank AG",
+      "resume_status": "gated_ok",
+      "letter": {
+        "language": "de",
+        "subject": "Internship (m/f/x) in Risk 2027",
+        "salutation": "Sehr geehrte Damen und Herren,",
+        "opening": "Hiermit bewerbe ich mich um die ausgeschriebene Position bei Deutsche Bank AG. Mein Masterstudium der Künstlichen Intelligenz und mein Bachelorabschluss in Computer Engineering bilden den fachlichen Hintergrund für mein Interesse an den Aufgaben.",
+        "fit": "Bei Soham Infotech entwickelte ich Funktionen und quantitative Modelle für finanzielle Entscheidungsprozesse und baute Backend-Komponenten sowie Echtzeit-Algorithmen zur Unterstützung des Handels. Während meines Machine-Learning-Praktikums bei Pantechelearning implementierte ich Modelle für Text-to-Speech-Anwendungen und visuelle Aktivitätsanalyse und arbeitete an Datenextraktion und -vorverarbeitung für Training und Evaluation.",
+        "motivation": "Ich möchte meine belegten Kenntnisse in Python, Machine Learning, Data Analytics in die im Stellenprofil beschriebenen Aufgaben einbringen. Zugleich reizt mich die Möglichkeit, diese Erfahrungen in einem neuen fachlichen Umfeld weiterzuentwickeln.",
+        "closing": "Über die Gelegenheit, meine Bewerbung in einem Gespräch zu erläutern, freue ich mich. Vielen Dank für die Berücksichtigung meiner Unterlagen.",
+        "signoff": "Mit freundlichen Grüßen",
+        "name_print": "RAVAL MEETKUMAR RITESHKUMAR",
+        "sender": {
+          "name": "RAVAL MEETKUMAR",
+          "address": "Ernestinenstraße 21, 45141 Essen, Germany",
+          "contact": "+49 15565 468731 | ravalmeett@gmail.com",
+          "links": "https://www.linkedin.com/in/meetraval/ | https://github.com/ravalmeet | https://raval.vercel.app/"
+        },
+        "company_block": "Deutsche Bank AG\nBerlin, Bonn, Düsseldorf, Essen, Frankfurt/Main, Hamburg, Stuttgart",
+        "date_line": "Essen, 14.10.2026",
+        "reference": "",
+        "portal": "stepstone",
+        "company_name": "Deutsche Bank AG",
+        "meta": {
+          "contact_name_detected": "",
+          "gender_detected": "",
+          "reference_source": "",
+          "motivation_entry_ids": [],
+          "motivation_evidence_ids": [],
+          "fit_evidence_ids": [
+            "soham",
+            "pantechelearning"
+          ],
+          "owned_skills_matched": [],
+          "development_targets": [],
+          "unsupported_requirements": [],
+          "motivation_source": "fallback_no_overlap",
+          "motivation_fallback_reason": "no approved entry overlaps this posting's vocabulary — generic fallback, nothing inferred from the JD"
+        }
+      },
+      "letter_gates": {
+        "L1": {
+          "passed": true,
+          "findings": []
+        },
+        "L2": {
+          "passed": true,
+          "findings": []
+        },
+        "L3": {
+          "passed": true,
+          "findings": []
+        },
+        "L4": {
+          "passed": true,
+          "findings": []
+        }
+      },
+      "letter_gates_passed": true,
+      "artifacts": {
+        "letter_tex": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\tex\\Anschreiben_Deutsche-Bank-AG_Internship-mfx-in-Risk-2027.tex",
+        "letter_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\pdf\\Anschreiben_Deutsche-Bank-AG_Internship-mfx-in-Risk-2027.pdf",
+        "letter_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\docx\\Anschreiben_Deutsche-Bank-AG_Internship-mfx-in-Risk-2027.docx",
+        "letter_txt": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\letters\\textfield\\Anschreiben_Deutsche-Bank-AG_Internship-mfx-in-Risk-2027.txt",
+        "resume_pdf": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\pdf\\Internship-mfx-in-Risk-2027.pdf",
+        "resume_docx": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Regular\\program_files\\output_v2\\resume\\docx\\Internship-mfx-in-Risk-2027.docx"
+      },
+      "upload_slot": "Anschreiben / Cover letter document slot",
+      "notes": "Upload the PDF in the Anschreiben slot during the online application.",
+      "bundle_missing": [],
+      "artifacts_complete": true,
+      "letter_error": "",
+      "llm_calls": 0,
+      "file_stem": "Anschreiben_Deutsche-Bank-AG_Internship-mfx-in-Risk-2027"
+    }
+  ]
+}

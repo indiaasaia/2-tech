@@ -1,0 +1,39 @@
+{
+  "status": "FAILED",
+  "company": "Bosch",
+  "job_title": "werkstudent-im-bereich-materialfeldeinkauf-w-m-div",
+  "application_url": "https://jobs.smartrecruiters.com/BoschGroup/744000149341954-werkstudent-im-bereich-materialfeldeinkauf-w-m-div-?oga=true",
+  "timestamp": "2026-09-17T09:52:11.825300+00:00",
+  "resume_uploaded": false,
+  "email_filled": false,
+  "questions_completed": false,
+  "consent_completed": false,
+  "attachments_uploaded": [],
+  "submitted": false,
+  "confirmation_message": "",
+  "application_id": "",
+  "error": "ERROR: Resume upload did not complete within 90s or filename (Werkstudent-im-Bereich-Materialfeldeinkauf-wmdiv.pdf) never appeared in the UI. Not continuing.",
+  "dryRun": true,
+  "startedAt": "2026-09-17T09:52:11.825324+00:00",
+  "finishedAt": "2026-09-17T09:53:55.551100+00:00",
+  "stagesReached": [
+    "job_page",
+    "application_opened"
+  ],
+  "questionsAnswered": {},
+  "unknownQuestions": [],
+  "diagnostics": {
+    "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/BoschGroup/publication/f7ccea6a-43ce-4913-8176-1df0d32fd209?dcr_ci=BoschGroup",
+    "title": "Einfach Bewerben - Werkstudent im Bereich Materialfeldeinkauf (w/m/div.) - Rexroth",
+    "step": "",
+    "visibleErrors": [],
+    "domInfo": "[{\"tag\": \"button\", \"text\": \"Mit Indeed bewerben\", \"disabled\": false, \"type\": \"button\", \"dataQa\": \"\"}, {\"tag\": \"button\", \"text\": \"Apply with SEEK\", \"disabled\": false, \"type\": \"button\", \"dataQa\": \"\"}, {\"tag\": \"button\", \"text\": \"Profilbild hochladen\", \"disabled\": false, \"type\": \"button\", \"dataQa\": \"\"}, {\"tag\": \"a\", \"text\": \"Datenschutzerklärung\", \"disabled\": false, \"type\": \"\", \"dataQa\": \"\"}, {\"tag\": \"a\", \"text\": \"Impressum\", \"disabled\": false, \"type\": \"\", \"dataQa\": \"\"}, {\"tag\": \"button\", \"text\": \"Cookie-Einstellungen\", \"disabled\": false, \"type\": \"\", \"dataQa\": \"\"}]"
+  },
+  "screenshots": {
+    "01_job_page": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\bosch\\results\\bosch-744000149341954-01_job_page.png",
+    "02_application_opened": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\bosch\\results\\bosch-744000149341954-02_application_opened.png",
+    "error": "E:\\WorkSpace\\2 Tech\\BOSCH FETCHER\\bosch\\results\\bosch-744000149341954-error.png"
+  },
+  "notes": [],
+  "durationSeconds": 103.7
+}

@@ -1,0 +1,132 @@
+% core_resume_template_v3.tex - ATS resume, plan v3 (2026-10-17).
+%
+% Single column, standard section headers on their own line, no columns or
+% tables (Textkernel quality codes 151/433), <= 2 pages (German norm).
+% Font recipe validated on this repo's tectonic (2026-10-17 test): cfr-lm under
+% XeTeX dropped U+2014/U+2019 ("Software Engineer Soham Infotech", "Runners Up");
+% Pagella alone merged words in extraction ("efficientoffice"). Only Pagella +
+% Ligatures=NoCommon + \raggedright + \spaceskip 0.34em extracts cleanly.
+% Every token is pre-rendered by templates/render.py (fill.py never escapes).
+\documentclass[a4paper,10pt]{article}
+
+\usepackage[left=1.5cm,right=1.5cm,top=1.2cm,bottom=1.2cm]{geometry}
+\usepackage{fontspec}
+\setmainfont{texgyrepagella}[Ligatures=NoCommon, Extension=.otf, UprightFont=*-regular, BoldFont=*-bold, ItalicFont=*-italic, BoldItalicFont=*-bolditalic]
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+\hypersetup{pdftitle={Meetkumar Riteshkumar Raval - CV}, pdfauthor={Meetkumar Riteshkumar Raval}}
+
+\pagestyle{empty}
+\raggedright
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\spaceskip}{0.34em plus 0.08em minus 0.02em}
+\setlength{\xspaceskip}{0.34em plus 0.08em minus 0.02em}
+
+\setlist[itemize]{leftmargin=1.2em,nosep,topsep=1pt,itemsep=1pt,parsep=0pt}
+\titleformat{\section}{\large\bfseries}{}{0pt}{}[\vspace{-5pt}\rule{\textwidth}{0.5pt}]
+\titlespacing*{\section}{0pt}{8pt}{4pt}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE\bfseries Meetkumar Riteshkumar Raval}\par\vspace{3pt}
+  {\large Werkstudent*in IT \& RPA/Automation im KI-Umfeld | MSc Artificial Intelligence}\par\vspace{3pt}
+  {\small Cottbus, Germany | +49 15567018163 | \href{mailto:ravalmeett@gmail.com}{ravalmeett@gmail.com} | \href{https://www.linkedin.com/in/meetraval/}{linkedin.com/in/meetraval} | \href{https://github.com/ravalmeet}{github.com/ravalmeet} | \href{https://raval.vercel.app/}{raval.vercel.app}}\par\vspace{2pt}
+  {\small Available immediately | 20 h/week during lecture periods, up to 40 h/week in semester breaks or internships | Student residence permit valid until December 2028 - eligible for working-student jobs and internships in Germany}\par
+\end{center}
+
+\section*{Profile}
+MSc Artificial Intelligence student at BTU Cottbus-Senftenberg and former Software Engineer with hands-on work in Python, Automation, AI and Software Engineering. Role-relevant skills: RPA and KI.\par
+
+\section*{Technical Skills}
+\begin{itemize}
+\item \textbf{Programming Languages:} Python, C++, JavaScript, TypeScript, HTML
+\item \textbf{AI \& Machine Learning:} Künstliche Intelligenz (KI), Artificial Intelligence (AI), Computer Vision, Deep Learning, Reinforcement Learning, Machine Learning (ML)
+\item \textbf{Data \& Analytics:} Data Analytics, MongoDB
+\item \textbf{Software, Cloud \& DevOps:} RPA, Automation, Software Engineering, Automated Workflows, React, NodeJS, FastAPI, Django
+\item \textbf{Tools \& Methods:} Git, Agile Development, Code Transformation
+\end{itemize}
+
+\section*{Work Experience}
+\textbf{Software Engineer} | Soham Infotech | Gujarat, India \hfill Dec 2023 - Jan 2025\par
+\begin{itemize}
+\item Developed Python functions, modular API endpoints, and quantitative models that increased profitability in financial decision-making.
+\item Designed and implemented Automation pipelines for data transformation, backend components, and real-time algorithms supporting trading operations with AI.
+\item Collaborated in an agile team, applying Software Engineering best practices and Git to deliver high-reliability systems.
+\item Focused on AI black-box and gray-box models, surpassing benchmark marks through advanced modeling techniques.
+\item \textbf{Key skills:} Python, Automation, Artificial Intelligence (AI), Software Engineering, Automated Workflows, Reinforcement Learning, Deep Learning, Quantitative Modeling, Mathematics, SQL
+\end{itemize}
+\vspace{3pt}
+\textbf{Machine Learning Intern} | Pantechelearning | Chennai, India \hfill Dec 2021 - Feb 2022\par
+\begin{itemize}
+\item Implemented Python machine learning models for text-to-speech applications and high-functional visual-activity analysis.
+\item Developed Automation pipelines for data extraction and preprocessing, ensuring accurate model training and evaluation.
+\item \textbf{Key skills:} Python, Automation, Artificial Intelligence (AI), Machine Learning (ML), Deep Learning, Natural Language Processing (NLP), Computer Vision, Data Preprocessing, Reinforcement Learning
+\end{itemize}
+\vspace{3pt}
+
+\section*{Projects}
+\textbf{Automated Resume Generation} | \href{https://job-automation-raval.streamlit.app/}{job-automation-raval.streamlit.app}\par
+\begin{itemize}
+\item Developed Python automation pipeline that transformed code and text into structured documents using large language models.
+\item Implemented software engineering best practices to orchestrate automated workflows and prompt engineering for role-specific categorization.
+\item \textbf{Tech:} Python, Automation, Software Engineering, Automated Workflows, Streamlit, Natural Language Processing (NLP), Large Language Models (LLMs), Transformers, Data Analytics, AI Agents
+\end{itemize}
+\vspace{3pt}
+\textbf{High Frequency Trading Platform}\par
+\begin{itemize}
+\item Developed end-to-end Python system for real-time data scraping, analysis, and filtering of market feeds.
+\item Integrated AI models with Python pipeline to execute market actions and handle unexpected events in real time.
+\item \textbf{Tech:} Python, Artificial Intelligence (AI), Mathematics, Quantitative Modeling, Django, Data Analytics, Machine Learning (ML), Deep Learning, Real-Time Systems, Data Scraping
+\end{itemize}
+\vspace{3pt}
+
+\section*{Education}
+\textbf{MSc Artificial Intelligence} \hfill Apr 2025 - Oct 2027 (expected)\par
+Brandenburg University of Technology Cottbus-Senftenberg (BTU) | Germany\par
+Faculty 1 - Mathematics, Computer Science, Physics, Electrical Engineering and Information Technology\par
+Focus areas: Core AI Fundamentals, Mathematics, Problem Solving, Critical Thinking\par
+\vspace{3pt}
+\textbf{BE Computer Engineering} \hfill Jun 2020 - May 2024\par
+Gujarat Technological University | India\par
+\vspace{3pt}
+
+\section*{Research}
+\begin{itemize}
+\item \textbf{An Empirical Study on Large Language Models for Sarcasm Detection in Low-resourced Indic Languages}\\ Conducting research on NLP models aimed at detecting and analyzing sarcasm across various Indian regional dialects.
+\end{itemize}
+
+\section*{Achievements}
+\begin{itemize}
+\item Smart India Hackathon - 2021: Runner's Up - State Level
+\item Smart India Hackathon - 2022: Runner's Up - National Level
+\item Azadi ka Amrit Mahotsav - 2023: Runner's Up - State Level
+\item AI Guild Hackathon - 2025: Winner - Berlin and Brandenburg State, Germany
+\end{itemize}
+
+\section*{Certifications}
+\begin{itemize}
+\item Google - Big Data and Machine Learning
+\item Google - Machine Learning with TensorFlow
+\item How Google does Machine Learning
+\item Google - Machine Learning
+\item Machine Learning with Python
+\item Data Science Introduction
+\item Tools for Data Science
+\item Problem Solving (Intermediate) - HackerRank
+\item Java Programming: Complete Beginner to Advanced - Udemy
+\item Web Development Masterclass Course - Udemy
+\end{itemize}
+
+\section*{Additional Projects}
+\begin{itemize}
+\item TradingView-Data Fetch: Individual project; open source on GitHub with 40+ stars and 24+ forks | \href{https://github.com/ravalmeet/TradingView}{github.com/ravalmeet/TradingView}
+\item Freelance web projects delivered for clients: Nirvana Food Management, Select-Your-Tutor, Shivshivay Himalaya (Shivshivay.com)
+\end{itemize}
+
+\section*{Languages}
+English - Fluent (C2) | German - Basic (A2), currently learning | Hindi - Native | Gujarati - Native\par
+
+\end{document}

@@ -1,0 +1,27 @@
+{
+  "requisitionId": "R0006913",
+  "jobUrl": "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/MBTI_JOBPORTAL/job/Ulm/Werkstudent-im-Bereich-Testbenches-und-Telematikentwicklung--m-w-d-x-_R0006913",
+  "resume": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume_mercedes\\pdf\\Werkstudent-im-Bereich-Testbenches-und-Telematikentwicklung.pdf",
+  "status": "NEEDS_ATTENTION",
+  "dryRun": true,
+  "startedAt": "2026-10-15T11:20:58.498386+00:00",
+  "finishedAt": "2026-10-15T11:21:03.894253+00:00",
+  "stagesReached": [],
+  "fields": {
+    "changed": {},
+    "verified": {},
+    "problems": []
+  },
+  "successIndicators": {},
+  "errors": [
+    {
+      "type": "automation",
+      "message": "ERROR: Requisition R0006913 not found in the MBTI job portal search list."
+    }
+  ],
+  "screenshots": {
+    "error-needs_attention": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\mercedes\\results\\R0006913-error-needs_attention.png"
+  },
+  "notes": [],
+  "durationSeconds": 5.4
+}

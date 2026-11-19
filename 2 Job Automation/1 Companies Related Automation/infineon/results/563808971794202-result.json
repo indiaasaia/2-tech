@@ -1,0 +1,48 @@
+{
+ "status": "SUCCESS",
+ "job_id": "563808971794202",
+ "job_url": "https://jobs.infineon.com/careers/apply?pid=563808971794202",
+ "resume": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\resume_creation\\program_files\\output_v2\\resume_infineon\\pdf\\Working-Student---Foundry-Supplier-Market-Intelligence-Data-Management-fmdiv.pdf",
+ "mode": "submit",
+ "timestamp": "2026-09-22T19:35:44+00:00",
+ "screenshots": {
+  "01-application-loaded": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\infineon\\results\\01-application-loaded-563808971794202.png",
+  "02-resume-uploaded": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\infineon\\results\\02-resume-uploaded-563808971794202.png",
+  "03-resume-processing-complete": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\infineon\\results\\03-resume-processing-complete-563808971794202.png",
+  "04-contact-information": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\infineon\\results\\04-contact-information-563808971794202.png",
+  "05-additional-information": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\infineon\\results\\05-additional-information-563808971794202.png",
+  "06-germany-specific-information": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\infineon\\results\\06-germany-specific-information-563808971794202.png",
+  "07-before-submit": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\infineon\\results\\07-before-submit-563808971794202.png",
+  "08-after-submit": "E:\\WorkSpace\\2 Tech\\2 Job Automation\\Companies Related Automation\\infineon\\results\\08-after-submit-563808971794202.png"
+ },
+ "contact_information": {
+  "first_name": "Raval",
+  "last_name": "Riteshkumar",
+  "email": "ravalmeett@gmail.com",
+  "phone": "15565468731",
+  "phone_country_code": "🇩🇪 (+49) Germany"
+ },
+ "errors": [],
+ "confirmation": "Thank you",
+ "cookie_banner": true,
+ "resume_confirm_clicked": true,
+ "resume_processing": {
+  "chip_seen": true,
+  "autofill_window_waited": true
+ },
+ "popup": "not-present",
+ "location": {
+  "field_found": true,
+  "value": "Munich",
+  "status": "preselected-aria"
+ },
+ "additional_information": {
+  "^gender\\b": "Male",
+  "country\\s+of\\s+residence": "Germany",
+  "language\\s+of\\s+application": "English"
+ },
+ "start_date": "01 Oct 2026",
+ "disability": "No selection",
+ "validation_errors": [],
+ "submit_button_found": true
+}
